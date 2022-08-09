@@ -125,3 +125,6 @@
 	- [Tertullian's Evidence vs. Epiphanius](https://sites.google.com/site/inglisonmarcion/home/marcion/summary/tertullians-evidence-vs-epiphanius)
 96. [Manichaeism](https://en.wikipedia.org/wiki/Manichaeism)
 97. [Satanic Panic](https://en.wikipedia.org/wiki/Satanic_panic)
+98. [Apophenia](https://en.wikipedia.org/wiki/Apophenia)
+99. [Anthropic_principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+100. [Anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism)

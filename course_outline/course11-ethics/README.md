@@ -5,6 +5,7 @@
 3. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
 4. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
 5. [Online Guide to moral and Political Philosophy](http://caae.phil.cmu.edu/Cavalier/80130/index.html)
+6. [Thought_experiments_in_ethics](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_ethics)
 
 ## Concepts
 
@@ -52,7 +53,7 @@
 42. [Moral Sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/)
 43. [Adam Smiths Moral Philosophy](https://plato.stanford.edu/entries/smith-moral-political/)
 44. [Theory of Moral Sentiments](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
-45. [Ethical Dilemnas](https://en.wikipedia.org/wiki/Ethical_dilemma)
+45. [Ethical Dilemnas](https://en.wikipedia.org/wiki/Ethical_dilemma) and [Moral Dilemmas](https://plato.stanford.edu/entries/moral-dilemmas/)
 46. [Principlism](https://en.wikipedia.org/wiki/Principlism)
 47. [Casuistry](https://en.wikipedia.org/wiki/Casuistry)
 48. [Chinese Ethics](https://plato.stanford.edu/entries/ethics-chinese/)
