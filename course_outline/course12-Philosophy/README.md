@@ -241,6 +241,14 @@
 156. [Contextualism](https://en.wikipedia.org/wiki/Contextualism)
 157. [Problem_of_the_criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
 158. [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+159. [Moravecs Paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+160. [Mental Causation](https://plato.stanford.edu/entries/mental-causation/)
+161. [The pairing problem](https://www3.nd.edu/~jspeaks/courses/2006-7/20208/against-dualism.html)
+162. [Qualia: Knowledge Argument against Physicalism](https://plato.stanford.edu/entries/qualia-knowledge/)
+163. [Prototype Theory](https://en.wikipedia.org/wiki/Prototype_theory)
+164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
+165. [Historical](https://en.wikipedia.org/wiki/Historical_materialism) and [Dialectical](https://en.wikipedia.org/wiki/Dialectical_materialism) Materialism
+	- [Base and Superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -506,3 +514,5 @@
 36. [Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 37. [Christopher Hitchcock](https://philpeople.org/profiles/christopher-hitchcock) [research](https://scholar.google.com/citations?user=YSCfVlkAAAAJ&hl=en)
 38. [Bas_van_Fraassen](https://en.wikipedia.org/wiki/Bas_van_Fraassen)
+39. [Kevin Scharp](http://kevinscharp.com/)
+40. [George Santayana](https://en.wikipedia.org/wiki/George_Santayana)

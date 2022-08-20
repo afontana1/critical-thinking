@@ -128,3 +128,6 @@
 98. [Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 99. [Anthropic_principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 100. [Anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism)
+101. [Hyperactive Agent Detection](https://en.wikipedia.org/wiki/Agent_detection)
+102. [Religion Explained: The Evolutionary Origins of Religious Thought](https://en.wikipedia.org/wiki/Religion_Explained)
+103. [Jungian_interpretation_of_religion](https://en.wikipedia.org/wiki/Jungian_interpretation_of_religion)

@@ -101,7 +101,13 @@
 75. [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 76. [Value System](https://en.wikipedia.org/wiki/Value_(ethics_and_social_sciences)#Value_system)
 77. [Axiology](https://en.wikipedia.org/wiki/Category:Axiology)
-88. [Veneer Theory](https://en.wikipedia.org/wiki/Veneer_theory)
+78. [Veneer Theory](https://en.wikipedia.org/wiki/Veneer_theory)
+79. [Santayana on Ethics](https://plato.stanford.edu/entries/santayana/#EthiPoliSpirLife)
+80. Russells [Moral](https://plato.stanford.edu/entries/russell-moral/) and [Ethical](https://iep.utm.edu/russ-eth/) philosophy
+81. [Egocentrism](https://en.wikipedia.org/wiki/Egocentrism)
+82. [Arthur Schopenhauer Ethics](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#Ethics)
+	- [On the Basis of Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
+	- [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism)
 
 ## People
 
