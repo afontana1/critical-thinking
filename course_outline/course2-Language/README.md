@@ -22,3 +22,6 @@
 20. [Persuasion Techniques](https://en.wikipedia.org/wiki/Category:Persuasion_techniques)
 21. [Ambiguity](https://en.wikipedia.org/wiki/Category:Ambiguity)
 22. [Aphorism](https://en.wikipedia.org/wiki/Aphorism)
+23. [Literary Genres](https://en.wikipedia.org/wiki/Category:Literary_genres)
+24. [Narratology](https://en.wikipedia.org/wiki/Category:Narratology)
+25. [Story Telling](https://en.wikipedia.org/wiki/Category:Storytelling)

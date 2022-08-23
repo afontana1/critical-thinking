@@ -108,6 +108,7 @@
 82. [Arthur Schopenhauer Ethics](https://en.wikipedia.org/wiki/Arthur_Schopenhauer#Ethics)
 	- [On the Basis of Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
 	- [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism)
+83. [Value Theory](https://en.wikipedia.org/wiki/Value_theory)
 
 ## People
 

@@ -129,7 +129,7 @@
 53. [Idealism](https://en.wikipedia.org/wiki/Category:Idealism)
 54. [Tropes](https://plato.stanford.edu/entries/tropes/)
 55. [Particulars](https://en.wikipedia.org/wiki/Particular)
-56. [Objects](https://plato.stanford.edu/entries/object/)
+56. [Objects](https://plato.stanford.edu/entries/object/): [Category of Objects](https://en.wikipedia.org/wiki/Category:Objects) and [Fictional Entities](https://plato.stanford.edu/entries/fictional-entities/)
 57. [Substance](https://plato.stanford.edu/entries/substance/)
 58. [Categories](https://plato.stanford.edu/entries/categories/)
 59. [Essential vs Accidental](https://plato.stanford.edu/entries/essential-accidental/)
@@ -249,6 +249,9 @@
 164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
 165. [Historical](https://en.wikipedia.org/wiki/Historical_materialism) and [Dialectical](https://en.wikipedia.org/wiki/Dialectical_materialism) Materialism
 	- [Base and Superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure)
+166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
+167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
+168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -439,6 +442,7 @@
 25. [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 26. [Herbert Spencer](https://en.wikipedia.org/wiki/Herbert_Spencer)
 27. [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
+28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
 
 ### [19th-20th Century](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century)
 

@@ -162,4 +162,4 @@
 51. [John W Loftus](https://en.wikipedia.org/wiki/John_W._Loftus)
 52. [Sigmund_Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
 53. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
-54. [Arthur Schopenhauer](https://plato.stanford.edu/entries/schopenhauer/)
+54. [Paul Draper](https://en.wikipedia.org/wiki/Paul_Draper_(philosopher))

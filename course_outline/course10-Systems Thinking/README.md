@@ -18,3 +18,5 @@
 14. [Ideology](https://en.wikipedia.org/wiki/Ideology)
 15. [Mindset](https://en.wikipedia.org/wiki/Mindset)
 16. [Reality Tunnel](https://en.wikipedia.org/wiki/Reality_tunnel)
+17. [Concept Map](https://en.wikipedia.org/wiki/Concept_map)
+18. [Knowledge Representation](https://en.wikipedia.org/wiki/Category:Knowledge_representation)
