@@ -88,7 +88,6 @@
 67. [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism)
 68. [Atheism_during_the_Age_of_Enlightenment](https://en.wikipedia.org/wiki/Atheism_during_the_Age_of_Enlightenment)
 69. [Criticism of Christianity](https://en.wikipedia.org/wiki/Category:Criticism_of_Christianity)
-	* [Books](https://en.wikipedia.org/wiki/Category:Books_critical_of_Christianity) [Critical of Christianity](https://en.wikipedia.org/wiki/Bibliography_of_books_critical_of_Christianity)
 70. [Anti Clericalism](https://en.wikipedia.org/wiki/Anti-clericalism)
 71. [Rigveda](https://en.wikipedia.org/wiki/Rigveda)
 72. [Kants Philosophy of Religion](https://plato.stanford.edu/entries/kant-religion/)

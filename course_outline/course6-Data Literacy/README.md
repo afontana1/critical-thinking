@@ -15,3 +15,5 @@
 9. [Randomized Control Trials](https://mladenjovanovic.github.io/bmbstats-book/rct-analysis-and-prediction-in-bmbstats.html)
 10. [Observational Studies: Cohort and Case-Control Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998589/)
 11. [Hypothesis testing, type I and type II errors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996198/)
+12. [Cherry Picking](https://en.wikipedia.org/wiki/Cherry_picking)
+13. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)

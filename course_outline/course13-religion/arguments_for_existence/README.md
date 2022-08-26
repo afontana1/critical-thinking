@@ -82,6 +82,9 @@
 26. [Transcendental Argument for God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
 
 27. [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)) and [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism)
+	- [Discussion](https://philosophy.stackexchange.com/questions/31401/what-are-the-problems-with-plantingas-evolutionary-argument-against-naturalism)
+	- [Critical Appraisal](https://www.jstor.org/stable/27749994)
+	- [Does it Work?](https://www.cambridge.org/core/journals/religious-studies/article/abs/does-plantingas-evolutionary-argument-against-naturalism-work/E38C04BC3D418AF634B2830797639E08)
 
 28. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
@@ -165,6 +168,20 @@
 	* [Discussion](https://www.reddit.com/r/DebateAnAtheist/comments/avkc7b/can_anyone_point_out_the_flaws_in_fesers/)
 	* [Flawed Logic of Feser](http://theskepticalzone.com/wp/flawed-logic-and-bad-mereology-why-fesers-first-two-proofs-fail/)
 	* [Defense](http://edwardfeser.blogspot.com/2021/07/schmid-on-aristotelian-proof.html)
+	* [Graham Oppy vs. Ed Feser](https://www.youtube.com/watch?v=XoVDutpB4Cw)
+	* [Are There Any Good Arguments for God? Ed Feser vs Graham Oppy](https://www.youtube.com/watch?v=m-80lQOlNOs)
+	* [Stage One of the Aristotelian Proof: Critical Appraisal](https://philpapers.org/archive/SCHSOO-8.pdf)
+	* [On Stage One of Fesers "Aristotelian Proof"](https://www.researchgate.net/publication/336900890_On_stage_one_of_Feser's_'Aristotelian_proof')
+	* [Harrison Jennings on Act and Potency](https://realatheology.wordpress.com/2019/07/04/harrison-jennings-on-act-and-potency-pt-1/)
+	* [Feser on Schmid on the Aristotelian Proof](https://majestyofreason.wordpress.com/2021/07/04/feser-on-schmid-on-the-aristotelian-proof/)
+	* Majesty of Reason Critiques:
+		- [Part 1](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-introduction-part-1/)
+		- [Part 2](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-formalization-part-2/)
+		- [Part 3](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-externalism-contra-act-and-potency-part-3/)
+		- [Part 4](https://majestyofreason.wordpress.com/2019/10/04/an-appraisal-of-aquinas-first-way-quantum-mechanics-contra-the-causal-principle-part-4/)
+		- [Part 5](https://majestyofreason.wordpress.com/2019/10/05/an-appraisal-of-aquinas-first-way-metaphysical-bootstrapping-part-5/)
+		- [Part 6](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-on-infinity-part-6/)
+		- [Part 7](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-quantifier-shifts-and-the-gap-problem-part-7/)
 
 45. [Arguments from DNA](https://www.biola.edu/blogs/biola-magazine/2010/can-dna-prove-the-existence-of-an-intelligent-desi) and [Critiques](https://www.youtube.com/watch?v=eJCmerK0DjQ)
 	* [Origin of the Genetic Code: What we do and do not know](https://www.youtube.com/watch?v=8T3bN2k28_E)

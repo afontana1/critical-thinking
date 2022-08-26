@@ -9,3 +9,4 @@
 6. [MAGIC Criteria](https://en.wikipedia.org/wiki/MAGIC_criteria)
 7. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
 8. [INUS Conditions](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes)
+9. [Post Hoc Ergo Property Hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)
