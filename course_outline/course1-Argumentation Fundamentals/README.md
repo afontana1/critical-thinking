@@ -64,7 +64,7 @@
 11. [Defeasible Reasoning](https://plato.stanford.edu/entries/reasoning-defeasible/)
 12. [Possibility](https://en.wikipedia.org/wiki/Category:Possibility)
 13. [Arguments from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-14. [Assumption](https://en.wikipedia.org/wiki/Category:Assumption_(reasoning))
+14. [First Principle](https://en.wikipedia.org/wiki/First_principle)
 15. [Presumption](https://en.wikipedia.org/wiki/Presumption)
 16. [Inductive Reasoning](https://en.wikipedia.org/wiki/Category:Inductive_reasoning)
 17. [Refutation](https://en.wikipedia.org/wiki/Objection_(argument))
@@ -80,6 +80,17 @@
 27. [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
 28. [Facts](https://en.wikipedia.org/wiki/Fact) and [Factoid](https://en.wikipedia.org/wiki/Factoid)
 29. [Presupposition](https://en.wikipedia.org/wiki/Presupposition)
+30. [Tacit Assumption](https://en.wikipedia.org/wiki/Tacit_assumption)
+31. [Open World Assumption](https://en.wikipedia.org/wiki/Open-world_assumption)
+32. [Closed World Assumption](https://en.wikipedia.org/wiki/Closed-world_assumption)
+33. [Coreference](https://en.wikipedia.org/wiki/Coreference)
+34. [Knowledge Representation](https://en.wikipedia.org/wiki/Category:Knowledge_representation)
+35. [Commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
+36. [Qualitative Reasoning](https://en.wikipedia.org/wiki/Qualitative_reasoning)
+37. [Knowledge Representation and Reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
+38. [Model Based Reasoning](https://en.wikipedia.org/wiki/Model-based_reasoning)
+39. [Procedural Reasoning](https://en.wikipedia.org/wiki/Procedural_reasoning_system)
+40. [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
@@ -124,6 +135,10 @@
 36. [Conditionals](https://plato.stanford.edu/entries/conditionals/)
 37. [Self](https://en.wikipedia.org/wiki/Category:Self-reference) [Reference](https://plato.stanford.edu/entries/self-reference/)
 38. [Non Classical Logic](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
+39. [Decision Theory](https://plato.stanford.edu/entries/decision-theory/)
+40. [Automated Reasoning](https://en.wikipedia.org/wiki/Category:Automated_reasoning)
+41. [Reasoning System](https://en.wikipedia.org/wiki/Reasoning_system)
+42. [Non Monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 

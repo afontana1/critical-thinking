@@ -5,6 +5,7 @@
 3. [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
 4. [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology)
 5. [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
+6. [Principles](https://en.wikipedia.org/wiki/Category:Principles)
 
 ## Classics
 
