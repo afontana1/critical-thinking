@@ -136,3 +136,5 @@
 107. [Allegory](https://en.wikipedia.org/wiki/Allegory) and [Parable](https://en.wikipedia.org/wiki/Parable)
 108. [Spirituality](https://en.wikipedia.org/wiki/Category:Spirituality)
 109. [Traditional Stories](https://en.wikipedia.org/wiki/Category:Traditional_stories)
+110. [Secularism](https://en.wikipedia.org/wiki/Secularism)
+111. [Origin Myths](https://en.wikipedia.org/wiki/Category:Origin_myths)

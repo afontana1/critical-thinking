@@ -6,6 +6,7 @@
 4. [Moral Psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
 5. [Online Guide to moral and Political Philosophy](http://caae.phil.cmu.edu/Cavalier/80130/index.html)
 6. [Thought_experiments_in_ethics](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_ethics)
+7. [Dilemmas](https://en.wikipedia.org/wiki/Category:Dilemmas)
 
 ## Concepts
 
@@ -109,6 +110,7 @@
 	- [On the Basis of Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
 	- [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism)
 83. [Value Theory](https://en.wikipedia.org/wiki/Value_theory)
+84. [Heinz_dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma)
 
 ## People
 

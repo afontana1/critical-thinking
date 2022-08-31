@@ -17,3 +17,4 @@
 15. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 16. [Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
 17. [Rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology))
+18. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))

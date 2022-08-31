@@ -17,3 +17,5 @@
 11. [Hypothesis testing, type I and type II errors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996198/)
 12. [Cherry Picking](https://en.wikipedia.org/wiki/Cherry_picking)
 13. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
+14. [Placebo](https://en.wikipedia.org/wiki/Placebo) [Effect](https://www.ncbi.nlm.nih.gov/books/NBK513296/) and [Nocebo](https://en.wikipedia.org/wiki/Nocebo)
+15. [Self Fulfilling Prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)
