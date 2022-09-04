@@ -32,6 +32,7 @@
 29. [List_of_Christian_denominations_by_number_of_members](https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members)
 30. [4_Maccabees](https://en.wikipedia.org/wiki/4_Maccabees)
 31. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+32. [The Use of the New Testament in the American Slave Controversy: A Case History in the Hermeneutical Tension between Biblical Criticism and Christian Moral Debate](https://www.jstor.org/stable/1123945)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)

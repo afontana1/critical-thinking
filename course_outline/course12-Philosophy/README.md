@@ -253,6 +253,8 @@
 166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
 167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
 168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
+169. [Relevance Theory](https://en.wikipedia.org/wiki/Relevance_theory)
+170. [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -413,6 +415,8 @@
 26. [Marsilio Ficino](https://en.wikipedia.org/wiki/Marsilio_Ficino)
 27. [Gemistos_Plethon](https://en.wikipedia.org/wiki/Gemistos_Plethon)
 28. [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo)
+29. [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
+30. [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 
 ### [18th-19th Century](https://en.wikipedia.org/wiki/19th-century_philosophy)
 

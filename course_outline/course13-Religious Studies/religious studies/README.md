@@ -57,6 +57,9 @@
 25. [Ian N. Mills](https://scholar.google.com/citations?user=mf9HdJ4AAAAJ&hl=en) [New Testament Review](https://www.youtube.com/channel/UCR8SeIgZf4x0-wUMWVvWchw)
 26. [John_Dominic_Crossan](https://en.wikipedia.org/wiki/John_Dominic_Crossan)
 27. [Hermann_Samuel_Reimarus](https://en.wikipedia.org/wiki/Hermann_Samuel_Reimarus)
+28. [Bruno Bauer](https://en.wikipedia.org/wiki/Bruno_Bauer)
+29. [David Strauss](https://en.wikipedia.org/wiki/David_Strauss)
+30. [Ludwig_Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 
 ## Methods
 
@@ -69,3 +72,4 @@
 7. [Example of Historical Method Applied](https://www.youtube.com/watch?v=ptYz-Vu0dxY)
 8. [Another Application](https://www.youtube.com/watch?v=W9XryKMRATE)
 9. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
+10. [Oral Tradition](https://en.wikipedia.org/wiki/Oral_tradition)
