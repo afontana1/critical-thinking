@@ -5,3 +5,4 @@
 
 - [Psychotherapy](https://en.wikipedia.org/wiki/Category:Psychotherapy)
 - [Psychometrics](https://en.wikipedia.org/wiki/Category:Psychometrics)
+- [Psychoanalysis](https://en.wikipedia.org/wiki/Category:Psychoanalysis)

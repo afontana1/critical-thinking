@@ -248,13 +248,14 @@
 162. [Qualia: Knowledge Argument against Physicalism](https://plato.stanford.edu/entries/qualia-knowledge/)
 163. [Prototype Theory](https://en.wikipedia.org/wiki/Prototype_theory)
 164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
-165. 
+165. [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
 166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
 167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
 168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
 169. [Relevance Theory](https://en.wikipedia.org/wiki/Relevance_theory)
-170. 
+170. [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia) and [Apatheia](https://en.wikipedia.org/wiki/Apatheia) and [Euthymia](https://en.wikipedia.org/wiki/Euthymia_(philosophy))
 171. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
+172. [Quietism](https://en.wikipedia.org/wiki/Quietism_(philosophy))
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -527,6 +528,9 @@
 38. [Bas_van_Fraassen](https://en.wikipedia.org/wiki/Bas_van_Fraassen)
 39. [Kevin Scharp](http://kevinscharp.com/)
 40. [George Santayana](https://en.wikipedia.org/wiki/George_Santayana)
+41. [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco)
+42. [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
+43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
 
 ### Understanding [Marxism](https://en.wikipedia.org/wiki/Category:Marxism)
 

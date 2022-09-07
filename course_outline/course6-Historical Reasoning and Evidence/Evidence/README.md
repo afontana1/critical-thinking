@@ -24,3 +24,5 @@
 20. [Epistemic Closure](https://en.wikipedia.org/wiki/Epistemic_closure)
 21. [Philosophy of Evidence](https://plato.stanford.edu/entries/evidence/)
 22. [Evidence](https://iep.utm.edu/evidence/)
+23. [Evidence Based Practices](https://en.wikipedia.org/wiki/Category:Evidence-based_practices)
+24. [Evidence Based Policy](https://en.wikipedia.org/wiki/Evidence-based_policy)

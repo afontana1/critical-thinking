@@ -142,3 +142,4 @@
 	- [Index Librorum Prohibitorum](https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum)
 	- [List of Authors on Index Librorum Prohibitorum](https://en.wikipedia.org/wiki/List_of_authors_and_works_on_the_Index_Librorum_Prohibitorum)
 	- [Index of Repudiated Books](https://en.wikipedia.org/wiki/Index_of_Repudiated_Books)
+113. [Rousseau on Religion](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau#Religion)

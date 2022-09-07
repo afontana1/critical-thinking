@@ -111,6 +111,7 @@
 	- [psychological egoism](https://en.wikipedia.org/wiki/Psychological_egoism)
 83. [Value Theory](https://en.wikipedia.org/wiki/Value_theory)
 84. [Heinz_dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma)
+85. [Rousseau Moral Psychology](https://plato.stanford.edu/entries/rousseau/#ConjHistMoraPsyc) and [Human Nature](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau#Human_nature)
 
 ## People
 
