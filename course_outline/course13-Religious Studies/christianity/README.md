@@ -11,9 +11,11 @@
 10. [Mosaic Authorship](https://en.wikipedia.org/wiki/Mosaic_authorship)
 11. [Biblical Authorship](https://en.wikipedia.org/wiki/Category:Biblical_authorship_debates) and [Dating](https://en.wikipedia.org/wiki/Dating_the_Bible)
 12. [Biblical Archeology](https://en.wikipedia.org/wiki/Biblical_archaeology)
-13. [Early Christian Writings - apocrypha](http://www.earlychristianwritings.com/apocrypha.html)
+13. [Early Christian Writings](http://www.earlychristianwritings.com/apocrypha.html) [apocrypha](https://www.earlychristianwritings.com/apocrypha.html)
 	* [Infancy Gospel](https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas)
 	* [Gospel of Judas](https://en.wikipedia.org/wiki/Gospel_of_Judas)
+	* [Gospel of Barnabas](https://en.wikipedia.org/wiki/Gospel_of_Barnabas)
+	* [Gnostic Archive](http://gnosis.org/welcome.html)
 14. [New_Testament_apocrypha](https://en.wikipedia.org/wiki/Category:New_Testament_apocrypha)
 15. [The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
 16. [Apocrypha](https://en.wikipedia.org/wiki/Category:Apocrypha)
@@ -33,6 +35,7 @@
 30. [4_Maccabees](https://en.wikipedia.org/wiki/4_Maccabees)
 31. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
 32. [The Use of the New Testament in the American Slave Controversy: A Case History in the Hermeneutical Tension between Biblical Criticism and Christian Moral Debate](https://www.jstor.org/stable/1123945)
+33. [Vatican Apostolic Archive](https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)

@@ -248,13 +248,13 @@
 162. [Qualia: Knowledge Argument against Physicalism](https://plato.stanford.edu/entries/qualia-knowledge/)
 163. [Prototype Theory](https://en.wikipedia.org/wiki/Prototype_theory)
 164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
-165. [Historical](https://en.wikipedia.org/wiki/Historical_materialism) and [Dialectical](https://en.wikipedia.org/wiki/Dialectical_materialism) Materialism
-	- [Base and Superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure)
+165. 
 166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
 167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
 168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
 169. [Relevance Theory](https://en.wikipedia.org/wiki/Relevance_theory)
-170. [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
+170. 
+171. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
 
 ## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
 
@@ -271,6 +271,7 @@
 9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
 10. [Atomism](https://en.wikipedia.org/wiki/Atomism)
 11. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+	- [Epicurean Philosophers](https://en.wikipedia.org/wiki/Category:Epicurean_philosophers)
 12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
 
 #### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
@@ -448,6 +449,7 @@
 26. [Herbert Spencer](https://en.wikipedia.org/wiki/Herbert_Spencer)
 27. [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
 28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
+29. [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
 
 ### [19th-20th Century](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century)
 
@@ -525,3 +527,24 @@
 38. [Bas_van_Fraassen](https://en.wikipedia.org/wiki/Bas_van_Fraassen)
 39. [Kevin Scharp](http://kevinscharp.com/)
 40. [George Santayana](https://en.wikipedia.org/wiki/George_Santayana)
+
+### Understanding [Marxism](https://en.wikipedia.org/wiki/Category:Marxism)
+
+1. [Marxist Theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
+2. [Marxist Schools of Thought](https://en.wikipedia.org/wiki/Category:Marxist_schools_of_thought)
+3. [Influences on Karl Marx](https://en.wikipedia.org/wiki/Influences_on_Karl_Marx)
+4. [Western Marxism](https://en.wikipedia.org/wiki/Western_Marxism)
+5. [Marxist Philosophy](https://en.wikipedia.org/wiki/Marxist_philosophy)
+6. [Marxist Historiography](https://en.wikipedia.org/wiki/Marxist_historiography)
+7. [Historical](https://en.wikipedia.org/wiki/Historical_materialism) and [Dialectical](https://en.wikipedia.org/wiki/Dialectical_materialism) Materialism
+	- [Base and Superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure)
+8. [Prison Notebooks](https://en.wikipedia.org/wiki/Prison_Notebooks)
+9. [Reification](https://en.wikipedia.org/wiki/Reification_(Marxism))
+
+#### Key People
+
+- [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci)
+- [Louis Althusser](https://en.wikipedia.org/wiki/Louis_Althusser)
+- [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
+- [Gyorgy Lukacs](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs)
+- [Georges Sorel](https://en.wikipedia.org/wiki/Georges_Sorel)

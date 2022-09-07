@@ -138,3 +138,7 @@
 109. [Traditional Stories](https://en.wikipedia.org/wiki/Category:Traditional_stories)
 110. [Secularism](https://en.wikipedia.org/wiki/Secularism)
 111. [Origin Myths](https://en.wikipedia.org/wiki/Category:Origin_myths)
+112. [Religious Censorship](https://en.wikipedia.org/wiki/Religious_censorship)
+	- [Index Librorum Prohibitorum](https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum)
+	- [List of Authors on Index Librorum Prohibitorum](https://en.wikipedia.org/wiki/List_of_authors_and_works_on_the_Index_Librorum_Prohibitorum)
+	- [Index of Repudiated Books](https://en.wikipedia.org/wiki/Index_of_Repudiated_Books)
