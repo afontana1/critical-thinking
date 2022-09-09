@@ -7,6 +7,11 @@
 5. [Online Guide to moral and Political Philosophy](http://caae.phil.cmu.edu/Cavalier/80130/index.html)
 6. [Thought_experiments_in_ethics](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_ethics)
 7. [Dilemmas](https://en.wikipedia.org/wiki/Category:Dilemmas)
+8. [Introduction to Ethics Playlist](https://www.youtube.com/playlist?list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd)
+9. [Platonic Dialogues Playlist](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
+10. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+11. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+12. [Ethics for A-Level](https://books.openedition.org/obp/4401)
 
 ## Concepts
 
@@ -112,6 +117,11 @@
 83. [Value Theory](https://en.wikipedia.org/wiki/Value_theory)
 84. [Heinz_dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma)
 85. [Rousseau Moral Psychology](https://plato.stanford.edu/entries/rousseau/#ConjHistMoraPsyc) and [Human Nature](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau#Human_nature)
+86. [supererogation](https://plato.stanford.edu/entries/supererogation/)
+87. [self obligations](https://plato.stanford.edu/entries/self-obligations/)
+88. [Collective Moral Responsibility](https://iep.utm.edu/collective-moral-responsibility/)
+89. [Famine Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
+90. [The Famous 'Sheriff' Counterexample to Utilitarianism](https://www.youtube.com/watch?v=HcX0LNmwfMk)
 
 ## People
 

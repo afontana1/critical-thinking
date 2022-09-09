@@ -1,4 +1,4 @@
-# [Philosophical Concepts](https://plato.stanford.edu/index.html)
+<details><summary><h1><a href="https://plato.stanford.edu/index.html">Philosophical Concepts</a></h1></summary>
 
 1. [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
 2. [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
@@ -7,13 +7,17 @@
 5. [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
 6. [Principles](https://en.wikipedia.org/wiki/Category:Principles)
 
-## Classics
+</details>
+
+<details><summary><h2> Classics </h2></summary>
 
 1. [Aristotles Classics](http://classics.mit.edu/Browse/browse-Aristotle.html)
 2. [Plato](http://classics.mit.edu/Browse/browse-Plato.html)
 3. [Socrates](http://onlinebooks.library.upenn.edu/webbin/book/browse?type=lcsubc&key=Socrates)
 
-## [Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions), [Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions), [Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements), and [Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
+</details>
+
+<details><summary><h2> Traditions, Movements, and Theories </h2></summary>
 
 1. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
 2. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
@@ -27,8 +31,14 @@
 10. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
 11. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
 12. [Thought Experiments](https://en.wikipedia.org/wiki/Category:Thought_experiments) and [Thought Experiments in Philosophy](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_philosophy)
+13. [Philosophical Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
+14. [Philosophical Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions)
+15. [Philosophical Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements)
+16. [Philosophical Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
 
-## Categories
+</details>
+
+<details><summary><h2> Categories of Philosophy </h2></summary>
 
 1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
 	- [Epistemological_theories](https://en.wikipedia.org/wiki/Category:Epistemological_theories)
@@ -70,7 +80,9 @@
 10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
 11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
-## List of Concepts
+</details>
+
+<details><summary><h2> List of Concepts </h2></summary>
 
 1. [Events](https://plato.stanford.edu/entries/events/)
 2. [Properties](https://plato.stanford.edu/entries/properties/)
@@ -257,9 +269,11 @@
 171. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
 172. [Quietism](https://en.wikipedia.org/wiki/Quietism_(philosophy))
 
-## [Philosophers](https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html)
+</details>
 
-### Ancient Greece and Rome
+<details><summary><h2><a href="https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html">Philosophers</a></h2></summary>
+
+<details><summary><h3> Ancient Greece and Rome </h3></summary>
 
 1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
 2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
@@ -275,7 +289,9 @@
 	- [Epicurean Philosophers](https://en.wikipedia.org/wiki/Category:Epicurean_philosophers)
 12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
 
-#### [Classical](https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers) and [Presocratic](https://en.wikipedia.org/wiki/Category:Presocratic_philosophers) Philosophers
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers">Classical and </a><a href="https://en.wikipedia.org/wiki/Category:Presocratic_philosophers">Presocratic Philosophers</a></h3></summary>
 
 1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
 2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
@@ -328,7 +344,9 @@
 4. [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic)
 5. [Roman Kingdom](https://en.wikipedia.org/wiki/Roman_Kingdom)
 
-### [Ancient](https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy) [Eastern Philosophy](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought), [Classical Thought](https://en.wikipedia.org/wiki/Category:Classical_Chinese_philosophy), and [Philosophers by Century](https://en.wikipedia.org/wiki/Category:Chinese_philosophers_by_century)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy">Ancient Chinese Philosophy</a></h3></summary>
 
 1. [Confucius](https://en.wikipedia.org/wiki/Confucius)
 	- [Neo Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
@@ -347,8 +365,13 @@
 7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
 8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
 9. [Xunzi](https://plato.stanford.edu/entries/xunzi/)
+10. [Hundred_Schools_of_Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought)
+11. [Classical Thought](https://en.wikipedia.org/wiki/Category:Classical_Chinese_philosophy)
+12. [Philosophers by Century](https://en.wikipedia.org/wiki/Category:Chinese_philosophers_by_century)
 
-### Ancient Indian Philosophy
+</details>
+
+<details><summary><h3> Ancient Indian Philosophy </h3></summary>
 
 1. [Ajita Kesakambali](https://en.wikipedia.org/wiki/Ajita_Kesakambali)
 2. [Sanjaya Belatthiputta](https://en.wikipedia.org/wiki/Sanjaya_Belatthiputta)
@@ -362,7 +385,9 @@
 10. [Jayarāśi](https://plato.stanford.edu/entries/jayaraasi/)
 11. [Śrīharṣa](https://plato.stanford.edu/entries/sriharsa/)
 
-### [Medieval](https://en.wikipedia.org/wiki/Medieval_philosophy) and [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Medieval_philosophy">Medieval and </a><a href="https://en.wikipedia.org/wiki/Scholasticism">Scholasticism</a></h3></summary>
 
 1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
 2. [Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
@@ -372,6 +397,7 @@
 6. [Aristotelianism](https://en.wikipedia.org/wiki/Category:Aristotelianism)
 7. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
 8. [Platonism](https://en.wikipedia.org/wiki/Platonism)
+9. [Islamic Philosophy](https://en.wikipedia.org/wiki/Category:Islamic_philosophy)
 
 - **Movements**
 	* [Thomism](https://en.wikipedia.org/wiki/Thomism)
@@ -383,11 +409,9 @@
 	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
 	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
 
-### [Islamic Philosophy](https://en.wikipedia.org/wiki/Category:Islamic_philosophy)
+</details>
 
-1. [Ibn_Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun)
-
-### [Enlightenment](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century) and [Renaissance](https://en.wikipedia.org/wiki/Renaissance_philosophy)
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century">Enlightenment and </a><a href="https://en.wikipedia.org/wiki/Renaissance_philosophy">Renaissance</a></h3></summary>
 
 1. [Mill](https://plato.stanford.edu/entries/mill/)
 2. [Locke](https://plato.stanford.edu/entries/locke/)
@@ -420,7 +444,9 @@
 29. [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 30. [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 
-### [18th-19th Century](https://en.wikipedia.org/wiki/19th-century_philosophy)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/19th-century_philosophy">18th-19th Century</h3></summary>
 
 1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
@@ -452,7 +478,9 @@
 28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
 29. [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
 
-### [19th-20th Century](https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century">19th-20th Century</h3></summary>
 
 1. [Peirce](https://en.wikipedia.org/wiki/Category:Charles_Sanders_Peirce)
 2. [William James](https://en.wikipedia.org/wiki/William_James)
@@ -485,7 +513,9 @@
 29. [Wassily_Leontief](https://en.wikipedia.org/wiki/Wassily_Leontief)
 30. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
 
-### [20th Century-Present](https://en.wikipedia.org/wiki/Category:20th-century_philosophy)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:20th-century_philosophy">20th Century-Present</h3></summary>
 
 1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
 	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
@@ -532,7 +562,9 @@
 42. [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
 43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
 
-### Understanding [Marxism](https://en.wikipedia.org/wiki/Category:Marxism)
+</details>
+
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Marxism">Understanding Marxism</h3></summary>
 
 1. [Marxist Theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
 2. [Marxist Schools of Thought](https://en.wikipedia.org/wiki/Category:Marxist_schools_of_thought)
@@ -552,3 +584,5 @@
 - [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
 - [Gyorgy Lukacs](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs)
 - [Georges Sorel](https://en.wikipedia.org/wiki/Georges_Sorel)
+</details>
+

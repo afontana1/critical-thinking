@@ -1,4 +1,5 @@
-# Videos
+<details><summary><h1>Videos</h1></summary>
+
 1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
 2. [Religious History Documentaries](https://www.youtube.com/channel/UCtqAF8FSQIIq-vBLKtgLH_w)
 3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
@@ -12,7 +13,11 @@
 12. [Religious Epistemology Conference, Royal Institute of Philosophy 2015](https://www.youtube.com/playlist?list=PLqK-cZS_wviDbx7kn8kXG_02gk41wq-Rq)
 13. [Nanak Naam](https://www.youtube.com/channel/UCevfxDIvmjSkE9KIwlf6-MQ)
 
-### Abrahamic
+</details>
+
+
+<details><summary><h2>Abrahamic</h2></summary>
+
 1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
 2. [C.S. Lewis](https://www.youtube.com/watch?v=z8stFStEVsU&list=PLKjwFyELc2SkniyQuAP5NhJZ8gTqaKmJZ)
 3. [History of Literary Theory](https://www.youtube.com/watch?v=0QsnNzFq9cs&list=PLKjwFyELc2Sk4IF-h8IfisV1Jv0WJ9k_y)
@@ -26,7 +31,10 @@
 11. [Introduction to Old Testament](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 12. [History of Christian Philosophy](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Qi6k4d6srF55OUpNSu8av3)
 
-### Atheist / Agnostic
+</details>
+
+<details><summary><h2>Atheist / Agnostic</h2></summary>
+
 1. [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
 2. [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
 3. [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
@@ -39,7 +47,10 @@
 10. [TMM](https://www.youtube.com/user/TheMessianicManic/videos)
 11. [DarkMatter2525](https://www.youtube.com/channel/UCLhtZqdkjshgq8TqwIjMdCQ)
 
-### Historical Videos
+</details>
+
+<details><summary><h2>Historical Videos</h2></summary>
+
 1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
 2. [Emperor Constantine: Is Western Christianity Based On A Lie?](https://www.youtube.com/watch?v=0E_bRADucBI)
 3. [Why Did Pontius Pilate Allow The Killing Of Christ?](https://www.youtube.com/watch?v=fppoqtIu2ug)
@@ -271,3 +282,5 @@
 185. [Are There Any Good Arguments for God? Ed Feser vs Graham Oppy](https://www.youtube.com/watch?v=m-80lQOlNOs)
 186. [Graham Oppy and Richard Swinburne | Is theism probable?](https://www.youtube.com/watch?v=hKw3d3qOYSo)
 187. [Michael Licona vs John Dominic Crossan; "Who was the historical Jesus?"](https://www.youtube.com/watch?v=zWH2gSYszLM)
+
+</details>
