@@ -6,3 +6,4 @@
 - [Psychotherapy](https://en.wikipedia.org/wiki/Category:Psychotherapy)
 - [Psychometrics](https://en.wikipedia.org/wiki/Category:Psychometrics)
 - [Psychoanalysis](https://en.wikipedia.org/wiki/Category:Psychoanalysis)
+- [Concept Creep](https://en.wikipedia.org/wiki/Concept_creep) and [Psychiatrization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8716590/)
