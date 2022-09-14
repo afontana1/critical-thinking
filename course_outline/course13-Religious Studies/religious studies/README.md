@@ -60,6 +60,7 @@
 28. [Bruno Bauer](https://en.wikipedia.org/wiki/Bruno_Bauer)
 29. [David Strauss](https://en.wikipedia.org/wiki/David_Strauss)
 30. [Ludwig_Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
+31. [Joshua Bowen](https://johnshopkins.academia.edu/JBowen)
 
 ## Methods
 

@@ -65,7 +65,10 @@
 12. [The Unknown Messiah Who Predated Jesus | Secrets of Christianity | Parable](https://www.youtube.com/watch?v=c3g0Rra1V_A)
 13. [What is Gnosticism?](https://www.youtube.com/watch?v=ockwMVE7PgM)
 
-### Debates and Problems
+</details>
+
+<details><summary><h2>Debates and Problems</h2></summary>
+
 1. [Closer To Truth - Big Questions in Free Will](https://www.youtube.com/watch?v=9uRTjfhIf4M)
 	* [Big Questions in Free Will I? | Episode 1410 | Closer To Truth](https://www.youtube.com/watch?v=9GbhRR8Qt_U)
 	* [Big Questions in Free Will II? | Episode 1411 | Closer To Truth](https://www.youtube.com/watch?v=gBI7Bm5FoGs)
@@ -282,5 +285,25 @@
 185. [Are There Any Good Arguments for God? Ed Feser vs Graham Oppy](https://www.youtube.com/watch?v=m-80lQOlNOs)
 186. [Graham Oppy and Richard Swinburne | Is theism probable?](https://www.youtube.com/watch?v=hKw3d3qOYSo)
 187. [Michael Licona vs John Dominic Crossan; "Who was the historical Jesus?"](https://www.youtube.com/watch?v=zWH2gSYszLM)
+188. [Objective Morality Without God](https://www.youtube.com/watch?v=50CQwa15R7A&t=2041s)
+189. [Atheist Scholar Explains The Old Testament In Its Original Context | Joshua Bowen PhD](https://www.youtube.com/watch?v=hSQmmRJC_qI)
+190. [Podcast: An Atheist in the Realm of Myth | Stephen Fry | Jordan B Peterson Podcast - S4: E22](https://www.youtube.com/watch?v=fFFSKedy9f4)
+191. [Why is God hidden? Cosmic Skeptic & Lukas Ruegger at Oxford University with Max Baker-Hytch](https://www.youtube.com/watch?v=9nc0YT-WTnQ)
+192. [Episode 13, Paul Draper, On Arguments for Atheism](https://www.youtube.com/watch?v=Ur6gxT6bQZQ)
+193. [3. Graham Oppy, On Logical Problems of Evil](https://www.youtube.com/watch?v=szPAw_R6RGA)
+194. [Daniel Wallace — The Basics of New Testament Textual Criticism](https://www.youtube.com/watch?v=Doi8JxJOtgE)
+195. [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
+196. [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
+197. [Lost Christianities](https://www.youtube.com/watch?v=Jv3iOS69Uws)
+198. [Bart Ehrman & Jesus, Interrupted - Commonwealth Club](https://www.youtube.com/watch?v=BvKxJc-huEA)
+199. [Bart Ehrman & Robert Price Debate - Did Jesus Exist](https://www.youtube.com/watch?v=GzjYmpwbHEA)
+200. [The History of Heaven and Hell - St Luke's Episcopal Church Interview](https://www.youtube.com/watch?v=lYl24xibc2I)
+201. [Legends, Fictions, and Manuscripts that Illustrate Christ's Story](https://www.youtube.com/watch?v=HEU6xh1gERI)
+202. [Misquoting Jesus in the Bible - Professor Bart D. Ehrman](https://www.youtube.com/watch?v=pfheSAcCsrE)
+203. [Episode 37, Religious Language (Part I – The Via Negativa)](https://www.youtube.com/watch?v=iwxZtayn1v0)
+204. [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://www.youtube.com/watch?v=_aZjn9Ua5Pw&t=3s)
+205. [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://www.youtube.com/watch?v=ZDR6DFj68ms)
+206. [Episode 37, Religious Language (Part IV – Further Analysis and Discussion)](https://www.youtube.com/watch?v=XyEejHUIZec)
+207. [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://www.youtube.com/watch?v=femxJFszbo8)
 
 </details>

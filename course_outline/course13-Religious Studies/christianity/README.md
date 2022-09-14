@@ -36,6 +36,7 @@
 31. [On Jews and their Lies](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
 32. [The Use of the New Testament in the American Slave Controversy: A Case History in the Hermeneutical Tension between Biblical Criticism and Christian Moral Debate](https://www.jstor.org/stable/1123945)
 33. [Vatican Apostolic Archive](https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive)
+34. [Internal_consistency_of_the_Bible](https://en.wikipedia.org/wiki/Internal_consistency_of_the_Bible)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)

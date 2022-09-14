@@ -66,6 +66,7 @@
 
 19. [Omnipotence Paradox](https://en.wikipedia.org/wiki/Omnipotence_paradox)
 	* [How Can God Not Be Free? | Episode 1413 | Closer To Truth](https://www.youtube.com/watch?v=jrHgHnrQLGw)
+	* [Inconsistent Triad](https://en.wikipedia.org/wiki/Inconsistent_triad)
 
 20. [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
 
@@ -101,6 +102,7 @@
 	* [Evidential Argument of Evil](https://iep.utm.edu/evil-evi/)
 	* [Suffering Evil](https://www.amazon.com/Suffering-Belief-Anglo-American-Defense-Religion/dp/0820439754)
 	* [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
+	* [Best of all Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
