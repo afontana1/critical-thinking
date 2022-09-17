@@ -122,6 +122,8 @@
 88. [Collective Moral Responsibility](https://iep.utm.edu/collective-moral-responsibility/)
 89. [Famine Affluence and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
 90. [The Famous 'Sheriff' Counterexample to Utilitarianism](https://www.youtube.com/watch?v=HcX0LNmwfMk)
+91. [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/)
+92. [Emotivism](https://en.wikipedia.org/wiki/Emotivism)
 
 ## People
 

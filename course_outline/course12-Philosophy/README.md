@@ -268,6 +268,8 @@
 170. [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia) and [Apatheia](https://en.wikipedia.org/wiki/Apatheia) and [Euthymia](https://en.wikipedia.org/wiki/Euthymia_(philosophy))
 171. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
 172. [Quietism](https://en.wikipedia.org/wiki/Quietism_(philosophy))
+173. [Hypothetico-Deductive Model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
+174. [Romanticism_in_philosophy](https://en.wikipedia.org/wiki/Romanticism_in_philosophy)
 
 </details>
 
@@ -444,6 +446,12 @@
 29. [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 30. [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 
+- **Counter Enlightenment**
+	* [Counter-Enlightenment](https://en.wikipedia.org/wiki/Category:Counter-Enlightenment)
+	* [Age_of_Enlightenment](https://en.wikipedia.org/wiki/Category:Age_of_Enlightenment)
+	* [Anti Intellectualism](https://en.wikipedia.org/wiki/Category:Anti-intellectualism)
+	* [Dialectic_of_Enlightenment](https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment)
+
 </details>
 
 <details><summary><h3><a href="https://en.wikipedia.org/wiki/19th-century_philosophy">18th-19th Century</h3></summary>
@@ -471,12 +479,13 @@
 21. [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
 22. [Leon Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras)
 23. [Joseph_Schumpeter](https://en.wikipedia.org/wiki/Joseph_Schumpeter)
-24. [Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
+24. [Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)
 25. [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 26. [Herbert Spencer](https://en.wikipedia.org/wiki/Herbert_Spencer)
 27. [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
 28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
 29. [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
+30. [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
 
 </details>
 
@@ -561,6 +570,7 @@
 41. [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco)
 42. [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
 43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
+44. [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin)
 
 </details>
 

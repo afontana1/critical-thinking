@@ -279,3 +279,13 @@
 
 75. [Incinerating Presuppositionalism](http://bahnsenburner.blogspot.com/)
 	- [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
+
+76. [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
+	- [Several Layers of Wrong | Wise Disciple Fails to Shatter Russell's Teapot](https://www.youtube.com/watch?v=wqYBlwHDxms)
+	- [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
+	- [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+	- [Flying_Spaghetti_Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
+	- [Hitchens Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
+	- [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
+
+77. [The Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/) , [The Will to Believe](https://en.wikipedia.org/wiki/The_Will_to_Believe)
