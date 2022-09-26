@@ -10,3 +10,4 @@
 7. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
 8. [INUS Conditions](https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes)
 9. [Post Hoc Ergo Property Hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)
+10. [PICO_process](https://en.wikipedia.org/wiki/PICO_process)

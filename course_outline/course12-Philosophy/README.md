@@ -270,6 +270,7 @@
 172. [Quietism](https://en.wikipedia.org/wiki/Quietism_(philosophy))
 173. [Hypothetico-Deductive Model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
 174. [Romanticism_in_philosophy](https://en.wikipedia.org/wiki/Romanticism_in_philosophy)
+175. [Critical_rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
 
 </details>
 
@@ -445,6 +446,7 @@
 28. [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo)
 29. [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 30. [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
+31. [Friedrich_Wilhelm_Joseph_Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling)
 
 - **Counter Enlightenment**
 	* [Counter-Enlightenment](https://en.wikipedia.org/wiki/Category:Counter-Enlightenment)
@@ -465,7 +467,7 @@
 7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 8. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 9. [Schutz](https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)
-10. [Kierkegaard)](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
+10. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 11. [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
 12. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
 13. [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid)
@@ -486,6 +488,7 @@
 28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
 29. [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
 30. [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
+31. [Mikhail_Bakunin](https://en.wikipedia.org/wiki/Mikhail_Bakunin)
 
 </details>
 
@@ -571,10 +574,13 @@
 42. [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
 43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
 44. [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin)
+45. [Nancy Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
 
 </details>
 
 <details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Marxism">Understanding Marxism</h3></summary>
+
+- [Marxist Internet Archive](https://www.marxists.org/english-mobiles.htm)
 
 1. [Marxist Theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
 2. [Marxist Schools of Thought](https://en.wikipedia.org/wiki/Category:Marxist_schools_of_thought)

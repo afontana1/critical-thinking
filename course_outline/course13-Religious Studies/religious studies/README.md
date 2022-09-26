@@ -61,6 +61,7 @@
 29. [David Strauss](https://en.wikipedia.org/wiki/David_Strauss)
 30. [Ludwig_Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 31. [Joshua Bowen](https://johnshopkins.academia.edu/JBowen)
+32. [Rudolf_Bultmann](https://en.wikipedia.org/wiki/Rudolf_Bultmann)
 
 ## Methods
 
@@ -74,3 +75,9 @@
 8. [Another Application](https://www.youtube.com/watch?v=W9XryKMRATE)
 9. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
 10. [Oral Tradition](https://en.wikipedia.org/wiki/Oral_tradition)
+11. [Historical_Jesus](https://en.wikipedia.org/wiki/Historical_Jesus)
+12. [Quest_for_the_historical_Jesus](https://en.wikipedia.org/wiki/Quest_for_the_historical_Jesus)
+13. [Demythologization](https://en.wikipedia.org/wiki/Demythologization)
+14. [Biblical_studies](https://en.wikipedia.org/wiki/Category:Biblical_studies)
+15. [Criterion_of_contextual_credibility](https://en.wikipedia.org/wiki/Criterion_of_contextual_credibility)
+16. [Criterion_of_dissimilarity](https://en.wikipedia.org/wiki/Criterion_of_dissimilarity)

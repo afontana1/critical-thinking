@@ -1,4 +1,8 @@
 # [History of Christianity](https://en.wikipedia.org/wiki/Portal:Christianity)
+
+- [The Parables of Jesus Christ](https://jesuschristsavior.net/Parable.html)
+- [Complete List of Parables](https://www.kevinhalloran.net/a-complete-list-of-jesus-parables-in-the-new-testament/)
+
 1. [Christian_denominational_families](https://en.wikipedia.org/wiki/Category:Christian_denominational_families)
 2. [Christian_philosophers_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_philosophers_by_denomination)
 3. [Christian_scholars_by_denomination](https://en.wikipedia.org/wiki/Category:Christian_scholars_by_denomination)
@@ -37,6 +41,7 @@
 32. [The Use of the New Testament in the American Slave Controversy: A Case History in the Hermeneutical Tension between Biblical Criticism and Christian Moral Debate](https://www.jstor.org/stable/1123945)
 33. [Vatican Apostolic Archive](https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive)
 34. [Internal_consistency_of_the_Bible](https://en.wikipedia.org/wiki/Internal_consistency_of_the_Bible)
+35. [Bon_Secours_Mother_and_Baby_Home](https://en.m.wikipedia.org/wiki/Bon_Secours_Mother_and_Baby_Home)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
@@ -64,3 +69,7 @@
 22. [Mark_Driscoll](https://en.wikipedia.org/wiki/Mark_Driscoll)
 23. [Bill_Hybels](https://en.wikipedia.org/wiki/Bill_Hybels)
 24. [Sye_Ten_Bruggencate](https://rationalwiki.org/wiki/Sye_Ten_Bruggencate)
+
+## Ex Pastors
+
+1. [DB Ramsey](https://www.dbramsey.com/)

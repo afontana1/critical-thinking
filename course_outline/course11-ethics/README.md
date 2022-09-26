@@ -124,6 +124,7 @@
 90. [The Famous 'Sheriff' Counterexample to Utilitarianism](https://www.youtube.com/watch?v=HcX0LNmwfMk)
 91. [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/)
 92. [Emotivism](https://en.wikipedia.org/wiki/Emotivism)
+93. [contractarianism](https://plato.stanford.edu/entries/contractarianism/)
 
 ## People
 

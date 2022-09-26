@@ -90,3 +90,7 @@
 8. [Research](https://en.wikipedia.org/wiki/Category:Research)
 9. [Research Methods](https://en.wikipedia.org/wiki/Category:Research_methods)
 10. [Scientific](https://commons.wikimedia.org/wiki/Category:Scientific_method) [Methods](https://en.wikipedia.org/wiki/Category:Scientific_method)
+11. [Systematic_review](https://en.wikipedia.org/wiki/Systematic_review)
+12. [Publication_bias](https://en.wikipedia.org/wiki/Publication_bias)
+13. [Reporting_bias](https://en.wikipedia.org/wiki/Reporting_bias)
+14. [Source_credibility](https://en.wikipedia.org/wiki/Source_credibility)
