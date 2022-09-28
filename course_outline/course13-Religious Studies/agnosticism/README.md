@@ -163,3 +163,4 @@
 52. [Sigmund_Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
 53. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 54. [Paul Draper](https://en.wikipedia.org/wiki/Paul_Draper_(philosopher))
+55. [Michael Shermer](https://en.wikipedia.org/wiki/Michael_Shermer)

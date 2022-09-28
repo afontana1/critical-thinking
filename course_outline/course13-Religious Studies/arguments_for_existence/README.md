@@ -258,9 +258,7 @@
 
 71. [Salvation in Heaven](https://www.ajol.info/index.php/pp/article/view/29480)
 
-72. [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
-	- [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-	- [Evidence of Absense](https://en.wikipedia.org/wiki/Evidence_of_absence)
+72. [30 Arguments Against God](https://www.youtube.com/playlist?list=PLq3dh__o7S0p_jnG5aHBB8Dn6yHxUe_mb)
 
 73. [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
 	- [Refutation of Behe](https://www.creative-wisdom.com/education/hps/behe.pdf)
@@ -287,5 +285,11 @@
 	- [Flying_Spaghetti_Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 	- [Hitchens Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
 	- [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
+	- [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+	- [Evidence of Absense](https://en.wikipedia.org/wiki/Evidence_of_absence)
 
 77. [The Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/) , [The Will to Believe](https://en.wikipedia.org/wiki/The_Will_to_Believe)
+
+78. [Jesus Resurrection Critically Examined](https://www.youtube.com/playlist?list=PLq3dh__o7S0oip-Xq7hSBe7oMUOE0SNyt)
+
+79. [The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)

@@ -22,7 +22,7 @@
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
 2. [Category: Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
 3. [Category: Inductive Fallacies](https://en.wikipedia.org/wiki/Category:Inductive_fallacies)
-4. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)
+4. [Defeaters](https://iep.utm.edu/defeaters-in-epistemology/)
 5. [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 6. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 7. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
@@ -140,6 +140,7 @@
 40. [Automated Reasoning](https://en.wikipedia.org/wiki/Category:Automated_reasoning)
 41. [Reasoning System](https://en.wikipedia.org/wiki/Reasoning_system)
 42. [Non Monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/)
+43. [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 

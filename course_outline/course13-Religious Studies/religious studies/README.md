@@ -62,6 +62,8 @@
 30. [Ludwig_Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
 31. [Joshua Bowen](https://johnshopkins.academia.edu/JBowen)
 32. [Rudolf_Bultmann](https://en.wikipedia.org/wiki/Rudolf_Bultmann)
+33. [Dr. Aaron Adair](https://draaronadair.com/)
+34. [Robyn Faith Walsh](https://robynfaithwalsh.com/)
 
 ## Methods
 

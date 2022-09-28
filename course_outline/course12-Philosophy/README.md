@@ -35,6 +35,8 @@
 14. [Philosophical Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions)
 15. [Philosophical Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements)
 16. [Philosophical Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
+17. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
+18. [List_of_schools_of_philosophy](https://en.wikipedia.org/wiki/List_of_schools_of_philosophy)
 
 </details>
 
