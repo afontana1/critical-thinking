@@ -11,3 +11,4 @@
 - [Straight and Crooked Thinking](https://en.wikipedia.org/wiki/Straight_and_Crooked_Thinking)
 - [UC Berkeley Stats and Critical Thinking](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
 - [A meta-analysis of procedures to change implicit measures](https://pubmed.ncbi.nlm.nih.gov/31192631/)
+- [Cognitive_inertia](https://en.wikipedia.org/wiki/Category:Cognitive_inertia)

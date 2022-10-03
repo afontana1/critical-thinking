@@ -65,6 +65,7 @@
 	- [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 	- [Theories of Truth](https://en.wikipedia.org/wiki/Category:Theories_of_truth)
 	- [Truth Values](https://plato.stanford.edu/entries/truth-values/)
+	- [Reliabalism](https://plato.stanford.edu/entries/reliabilism/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
