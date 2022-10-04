@@ -48,6 +48,7 @@
 36. [Dale Allison](https://en.wikipedia.org/wiki/Dale_Allison)
 	* [Discussion Series](https://www.youtube.com/playlist?list=PLDIzSm1tqRplZEu5rlEvbt4YzU2rpvpYW)
 37. [M. David Litwa](https://mdavidlitwa.wordpress.com/)
+38. [Dennis_MacDonald](https://en.wikipedia.org/wiki/Dennis_MacDonald)
 
 ## Methods
 

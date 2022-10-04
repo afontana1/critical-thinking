@@ -305,5 +305,6 @@
 205. [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://www.youtube.com/watch?v=ZDR6DFj68ms)
 206. [Episode 37, Religious Language (Part IV – Further Analysis and Discussion)](https://www.youtube.com/watch?v=XyEejHUIZec)
 207. [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://www.youtube.com/watch?v=femxJFszbo8)
+208. [The Gospels Are Historical Fiction - Pay Attention Apologist! | Dennis R. MacDonald PhD](youtube.com/watch?v=gZ4KXqDyzHg)
 
 </details>

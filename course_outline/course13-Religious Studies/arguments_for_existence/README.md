@@ -30,8 +30,10 @@
 	* [Debunking the Modal Ontological Argument](https://www.youtube.com/playlist?list=PLz0n_SjOttTeyc743UVu4cZ0eEPVPgT-A)
 	* [Betting on Necessity: The Modal Ontological Argument](https://www.youtube.com/watch?v=AFI9N768njk)
 	* [Memorializing the Modal Perfection Argument](https://www.youtube.com/watch?v=LoEaf9JSsSc)
+	* [The inconsistency in Gödel's ontological argument: a success story for AI in metaphysics](https://dl.acm.org/doi/10.5555/3060621.3060751)
 
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
+	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
 
 10. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
 
@@ -67,6 +69,7 @@
 19. [Omnipotence Paradox](https://en.wikipedia.org/wiki/Omnipotence_paradox)
 	* [How Can God Not Be Free? | Episode 1413 | Closer To Truth](https://www.youtube.com/watch?v=jrHgHnrQLGw)
 	* [Inconsistent Triad](https://en.wikipedia.org/wiki/Inconsistent_triad)
+	* [Omniscience, Time, and Freedom](https://www.youtube.com/watch?v=HPajfhRLGVU)
 
 20. [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
 
@@ -293,3 +296,12 @@
 78. [Jesus Resurrection Critically Examined](https://www.youtube.com/playlist?list=PLq3dh__o7S0oip-Xq7hSBe7oMUOE0SNyt)
 
 79. [The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
+80. [Attributes_of_God_in_Christian_theology](https://en.wikipedia.org/wiki/Category:Attributes_of_God_in_Christian_theology)
+	* [Divine](https://en.wikipedia.org/wiki/Divine_simplicity) [Simplicity](https://plato.stanford.edu/entries/divine-simplicity/)
+	* [The fruitful death of modal collapse arguments](https://philpapers.org/rec/SCHTFD-5)
+	* [The reverse ontological argument](https://philpapers.org/rec/COLTRO-54)
+	* [symmetry breaking](https://plato.stanford.edu/entries/symmetry-breaking/)
+	* [S5 Modal Logic](https://en.wikipedia.org/wiki/S5_(modal_logic))
+	* [a Response to The Modal Ontological Argument, an Explanatory Symmetry Breaker](https://praiseoflight.blogspot.com/2021/09/a-response-to-modal-ontological.html?m=1)
+	* [modal ontological arguments](https://1000wordphilosophy.com/2021/12/03/modal-ontological-arguments/)
+	* [Divine Simplicity, God’s Freedom, and the Supposed Problem of Modal Collapse](https://brill.com/view/journals/jrt/16/1-2/article-p127_8.xml?language=en)
