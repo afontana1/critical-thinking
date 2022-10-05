@@ -46,6 +46,9 @@
 9. [Paulogia](https://www.youtube.com/channel/UCIS4cWaXgWpznjwovFYQBJQ)
 10. [TMM](https://www.youtube.com/user/TheMessianicManic/videos)
 11. [DarkMatter2525](https://www.youtube.com/channel/UCLhtZqdkjshgq8TqwIjMdCQ)
+12. [Professor David Explains](youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+13. [King Crocoduck](https://www.youtube.com/c/KingCrocoduck/featured)
+14. [Forrest Valkai](https://www.youtube.com/c/RenegadeScienceTeacher)
 
 </details>
 
