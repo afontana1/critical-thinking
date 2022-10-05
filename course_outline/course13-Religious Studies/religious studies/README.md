@@ -49,6 +49,11 @@
 	* [Discussion Series](https://www.youtube.com/playlist?list=PLDIzSm1tqRplZEu5rlEvbt4YzU2rpvpYW)
 37. [M. David Litwa](https://mdavidlitwa.wordpress.com/)
 38. [Dennis_MacDonald](https://en.wikipedia.org/wiki/Dennis_MacDonald)
+39. [Gerd Lüdemann](https://en.wikipedia.org/wiki/Gerd_L%C3%BCdemann)
+40. [Bruce M. Metzger](https://en.wikipedia.org/wiki/Bruce_M._Metzger)
+41. [Hector_Avalos](https://en.wikipedia.org/wiki/Hector_Avalos)
+42. [Dale_Martin](https://en.wikipedia.org/wiki/Dale_Martin_(scholar))
+43. [Raphael_Lataster](https://rationalwiki.org/wiki/Raphael_Lataster)
 
 ## Methods
 
