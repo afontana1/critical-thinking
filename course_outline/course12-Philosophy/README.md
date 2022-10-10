@@ -82,6 +82,7 @@
 9. [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
 10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
 11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+12. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
 
 </details>
 
@@ -274,6 +275,8 @@
 173. [Hypothetico-Deductive Model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
 174. [Romanticism_in_philosophy](https://en.wikipedia.org/wiki/Romanticism_in_philosophy)
 175. [Critical_rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+176. [Positivism](https://en.wikipedia.org/wiki/Positivism), [Positivism_dispute](https://en.wikipedia.org/wiki/Positivism_dispute), and [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
+177. [Historicism](https://en.wikipedia.org/wiki/Historicism)
 
 </details>
 
@@ -578,6 +581,7 @@
 43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
 44. [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin)
 45. [Nancy Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
+46. [Ian_Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
 
 </details>
 
@@ -603,5 +607,9 @@
 - [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
 - [Gyorgy Lukacs](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs)
 - [Georges Sorel](https://en.wikipedia.org/wiki/Georges_Sorel)
+- [Herbert_Marcuse](https://en.wikipedia.org/wiki/Herbert_Marcuse)
+- [Georg_Simmel](https://en.wikipedia.org/wiki/Georg_Simmel)
+- [Max_Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer)
+- [Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno)
 </details>
 
