@@ -33,6 +33,7 @@
 29. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
 30. [Statistical Hypothesis Testing](https://en.wikipedia.org/wiki/Category:Statistical_hypothesis_testing)
 31. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
+32. [Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 

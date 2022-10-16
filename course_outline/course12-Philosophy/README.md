@@ -613,3 +613,15 @@
 - [Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno)
 </details>
 
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Continental_philosophy">French Continental Philosophy</h3></summary>
+
+#### Key People
+
+- [Jacques_Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
+- [Jean_Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard)
+- [Jacques_Derrida](https://en.wikipedia.org/wiki/Jacques_Derrida)
+- [Michel_Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
+- [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
+- [Simone_de_Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+
+</details>
