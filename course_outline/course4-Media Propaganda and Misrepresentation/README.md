@@ -5,6 +5,8 @@
 3. [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
 4. [Conflict_of_interest](https://en.wikipedia.org/wiki/Category:Conflict_of_interest)
 5. [Perverse_incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
+6. [Criticism of Journalism](https://en.wikipedia.org/wiki/Category:Criticism_of_journalism)
+7. [Journalistic_objectivity](https://en.wikipedia.org/wiki/Journalistic_objectivity)
 
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/

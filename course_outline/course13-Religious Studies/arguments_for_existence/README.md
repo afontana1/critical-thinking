@@ -305,3 +305,5 @@
 	* [a Response to The Modal Ontological Argument, an Explanatory Symmetry Breaker](https://praiseoflight.blogspot.com/2021/09/a-response-to-modal-ontological.html?m=1)
 	* [modal ontological arguments](https://1000wordphilosophy.com/2021/12/03/modal-ontological-arguments/)
 	* [Divine Simplicity, God’s Freedom, and the Supposed Problem of Modal Collapse](https://brill.com/view/journals/jrt/16/1-2/article-p127_8.xml?language=en)
+
+81. [Why Wont God Heal Amputees](https://www.whywontgodhealamputees.com/)
