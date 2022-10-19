@@ -307,3 +307,17 @@
 	* [Divine Simplicity, God’s Freedom, and the Supposed Problem of Modal Collapse](https://brill.com/view/journals/jrt/16/1-2/article-p127_8.xml?language=en)
 
 81. [Why Wont God Heal Amputees](https://www.whywontgodhealamputees.com/)
+	- [Response to Got Questions](https://www.youtube.com/watch?v=mKpFuPf4n6s)
+	- [WOTM: Why Won't God Heal Amputees?? Part I](https://www.youtube.com/watch?v=fy5OHAq5EHk)
+	- [WOTM: Why Won't God Heal Amputees?? Part II](https://www.youtube.com/watch?v=tseB2A9K1IU)
+	- [Why God Won't Heal Amputees Response](https://www.youtube.com/watch?v=BkA7IYuEdlY)
+
+82. [Efficacy of prayer](https://en.wikipedia.org/wiki/Efficacy_of_prayer)
+	- [Study of the Therapeutic Effects of Intercessory Prayer (STEP)](https://pubmed.ncbi.nlm.nih.gov/16569567/)
+	- [Prayer and healing: A medical and scientific perspective on randomized controlled trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802370/)
+	- [Prayers don’t help heart surgery patients](https://news.harvard.edu/gazette/story/2006/04/prayers-dont-help-heart-surgery-patients-2/)
+	- [The Harvard Prayer Experiment](https://davidmyers.org/psychology-faith/prayer-experiments)
+	- [Does God Answer Prayer? Researcher Says 'Yes'](https://www.sciencedaily.com/releases/2007/03/070314195638.htm)
+	- [Prayer as medicine: how much have we learned?](https://pubmed.ncbi.nlm.nih.gov/17516884/)
+	- [Effects of oxytocin administration on spirituality and emotional responses to meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5040919/)
+	- [Meditation, Prayer and Spiritual Healing: The Evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396089/)
