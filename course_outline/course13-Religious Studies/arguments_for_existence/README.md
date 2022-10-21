@@ -321,3 +321,8 @@
 	- [Prayer as medicine: how much have we learned?](https://pubmed.ncbi.nlm.nih.gov/17516884/)
 	- [Effects of oxytocin administration on spirituality and emotional responses to meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5040919/)
 	- [Meditation, Prayer and Spiritual Healing: The Evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396089/)
+
+83. [Divine Revelation](https://plato.stanford.edu/entries/divine-revelation/)
+	- [Authenticity_of_divine_revelation](https://rationalwiki.org/wiki/Authenticity_of_divine_revelation)
+
+84. [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
