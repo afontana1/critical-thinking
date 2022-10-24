@@ -277,6 +277,12 @@
 175. [Critical_rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
 176. [Positivism](https://en.wikipedia.org/wiki/Positivism), [Positivism_dispute](https://en.wikipedia.org/wiki/Positivism_dispute), and [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
 177. [Historicism](https://en.wikipedia.org/wiki/Historicism)
+188. [Dogma](https://en.wikipedia.org/wiki/Dogma)
+	- [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
+	- [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+	- [Ad_hoc_hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
+	- [Raven_paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+	- [Selective_perception](https://en.wikipedia.org/wiki/Selective_perception)
 
 </details>
 
