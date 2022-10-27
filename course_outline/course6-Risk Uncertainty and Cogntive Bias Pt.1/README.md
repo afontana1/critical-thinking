@@ -24,3 +24,5 @@
 22. [Psychotherapy](https://en.wikipedia.org/wiki/Category:Psychotherapy)
 23. [Psychoanalysis](https://en.wikipedia.org/wiki/Category:Psychoanalysis)
 24. [Concept Creep](https://en.wikipedia.org/wiki/Concept_creep) and [Psychiatrization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8716590/)
+25. [Proportionality_bias](https://en.wikipedia.org/wiki/Proportionality_bias)
+26. [Intentionality Bias](https://pubmed.ncbi.nlm.nih.gov/18692779/)
