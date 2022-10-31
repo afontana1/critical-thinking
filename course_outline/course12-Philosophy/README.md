@@ -278,11 +278,14 @@
 176. [Positivism](https://en.wikipedia.org/wiki/Positivism), [Positivism_dispute](https://en.wikipedia.org/wiki/Positivism_dispute), and [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
 177. [Historicism](https://en.wikipedia.org/wiki/Historicism)
 188. [Dogma](https://en.wikipedia.org/wiki/Dogma)
-	- [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
-	- [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-	- [Ad_hoc_hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
-	- [Raven_paradox](https://en.wikipedia.org/wiki/Raven_paradox)
-	- [Selective_perception](https://en.wikipedia.org/wiki/Selective_perception)
+	* [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
+	* [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+	* [Ad_hoc_hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
+	* [Raven_paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+	* [Selective_perception](https://en.wikipedia.org/wiki/Selective_perception)
+189. [Neo Kantianism](https://plato.stanford.edu/entries/neo-kantianism/)
+190. [World_disclosure](https://en.wikipedia.org/wiki/World_disclosure)
+191. [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
 
 </details>
 
@@ -629,5 +632,7 @@
 - [Michel_Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
 - [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
 - [Simone_de_Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+- [Felix Guattari](https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari)
+- [Gilles_Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
 
 </details>

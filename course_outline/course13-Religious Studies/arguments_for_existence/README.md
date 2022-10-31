@@ -106,6 +106,8 @@
 	* [Suffering Evil](https://www.amazon.com/Suffering-Belief-Anglo-American-Defense-Religion/dp/0820439754)
 	* [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
 	* [Best of all Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
+	* [Skeptical Theism](https://plato.stanford.edu/entries/skeptical-theism/)
+	* [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
 
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)

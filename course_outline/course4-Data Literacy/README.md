@@ -19,3 +19,7 @@
 13. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
 14. [Placebo](https://en.wikipedia.org/wiki/Placebo) [Effect](https://www.ncbi.nlm.nih.gov/books/NBK513296/) and [Nocebo](https://en.wikipedia.org/wiki/Nocebo)
 15. [Self Fulfilling Prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)
+16. [Diagnosis](https://en.wikipedia.org/wiki/Diagnosis)
+    * [Medical_diagnosis](https://en.wikipedia.org/wiki/Category:Medical_diagnosis)
+    * [Diagnostic_program](https://en.wikipedia.org/wiki/Diagnostic_program)
+    * [AI Diagnosis](https://en.wikipedia.org/wiki/Diagnosis_(artificial_intelligence))

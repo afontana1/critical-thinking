@@ -42,6 +42,7 @@
 33. [Vatican Apostolic Archive](https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive)
 34. [Internal_consistency_of_the_Bible](https://en.wikipedia.org/wiki/Internal_consistency_of_the_Bible)
 35. [Bon_Secours_Mother_and_Baby_Home](https://en.m.wikipedia.org/wiki/Bon_Secours_Mother_and_Baby_Home)
+36. [Satisfaction_theory_of_atonement](https://en.wikipedia.org/wiki/Satisfaction_theory_of_atonement)
 
 ## Apologists, Theologians, Philosophers
 1. [Frederick Copleston](https://en.wikipedia.org/wiki/Frederick_Copleston)
