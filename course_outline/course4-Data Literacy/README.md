@@ -23,3 +23,6 @@
     * [Medical_diagnosis](https://en.wikipedia.org/wiki/Category:Medical_diagnosis)
     * [Diagnostic_program](https://en.wikipedia.org/wiki/Diagnostic_program)
     * [AI Diagnosis](https://en.wikipedia.org/wiki/Diagnosis_(artificial_intelligence))
+17. [Information_overload](https://en.wikipedia.org/wiki/Information_overload)
+18. [Information_literacy](https://en.wikipedia.org/wiki/Information_literacy)
+19. [Filter_bubble](https://en.wikipedia.org/wiki/Filter_bubble)

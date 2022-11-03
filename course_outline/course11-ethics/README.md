@@ -12,6 +12,7 @@
 10. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 11. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
 12. [Ethics for A-Level](https://books.openedition.org/obp/4401)
+13. [Ethical Concepts Playlist](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3RqKENcjVM-g10CHeLtdCoD)
 
 ## Concepts
 

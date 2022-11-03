@@ -1,5 +1,7 @@
 <details><summary><h1><a href="https://plato.stanford.edu/index.html">Philosophical Concepts</a></h1></summary>
 
+- [Philosophical Concepts](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Twa6jGRRBYsrqsLodJYfG7)
+
 1. [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
 2. [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
 3. [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
@@ -83,6 +85,7 @@
 10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
 11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 12. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
+13. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 
 </details>
 
@@ -353,6 +356,7 @@
 36. [Xenophon](https://en.wikipedia.org/wiki/Xenophon)
 37. [Polybius](https://en.wikipedia.org/wiki/Polybius)
 38. [Epictetus](https://en.wikipedia.org/wiki/Epictetus)
+39. [Seneca_the_Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 
 #### Historical Information
 

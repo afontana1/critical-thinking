@@ -8,6 +8,8 @@
 6. [Criticism of Journalism](https://en.wikipedia.org/wiki/Category:Criticism_of_journalism)
 7. [Journalistic_objectivity](https://en.wikipedia.org/wiki/Journalistic_objectivity)
 8. [Manufacturing consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
+9. [Moral_panic](https://en.wikipedia.org/wiki/Moral_panic)
+10. [Demonizing_the_enemy](https://en.wikipedia.org/wiki/Demonizing_the_enemy)
 
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/
