@@ -309,6 +309,7 @@
 11. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
 	- [Epicurean Philosophers](https://en.wikipedia.org/wiki/Category:Epicurean_philosophers)
 12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
+13. [Ancient_Roman_philosophy](https://en.wikipedia.org/wiki/Ancient_Roman_philosophy)
 
 </details>
 
@@ -595,6 +596,8 @@
 44. [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin)
 45. [Nancy Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
 46. [Ian_Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
+47. [Ray_Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff)
+48. [George_Lakoff](https://en.wikipedia.org/wiki/George_Lakoff)
 
 </details>
 
