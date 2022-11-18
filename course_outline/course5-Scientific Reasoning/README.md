@@ -37,6 +37,7 @@
 30. [Statistical Hypothesis Testing](https://en.wikipedia.org/wiki/Category:Statistical_hypothesis_testing)
 31. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
 32. [Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+33. [Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
@@ -79,6 +80,8 @@
 37. [History of Science](https://en.wikipedia.org/wiki/History_of_science)
 38. [Design of Experiments](https://en.wikipedia.org/wiki/Category:Design_of_experiments)
 39. [Scientific Law](https://en.wikipedia.org/wiki/Scientific_law)
+40. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
+41. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
 
 ## Process of Discovery
 1. [Criticism_of_academia](https://en.wikipedia.org/wiki/Category:Criticism_of_academia)
@@ -95,3 +98,4 @@
 12. [Publication_bias](https://en.wikipedia.org/wiki/Publication_bias)
 13. [Reporting_bias](https://en.wikipedia.org/wiki/Reporting_bias)
 14. [Source_credibility](https://en.wikipedia.org/wiki/Source_credibility)
+15. [Tests](https://en.wikipedia.org/wiki/Category:Tests)

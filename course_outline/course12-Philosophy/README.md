@@ -86,6 +86,7 @@
 11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 12. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
 13. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
+14. [History_of_psychology](https://en.wikipedia.org/wiki/Category:History_of_psychology)
 
 </details>
 
@@ -268,6 +269,8 @@
 163. [Prototype Theory](https://en.wikipedia.org/wiki/Prototype_theory)
 164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
 165. [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
+	- [The Postmodern condition](https://en.wikipedia.org/wiki/The_Postmodern_Condition)
+	- [Postmodernity](https://en.wikipedia.org/wiki/Postmodernity)
 166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
 167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
 168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
@@ -289,6 +292,12 @@
 189. [Neo Kantianism](https://plato.stanford.edu/entries/neo-kantianism/)
 190. [World_disclosure](https://en.wikipedia.org/wiki/World_disclosure)
 191. [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
+192. [turing test](https://plato.stanford.edu/entries/turing-test/)
+	- [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+193. [Linguistic_modality](https://en.wikipedia.org/wiki/Category:Linguistic_modality)
+194. [Language Game](https://en.wikipedia.org/wiki/Language_game_(philosophy))
+195. [Will to Power](https://en.wikipedia.org/wiki/Will_to_power)
+196. [Condorcet_paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
 
 </details>
 
@@ -358,6 +367,8 @@
 37. [Polybius](https://en.wikipedia.org/wiki/Polybius)
 38. [Epictetus](https://en.wikipedia.org/wiki/Epictetus)
 39. [Seneca_the_Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+40. [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
+41. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
 
 #### Historical Information
 
