@@ -298,6 +298,7 @@
 194. [Language Game](https://en.wikipedia.org/wiki/Language_game_(philosophy))
 195. [Will to Power](https://en.wikipedia.org/wiki/Will_to_power)
 196. [Condorcet_paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
+197. [The Economic Analysis of Law](https://plato.stanford.edu/entries/legal-econanalysis/)
 
 </details>
 

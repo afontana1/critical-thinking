@@ -99,3 +99,5 @@
 13. [Reporting_bias](https://en.wikipedia.org/wiki/Reporting_bias)
 14. [Source_credibility](https://en.wikipedia.org/wiki/Source_credibility)
 15. [Tests](https://en.wikipedia.org/wiki/Category:Tests)
+16. [Reproducibility](https://en.wikipedia.org/wiki/Reproducibility)
+17. [Replication_crisis](https://en.wikipedia.org/wiki/Replication_crisis)
