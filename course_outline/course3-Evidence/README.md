@@ -100,3 +100,5 @@
     - [Group Agency and Legal Proof; or, Why the Jury Is an “It"](https://scholarship.law.wm.edu/wmlr/vol56/iss5/4/)
 14. [Marina Gascón Abellán](https://www.researchgate.net/profile/Marina-Gascon-Abellan)
     - [Marina Gascón: Scientific proof. A map of challenges.](https://www.youtube.com/watch?v=H9ngtB3x0Ao)
+15. [Susan Haack: Proof, probability and Statistics: The Problem of "Delusive Exactness".](https://www.youtube.com/watch?v=zBPbTKlIU8I)
+16. [Susan Haack: Causation & Correlation: The Bradford Hill 'Criteria' in Epistemologial Context.](https://www.youtube.com/watch?v=-aA434dzgAI)

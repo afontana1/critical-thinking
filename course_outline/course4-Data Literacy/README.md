@@ -27,3 +27,38 @@
 18. [Information_literacy](https://en.wikipedia.org/wiki/Information_literacy)
 19. [Filter_bubble](https://en.wikipedia.org/wiki/Filter_bubble)
 20. [Data_collection](https://en.wikipedia.org/wiki/Category:Data_collection)
+
+## Lessons
+
+- [DataLearner](https://www.youtube.com/@DataLearner/featured)
+
+1. [Introduction to Epidemiology and Biostatistics](https://www.youtube.com/playlist?list=PLZ-wrYux2HNJOBKf79yJ_0z5lag1QC7I3)
+2. [Introduction to the Principles and Practice of Clinical Research](https://www.youtube.com/playlist?list=PLifjiEBb2Zq7ruvGhgyD2jDsgoaD3p6d4)
+3. [Sample Size and Power](https://www.youtube.com/watch?v=iP_BX7YJHhw)
+4. [IPPCR 2015: Overview of Hypothesis Testing](https://www.youtube.com/watch?v=x32CZ-7ZS8Q)
+5. [IPPCR 2015: Issues in Randomization](https://www.youtube.com/watch?v=UgFXLk7i46c)
+6. [Sidney Redner on Statistics and Everyday Life](https://www.youtube.com/watch?v=6p01peH1LKU)
+7. [How Not to Fall for Bad Statistics - with Jennifer Rogers](https://www.youtube.com/watch?v=OfVaOqLUbZA)
+8. [Measures of Risk in Epidemiology](https://www.youtube.com/watch?v=Yld9vRBFCKg&t=1816s)
+9. [4. Descriptive and Analytical Studies | CPP NCD Epidemiology](https://www.youtube.com/watch?v=1TbgGuMqC64)
+10. [Introduction to Statistical Hypothesis Testing](https://www.youtube.com/playlist?list=PLvOh309NvHlFue0q5Ra6u1YnnoXlCCFtM)
+11. [Evidence Based Medicine Lectures](https://www.youtube.com/playlist?list=PLW52emRJoXhD5cG3kNmHXBXzZ0tyeLeep)
+12. [Measures of Association](https://www.youtube.com/playlist?list=PL6p7gIm6aWd_9v6s3Mu80tREbFy22NmdI)
+13. [Statistics for Beginners](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz)
+
+## Short Lessons
+
+1. [Validity Bias and Confounding](https://www.youtube.com/watch?v=_hhvE40nNz8)
+2. [Cohort Studies..... Made Easy !!!](https://www.youtube.com/watch?v=VbjqYo8h6qA)
+3. [RCT vs Cohort](https://www.youtube.com/watch?v=vTUzrHTC2nU)
+4. [Epidemiology: Observational Study Types, Odds Ratio, Relative Risk, Attributable Risk](https://www.youtube.com/watch?v=9sCFQ1M3L-g)
+5. [Confounding](https://www.youtube.com/playlist?list=PL6p7gIm6aWd8c64dsLG_XAQlNaYlFqpDX)
+6. [What does statistical CONFOUNDING mean?? GREAT VIDEO!](https://www.youtube.com/watch?v=SjIbrNYAd5Y)
+7. [Screening in Epidemiology.... made easy !!!!](https://www.youtube.com/watch?v=cE5a8FGmTDM)
+8. [What are p-values?? Seriously.](https://www.youtube.com/watch?v=4XfTpkGe1Kc)
+9. [Epidemiology: Measures of Disease: Prevalence, Cumulative Incidence and Incidence Rate](https://www.youtube.com/watch?v=oQHqWy-gmpk)
+10. [Sensitivity, Specificity, PPV, and NPV](https://www.youtube.com/watch?v=mDwdlSdwCic)
+11. [Odds Ratios and Risk Ratios](https://www.youtube.com/watch?v=hOtoV2Kjb0o)
+12. [Epidemiology: Measure of Disease Frequency, Incidence and Prevalence](https://www.youtube.com/watch?v=9Jg4Dzdvv8M)
+13. [Errors in Hypothesis...Detail lecture](https://www.youtube.com/watch?v=UTS-x7StOcM)
+14. [What is Standardized Data?](https://www.youtube.com/watch?v=DOEstU62D4w)
