@@ -42,6 +42,18 @@
     - [How to Appraise a Clinical Trial - Part 1](https://www.youtube.com/watch?v=lmbxnnjfnGs&t=1s)
     - [How to Appraise a Clinical Trial - Part 2](https://www.youtube.com/watch?v=mjoxnQ-DpBI)
     - [How to Appraise a Clinical Trial - Part 3](https://www.youtube.com/watch?v=OPTm9amQgEE)
+33. [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
+34. [Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
+35. [Hearsay](https://en.wikipedia.org/wiki/Hearsay)
+36. [Trace Evidence](https://en.wikipedia.org/wiki/Trace_evidence)
+37. [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
+38. [Demonstrative Evidence](https://en.wikipedia.org/wiki/Demonstrative_evidence)
+39. [Coraborating Evidence](https://en.wikipedia.org/wiki/Corroborating_evidence)
+40. [Character Evidence](https://en.wikipedia.org/wiki/Character_evidence)
+41. [Circumstantial Evidence](https://en.wikipedia.org/wiki/Circumstantial_evidence)
+42. [Transient Evidence](https://en.wikipedia.org/wiki/Transient_evidence)
+43. [Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)
+44. [Admissable Evidence](https://en.wikipedia.org/wiki/Admissible_evidence)
 
 ## People
 
