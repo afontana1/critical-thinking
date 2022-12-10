@@ -106,6 +106,10 @@
 - [Ancient Indian Atheism](https://blog.apaonline.org/2020/06/16/the-untold-history-of-indias-vital-atheist-philosophy/)
 - [Indian Agnostics](https://en.wikipedia.org/wiki/Category:Indian_agnostics)
 - [List_of_atheist_activists_and_educators](https://en.wikipedia.org/wiki/List_of_atheist_activists_and_educators)
+- [Real Atheology](https://realatheology.wordpress.com/)
+- [Atheists of Silicon Valley](https://www.godlessgeeks.com/LINKS/Debate.html)
+- [Majesty of Reason](https://majestyofreason.wordpress.com/)
+- [Dan Linford](https://philpeople.org/profiles/dan-linford)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)

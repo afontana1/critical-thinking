@@ -1,28 +1,27 @@
 # [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
-- [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
-- [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
-- [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
+- [Over 100 Arguments for God ANSWERED](https://www.youtube.com/watch?v=iP0Mh42jvV4)
 
-1. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
+1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
+
+2. [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
+
+3. [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
+
+4. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
 	* [Hume Criticism](https://www.youtube.com/watch?v=g39SOnVM1tw)
 	* [Can Design Point to God? | Episode 1404 | Closer To Truth](https://www.youtube.com/watch?v=8uQofwylkGs)
+	* [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
 
-2. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
+5. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 
-3. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
+6. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
 
-4. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
+7. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
 
-5. [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
-
-6. [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
-	* [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
-
-7. [List of Ontological Arguments](https://plato.stanford.edu/entries/ontological-arguments/)
-
-8. [Ontological](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/) [Argument](https://www.thetablet.co.uk/student-zone/philosophy-of-religion/ontological/kant) 
+8. [List](https://plato.stanford.edu/entries/ontological-arguments/) of [Ontological Arguments](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/)
+	* [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
 	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
 	* [Kants Criticism](http://www.scandalon.co.uk/philosophy/ontological_kant.htm)
 	* [Godels Ontological](https://www.youtube.com/watch?v=LS3S2FNqxV4) [Proof](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof) and [Objections to Godel's Ontological Argument](https://www.youtube.com/watch?v=XfXAs66GW70&t=136s)
@@ -31,6 +30,8 @@
 	* [Betting on Necessity: The Modal Ontological Argument](https://www.youtube.com/watch?v=AFI9N768njk)
 	* [Memorializing the Modal Perfection Argument](https://www.youtube.com/watch?v=LoEaf9JSsSc)
 	* [The inconsistency in Gödel's ontological argument: a success story for AI in metaphysics](https://dl.acm.org/doi/10.5555/3060621.3060751)
+	* [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
+	* [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
 
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
@@ -79,7 +80,8 @@
 
 23. [Edwards Response to Aquinas](https://bettystoneman.wordpress.com/2010/10/25/aquinas-cosmological-argument-and-edwards-responses/)
 
-24. [Craig-Dawkins](https://www.oxfordstudent.com/2011/10/27/craig-strikes-back-at-genocide-smear/)
+24. [Hundreds of Proofs of God’s Existence](https://www.godlessgeeks.com/LINKS/GodProof.htm)
+	* [Why Atheism?](https://www.godlessgeeks.com/WhyAtheism.htm)
 
 25. [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
 
@@ -123,6 +125,10 @@
 	* [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
 
 30. [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
+	* [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
+	* [Is God Totally Free? | Episode 1313 | Closer To Truth](https://www.youtube.com/watch?v=1-7t2cSvxTw)
+	* [Can Free Will Survive God's Foreknowledge? | Episode 1412 | Closer To Truth](https://www.youtube.com/watch?v=0bEBFdTfHbg)
+	* [If God Knows the Future, What is Free Will? | Episode 710 | Closer To Truth](https://www.youtube.com/watch?v=Z9EeVRD43qA)
 
 31. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
 	* [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)
@@ -138,6 +144,7 @@
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
 	* [Empirical Critique](https://www.jstor.org/stable/1197397)
 	* [More Criticisms](https://rationalwiki.org/wiki/Argument_from_morality)
+	* [Moral Arguments for the Existence of God](https://plato.stanford.edu/entries/moral-arguments-god/)
 
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
 
@@ -202,6 +209,7 @@
 	* [Wittgensteins Perspective](https://iep.utm.edu/miracles/#H11)
 	* [Epistemic Theory of Miracles](https://en.wikipedia.org/wiki/Epistemic_theory_of_miracles)
 	* [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
+	* [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
 
 48. [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
 
@@ -239,7 +247,7 @@
 	* [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
 	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
 
-60. [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
+60. [Non Standard Arguments for Gods Existence](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
 
 61. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
 
@@ -248,6 +256,7 @@
 63. [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
 
 64. [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
+	* [Debunking Arguments against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
 
 65. [Debunking Arguments Against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
 
@@ -282,6 +291,7 @@
 
 75. [Incinerating Presuppositionalism](http://bahnsenburner.blogspot.com/)
 	- [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
+	- [Is God Necessary? | Episode 607 | Closer To Truth](https://www.youtube.com/watch?v=yJ1nWKbtku8)
 
 76. [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
 	- [Several Layers of Wrong | Wise Disciple Fails to Shatter Russell's Teapot](https://www.youtube.com/watch?v=wqYBlwHDxms)
@@ -296,6 +306,9 @@
 77. [The Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/) , [The Will to Believe](https://en.wikipedia.org/wiki/The_Will_to_Believe)
 
 78. [Jesus Resurrection Critically Examined](https://www.youtube.com/playlist?list=PLq3dh__o7S0oip-Xq7hSBe7oMUOE0SNyt)
+	- [The Evidence for Jesus Is Worse than You Think](https://www.youtube.com/watch?v=PGHOp-9yAbA)
+	- [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
+	- [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
 
 79. [The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
 80. [Attributes_of_God_in_Christian_theology](https://en.wikipedia.org/wiki/Category:Attributes_of_God_in_Christian_theology)
@@ -328,3 +341,5 @@
 	- [Authenticity_of_divine_revelation](https://rationalwiki.org/wiki/Authenticity_of_divine_revelation)
 
 84. [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
+
+85. [Complexity isn't that Complex of an Argument | Reacteria](https://www.youtube.com/watch?v=9jvv5lcs27U)

@@ -49,24 +49,8 @@
 12. [Professor David Explains](youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
 13. [King Crocoduck](https://www.youtube.com/c/KingCrocoduck/featured)
 14. [Forrest Valkai](https://www.youtube.com/c/RenegadeScienceTeacher)
-
-</details>
-
-<details><summary><h2>Historical Videos</h2></summary>
-
-1. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
-2. [Emperor Constantine: Is Western Christianity Based On A Lie?](https://www.youtube.com/watch?v=0E_bRADucBI)
-3. [Why Did Pontius Pilate Allow The Killing Of Christ?](https://www.youtube.com/watch?v=fppoqtIu2ug)
-4. [King Herod](https://www.youtube.com/watch?v=i_eJqsnPknM)
-5. [Why Did The Gospels Try To Erase Mary Magdalene?](https://www.youtube.com/watch?v=51VXjm5itcg)
-6. [Could This Be The Real Tomb Of Christ?](https://www.youtube.com/watch?v=Qyrrdoqspdg)
-7. [Is This Proof That Jesus Christ Never Existed?](https://www.youtube.com/watch?v=IMado9ukLt0)
-8. [The Real Exodus Story | Exodus Decoded](https://www.youtube.com/watch?v=XObk07uabLI)
-9. [The Dead Sea Scrolls // Ancient History Documentary](https://www.youtube.com/watch?v=kKjbc66qp3Y)
-10. [Mithraic Origins of Christianity](https://www.youtube.com/watch?v=1gIUlLyXYO0)
-11. [The Mythology Of Angels: Where Do They Come From? | The Angel Chronicles | Parable](https://www.youtube.com/watch?v=2-cirSMfS7w)
-12. [The Unknown Messiah Who Predated Jesus | Secrets of Christianity | Parable](https://www.youtube.com/watch?v=c3g0Rra1V_A)
-13. [What is Gnosticism?](https://www.youtube.com/watch?v=ockwMVE7PgM)
+15. [TheTruthHurts](youtube.com/@TheTruthHurts)
+16. [LloydEvans](https://www.youtube.com/@LloydEvans/about)
 
 </details>
 
@@ -309,5 +293,21 @@
 206. [Episode 37, Religious Language (Part IV – Further Analysis and Discussion)](https://www.youtube.com/watch?v=XyEejHUIZec)
 207. [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://www.youtube.com/watch?v=femxJFszbo8)
 208. [The Gospels Are Historical Fiction - Pay Attention Apologist! | Dennis R. MacDonald PhD](youtube.com/watch?v=gZ4KXqDyzHg)
+209. [Professor Dave Presents: Exorcism Priest Exposed](https://www.youtube.com/watch?v=7jKCRxm0bH4&t=2277s)
+210. [40 Scientific Inaccuracies from the Bible](https://www.youtube.com/watch?v=MsDl-EMomqM)
+211. [Exposing the Discovery Institute](https://www.youtube.com/playlist?list=PLhyfLZc913dN4GQFPiPLO7hBDdGGYQPmY)
+212. [Are The Lost Cities Of Sodom And Gomorrah Under The Dead Sea? | Sodom And Gomorrah](https://www.youtube.com/watch?v=UoIGbYv89bA)
+213. [Emperor Constantine: Is Western Christianity Based On A Lie?](https://www.youtube.com/watch?v=0E_bRADucBI)
+214. [Why Did Pontius Pilate Allow The Killing Of Christ?](https://www.youtube.com/watch?v=fppoqtIu2ug)
+215. [King Herod](https://www.youtube.com/watch?v=i_eJqsnPknM)
+216. [Why Did The Gospels Try To Erase Mary Magdalene?](https://www.youtube.com/watch?v=51VXjm5itcg)
+217. [Could This Be The Real Tomb Of Christ?](https://www.youtube.com/watch?v=Qyrrdoqspdg)
+218. [Is This Proof That Jesus Christ Never Existed?](https://www.youtube.com/watch?v=IMado9ukLt0)
+219. [The Real Exodus Story | Exodus Decoded](https://www.youtube.com/watch?v=XObk07uabLI)
+220. [The Dead Sea Scrolls // Ancient History Documentary](https://www.youtube.com/watch?v=kKjbc66qp3Y)
+221. [Mithraic Origins of Christianity](https://www.youtube.com/watch?v=1gIUlLyXYO0)
+222. [The Mythology Of Angels: Where Do They Come From? | The Angel Chronicles | Parable](https://www.youtube.com/watch?v=2-cirSMfS7w)
+223. [The Unknown Messiah Who Predated Jesus | Secrets of Christianity | Parable](https://www.youtube.com/watch?v=c3g0Rra1V_A)
+224. [What is Gnosticism?](https://www.youtube.com/watch?v=ockwMVE7PgM)
 
 </details>
