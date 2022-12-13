@@ -110,6 +110,8 @@
 - [Atheists of Silicon Valley](https://www.godlessgeeks.com/LINKS/Debate.html)
 - [Majesty of Reason](https://majestyofreason.wordpress.com/)
 - [Dan Linford](https://philpeople.org/profiles/dan-linford)
+- [Ex Apologist](http://exapologist.blogspot.com/)
+- [The Secular Outpost](https://infidels.org/)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)

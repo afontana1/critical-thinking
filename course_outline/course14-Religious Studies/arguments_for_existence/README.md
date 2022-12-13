@@ -1,6 +1,7 @@
 # [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
 - [Over 100 Arguments for God ANSWERED](https://www.youtube.com/watch?v=iP0Mh42jvV4)
+- [Philosophy of Religion online Textbook](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/TABLE_of_CONTENTS.htm)
 
 1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
@@ -343,3 +344,18 @@
 84. [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
 
 85. [Complexity isn't that Complex of an Argument | Reacteria](https://www.youtube.com/watch?v=9jvv5lcs27U)
+
+86. [Argument_from_religious_experience](https://en.wikipedia.org/wiki/Argument_from_religious_experience)
+	* [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
+	* [Religious Epistemology](https://iep.utm.edu/relig-ep/)
+	* [The Argument from Religious Experience](https://philosophicaldisquisitions.blogspot.com/2021/01/the-argument-from-religious-experience.html)
+	* [An Argument Against The Argument from Religious Experience](https://onemorebrown.com/2007/10/03/an-argument-against-the-argument-from-religious-experience/)
+	* [Paul Draper, the Fallacy of Understated Evidence, Theism, and Naturalism](https://secularfrontier.infidels.org/2016/02/paul-draper-the-fallacy-of-understated-evidence-theism-and-naturalism/)
+	* [Understating the Evidence](https://www.youtube.com/watch?v=Gs9TT6QGk_U)
+	* [The fallacy of understated evidence](https://www.youtube.com/watch?v=M6WxeUaTUt0)
+	* [Direct Experiences](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Religious_Experiences.htm)
+	* [Miracles](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Miracles.htm)
+	* [Psychic Phenomena](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Psychic_phenomena.htm)
+	* [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
+
+87. [150 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2022/06/120-or-so-arguments-for-atheism.html)

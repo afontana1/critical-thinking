@@ -54,6 +54,7 @@
 42. [Transient Evidence](https://en.wikipedia.org/wiki/Transient_evidence)
 43. [Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)
 44. [Admissable Evidence](https://en.wikipedia.org/wiki/Admissible_evidence)
+45. [Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
 
 ## People
 

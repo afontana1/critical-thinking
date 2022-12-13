@@ -299,6 +299,7 @@
 195. [Will to Power](https://en.wikipedia.org/wiki/Will_to_power)
 196. [Condorcet_paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
 197. [The Economic Analysis of Law](https://plato.stanford.edu/entries/legal-econanalysis/)
+198. [Fitch's Paradox of Knowability](https://en.wikipedia.org/wiki/Fitch%27s_paradox_of_knowability)
 
 </details>
 

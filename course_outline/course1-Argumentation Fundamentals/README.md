@@ -49,6 +49,7 @@
 28. [Thought-Terminating Cliche](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 29. [Kettle Logic](https://en.wikipedia.org/wiki/Kettle_logic)
 30. [Fallacies of Illicit Transference](https://en.wikipedia.org/wiki/Fallacies_of_illicit_transference)
+31. [Association Fallacy](https://en.wikipedia.org/wiki/Association_fallacy)
 
 ## [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning), [Inference](https://en.wikipedia.org/wiki/Category:Inference) & [Definition](https://en.wikipedia.org/wiki/Category:Definition), and [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
 
