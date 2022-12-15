@@ -32,6 +32,13 @@
 28. [Testimony](https://en.wikipedia.org/wiki/Category:Testimony)
 29. [Forensic Science](https://en.wikipedia.org/wiki/Forensic_science)
 30. [United_States_evidence_law](https://en.wikipedia.org/wiki/Category:United_States_evidence_law)
+    * [Federal Rules of Evidence](https://www.law.cornell.edu/rules/fre)
+    * [Preponderance of Evidence](https://www.law.cornell.edu/wex/preponderance_of_the_evidence)
+    * [Evidence Lectures](https://www.youtube.com/playlist?list=PLrHocdJpGBy3ej0nEDUwvzW8QdHmag0gy)
+    * [Evidence Crash Course](https://www.youtube.com/playlist?list=PL0JgU9zLKXAEDXuidYyqkWIDqklGUcTbc)
+    * [The Federal Rules of Evidence - Part 1](https://www.youtube.com/watch?v=nzPiwaLMTi4&t=738s)
+    * [The Federal Rules of Evidence - Part 2](https://www.youtube.com/watch?v=kobwQoPC-9k&t=2s)
+    * [The Federal Rules of Evidence - Part 3](https://www.youtube.com/watch?v=7IB74lXTQuI&t=7s)
 31. [Hierarchy_of_evidence](https://en.wikipedia.org/wiki/Hierarchy_of_evidence)
 32. [Evidence Based Practice Toolkit](https://libguides.winona.edu/ebptoolkit/Levels-Evidence)
     - [Understanding Evidence-Based Public Health Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724448/)
@@ -54,7 +61,8 @@
 42. [Transient Evidence](https://en.wikipedia.org/wiki/Transient_evidence)
 43. [Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)
 44. [Admissable Evidence](https://en.wikipedia.org/wiki/Admissible_evidence)
-45. [Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence)
+45. [Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence) [Discussion](https://www.lesswrong.com/posts/mnS2WYLCGJP2kQkRn/absence-of-evidence-is-evidence-of-absence)
+46. [Survivorship_bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 
 ## People
 

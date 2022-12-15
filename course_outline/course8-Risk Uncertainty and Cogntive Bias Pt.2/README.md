@@ -1,5 +1,7 @@
 # [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
 
+- [The Decision Lab](https://thedecisionlab.com/)
+
 1. [Probability Interpretations](https://en.wikipedia.org/wiki/Category:Probability_interpretations)
 2. [Prospect Theory](https://en.wikipedia.org/wiki/Category:Prospect_theory)
 3. [Utility](https://en.wikipedia.org/wiki/Category:Utility)
@@ -20,3 +22,4 @@
 18. [Certainty](https://en.wikipedia.org/wiki/Certainty)
 19. [Economics of Uncertainty](https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty)
 20. [Applied Probability](https://en.wikipedia.org/wiki/Category:Applied_probability)
+21. [Black_swan_theory](https://en.wikipedia.org/wiki/Black_swan_theory)
