@@ -292,14 +292,31 @@
 189. [Neo Kantianism](https://plato.stanford.edu/entries/neo-kantianism/)
 190. [World_disclosure](https://en.wikipedia.org/wiki/World_disclosure)
 191. [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
-192. [turing test](https://plato.stanford.edu/entries/turing-test/)
-	- [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+192. [Duhem Quine Thesis](https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 193. [Linguistic_modality](https://en.wikipedia.org/wiki/Category:Linguistic_modality)
 194. [Language Game](https://en.wikipedia.org/wiki/Language_game_(philosophy))
 195. [Will to Power](https://en.wikipedia.org/wiki/Will_to_power)
 196. [Condorcet_paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
 197. [The Economic Analysis of Law](https://plato.stanford.edu/entries/legal-econanalysis/)
 198. [Fitch's Paradox of Knowability](https://en.wikipedia.org/wiki/Fitch%27s_paradox_of_knowability)
+199. [Philosophy of AI](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
+	* [Reasoning_system](https://en.wikipedia.org/wiki/Reasoning_system)
+	* [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+	* [turing test](https://plato.stanford.edu/entries/turing-test/)
+	* [Knowledge_representation_and_reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
+	* [Church Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
+	* [Computability](https://en.wikipedia.org/wiki/Computability)
+	* [Computable Function](https://en.wikipedia.org/wiki/Computable_function)
+	* [Model of Computation](https://en.wikipedia.org/wiki/Model_of_computation)
+200. [Thought Experiment](https://plato.stanford.edu/entries/thought-experiment/)
+201. [Wu Wei](https://en.wikipedia.org/wiki/Wu_wei)
+202. [Observational_equivalence](https://en.wikipedia.org/wiki/Observational_equivalence)
+203. [Overdetermination](https://en.wikipedia.org/wiki/Overdetermination)
+204. [Confirmation_holism](https://en.wikipedia.org/wiki/Confirmation_holism)
+205. [Instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism)
+206. [Computational_theory_of_mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
+207. [Functionalism](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind))
+208. [Expert System](https://en.wikipedia.org/wiki/Expert_system)
 
 </details>
 
@@ -371,6 +388,7 @@
 39. [Seneca_the_Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 40. [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
 41. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
+42. [Seneca The Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 
 #### Historical Information
 
