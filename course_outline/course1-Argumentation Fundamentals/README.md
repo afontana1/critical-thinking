@@ -1,11 +1,9 @@
 # Papers and Resources on the Study of Reasoning
 
 ## People
-
 1. [Eric Pacuit](https://pacuit.org/)
 	- [Rationality](http://ai.stanford.edu/~epacuit/classes/rationality-fall2010.html)
 	- [Models of Strategic Reasoning](http://ai.stanford.edu/~epacuit/esslli2012/stratreas.html)
-
 1. [Law Probability and Risk](https://academic.oup.com/lpr)
 2. [Informal Logic](https://informallogic.ca/index.php/informal_logic/issue/archive)
 3. [Ontario Society for the Study of Argumentation](https://scholar.uwindsor.ca/ossaarchive/)
