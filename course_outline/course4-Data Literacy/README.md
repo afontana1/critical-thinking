@@ -1,4 +1,7 @@
 # Data Concepts
+
+- [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
+
 1. [Simpsons Paradox](https://plato.stanford.edu/entries/paradox-simpson/)
 2. [Probabilty Interpretations](https://en.wikipedia.org/wiki/Probability_interpretations)
     - [Random Variables](https://en.wikipedia.org/wiki/Random_variable)
@@ -27,6 +30,15 @@
 18. [Information_literacy](https://en.wikipedia.org/wiki/Information_literacy)
 19. [Filter_bubble](https://en.wikipedia.org/wiki/Filter_bubble)
 20. [Data_collection](https://en.wikipedia.org/wiki/Category:Data_collection)
+21. [Evidence Based Practice Toolkit](https://libguides.winona.edu/ebptoolkit/Levels-Evidence)
+    - [Understanding Evidence-Based Public Health Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724448/)
+    - [Clinical Terms](https://libguides.ohsu.edu/c.php?g=693307&p=4912291)
+    - [NCBI Guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2981887/)
+    - [NCBI Practitioners Guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124652/)
+    - [An Introduction to Evidence Based Medicine](https://www.youtube.com/watch?v=P-G2veeYC1Q)
+    - [How to Appraise a Clinical Trial - Part 1](https://www.youtube.com/watch?v=lmbxnnjfnGs&t=1s)
+    - [How to Appraise a Clinical Trial - Part 2](https://www.youtube.com/watch?v=mjoxnQ-DpBI)
+    - [How to Appraise a Clinical Trial - Part 3](https://www.youtube.com/watch?v=OPTm9amQgEE)
 
 ## Lessons
 
@@ -45,6 +57,7 @@
 11. [Evidence Based Medicine Lectures](https://www.youtube.com/playlist?list=PLW52emRJoXhD5cG3kNmHXBXzZ0tyeLeep)
 12. [Measures of Association](https://www.youtube.com/playlist?list=PL6p7gIm6aWd_9v6s3Mu80tREbFy22NmdI)
 13. [Statistics for Beginners](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz)
+14. [The Challenges of Evidence-Based Medicine (Part 1)](https://www.youtube.com/watch?v=WOe1omiM3NM&t=2061s)
 
 ## Short Lessons
 

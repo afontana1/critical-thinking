@@ -1,6 +1,8 @@
 # Evidence and Proof
 
-## [Proof](https://en.wikipedia.org/wiki/Proof_(truth)), [Evidence](https://en.wikipedia.org/wiki/Category:Evidence), & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence) & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+
+- [BJM Evidence Based Medicine](https://ebm.bmj.com/)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Assertion](https://en.wikipedia.org/wiki/Speech_act)
@@ -40,15 +42,7 @@
     * [The Federal Rules of Evidence - Part 2](https://www.youtube.com/watch?v=kobwQoPC-9k&t=2s)
     * [The Federal Rules of Evidence - Part 3](https://www.youtube.com/watch?v=7IB74lXTQuI&t=7s)
 31. [Hierarchy_of_evidence](https://en.wikipedia.org/wiki/Hierarchy_of_evidence)
-32. [Evidence Based Practice Toolkit](https://libguides.winona.edu/ebptoolkit/Levels-Evidence)
-    - [Understanding Evidence-Based Public Health Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724448/)
-    - [Clinical Terms](https://libguides.ohsu.edu/c.php?g=693307&p=4912291)
-    - [NCBI Guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2981887/)
-    - [NCBI Practitioners Guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124652/)
-    - [An Introduction to Evidence Based Medicine](https://www.youtube.com/watch?v=P-G2veeYC1Q)
-    - [How to Appraise a Clinical Trial - Part 1](https://www.youtube.com/watch?v=lmbxnnjfnGs&t=1s)
-    - [How to Appraise a Clinical Trial - Part 2](https://www.youtube.com/watch?v=mjoxnQ-DpBI)
-    - [How to Appraise a Clinical Trial - Part 3](https://www.youtube.com/watch?v=OPTm9amQgEE)
+32. [Proof](https://en.wikipedia.org/wiki/Proof_(truth))
 33. [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
 34. [Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 35. [Hearsay](https://en.wikipedia.org/wiki/Hearsay)
@@ -64,6 +58,7 @@
 45. [Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence) [Discussion](https://www.lesswrong.com/posts/mnS2WYLCGJP2kQkRn/absence-of-evidence-is-evidence-of-absence)
 46. [Survivorship_bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 47. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
+48. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))
 
 ## People
 

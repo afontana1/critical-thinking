@@ -1,5 +1,8 @@
 # Additional Resources
 
+- [Judea Pearl Website](http://bayes.cs.ucla.edu/jp_home.html)
+- [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
 1. [Mathematical Treatments of Causality](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)
 2. [Proximate Cause](https://en.wikipedia.org/wiki/Proximate_cause)
 3. [Causation](https://plato.stanford.edu/entries/causation-law/) in [Law](https://en.wikipedia.org/wiki/Causation_(law))

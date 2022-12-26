@@ -1,5 +1,8 @@
 # [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
+- [Catalog of Bias](https://catalogofbias.org/biases/)
+- [Decision Lab Bias Index](https://thedecisionlab.com/biases-index)
+
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
 3. [List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
