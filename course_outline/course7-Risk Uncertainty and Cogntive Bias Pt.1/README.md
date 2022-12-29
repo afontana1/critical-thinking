@@ -2,6 +2,10 @@
 
 - [Catalog of Bias](https://catalogofbias.org/biases/)
 - [Decision Lab Bias Index](https://thedecisionlab.com/biases-index)
+- [Pscychological Methodology](https://en.wikipedia.org/wiki/Category:Psychological_methodology)
+- [Psychological Theories](https://en.wikipedia.org/wiki/Category:Psychological_theories)
+- [Psychological Concepts](https://en.wikipedia.org/wiki/Category:Psychological_concepts)
+- [Psychometrics](https://en.wikipedia.org/wiki/Category:Psychometrics)
 
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
