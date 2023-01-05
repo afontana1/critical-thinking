@@ -16,3 +16,4 @@
 10. [PICO_process](https://en.wikipedia.org/wiki/PICO_process)
 11. [Scientific_control](https://en.wikipedia.org/wiki/Scientific_control)
 12. [Baconian_method](https://en.wikipedia.org/wiki/Baconian_method)
+13. [Root Cause Analysis](https://en.wikipedia.org/wiki/Root_cause_analysis)

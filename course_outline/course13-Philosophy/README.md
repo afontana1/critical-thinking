@@ -21,7 +21,7 @@
 
 <details><summary><h2> Traditions, Movements, and Theories </h2></summary>
 
-1. [Information Philosophy](https://www.informationphilosopher.com/solutions/scientists/klemm/)
+1. [Information Philosophy](https://www.informationphilosopher.com/)
 2. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 3. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
 4. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)

@@ -3,6 +3,7 @@
 ## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence) & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 - [BJM Evidence Based Medicine](https://ebm.bmj.com/)
+- [CONSORT](https://www.consort-statement.org/)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Assertion](https://en.wikipedia.org/wiki/Speech_act)
@@ -59,6 +60,7 @@
 46. [Survivorship_bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 47. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
 48. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))
+49. [GRADE Approach](https://en.wikipedia.org/wiki/GRADE_approach)
 
 ## People
 
