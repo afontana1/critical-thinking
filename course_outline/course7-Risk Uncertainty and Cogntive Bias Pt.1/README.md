@@ -34,3 +34,4 @@
 25. [Proportionality_bias](https://en.wikipedia.org/wiki/Proportionality_bias)
 26. [Intentionality Bias](https://pubmed.ncbi.nlm.nih.gov/18692779/)
 27. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
+28. [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)

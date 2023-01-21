@@ -72,6 +72,7 @@
 59. [Paula_Fredriksen](https://en.wikipedia.org/wiki/Paula_Fredriksen)
 60. [Dennis_MacDonald](https://en.wikipedia.org/wiki/Dennis_MacDonald)
 61. [Lena Einhorn](https://lenaeinhorn.se/)
+62. [Elaine_Pagels](https://en.wikipedia.org/wiki/Elaine_Pagels)
 
 ## Methods
 
