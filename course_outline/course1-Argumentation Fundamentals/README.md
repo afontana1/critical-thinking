@@ -49,7 +49,7 @@
 30. [Fallacies of Illicit Transference](https://en.wikipedia.org/wiki/Fallacies_of_illicit_transference)
 31. [Association Fallacy](https://en.wikipedia.org/wiki/Association_fallacy)
 
-## [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning), [Inference](https://en.wikipedia.org/wiki/Category:Inference) & [Definition](https://en.wikipedia.org/wiki/Category:Definition), and [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
+## [Reasoning](https://en.wikipedia.org/wiki/Category:Reasoning), [Inference](https://en.wikipedia.org/wiki/Category:Inference)
 
 1. [Argumenation Theory](https://en.wikipedia.org/wiki/Argumentation_theory)
 2. [Deductive Reasoning](https://en.wikipedia.org/wiki/Category:Deductive_reasoning)

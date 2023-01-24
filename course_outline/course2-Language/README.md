@@ -1,4 +1,4 @@
-## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
+## [Deception](https://en.wikipedia.org/wiki/Category:Deception) and [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech) and [Definition](https://en.wikipedia.org/wiki/Category:Definition)
 
 1. [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
 2. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
@@ -26,7 +26,8 @@
 24. [Narratology](https://en.wikipedia.org/wiki/Category:Narratology)
 25. [Story Telling](https://en.wikipedia.org/wiki/Category:Storytelling)
 
-# Interpretation
+# [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
+
 1. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
 2. [Literary Theory](https://en.wikipedia.org/wiki/Category:Literary_theory)
 3. [Literary Criticism](https://en.wikipedia.org/wiki/Category:Literary_criticism)
