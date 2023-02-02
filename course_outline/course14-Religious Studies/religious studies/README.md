@@ -73,6 +73,7 @@
 60. [Dennis_MacDonald](https://en.wikipedia.org/wiki/Dennis_MacDonald)
 61. [Lena Einhorn](https://lenaeinhorn.se/)
 62. [Elaine_Pagels](https://en.wikipedia.org/wiki/Elaine_Pagels)
+63. [Francesca_Stavrakopoulou](https://en.wikipedia.org/wiki/Francesca_Stavrakopoulou)
 
 ## Methods
 
