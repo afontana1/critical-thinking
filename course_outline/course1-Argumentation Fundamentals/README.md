@@ -91,6 +91,7 @@
 38. [Model Based Reasoning](https://en.wikipedia.org/wiki/Model-based_reasoning)
 39. [Procedural Reasoning](https://en.wikipedia.org/wiki/Procedural_reasoning_system)
 40. [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning)
+41. [Aristotles Topics](https://en.wikipedia.org/wiki/Topics_(Aristotle))
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
