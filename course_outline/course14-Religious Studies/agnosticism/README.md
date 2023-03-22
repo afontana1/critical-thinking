@@ -143,6 +143,7 @@
 - [Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
 - [Viced Rhino](https://www.youtube.com/c/vicedrhino)
 - [Darkmatter2525](https://www.youtube.com/user/darkmatter2525)
+- [The Atheist Experience](https://www.youtube.com/@TheAtheistExperience)
 
 ### People
 
