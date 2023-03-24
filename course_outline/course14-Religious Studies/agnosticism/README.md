@@ -133,6 +133,8 @@
 - [The Atheist Blogger](http://atheistblogger.com/)
 - [Secular By Nature](https://secularbynature.wordpress.com/)
 - [Atheist Alliance International](https://www.atheistalliance.org/)
+- [Graceful Atheist](https://gracefulatheist.com/)
+- [Evid3nc3](https://evid3nc3.wordpress.com/): [Why I am No Longer a Christian](https://www.youtube.com/playlist?list=PLA0C3C1D163BE880A)
 
 ### Youtube Accounts
 
