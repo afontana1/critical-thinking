@@ -36,6 +36,7 @@
 
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
+	* [The Argument from Hell](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7G8-No--9MAdNgJmAGiIXjh)
 
 10. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
 
@@ -124,6 +125,7 @@
 	* [Collection of Debates](https://www.youtube.com/watch?v=ZD92WaNjJF8&list=PL96Nl_XJhQEj6TzLq2gfRAOB3neFNe3Hm)
 	* [Collection of Discussions](https://www.youtube.com/watch?v=ZTDbUE83JyI&list=PLxRhaLyXxXkZzH2YffI32ViTZ73Tu8jSR)
 	* [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
+	* [Countering the Kalam](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7E17ejxJNyPxRM7Zki-nS6G)
 
 30. [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
 	* [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
@@ -146,6 +148,8 @@
 	* [Empirical Critique](https://www.jstor.org/stable/1197397)
 	* [More Criticisms](https://rationalwiki.org/wiki/Argument_from_morality)
 	* [Moral Arguments for the Existence of God](https://plato.stanford.edu/entries/moral-arguments-god/)
+	* [Quick Counters to the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FMPvpIo5ReKW4pneBHzZdX)
+	* [Countering the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FAcDBQq-sMejB9jtbF1gSs)
 
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
 
