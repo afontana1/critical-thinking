@@ -288,6 +288,7 @@
 	- [Argument from Biologival Information](https://iep.utm.edu/design-arguents-for-existence-of-god/#:~:text=The%20argument%20from%20biological%20information%20is%20concerned%20with%20an%20explanation,very%20first%20forms%20of%20life.)
 	- [Rejections of Informational Concepts](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
 	- [Rare Earth Hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
+	- [Complexity isn't that Complex of an Argument](https://www.youtube.com/watch?v=9jvv5lcs27U)
 
 74. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
 	- [Refutation](https://rationalwiki.org/wiki/Lewis_Trilemma)
