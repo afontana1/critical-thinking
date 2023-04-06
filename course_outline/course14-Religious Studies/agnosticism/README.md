@@ -211,3 +211,11 @@
 58. [Ancient Indian Atheism](https://blog.apaonline.org/2020/06/16/the-untold-history-of-indias-vital-atheist-philosophy/)
 59. [Indian Agnostics](https://en.wikipedia.org/wiki/Category:Indian_agnostics)
 60. [List_of_atheist_activists_and_educators](https://en.wikipedia.org/wiki/List_of_atheist_activists_and_educators)
+61. [Yuval_Noah_Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)
+
+## Books
+
+1. [The Illusion of Gods Presence](https://www.amazon.com/Illusion-Gods-Presence-Biological-Spiritual-ebook/dp/B00WCY514C)
+2. [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death)
+3. [The_Myth_of_Persecution](https://en.wikipedia.org/wiki/The_Myth_of_Persecution)
+4. [A History of God](https://en.wikipedia.org/wiki/A_History_of_God)

@@ -74,8 +74,14 @@
 61. [Lena Einhorn](https://lenaeinhorn.se/)
 62. [Elaine_Pagels](https://en.wikipedia.org/wiki/Elaine_Pagels)
 63. [Francesca_Stavrakopoulou](https://en.wikipedia.org/wiki/Francesca_Stavrakopoulou)
+64. [William G Dever](https://en.wikipedia.org/wiki/William_G._Dever)
+65. [Hector Avalos](https://en.wikipedia.org/wiki/Hector_Avalos)
+66. [Phillip R Davies](https://en.wikipedia.org/wiki/Philip_R._Davies)
+67. [Ronald S Hendel](https://www.biblicalarchaeology.org/scholar/ronald-s-hendel/)
 
 ## Methods
+
+- [biblicalarchaeology](https://www.biblicalarchaeology.org/)
 
 1. [Historical Criticism](https://en.wikipedia.org/wiki/Historical_criticism)
 2. [Textual Criticism](https://en.wikipedia.org/wiki/Textual_criticism)

@@ -6,6 +6,8 @@
 - [Psychological Theories](https://en.wikipedia.org/wiki/Category:Psychological_theories)
 - [Psychological Concepts](https://en.wikipedia.org/wiki/Category:Psychological_concepts)
 - [Psychometrics](https://en.wikipedia.org/wiki/Category:Psychometrics)
+- [Psychotherapy](https://en.wikipedia.org/wiki/Category:Psychotherapy)
+- [List of Psychotherapies](https://en.wikipedia.org/wiki/List_of_psychotherapies)
 
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
