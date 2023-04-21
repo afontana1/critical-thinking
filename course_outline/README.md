@@ -64,3 +64,4 @@
 48. [Lars P. Syll Blog](https://larspsyll.wordpress.com/)
 49. [Thinking Is Power](https://thinkingispower.com/)
 50. [Massimo Pigliucci](https://massimopigliucci.org/)
+51. [Center for Applied Rationality](https://www.rationality.org/)
