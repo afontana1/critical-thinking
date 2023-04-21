@@ -102,7 +102,7 @@
 
 ## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
-### Blogs
+### Blogs and Websites
 - [Atheism and the City](http://www.atheismandthecity.com/?m=1)
 - [Real Atheology](https://realatheology.wordpress.com/)
 - [Atheists of Silicon Valley](https://www.godlessgeeks.com/LINKS/Debate.html)
@@ -135,6 +135,14 @@
 - [Atheist Alliance International](https://www.atheistalliance.org/)
 - [Graceful Atheist](https://gracefulatheist.com/)
 - [Evid3nc3](https://evid3nc3.wordpress.com/): [Why I am No Longer a Christian](https://www.youtube.com/playlist?list=PLA0C3C1D163BE880A)
+- [god is imaginary](https://godisimaginary.com/)
+- [The Atheist Experience](https://www.axp.show/)
+- [The Thinking Atheist](https://www.thethinkingatheist.com/)
+- [Skeptical Faith](https://skepticfaith.blogspot.com/?m=1)
+- [Skeptics Path to Enlightenment](https://www.skepticspath.org/)
+- [Center for the Study of Religion and Conflict](https://csrc.asu.edu/)
+- [Institute for Islamic Christian and Jewish Studies](https://icjs.org/)
+- [Americans United for Seperation of Church and State](https://www.au.org/)
 
 ### Youtube Accounts
 
@@ -212,6 +220,9 @@
 59. [Indian Agnostics](https://en.wikipedia.org/wiki/Category:Indian_agnostics)
 60. [List_of_atheist_activists_and_educators](https://en.wikipedia.org/wiki/List_of_atheist_activists_and_educators)
 61. [Yuval_Noah_Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)
+62. [Brad Onishi](https://www.bradonishi.com/) & [Straight White American Jesus](https://www.straightwhiteamericanjesus.com/)
+63. [Andrew L Seidel](https://andrewlseidel.com/)
+64. [Massimo_Pigliucci](https://en.wikipedia.org/wiki/Massimo_Pigliucci)
 
 ## Books
 
