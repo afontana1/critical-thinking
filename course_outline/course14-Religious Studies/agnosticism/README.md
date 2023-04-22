@@ -230,3 +230,8 @@
 2. [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death)
 3. [The_Myth_of_Persecution](https://en.wikipedia.org/wiki/The_Myth_of_Persecution)
 4. [A History of God](https://en.wikipedia.org/wiki/A_History_of_God)
+5. [The Founding Myth](https://en.wikipedia.org/wiki/The_Founding_Myth)
+6. [The Not-So Intelligent Designer](https://www.amazon.com/Not-So-Intelligent-Designer-Evolution-Explains-Intelligent/dp/1620329417)
+7. [Ten Things Christians Wish Jesus Hadn't Taught: And Other Reasons to Question His Words](https://www.amazon.com/Things-Christians-Jesus-Hadnt-Taught/dp/1733352082/ref=d_pd_sim_sccl_1_4/140-9303125-4896447?pd_rd_w=LfJUM&content-id=amzn1.sym.9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_p=9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_r=3FYNRNENAHM7D6PPEK6G&pd_rd_wg=VmVzw&pd_rd_r=ea7658b3-ce50-432e-89ba-fec8659d8b5f&pd_rd_i=1733352082&psc=1)
+8. [The Atheist Handbook to the Old Testament: Volume 1](https://www.amazon.com/Atheist-Handbook-Old-Testament-ebook/dp/B094RF3CF3)
+9. [Zealot: The Life and Times of Jesus of Nazareth](https://en.wikipedia.org/wiki/Zealot:_The_Life_and_Times_of_Jesus_of_Nazareth)
