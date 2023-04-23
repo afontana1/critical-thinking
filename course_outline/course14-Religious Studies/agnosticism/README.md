@@ -143,6 +143,7 @@
 - [Center for the Study of Religion and Conflict](https://csrc.asu.edu/)
 - [Institute for Islamic Christian and Jewish Studies](https://icjs.org/)
 - [Americans United for Seperation of Church and State](https://www.au.org/)
+- [Resurrection Review](https://mlhartke.wordpress.com/)
 
 ### Youtube Accounts
 
@@ -223,6 +224,8 @@
 62. [Brad Onishi](https://www.bradonishi.com/) & [Straight White American Jesus](https://www.straightwhiteamericanjesus.com/)
 63. [Andrew L Seidel](https://andrewlseidel.com/)
 64. [Massimo_Pigliucci](https://en.wikipedia.org/wiki/Massimo_Pigliucci)
+65. [Ryan T. Cragun](https://www.ryantcragun.com/)
+66. [David Madison](https://www.tentoughproblems.com/about-the-author/)
 
 ## Books
 
@@ -235,3 +238,5 @@
 7. [Ten Things Christians Wish Jesus Hadn't Taught: And Other Reasons to Question His Words](https://www.amazon.com/Things-Christians-Jesus-Hadnt-Taught/dp/1733352082/ref=d_pd_sim_sccl_1_4/140-9303125-4896447?pd_rd_w=LfJUM&content-id=amzn1.sym.9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_p=9125e5ab-ea95-44ef-9958-112d5f0f26f0&pf_rd_r=3FYNRNENAHM7D6PPEK6G&pd_rd_wg=VmVzw&pd_rd_r=ea7658b3-ce50-432e-89ba-fec8659d8b5f&pd_rd_i=1733352082&psc=1)
 8. [The Atheist Handbook to the Old Testament: Volume 1](https://www.amazon.com/Atheist-Handbook-Old-Testament-ebook/dp/B094RF3CF3)
 9. [Zealot: The Life and Times of Jesus of Nazareth](https://en.wikipedia.org/wiki/Zealot:_The_Life_and_Times_of_Jesus_of_Nazareth)
+10. [Ten Tough Problems in Christian Thought and Belief](https://www.amazon.com/Problems-Christian-Thought-Belief-Minister-Turned-Atheist/dp/194289712X)
+11. [What You Don't Know about Religion (But Should)](https://www.amazon.com/gp/product/0985281537/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0985281537&linkCode=as2&tag=cenforinqonca-20)
