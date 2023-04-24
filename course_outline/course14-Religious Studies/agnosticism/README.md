@@ -144,6 +144,7 @@
 - [Institute for Islamic Christian and Jewish Studies](https://icjs.org/)
 - [Americans United for Seperation of Church and State](https://www.au.org/)
 - [Resurrection Review](https://mlhartke.wordpress.com/)
+- [The Cure for Christianity](https://www.cureforchristianity.com/)
 
 ### Youtube Accounts
 
