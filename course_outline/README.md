@@ -65,3 +65,5 @@
 49. [Thinking Is Power](https://thinkingispower.com/)
 50. [Massimo Pigliucci](https://massimopigliucci.org/)
 51. [Center for Applied Rationality](https://www.rationality.org/)
+52. [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
+53. [The Decision Lab](https://thedecisionlab.com/)
