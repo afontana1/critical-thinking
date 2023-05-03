@@ -67,3 +67,7 @@
 51. [Center for Applied Rationality](https://www.rationality.org/)
 52. [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
 53. [The Decision Lab](https://thedecisionlab.com/)
+54. [The Systems Thinker](https://thesystemsthinker.com/)
+55. [Networks and Systems](https://petterhol.me/blog/)
+56. [Systems Thinking](https://se-scholar.com/se-blog/category/Systems+Thinking)
+57. [Evaluation](http://mandeblog.blogspot.com/)
