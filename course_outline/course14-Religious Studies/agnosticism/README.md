@@ -270,7 +270,6 @@
 - [Viced Rhino](https://www.youtube.com/c/vicedrhino)
 - [Darkmatter2525](https://www.youtube.com/user/darkmatter2525)
 - [The Atheist Experience](https://www.youtube.com/@TheAtheistExperience)
-- [Servus Christi](https://www.youtube.com/@ServusChristi)
 - [Ex Muslims North America](https://www.youtube.com/@ExMuslimsOrg)
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 
