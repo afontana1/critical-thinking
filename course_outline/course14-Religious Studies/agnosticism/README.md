@@ -343,6 +343,7 @@
 64. [Massimo_Pigliucci](https://en.wikipedia.org/wiki/Massimo_Pigliucci)
 65. [Ryan T. Cragun](https://www.ryantcragun.com/)
 66. [David Madison](https://www.tentoughproblems.com/about-the-author/)
+67. [Arif Ahmed](https://en.wikipedia.org/wiki/Arif_Ahmed_(philosopher))
 
 ## Books
 

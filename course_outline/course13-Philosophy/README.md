@@ -11,11 +11,12 @@
 
 </details>
 
-<details><summary><h2> Classics </h2></summary>
+<details><summary><h2><a href="https://en.wikipedia.org/wiki/Classics"> Classics </a></h2></summary>
 
 1. [Aristotles Classics](http://classics.mit.edu/Browse/browse-Aristotle.html)
 2. [Plato](http://classics.mit.edu/Browse/browse-Plato.html)
 3. [Socrates](http://onlinebooks.library.upenn.edu/webbin/book/browse?type=lcsubc&key=Socrates)
+4. [Philology](https://en.wikipedia.org/wiki/Philology)
 
 </details>
 
@@ -68,6 +69,8 @@
 	- [Theories of Truth](https://en.wikipedia.org/wiki/Category:Theories_of_truth)
 	- [Truth Values](https://plato.stanford.edu/entries/truth-values/)
 	- [Reliabalism](https://plato.stanford.edu/entries/reliabilism/)
+	- [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
+	- [Disquotational Principle](https://en.wikipedia.org/wiki/Disquotational_principle)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -87,6 +90,7 @@
 12. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
 13. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 14. [History_of_psychology](https://en.wikipedia.org/wiki/Category:History_of_psychology)
+15. [Subjectivity vs. Objectivity in the epistemic and ontological senses (John Searle)](http://new-savanna.blogspot.com/2016/10/subjectivity-vs-objectivity-in.html)
 
 </details>
 
@@ -629,6 +633,8 @@
 46. [Ian_Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
 47. [Ray_Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff)
 48. [George_Lakoff](https://en.wikipedia.org/wiki/George_Lakoff)
+49. [Luciano Floridi](https://en.wikipedia.org/wiki/Luciano_Floridi)
+50. [Arif Ahmed](https://en.wikipedia.org/wiki/Arif_Ahmed_(philosopher))
 
 </details>
 
@@ -649,6 +655,8 @@
 
 #### Key People
 
+- [Henri De Saint Simon](https://en.wikipedia.org/wiki/Henri_de_Saint-Simon)
+- [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
 - [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci)
 - [Louis Althusser](https://en.wikipedia.org/wiki/Louis_Althusser)
 - [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
@@ -658,6 +666,20 @@
 - [Georg_Simmel](https://en.wikipedia.org/wiki/Georg_Simmel)
 - [Max_Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer)
 - [Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno)
+- [Robert Owen](https://en.wikipedia.org/wiki/Robert_Owen)
+
+#### Descendent Intellectuals
+
+- [Derrick Bell](https://en.wikipedia.org/wiki/Derrick_Bell)
+- [Robin DiAngelo](https://en.wikipedia.org/wiki/Robin_DiAngelo)
+- [Ibram X Kendi](https://en.wikipedia.org/wiki/Ibram_X._Kendi)
+- [Nikole Hannah Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)
+- [Ta Nehisi Coates](https://en.wikipedia.org/wiki/Ta-Nehisi_Coates)
+- [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
+- [Kimberle Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Crenshaw)
+- [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
+- [Richard Delgado](https://en.wikipedia.org/wiki/Richard_Delgado)
+
 </details>
 
 <details><summary><h3><a href="https://en.wikipedia.org/wiki/Continental_philosophy">French Continental Philosophy</h3></summary>

@@ -2,6 +2,9 @@
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 
+- [E.H. Carr: What Is History?](https://en.wikipedia.org/wiki/What_Is_History%3F)
+- [Creating a Usable Past](https://www.degruyter.com/document/doi/10.12987/9780300252316-015/html?lang=en)
+
 1. [Historiography](https://en.wikipedia.org/wiki/Category:Historiography)
 2. [Philosophy of History](https://en.wikipedia.org/wiki/Category:Philosophy_of_history)
 3. [Methods](https://en.wikipedia.org/wiki/Category:Methods_in_archaeology) in [Archaeology](https://en.wikipedia.org/wiki/Archaeology)

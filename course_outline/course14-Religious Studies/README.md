@@ -148,3 +148,4 @@
 116. [Religious_philosophical_concepts](https://en.wikipedia.org/wiki/Category:Religious_philosophical_concepts)
 117. [Soul](https://en.wikipedia.org/wiki/Soul)
 118. [Apollonius_of_Tyana](https://en.wikipedia.org/wiki/Apollonius_of_Tyana)
+119. [Interpreters Bible Series](https://en.wikipedia.org/wiki/Interpreter%27s_Bible_series)
