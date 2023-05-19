@@ -78,6 +78,7 @@
 65. [Hector Avalos](https://en.wikipedia.org/wiki/Hector_Avalos)
 66. [Phillip R Davies](https://en.wikipedia.org/wiki/Philip_R._Davies)
 67. [Ronald S Hendel](https://www.biblicalarchaeology.org/scholar/ronald-s-hendel/)
+68. [Hugo Mendez](https://www.hugomendez.com/)
 
 ## Methods
 

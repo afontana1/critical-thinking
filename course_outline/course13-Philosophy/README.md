@@ -71,6 +71,7 @@
 	- [Reliabalism](https://plato.stanford.edu/entries/reliabilism/)
 	- [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
 	- [Disquotational Principle](https://en.wikipedia.org/wiki/Disquotational_principle)
+	- [Computational Epistemology](http://cogsci.uwaterloo.ca/Index.html)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)

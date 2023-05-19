@@ -79,3 +79,8 @@
 63. [The Information Philosopher](https://www.informationphilosopher.com/)
 64. [New Savanna](https://new-savanna.blogspot.com/)
 65. [UC Berkeley Stats and Critical Thinking](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
+66. [Global Center for Religious Research](https://www.gcrr.org/)
+67. [System Dynamics](https://systemdynamics.org/)
+68. [Positivism: Secular, Social, Scientific](http://positivists.org/blog/welcome)
+69. [Statistics How To](https://www.statisticshowto.com/)
+70. [Mythology Matters](https://mythologymatters.wordpress.com/)

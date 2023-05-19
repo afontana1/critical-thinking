@@ -12,6 +12,9 @@
 10. [Demonizing_the_enemy](https://en.wikipedia.org/wiki/Demonizing_the_enemy)
 11. [Goebbels Propaganda Model](https://www.physics.smu.edu/pseudo/Propaganda/goebbels.html)
 12. [Psychological Manipulation](https://en.wikipedia.org/wiki/Category:Psychological_manipulation)
+13. [List of Think Tanks in the USA](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
+14. [American Constitution Society](https://www.acslaw.org/)
+15. [The Federalist Society](https://fedsoc.org/)
 
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/

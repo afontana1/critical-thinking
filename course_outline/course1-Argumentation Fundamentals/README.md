@@ -14,6 +14,7 @@
 8. [Adam Wyner](https://www.researchgate.net/profile/Adam-Wyner)
 9. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
 10. [John Pollock](https://johnpollock.us/ftp/publications.html)
+11. [Paul Thagard](https://paulthagard.com/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies)
 
@@ -92,6 +93,7 @@
 39. [Procedural Reasoning](https://en.wikipedia.org/wiki/Procedural_reasoning_system)
 40. [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning)
 41. [Aristotles Topics](https://en.wikipedia.org/wiki/Topics_(Aristotle))
+42. [Coherence and Analogy Articles](http://cogsci.uwaterloo.ca/Articles/Pages/Coherence.html)
 
 ## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 

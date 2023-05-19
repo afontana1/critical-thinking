@@ -358,3 +358,5 @@
 9. [Zealot: The Life and Times of Jesus of Nazareth](https://en.wikipedia.org/wiki/Zealot:_The_Life_and_Times_of_Jesus_of_Nazareth)
 10. [Ten Tough Problems in Christian Thought and Belief](https://www.amazon.com/Problems-Christian-Thought-Belief-Minister-Turned-Atheist/dp/194289712X)
 11. [What You Don't Know about Religion (But Should)](https://www.amazon.com/gp/product/0985281537/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0985281537&linkCode=as2&tag=cenforinqonca-20)
+12. [What It Means to Be Moral: Why Religion Is Not Necessary for Living an Ethical Life](https://www.amazon.com/What-Means-Be-Moral-Necessary/dp/1640092749)
+13. [How God Becomes Real: Kindling the Presence of Invisible Others](https://www.amazon.com/How-God-Becomes-Real-Invisible/dp/0691164460)
