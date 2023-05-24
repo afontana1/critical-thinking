@@ -84,3 +84,4 @@
 68. [Positivism: Secular, Social, Scientific](http://positivists.org/blog/welcome)
 69. [Statistics How To](https://www.statisticshowto.com/)
 70. [Mythology Matters](https://mythologymatters.wordpress.com/)
+71. [Closer to Truth](https://closertotruth.com/)

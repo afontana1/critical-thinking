@@ -695,5 +695,6 @@
 - [Simone_de_Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 - [Felix Guattari](https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari)
 - [Gilles_Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
+- [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 
 </details>
