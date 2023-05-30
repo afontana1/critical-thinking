@@ -211,6 +211,10 @@
 101. [Mike Aus: A Pastor's Journey to Atheism](https://www.youtube.com/watch?v=gt0Bez0pNa4)
 102. [I am SO GLAD that I left Christianity! - Lydie Bousch](https://www.youtube.com/watch?v=A3UhPoQryLY&t=23s)
 103. [Christianity is mythology ... and I no longer believe - Patrick Jones](https://www.youtube.com/watch?v=H7jWZ3FspxM)
+104. [Steve Hilliker: "God was supremely important in my life until I realized: HE DOESN’T EXIST"](https://www.youtube.com/watch?v=miq3uX7MVpg)
+105. [Bible Scholar Dr. Richard C. Miller Leaves Christianity](https://www.youtube.com/watch?v=6y_voqOVCsE)
+106. [Bible Scholar Dr. Kipp Davis Leaves Christianity](https://www.youtube.com/watch?v=YBkZQev9LYU)
+107. [When you realize the Gospels are mythology based on Greek epics - Dr. Dennis MacDonald](https://www.youtube.com/watch?v=uOAjzuXdr1E)
 
 </details>
 

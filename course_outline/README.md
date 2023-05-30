@@ -85,3 +85,6 @@
 69. [Statistics How To](https://www.statisticshowto.com/)
 70. [Mythology Matters](https://mythologymatters.wordpress.com/)
 71. [Closer to Truth](https://closertotruth.com/)
+72. [Computational Social Dynamics](https://picsolab.github.io/)
+73. [Computational Social Science Lab](https://dgarcia.eu/)
+74. [Big Book of R](https://www.bigbookofr.com/index.html)
