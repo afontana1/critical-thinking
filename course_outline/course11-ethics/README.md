@@ -126,6 +126,23 @@
 91. [Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/)
 92. [Emotivism](https://en.wikipedia.org/wiki/Emotivism)
 93. [contractarianism](https://plato.stanford.edu/entries/contractarianism/)
+94. [Confucian_ethics](https://en.wikipedia.org/wiki/Category:Confucian_ethics)
+95. [Buddhist_ethics](https://en.wikipedia.org/wiki/Category:Buddhist_ethics)
+96. [Taoist_ethics](https://en.wikipedia.org/wiki/Category:Taoist_ethics)
+97. [Lady_Justice](https://en.wikipedia.org/wiki/Lady_Justice)
+98. [Pluralism](https://en.wikipedia.org/wiki/Category:Pluralism_(philosophy))
+99. [Sentiocentrism](https://en.wikipedia.org/wiki/Sentiocentrism)
+100. [Social_ethics](https://en.wikipedia.org/wiki/Category:Social_ethics)
+101. [Concepts_in_social_philosophy](https://en.wikipedia.org/wiki/Category:Concepts_in_social_philosophy)
+102. [Social_movements](https://en.wikipedia.org/wiki/Category:Social_movements)
+103. [Effective_altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
+104. [Cosmopolitanism](https://en.wikipedia.org/wiki/Category:Cosmopolitanism)
+105. [Harm_principle](https://en.wikipedia.org/wiki/Harm_principle)
+106. [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)
+107. [Primum_non_nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)
+108. [Law_of_equal_liberty](https://en.wikipedia.org/wiki/Law_of_equal_liberty)
+109. [Wiccan_Rede](https://en.wikipedia.org/wiki/Wiccan_Rede)
+110. [Non-aggression_principle](https://en.wikipedia.org/wiki/Non-aggression_principle)
 
 ## People
 

@@ -348,6 +348,9 @@
 65. [Ryan T. Cragun](https://www.ryantcragun.com/)
 66. [David Madison](https://www.tentoughproblems.com/about-the-author/)
 67. [Arif Ahmed](https://en.wikipedia.org/wiki/Arif_Ahmed_(philosopher))
+68. [daniel o mcclellan](https://danielomcclellan.wordpress.com/about/)
+69. [Michael Tooley](https://en.wikipedia.org/wiki/Michael_Tooley)
+70. [George_Bernard_Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
 
 ## Books
 
