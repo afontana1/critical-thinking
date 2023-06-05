@@ -88,3 +88,5 @@
 72. [Computational Social Dynamics](https://picsolab.github.io/)
 73. [Computational Social Science Lab](https://dgarcia.eu/)
 74. [Big Book of R](https://www.bigbookofr.com/index.html)
+75. [Reason](https://reason.com/)
+76. [Alicia Juarrero](https://aliciajuarrerodotcom1.wordpress.com/)

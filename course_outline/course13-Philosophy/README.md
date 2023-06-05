@@ -343,6 +343,7 @@
 	- [Epicurean Philosophers](https://en.wikipedia.org/wiki/Category:Epicurean_philosophers)
 12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
 13. [Ancient_Roman_philosophy](https://en.wikipedia.org/wiki/Ancient_Roman_philosophy)
+14. [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
 
 </details>
 
