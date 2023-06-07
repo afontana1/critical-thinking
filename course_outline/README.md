@@ -94,3 +94,4 @@
 78. [The European Skeptics Podcast](https://theesp.eu/)
 79. [Skepsis](https://skepsis.nl/english/)
 80. [List of Skeptical Organizations](https://en.wikipedia.org/wiki/List_of_skeptical_organizations)
+81. [Ordinary Philosophy](https://ordinaryphilosophy.com/)
