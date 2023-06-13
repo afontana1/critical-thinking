@@ -90,3 +90,8 @@
 74. [Big Book of R](https://www.bigbookofr.com/index.html)
 75. [Reason](https://reason.com/)
 76. [Alicia Juarrero](https://aliciajuarrerodotcom1.wordpress.com/)
+77. [European_Council_of_Skeptical_Organisations](https://en.wikipedia.org/wiki/European_Council_of_Skeptical_Organisations) and [website](https://www.ecso.org/)
+78. [The European Skeptics Podcast](https://theesp.eu/)
+79. [Skepsis](https://skepsis.nl/english/)
+80. [List of Skeptical Organizations](https://en.wikipedia.org/wiki/List_of_skeptical_organizations)
+81. [Ordinary Philosophy](https://ordinaryphilosophy.com/)
