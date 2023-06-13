@@ -215,6 +215,7 @@
 105. [Bible Scholar Dr. Richard C. Miller Leaves Christianity](https://www.youtube.com/watch?v=6y_voqOVCsE)
 106. [Bible Scholar Dr. Kipp Davis Leaves Christianity](https://www.youtube.com/watch?v=YBkZQev9LYU)
 107. [When you realize the Gospels are mythology based on Greek epics - Dr. Dennis MacDonald](https://www.youtube.com/watch?v=uOAjzuXdr1E)
+108. [Bible Scholar Dr. Robert Cargill Leaves Christianity](https://www.youtube.com/watch?v=syHrB5C6U4E&t=3667s)
 
 </details>
 
