@@ -264,6 +264,7 @@
 - [Americans United for Seperation of Church and State](https://www.au.org/)
 - [Resurrection Review](https://mlhartke.wordpress.com/)
 - [The Cure for Christianity](https://www.cureforchristianity.com/)
+- [Disproof Atheism](http://www.disproofatheism.org/)
 
 ### Youtube Accounts
 
@@ -278,7 +279,7 @@
 - [Ex Muslims North America](https://www.youtube.com/@ExMuslimsOrg)
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 
-### People
+### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)
@@ -352,6 +353,16 @@
 68. [daniel o mcclellan](https://danielomcclellan.wordpress.com/about/)
 69. [Michael Tooley](https://en.wikipedia.org/wiki/Michael_Tooley)
 70. [George_Bernard_Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
+71. [Quentin Smith](https://web.archive.org/web/20100205100308/http://qsmithwmu.com/philosophy_of_religion.htm)
+72. [Alex Malpass](https://philpeople.org/profiles/alex-malpass)
+73. [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier)
+74. [Wes Morriston](https://spot.colorado.edu/~morristo/selected-papers.html)
+75. [Scott Atran](https://en.wikipedia.org/wiki/Scott_Atran)
+76. [Erik Weilenberg](https://philpeople.org/profiles/erik-wielenberg)
+77. [Michael Lou Martin](https://en.wikipedia.org/wiki/Michael_Lou_Martin)
+78. [Walter Sinnott Armstrong](https://www.sinnott-armstrong.com/)
+79. [C.M. Lorkowski](https://philpeople.org/profiles/c-m-lorkowski)
+80. [Nicholas Everitt](https://en.wikipedia.org/wiki/Nicholas_Everitt)
 
 ## Books
 
@@ -368,3 +379,4 @@
 11. [What You Don't Know about Religion (But Should)](https://www.amazon.com/gp/product/0985281537/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0985281537&linkCode=as2&tag=cenforinqonca-20)
 12. [What It Means to Be Moral: Why Religion Is Not Necessary for Living an Ethical Life](https://www.amazon.com/What-Means-Be-Moral-Necessary/dp/1640092749)
 13. [How God Becomes Real: Kindling the Presence of Invisible Others](https://www.amazon.com/How-God-Becomes-Real-Invisible/dp/0691164460)
+14. [The God Beyond Belief: In Defence of William Rowe's Evidential Argument from Evil](https://www.amazon.com/God-Beyond-Belief-Evidential-Philosophy/dp/1402051441)
