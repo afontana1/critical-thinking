@@ -75,3 +75,15 @@
 12. [Epidemiology: Measure of Disease Frequency, Incidence and Prevalence](https://www.youtube.com/watch?v=9Jg4Dzdvv8M)
 13. [Errors in Hypothesis...Detail lecture](https://www.youtube.com/watch?v=UTS-x7StOcM)
 14. [What is Standardized Data?](https://www.youtube.com/watch?v=DOEstU62D4w)
+
+## Full Playlists
+
+1. [A Students Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
+2. [Factor Analysis and SEM](https://www.youtube.com/playlist?list=PLwJRxp3blEvaOTZfSKXysxRmi6gXJf5gP)
+3. [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
+4. [Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+5. [Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
+6. [Towards Bayesian Regression](https://www.youtube.com/playlist?list=PLivJwLo9VCUISiuiRsbm5xalMbIwOHOOn)
+7. [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+8. [Research Methods](https://www.youtube.com/playlist?list=PLzv58M2GAfm5rSt9jADvTf4i54O_5q7Qs)
+9. [Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)

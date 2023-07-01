@@ -216,6 +216,7 @@
 106. [Bible Scholar Dr. Kipp Davis Leaves Christianity](https://www.youtube.com/watch?v=YBkZQev9LYU)
 107. [When you realize the Gospels are mythology based on Greek epics - Dr. Dennis MacDonald](https://www.youtube.com/watch?v=uOAjzuXdr1E)
 108. [Bible Scholar Dr. Robert Cargill Leaves Christianity](https://www.youtube.com/watch?v=syHrB5C6U4E&t=3667s)
+109. [Conservative Pastor Comes Out as an Atheist](https://www.youtube.com/watch?v=YpiBHvNCCxg&t=344s)
 
 </details>
 

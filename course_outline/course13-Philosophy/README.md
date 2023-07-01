@@ -20,6 +20,26 @@
 
 </details>
 
+<details><summary><h2>Playlists</h2></summary>
+
+1. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
+2. [Philosophy of Science](https://www.youtube.com/playlist?list=PLXKKIUdnOESGJ2Gjea3vAlsYwNNzXJwP9)
+3. [Scientific Realism](https://www.youtube.com/playlist?list=PLXKKIUdnOESHcJwaBL2--vHSR5tWwjn-h)
+4. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+5. [History of Philosophy](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv)
+6. [History of Western Philosophy](https://www.youtube.com/playlist?list=PLseq-Fwpb2K2FQj9WI7lMgPGX3r8Ahev3)
+7. [Foundations of Modern Social Theory](https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE)
+8. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+9. [Bayesian Epistemology](https://www.youtube.com/playlist?list=PLz0n_SjOttTdIqlgDjdNFfLUFVrl5j1J4)
+10. [Ethics](https://www.youtube.com/playlist?list=PLXKKIUdnOESEiJRXtGTcHHycfaXGeFjOp)
+11. [MetaEthics](https://www.youtube.com/playlist?list=PLXKKIUdnOESH7mWijTiv4tTFAcQnEkFDJ)
+12. [Philosophy of Astrobiology](https://www.youtube.com/playlist?list=PLXKKIUdnOESHa62D4GglumFPipvP86Xp6)
+13. [Epistemology](https://www.youtube.com/playlist?list=PLXKKIUdnOESFdCPf8ZTwVTb4Z4aSCQu3C)
+14. [John Searle Lectures](https://www.youtube.com/playlist?list=PL553DCA4DB88B0408)
+15. [Beyond Networks: The Evolution of Living Systems](https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W)
+
+</details>
+
 <details><summary><h2> Traditions, Movements, and Theories </h2></summary>
 
 1. [Information Philosophy](https://www.informationphilosopher.com/)

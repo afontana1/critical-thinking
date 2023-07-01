@@ -17,3 +17,8 @@
 11. [Scientific_control](https://en.wikipedia.org/wiki/Scientific_control)
 12. [Baconian_method](https://en.wikipedia.org/wiki/Baconian_method)
 13. [Root Cause Analysis](https://en.wikipedia.org/wiki/Root_cause_analysis)
+
+## Playlists
+
+1. [Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
+2. [Machine Learning and Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)

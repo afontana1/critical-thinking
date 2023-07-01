@@ -169,3 +169,4 @@
 21. [Bernard Williams](https://plato.stanford.edu/entries/williams-bernard/)
 22. [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
 23. [Christine_Korsgaard](https://en.wikipedia.org/wiki/Christine_Korsgaard)
+24. [Amartya_Sen](https://en.wikipedia.org/wiki/Amartya_Sen)

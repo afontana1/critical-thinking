@@ -2,9 +2,9 @@
 
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
-- [logicallyfallacious](https://www.logicallyfallacious.com/logicalfallacies/search)
 - [Introductory Critical Thinking](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
-- [Outline of Human Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
+- [Critical Thinking](https://www.youtube.com/playlist?list=PLSvsx8116eZiEj6UHvGoNZ8-YKmhatNCS)
+- [Practical Reason](https://www.youtube.com/playlist?list=PLSvsx8116eZjiLMHpa5TZZHMUIzCsvkTS)
 
 ## My Own Blogs
 
@@ -20,7 +20,7 @@
 4. [Stefan Schubert](https://stefanfschubert.com/)
 5. [Practical Ethics](https://blog.practicalethics.ox.ac.uk/)
 6. [Effectiviology](https://effectiviology.com/)
-7. [Scienc or Not?](https://scienceornot.net/)
+7. [Science or Not?](https://scienceornot.net/)
 8. [Understanding Evolution](https://evolution.berkeley.edu/)
 9. [Science Based Medicine](https://sciencebasedmedicine.org/)
 10. [Less Wrong](https://www.lesswrong.com/)
@@ -114,3 +114,4 @@
 98. [Decision Science Institute](https://decisionsciences.org/)
 99. [UseOfReason](https://useofreason.wordpress.com/)
 100. [Philosophical Disquotations](https://philosophicaldisquisitions.blogspot.com/p/about.html?m=1)
+101. [Objectivism in Depth](https://objectivismindepth.com/)
