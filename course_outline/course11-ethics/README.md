@@ -143,6 +143,7 @@
 108. [Law_of_equal_liberty](https://en.wikipedia.org/wiki/Law_of_equal_liberty)
 109. [Wiccan_Rede](https://en.wikipedia.org/wiki/Wiccan_Rede)
 110. [Non-aggression_principle](https://en.wikipedia.org/wiki/Non-aggression_principle)
+111. [Situational Ethics](https://en.wikipedia.org/wiki/Situational_ethics)
 
 ## People
 
@@ -170,3 +171,4 @@
 22. [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
 23. [Christine_Korsgaard](https://en.wikipedia.org/wiki/Christine_Korsgaard)
 24. [Amartya_Sen](https://en.wikipedia.org/wiki/Amartya_Sen)
+25. [Elizabeth Spelke](https://en.wikipedia.org/wiki/Elizabeth_Spelke)

@@ -217,6 +217,11 @@
 107. [When you realize the Gospels are mythology based on Greek epics - Dr. Dennis MacDonald](https://www.youtube.com/watch?v=uOAjzuXdr1E)
 108. [Bible Scholar Dr. Robert Cargill Leaves Christianity](https://www.youtube.com/watch?v=syHrB5C6U4E&t=3667s)
 109. [Conservative Pastor Comes Out as an Atheist](https://www.youtube.com/watch?v=YpiBHvNCCxg&t=344s)
+110. [Why are They Leaving? (According to the Church)](https://youtu.be/FdU2Bol04tI)
+111. [Why I Left Christianity: A Calvinist's Journey to Atheism](https://www.youtube.com/watch?v=XJOXHqIMsZM)
+112. [My pursuit of truth led me out of Christianity - Kelsey Gallert](https://www.youtube.com/watch?v=p-xywBt3HGk)
+113. [Why I Left Christianity, Part 1: The Bible](https://www.youtube.com/watch?v=5x4dxRAUk18&t=8s)
+114. [Why I Left Christianity, part 2: Faith and Prayer](https://www.youtube.com/watch?v=dpSksgj4qEk)
 
 </details>
 
@@ -266,6 +271,7 @@
 - [Resurrection Review](https://mlhartke.wordpress.com/)
 - [The Cure for Christianity](https://www.cureforchristianity.com/)
 - [Disproof Atheism](http://www.disproofatheism.org/)
+- [Case Against Faith](https://www.caseagainstfaith.com/)
 
 ### Youtube Accounts
 
@@ -364,6 +370,7 @@
 78. [Walter Sinnott Armstrong](https://www.sinnott-armstrong.com/)
 79. [C.M. Lorkowski](https://philpeople.org/profiles/c-m-lorkowski)
 80. [Nicholas Everitt](https://en.wikipedia.org/wiki/Nicholas_Everitt)
+81. [Mattew McCormick Philosophy](https://sites.google.com/site/mccormickphilosophy/)
 
 ## Books
 
