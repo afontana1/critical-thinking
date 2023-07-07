@@ -272,6 +272,7 @@
 - [The Cure for Christianity](https://www.cureforchristianity.com/)
 - [Disproof Atheism](http://www.disproofatheism.org/)
 - [Case Against Faith](https://www.caseagainstfaith.com/)
+- [damienmarieathope](https://damienmarieathope.com/)
 
 ### Youtube Accounts
 
