@@ -144,6 +144,8 @@
 109. [Wiccan_Rede](https://en.wikipedia.org/wiki/Wiccan_Rede)
 110. [Non-aggression_principle](https://en.wikipedia.org/wiki/Non-aggression_principle)
 111. [Situational Ethics](https://en.wikipedia.org/wiki/Situational_ethics)
+112. [Moral Naturalism](https://plato.stanford.edu/entries/naturalism-moral/)
+113. [Ideal_observer_theory](https://en.wikipedia.org/wiki/Ideal_observer_theory)
 
 ## People
 

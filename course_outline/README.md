@@ -1,5 +1,19 @@
 # Become a [Critical Thinker](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 
+**[Sapere aude](https://en.wikipedia.org/wiki/Sapere_aude)**: 
+> Sapere aude is the Latin phrase meaning "Dare to know"; and also is loosely translated as "Have courage to use your own reason", "Dare to know things through reason", or even more loosely as "Dare to be wise". Originally used in the First Book of Letters (20 BC), by the Roman poet Horace, the phrase Sapere aude became associated with the Age of Enlightenment, during the 17th and 18th centuries, after Immanuel Kant used it in the essay "Answering the Question: What Is Enlightenment?" (1784). As a philosopher, Kant claimed the phrase Sapere aude as the motto for the entire period of the Enlightenment, and used it to develop his theories of the application of reason in the public sphere of human affairs.
+
+**Bertrand Russall's Three Passions**:
+> Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair.
+
+> I have sought love, first, because it brings ecstasy - ecstasy so great that I would often have sacrificed all the rest of life for a few hours of this joy. I have sought it, next, because it relieves loneliness--that terrible loneliness in which one shivering consciousness looks over the rim of the world into the cold unfathomable lifeless abyss. I have sought it finally, because in the union of love I have seen, in a mystic miniature, the prefiguring vision of the heaven that saints and poets have imagined. This is what I sought, and though it might seem too good for human life, this is what--at last--I have found.
+
+> With equal passion I have sought knowledge. I have wished to understand the hearts of men. I have wished to know why the stars shine. And I have tried to apprehend the Pythagorean power by which number holds sway above the flux. A little of this, but not much, I have achieved.
+
+> Love and knowledge, so far as they were possible, led upward toward the heavens. But always pity brought me back to earth. Echoes of cries of pain reverberate in my heart. Children in famine, victims tortured by oppressors, helpless old people a burden to their sons, and the whole world of loneliness, poverty, and pain make a mockery of what human life should be. I long to alleviate this evil, but I cannot, and I too suffer.
+
+> This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.
+
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 - [Introductory Critical Thinking](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
@@ -115,3 +129,5 @@
 99. [UseOfReason](https://useofreason.wordpress.com/)
 100. [Philosophical Disquotations](https://philosophicaldisquisitions.blogspot.com/p/about.html?m=1)
 101. [Objectivism in Depth](https://objectivismindepth.com/)
+102. [Christopher Hitchcock](https://philpeople.org/profiles/christopher-hitchcock)
+103. [Adam Smith Works](https://www.adamsmithworks.org/)

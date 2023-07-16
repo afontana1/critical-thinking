@@ -273,6 +273,7 @@
 - [Disproof Atheism](http://www.disproofatheism.org/)
 - [Case Against Faith](https://www.caseagainstfaith.com/)
 - [damienmarieathope](https://damienmarieathope.com/)
+- [Evil Bible](https://www.evilbible.com/)
 
 ### Youtube Accounts
 
@@ -372,6 +373,7 @@
 79. [C.M. Lorkowski](https://philpeople.org/profiles/c-m-lorkowski)
 80. [Nicholas Everitt](https://en.wikipedia.org/wiki/Nicholas_Everitt)
 81. [Mattew McCormick Philosophy](https://sites.google.com/site/mccormickphilosophy/)
+82. [Patrick Todd](https://www.patricktodd.co/)
 
 ## Books
 
