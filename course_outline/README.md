@@ -14,6 +14,19 @@
 
 > This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.
 
+**Richard Feynman**
+> “The first principle is that you must not fool yourself and you are the easiest person to fool.”
+
+> “I learned very early the difference between knowing the name of something and knowing something.”
+
+> “I think it's much more interesting to live not knowing than to have answers which might be wrong. I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything and there are many things I don't know anything about, such as whether it means anything to ask why we're here. I don't have to know an answer. I don't feel frightened not knowing things, by being lost in a mysterious universe without any purpose, which is the way it really is as far as I can tell.”
+
+> “I would rather have questions that can't be answered than answers that can't be questioned.”
+
+> “I think it's much more interesting to live not knowing than to have answers which might be wrong.”
+
+> “What I cannot create, I do not understand.”
+
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 - [Introductory Critical Thinking](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
