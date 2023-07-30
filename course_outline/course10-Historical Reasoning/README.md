@@ -19,6 +19,11 @@
 12. [12 C's of Historical Thinking](https://thinkingthroughhistory.wordpress.com/2016/06/10/historical-thinking-as-12-cs/)
 13. [Historical Thinking](https://en.wikipedia.org/wiki/Historical_thinking)
 14. [Theories of History](https://en.wikipedia.org/wiki/Category:Theories_of_history)
+15. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
+16. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
+17. [Cliodynamics](https://en.wikipedia.org/wiki/Cliodynamics)
+18. [Cliometrics](https://en.wikipedia.org/wiki/Cliometrics)
+19. [Friedrich Nietzsche: On the Use and Abuse of History for Life](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheAbuseTableAll.pdf)
 
 ## [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
 
