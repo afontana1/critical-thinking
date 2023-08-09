@@ -27,6 +27,9 @@
 
 > “What I cannot create, I do not understand.”
 
+**voltaire**
+> “Those who can make you believe absurdities, can make you commit atrocities.”
+
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 - [Introductory Critical Thinking](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
@@ -144,3 +147,11 @@
 101. [Objectivism in Depth](https://objectivismindepth.com/)
 102. [Christopher Hitchcock](https://philpeople.org/profiles/christopher-hitchcock)
 103. [Adam Smith Works](https://www.adamsmithworks.org/)
+104. [Philosophy, Engineering, and Technology](https://philosophyengineering.com/)
+105. [thephilosopher1923](https://www.thephilosopher1923.org/)
+106. [Concepts and Cognition Lab](https://cognition.princeton.edu/)
+107. [Developing Belief Network](https://www.developingbelief.com/)
+108. [Religion News](https://religionnews.com/)
+109. [thebehavioralscientist](https://www.thebehavioralscientist.com/)
+110. [Decision Sciences Institute](https://decisionsciences.org/)
+111. [Eric Aldrich](http://ealdrich.com/)

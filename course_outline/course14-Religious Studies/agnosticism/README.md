@@ -274,6 +274,7 @@
 - [Case Against Faith](https://www.caseagainstfaith.com/)
 - [damienmarieathope](https://damienmarieathope.com/)
 - [Evil Bible](https://www.evilbible.com/)
+- [Philosophy: Engineered!](https://philosophyengineered.blogspot.com/p/helloworld.html)
 
 ### Youtube Accounts
 
@@ -287,6 +288,7 @@
 - [The Atheist Experience](https://www.youtube.com/@TheAtheistExperience)
 - [Ex Muslims North America](https://www.youtube.com/@ExMuslimsOrg)
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
+- [Philosophy: Engineered!](https://www.youtube.com/@AntiCitizenX)
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 

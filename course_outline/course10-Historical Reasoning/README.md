@@ -4,6 +4,9 @@
 
 - [E.H. Carr: What Is History?](https://en.wikipedia.org/wiki/What_Is_History%3F)
 - [Creating a Usable Past](https://www.degruyter.com/document/doi/10.12987/9780300252316-015/html?lang=en)
+- [Historical Thinking Guidelines](https://iacp.berkeley.edu/historical-analysis/historical-thinking)
+- [The Historical Thinking Project](https://historicalthinking.ca/)
+- [American Historical Organization](https://www.historians.org/)
 
 1. [Historiography](https://en.wikipedia.org/wiki/Category:Historiography)
 2. [Philosophy of History](https://en.wikipedia.org/wiki/Category:Philosophy_of_history)
@@ -24,6 +27,8 @@
 17. [Cliodynamics](https://en.wikipedia.org/wiki/Cliodynamics)
 18. [Cliometrics](https://en.wikipedia.org/wiki/Cliometrics)
 19. [Friedrich Nietzsche: On the Use and Abuse of History for Life](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheAbuseTableAll.pdf)
+20. [Integrated Action Civics Project](https://iacp.berkeley.edu/)
+21. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
 
 ## [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
 
@@ -41,3 +46,16 @@
 12. [Dr. Darren Staloff, Post Structuralism and the Linguistic Turn](https://www.youtube.com/watch?v=LUS3Cwlel04)
 13. [Dr. Darren Staloff, William McNeill's "Plagues and Peoples"](https://www.youtube.com/watch?v=XlD3gc1wEs4)
 14. [Dr. Darren Staloff, The Heterogeneity of Historical Knowledge](https://www.youtube.com/watch?v=wimNy09cS9U)
+
+## Critical Questions for Historical Sources
+
+1. Are records acknowledged as fallible? Is it possible there are errors or mistakes?
+2. Are records first-hand accounts?
+3. Are records contemporary with claimed events? Are they recorded after the fact?
+4. Are events independently corroborated?
+5. Are events plausible under the known laws of physics and other basic scientific regularities established?
+6. Are records verified by concrete relics?
+7. Have records been reliably preserved?
+8. Are records preserved in their native language? Were there translations?
+9. Are the authors politically and socially unbiased?
+10. Have the authors motivations been explicated?

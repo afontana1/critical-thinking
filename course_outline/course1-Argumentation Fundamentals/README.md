@@ -143,6 +143,16 @@
 41. [Reasoning System](https://en.wikipedia.org/wiki/Reasoning_system)
 42. [Non Monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/)
 43. [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
+44. [Philosophy_of_mathematics](https://en.wikipedia.org/wiki/Category:Philosophy_of_mathematics)
+45. [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
+46. [Theoretical_computer_science](https://en.wikipedia.org/wiki/Category:Theoretical_computer_science)
+47. [Formal_languages](https://en.wikipedia.org/wiki/Category:Formal_languages)
+48. [Formalism_(deductive)](https://en.wikipedia.org/wiki/Category:Formalism_(deductive))
+49. [Metalogic](https://en.wikipedia.org/wiki/Category:Metalogic)
+50. [Formal_systems](https://en.wikipedia.org/wiki/Category:Formal_systems)
+51. [Syntax (logic)](https://en.wikipedia.org/wiki/Category:Syntax_(logic))
+52. [Formal_logic](https://en.wikipedia.org/wiki/Category:Formal_logic)
+53. [Syntax](https://en.wikipedia.org/wiki/Category:Syntax) and [Grammar](https://en.wikipedia.org/wiki/Category:Grammar)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 
