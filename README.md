@@ -2,6 +2,10 @@
 
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
+**[Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)**
+> "Originally, fallibilism (from Medieval Latin: fallibilis, "liable to err") is the philosophical principle that propositions can be accepted even though they cannot be conclusively proven or justified, or that neither knowledge nor belief is certain. The term was coined in the late nineteenth century by the American philosopher Charles Sanders Peirce, as a response to foundationalism. Theorists, following Austrian-British philosopher Karl Popper, may also refer to fallibilism as the notion that knowledge might turn out to be false. Furthermore, fallibilism is said to imply corrigibilism, the principle that propositions are open to revision. Fallibilism is often juxtaposed with infallibilism."
+
+
 **[Sapere aude](https://en.wikipedia.org/wiki/Sapere_aude)**: 
 > Sapere aude is the Latin phrase meaning "Dare to know"; and also is loosely translated as "Have courage to use your own reason", "Dare to know things through reason", or even more loosely as "Dare to be wise". Originally used in the First Book of Letters (20 BC), by the Roman poet Horace, the phrase Sapere aude became associated with the Age of Enlightenment, during the 17th and 18th centuries, after Immanuel Kant used it in the essay "Answering the Question: What Is Enlightenment?" (1784). As a philosopher, Kant claimed the phrase Sapere aude as the motto for the entire period of the Enlightenment, and used it to develop his theories of the application of reason in the public sphere of human affairs.
 
@@ -32,6 +36,24 @@
 **voltaire**
 > “Those who can make you believe absurdities, can make you commit atrocities.”
 
+**[Alfred Henrye Lloyd: The Will to Doubt](https://en.wikipedia.org/wiki/Alfred_Henry_Lloyd)**
+> "We would often hide it from others, not to say from ourselves, but it is there, and we all know it to be there. Though many fear doubt, and try to keep it hidden and locked away, the confession of doubt is in fact the beginning of philosophy.Fear is a chief motivator of dogmatism, and dogmatic people are slaves to their fears. This is not genuine confidence. But doubt is not the road to atheism; in fact, doubt is part of a very difficult road to theism."
+
+**[Free Thought and Official Propaganda](https://www.gutenberg.org/files/44932/44932-h/44932-h.htm)**
+> "What we need is not the will to believe, but the wish to find out."
+
+> "None of our beliefs are quite true; all have at least a penumbra of vagueness and error. The methods of increasing the degree of truth in our beliefs are well known; they consist in hearing all sides, trying to ascertain all the relevant facts, controlling our own bias by discussion with people who have the opposite bias, and cultivating a readiness to discard any hypothesis which has proved inadequate."
+
+> As an example of the benefits of this kind of actual skepticism, Russell describe's Albert Einstein's overturning of the conventional wisdom of physics at that time. What, Bertrand asks, if instead of overturning physics, Einstein had proposed something equally new in the sphere of religion or politics?: "English people would have found elements of Prussianism in his theory; anti-Semites would have regarded it as a Zionist plot; nationalists in all countries would have found it tainted with lily-livered pacifism, and proclaimed it a mere dodge for escaping military service. All the old-fashioned professors would have approached Scotland Yard to get the importation of his writings prohibited. Teachers favourable to him would have been dismissed. He, meantime, would have captured the Government of some backward country, where it would have become illegal to teach anything except his doctrine, which would have grown into a mysterious dogma not understood by anybody. Ultimately the truth or falsehood of his doctrine would be decided on the battlefield, without the collection of any fresh evidence for or against it. This method is the logical outcome of William James’s will to believe. What is wanted is not the will to believe, but the wish to find out, which is its exact opposite"
+
+> Assuming that the need for rational doubt or fallibilism is understood to be important, Russell then goes on to address the question of why irrational certainty is so common. He says this is largely because of three factors.
+
+>> Education — Instead of public education being used to teach children healthy learning attitudes, they are used for the opposite, to indoctrinate children with dogma, often patently false, even known to be false by the officials imposing the education.
+>>> Education should have two objects: first, to give definite knowledge—reading and writing, language and mathematics, and so on; secondly, to create those mental habits which will enable people to acquire knowledge and form sound judgments for themselves. The first of these we may call information, the second intelligence.
+
+>> Propaganda — After being taught to read but not weigh evidence and form original opinions, children become adults who are then subjected to dubious or obviously false claims for the rest of their lives.
+
+>> Economic pressure — The State and political class will use its control of finances and economy to impose its ideas, by restricting the choices of those who disagree.
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 

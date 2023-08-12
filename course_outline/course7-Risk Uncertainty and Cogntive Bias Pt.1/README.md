@@ -37,3 +37,4 @@
 26. [Intentionality Bias](https://pubmed.ncbi.nlm.nih.gov/18692779/)
 27. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
 28. [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
+29. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
