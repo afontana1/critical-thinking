@@ -125,5 +125,8 @@
 109. [thebehavioralscientist](https://www.thebehavioralscientist.com/)
 110. [Decision Sciences Institute](https://decisionsciences.org/)
 111. [Eric Aldrich](http://ealdrich.com/)
+112. [Center for Brains Minds and Machines](https://cbmm.mit.edu/)
+113. [International Society for Stem Cell Research](https://www.isscr.org/)
+114. [Human Microbiome Project](https://hmpdacc.org/)
 
 </details>
