@@ -39,10 +39,10 @@
 **David Hume**
 > “In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence.”
 
+> “...no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavors to establish.”
+
 **[Alfred Henrye Lloyd: The Will to Doubt](https://en.wikipedia.org/wiki/Alfred_Henry_Lloyd)**
 > "We would often hide it from others, not to say from ourselves, but it is there, and we all know it to be there. Though many fear doubt, and try to keep it hidden and locked away, the confession of doubt is in fact the beginning of philosophy.Fear is a chief motivator of dogmatism, and dogmatic people are slaves to their fears. This is not genuine confidence. But doubt is not the road to atheism; in fact, doubt is part of a very difficult road to theism."
-
-> “...no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavors to establish.”
 
 **[Free Thought and Official Propaganda](https://www.gutenberg.org/files/44932/44932-h/44932-h.htm)**
 > "What we need is not the will to believe, but the wish to find out."
