@@ -1,7 +1,24 @@
 # Data Concepts
 
-- [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
+## Reporting Guidelines
 
+- [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook/current)
+- [Systematic Reviews and Meta Analysis](https://guides.library.harvard.edu/meta-analysis/guides)
+- [UMD Systematic Review Steps](https://lib.guides.umd.edu/SR/steps)
+- [Duke Systematic Reviews](https://guides.mclibrary.duke.edu/sysreview/definition)
+
+1. Randomized Trials: [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)
+2. Observational Studies: [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)
+3. Systematic Reviews: [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/)
+4. Study Protocols: [SPIRIT](https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/)
+5. Diagnostic/Prognostic Studies: [STARD](https://www.equator-network.org/reporting-guidelines/stard/)
+6. Case Reports: [CARE](https://www.equator-network.org/reporting-guidelines/care/)
+7. Clinical Practice Guidelines: [AGREE](https://www.equator-network.org/reporting-guidelines/the-agree-reporting-checklist-a-tool-to-improve-reporting-of-clinical-practice-guidelines/)
+8. Qualitative Research: [SRQR](https://www.equator-network.org/reporting-guidelines/srqr/)
+9. Quality Improvement Studies: [SQUIRE](https://www.equator-network.org/reporting-guidelines/squire/)
+10. Economic Evaluations: [CHEERS](https://www.equator-network.org/reporting-guidelines/cheers/)
+
+## Cooncepts
 1. [Simpsons Paradox](https://plato.stanford.edu/entries/paradox-simpson/)
 2. [Probabilty Interpretations](https://en.wikipedia.org/wiki/Probability_interpretations)
     - [Random Variables](https://en.wikipedia.org/wiki/Random_variable)

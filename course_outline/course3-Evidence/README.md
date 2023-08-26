@@ -3,7 +3,9 @@
 ## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence) & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 - [BJM Evidence Based Medicine](https://ebm.bmj.com/)
-- [CONSORT](https://www.consort-statement.org/)
+- [CONSORT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398298/)
+- [Ten simple rules for carrying out and writing meta-analyses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521986/)
+- [PRISMA Statement](http://www.prisma-statement.org/)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Assertion](https://en.wikipedia.org/wiki/Speech_act)
