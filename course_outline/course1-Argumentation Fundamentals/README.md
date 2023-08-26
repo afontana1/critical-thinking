@@ -15,6 +15,7 @@
 9. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
 10. [John Pollock](https://johnpollock.us/ftp/publications.html)
 11. [Paul Thagard](https://paulthagard.com/)
+12. [Bart Verheij](https://www.ai.rug.nl/~verheij/)
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies)
 
