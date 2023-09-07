@@ -128,5 +128,7 @@
 112. [Center for Brains Minds and Machines](https://cbmm.mit.edu/)
 113. [International Society for Stem Cell Research](https://www.isscr.org/)
 114. [Human Microbiome Project](https://hmpdacc.org/)
+115. [statisticaloddsandends](https://statisticaloddsandends.wordpress.com/)
+116. [Critical Inquiry](https://critinq.wordpress.com/)
 
 </details>
