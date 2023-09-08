@@ -6,6 +6,7 @@
 - [CONSORT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398298/)
 - [Ten simple rules for carrying out and writing meta-analyses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521986/)
 - [PRISMA Statement](http://www.prisma-statement.org/)
+- [Grade Approach](https://training.cochrane.org/grade-approach) and [Grade Handbook](https://gdt.gradepro.org/app/handbook/handbook.html)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Assertion](https://en.wikipedia.org/wiki/Speech_act)
@@ -62,8 +63,7 @@
 46. [Survivorship_bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 47. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
 48. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))
-49. [GRADE Approach](https://en.wikipedia.org/wiki/GRADE_approach)
-50. [Legal_procedure](https://en.wikipedia.org/wiki/Category:Legal_procedure)
+49. [Legal_procedure](https://en.wikipedia.org/wiki/Category:Legal_procedure)
 
 ## People
 
