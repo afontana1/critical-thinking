@@ -6,7 +6,11 @@
 - [Systematic Reviews and Meta Analysis](https://guides.library.harvard.edu/meta-analysis/guides)
 - [UMD Systematic Review Steps](https://lib.guides.umd.edu/SR/steps)
 - [Duke Systematic Reviews](https://guides.mclibrary.duke.edu/sysreview/definition)
-- [GRADE Handbook](https://gdt.gradepro.org/app/handbook/handbook.html)
+- [BJM Evidence Based Medicine](https://ebm.bmj.com/)
+- [CONSORT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398298/)
+- [Ten simple rules for carrying out and writing meta-analyses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521986/)
+- [PRISMA Statement](http://www.prisma-statement.org/)
+- [Grade Approach](https://training.cochrane.org/grade-approach) and [Grade Handbook](https://gdt.gradepro.org/app/handbook/handbook.html)
 
 1. Randomized Trials: [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)
 2. Observational Studies: [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)

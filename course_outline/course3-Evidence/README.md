@@ -2,11 +2,7 @@
 
 ## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence) & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
-- [BJM Evidence Based Medicine](https://ebm.bmj.com/)
-- [CONSORT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398298/)
-- [Ten simple rules for carrying out and writing meta-analyses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6521986/)
-- [PRISMA Statement](http://www.prisma-statement.org/)
-- [Grade Approach](https://training.cochrane.org/grade-approach) and [Grade Handbook](https://gdt.gradepro.org/app/handbook/handbook.html)
+- [Evidence Explained](https://www.evidenceexplained.com/index.php/)
 
 1. [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 2. [Assertion](https://en.wikipedia.org/wiki/Speech_act)
