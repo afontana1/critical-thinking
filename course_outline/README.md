@@ -1,10 +1,24 @@
 # Outline and Description of Contents
 
-<details><summary><h2>Useful External Resources to Consult</h2></summary>
+## My Current Interests
 
-- [Introductory Critical Thinking](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
-- [Critical Thinking](https://www.youtube.com/playlist?list=PLSvsx8116eZiEj6UHvGoNZ8-YKmhatNCS)
-- [Practical Reason](https://www.youtube.com/playlist?list=PLSvsx8116eZjiLMHpa5TZZHMUIzCsvkTS)
+1. [MIT Center for Bits and Atoms](http://cba.mit.edu/)
+2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) and the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/)
+3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics) and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
+    * [J. Doyne Farmer](http://www.doynefarmer.com/)
+    * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
+    * [Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)
+    * [Duncan J. Watts](https://duncanjwatts.com/)
+4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
+5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
+6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
+7. Dr. Ben Goldacre's Investigation into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
+    * [datacarpentry.org](https://datacarpentry.org/)
+    * [software-carpentry.org](https://software-carpentry.org/)
+    * [Data Provenance Research Group](https://www.eva.mpg.de/ecology/projects-and-research-groups/data-provenance/)
+8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
+
+<details><summary><h2>Useful External Resources to Consult</h2></summary>
 
 ## My Own Blogs
 
