@@ -11,11 +11,15 @@
     * [Duncan J. Watts](https://duncanjwatts.com/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
+    * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
+    * [Professor Henrik Jeldtoft Jensen](https://www.ma.imperial.ac.uk/~hjjens/)
+    * [Santa Fe Institute Resources](https://www.complexityexplorer.org/explore/resources)
 6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
-7. Dr. Ben Goldacre's Investigation into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
+7. Dr. Ben Goldacre's Investigation and [Simine Vazire's](https://www.simine.com/) into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
     * [datacarpentry.org](https://datacarpentry.org/)
     * [software-carpentry.org](https://software-carpentry.org/)
     * [Data Provenance Research Group](https://www.eva.mpg.de/ecology/projects-and-research-groups/data-provenance/)
+    * [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/)
 8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
