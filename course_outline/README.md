@@ -9,6 +9,8 @@
     * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
     * [Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)
     * [Duncan J. Watts](https://duncanjwatts.com/)
+    * [Joshua M. Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein)
+    * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
     * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
