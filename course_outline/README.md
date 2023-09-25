@@ -3,19 +3,23 @@
 ## My Current Interests
 
 1. [MIT Center for Bits and Atoms](http://cba.mit.edu/)
-2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) and the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/)
+2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/)
 3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics) and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
     * [J. Doyne Farmer](http://www.doynefarmer.com/)
     * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
     * [Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)
     * [Duncan J. Watts](https://duncanjwatts.com/)
     * [Joshua M. Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein)
+    * [Scott E Page](https://sites.lsa.umich.edu/scottepage/)
+    * [John Miller CMU](https://www.cmu.edu/dietrich/sds/people/faculty/john-miller.html)
     * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
     * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
     * [Professor Henrik Jeldtoft Jensen](https://www.ma.imperial.ac.uk/~hjjens/)
     * [Santa Fe Institute Resources](https://www.complexityexplorer.org/explore/resources)
+    * [Neil Theise](https://www.neiltheiseofficial.com/)
+    * [David Krakauer](https://www.santafe.edu/people/profile/david-krakauer)
 6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
 7. Dr. Ben Goldacre's Investigation and [Simine Vazire's](https://www.simine.com/) into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
     * [datacarpentry.org](https://datacarpentry.org/)
@@ -23,6 +27,8 @@
     * [Data Provenance Research Group](https://www.eva.mpg.de/ecology/projects-and-research-groups/data-provenance/)
     * [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/)
 8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
+9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
+10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/)
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
@@ -150,5 +156,6 @@
 114. [Human Microbiome Project](https://hmpdacc.org/)
 115. [statisticaloddsandends](https://statisticaloddsandends.wordpress.com/)
 116. [Critical Inquiry](https://critinq.wordpress.com/)
+117. [Zstatistics](https://www.zstatistics.com/)
 
 </details>
