@@ -222,6 +222,7 @@
 112. [My pursuit of truth led me out of Christianity - Kelsey Gallert](https://www.youtube.com/watch?v=p-xywBt3HGk)
 113. [Why I Left Christianity, Part 1: The Bible](https://www.youtube.com/watch?v=5x4dxRAUk18&t=8s)
 114. [Why I Left Christianity, part 2: Faith and Prayer](https://www.youtube.com/watch?v=dpSksgj4qEk)
+115. [Noah Adam (formerly Veritas48)](https://www.youtube.com/live/MFmycg7LJ0c?si=PtMnENhsoL2ezoxS)
 
 </details>
 
@@ -475,3 +476,10 @@
 12. [What It Means to Be Moral: Why Religion Is Not Necessary for Living an Ethical Life](https://www.amazon.com/What-Means-Be-Moral-Necessary/dp/1640092749)
 13. [How God Becomes Real: Kindling the Presence of Invisible Others](https://www.amazon.com/How-God-Becomes-Real-Invisible/dp/0691164460)
 14. [The God Beyond Belief: In Defence of William Rowe's Evidential Argument from Evil](https://www.amazon.com/God-Beyond-Belief-Evidential-Philosophy/dp/1402051441)
+15. [In Gods We Trust: The Evolutionary Landscape of Religion (Evolution and Cognition)](https://www.amazon.com/Gods-Trust-Evolutionary-Landscape-Evolution/dp/0195178033)
+16. [The Case Against The Case For Christ: A New Testament Scholar Refutes the Reverend Lee Strobel](https://www.amazon.com/Case-Against-Christ-Testament-Reverend/dp/1578840058)
+17. [Atheism And The Case Against Christ](https://www.amazon.com/Atheism-Against-Christ-Matthew-Mccormick/dp/1616145811)
+18. [Atheist Manifesto: The Case Against Christianity, Judaism, and Islam](https://www.amazon.com/Atheist-Manifesto-Against-Christianity-Judaism/dp/161145008X)
+19. [Sacred and Secular: Religion and Politics Worldwide](https://www.amazon.com/Sacred-Secular-Religion-Worldwide-Cambridge/dp/1107648378)
+20. [The Nones: Where They Came From, Who They Are, and Where They Are Going](https://www.amazon.com/Nones-Where-They-Came-Going/dp/1506465854/ref=pd_bxgy_sccl_2/139-6976273-1327745?pd_rd_w=JIMif&content-id=amzn1.sym.43d28dfc-aa4f-4ef6-b591-5ab7095e137f&pf_rd_p=43d28dfc-aa4f-4ef6-b591-5ab7095e137f&pf_rd_r=DZ4QYD9HK2ZK4Z2RCQ5Q&pd_rd_wg=SnhuM&pd_rd_r=8797a589-6027-4bad-bf2f-97085258248c&pd_rd_i=1506465854&psc=1)
+21. [FREEDOM, FATALISM & FOREKNOWLEDGE](https://www.amazon.com/FREEDOM-FATALISM-FOREKNOWLEDGE-P-FISCHER/dp/0199942412)

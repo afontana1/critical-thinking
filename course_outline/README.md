@@ -13,6 +13,7 @@
     * [Scott E Page](https://sites.lsa.umich.edu/scottepage/)
     * [John Miller CMU](https://www.cmu.edu/dietrich/sds/people/faculty/john-miller.html)
     * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
+    * [Ergodicity Economics](https://ergodicityeconomics.com/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
     * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
@@ -29,6 +30,11 @@
 8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
 9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
 10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/)
+11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially in [Game Theoretic](https://en.wikipedia.org/wiki/Category:Game_theory) contexts and [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
+    * [Principal Agent Problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
+    * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
+    * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
+    * [Applied Decision Science](https://www.applieddecisionscience.com/)
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
@@ -157,5 +163,8 @@
 115. [statisticaloddsandends](https://statisticaloddsandends.wordpress.com/)
 116. [Critical Inquiry](https://critinq.wordpress.com/)
 117. [Zstatistics](https://www.zstatistics.com/)
+118. [Modeling-Languages](https://modeling-languages.com/)
+119. [StatQuest](https://statquest.org/)
+120. [Epiville (Epidemiology)](https://epiville.ccnmtl.columbia.edu/)
 
 </details>
