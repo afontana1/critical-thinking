@@ -166,5 +166,8 @@
 118. [Modeling-Languages](https://modeling-languages.com/)
 119. [StatQuest](https://statquest.org/)
 120. [Epiville (Epidemiology)](https://epiville.ccnmtl.columbia.edu/)
+121. [Reason IO](https://reasonio.wordpress.com/)
+122. [Journal of Applied Ontology](https://ip.ios.semcs.net/journals/applied-ontology/Pre-press/Pre-press)
+123. [learnbayesstats](https://learnbayesstats.com/)
 
 </details>
