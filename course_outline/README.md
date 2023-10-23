@@ -169,5 +169,6 @@
 121. [Reason IO](https://reasonio.wordpress.com/)
 122. [Journal of Applied Ontology](https://ip.ios.semcs.net/journals/applied-ontology/Pre-press/Pre-press)
 123. [learnbayesstats](https://learnbayesstats.com/)
+124. [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 
 </details>
