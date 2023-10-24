@@ -29,6 +29,8 @@
 1. [stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023)
 2. [intuitivebayes](https://www.intuitivebayes.com/)
 3. [Machine Learning and Bayesian Inference](https://youtube.com/playlist?list=PLdLk2RYEiAhp9Slj6F_LCMXUv7_Fi3V_Y&si=Wx7kI0AFIpUD33uL)
+4. [Advanced Data Analysis](https://www.stat.cmu.edu/~cshalizi/uADA/)
+	* [ADA Reading Group](https://www.youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)
 
 ## Process Mining
 
