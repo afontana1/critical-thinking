@@ -95,7 +95,7 @@
 	* [A_Treatise_of_Human_Nature](https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature)
 	* [An_Enquiry_Concerning_the_Principles_of_Morals](https://en.wikipedia.org/wiki/An_Enquiry_Concerning_the_Principles_of_Morals)
 	* [Kant and Hume on Morality](https://plato.stanford.edu/entries/kant-hume-morality/)
-65. [Moral Reasoning](https://plato.stanford.edu/entries/reasoning-moral/)
+65. [Moral Reasoning](https://plato.stanford.edu/entries/reasoning-moral/) and [moral epistemology](https://plato.stanford.edu/entries/moral-epistemology/)
 66. [Moral Foundations Theory](https://en.wikipedia.org/wiki/Moral_foundations_theory)
 	* [website](https://moralfoundations.org/)
 67. [Bentham Utilitarianism](https://plato.stanford.edu/entries/bentham/)
@@ -149,6 +149,8 @@
 111. [Situational Ethics](https://en.wikipedia.org/wiki/Situational_ethics)
 112. [Moral Naturalism](https://plato.stanford.edu/entries/naturalism-moral/)
 113. [Ideal_observer_theory](https://en.wikipedia.org/wiki/Ideal_observer_theory)
+114. [Bertrand Russell: Authority and the Individual](https://ia601400.us.archive.org/3/items/AuthorityAndTheIndividual_656/BertrandRussell-authorityAndTheIndividual-routledge1985.pdf)
+115. [Marriage_and_Morals](https://en.wikipedia.org/wiki/Marriage_and_Morals)
 
 ## People
 
