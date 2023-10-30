@@ -55,3 +55,4 @@
 1. [HSMA Program](https://github.com/hsma-programme)
 2. [HSMA4](https://github.com/hsma4)
 3. [Artificial Intelligence](https://youtube.com/playlist?list=PLdLk2RYEiAhoktcpQacq6pksf8pzI3nLB&si=-egSnO44WxzYeFbX)
+4. [Drawing Causal Inference from Big Data](https://youtube.com/playlist?list=PLGJm1x3XQeK0NgFOX2Z7Wt-P5RU5Zv0Hv&si=EyQ-1Lq7Q7p7V7pO)

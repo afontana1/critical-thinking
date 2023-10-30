@@ -15,6 +15,7 @@
     * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
     * [Ergodicity Economics](https://ergodicityeconomics.com/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
+    * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
     * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
     * [Professor Henrik Jeldtoft Jensen](https://www.ma.imperial.ac.uk/~hjjens/)
@@ -35,6 +36,13 @@
     * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
     * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
     * [Applied Decision Science](https://www.applieddecisionscience.com/)
+
+### Playlists I am Watching
+
+1. [After Socrates](https://youtube.com/playlist?list=PLND1JCRq8Vuj6q5NP_fXjBzUT1p_qYSCC&si=XLLLMmc-a_4l5-uk)
+2. [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=hTktkgNI3Iz2GI4H)
+3. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
+4. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
@@ -170,5 +178,7 @@
 122. [Journal of Applied Ontology](https://ip.ios.semcs.net/journals/applied-ontology/Pre-press/Pre-press)
 123. [learnbayesstats](https://learnbayesstats.com/)
 124. [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+125. [Rational Flaneur](https://rationalflaneur.com/)
+126. [The Intrinsic Perspective](https://www.theintrinsicperspective.com/)
 
 </details>
