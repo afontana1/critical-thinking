@@ -287,5 +287,6 @@
 222. [The Mythology Of Angels: Where Do They Come From? | The Angel Chronicles | Parable](https://www.youtube.com/watch?v=2-cirSMfS7w)
 223. [The Unknown Messiah Who Predated Jesus | Secrets of Christianity | Parable](https://www.youtube.com/watch?v=c3g0Rra1V_A)
 224. [What is Gnosticism?](https://www.youtube.com/watch?v=ockwMVE7PgM)
+225. ["The Aryan Jesus in Nazi Germany: The Bible and the Holocaust"](https://youtu.be/hnnggA-mIJI?si=kAkTTKDkm8gF9g_g)
 
 </details>
