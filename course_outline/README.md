@@ -180,5 +180,6 @@
 124. [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 125. [Rational Flaneur](https://rationalflaneur.com/)
 126. [The Intrinsic Perspective](https://www.theintrinsicperspective.com/)
+127. [ehrmanblog](https://ehrmanblog.org/)
 
 </details>

@@ -41,6 +41,8 @@
 1. [fundamentals-of-systems-engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/)
 2. [introduction-to-system-dynamics](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
 3. [computational-science-and-engineering](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
+4. [Intro to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
+5. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
 ## Additional Systems Science
 
@@ -49,6 +51,7 @@
 3. [IEE 475 (2022, Fall): Simulating Stochastic Systems - Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqEabmdX7QMg0yj_Qjh54rJs&si=3ErIiudSaDmKTi90)
 4. [IEE/CSE 598 (2022, Spring): Bio-Inspired AI and Optimization - Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqEtpEGPUCAsyW1eYZwPAoNj&si=sU1iPHRIV8R7DF33)
 5. [IEE 475 (2021, Fall): Simulating Stochastic Systems - Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqGj4E2VeolqHxa4IKV9n3yH&si=ngNdSa9TV42OnN6_)
+6. [Essential Numerical Methods](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
 
 ## Extra Resources and Demonstrations
 

@@ -358,6 +358,9 @@
 - [damienmarieathope](https://damienmarieathope.com/)
 - [Evil Bible](https://www.evilbible.com/)
 - [Philosophy: Engineered!](https://philosophyengineered.blogspot.com/p/helloworld.html)
+- [Vridar](https://vridar.org/)
+- [biblefails](https://biblefails.wordpress.com/)
+- [badnewsaboutchristianity](https://www.badnewsaboutchristianity.com/)
 
 ### Youtube Accounts
 
