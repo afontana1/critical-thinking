@@ -36,6 +36,41 @@
 **Voltaire**
 > “Those who can make you believe absurdities, can make you commit atrocities.”
 
+**Aristotle (misquoted)**
+> “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+
+> " for it is the mark of an educated person to search for the same kind of clarity in each topic to the extent that the nature of the matter accepts it. "
+
+**John Maynard Keynes**
+> “When my information changes, I alter my conclusions. What do you do, sir?”
+
+> “It is better to be roughly right than precisely wrong.”
+
+> “The difficulty lies not so much in developing new ideas as in escaping from old ones.”
+
+> “A study of the history of opinion is a necessary preliminary to the emancipation of the mind.”
+
+**Carl Sagan**
+> “I don't want to believe. I want to know.”
+
+> “Somewhere, something incredible is waiting to be known.”
+
+> “Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another.”
+
+> “Extraordinary claims require extraordinary evidence.”
+
+> “The absence of evidence is not the evidence of absence.”
+
+> “The cure for a fallacious argument is a better argument, not the suppression of ideas.”
+
+> “The truth may be puzzling. It may take some work to grapple with. It may be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what's true.”
+
+> “Who is more humble? The scientist who looks at the universe with an open mind and accepts whatever the universe has to teach us, or somebody who says everything in this book must be considered the literal truth and never mind the fallibility of all the human beings involved?”
+
+> “Science is not only compatible with spirituality; it is a profound source of spirituality. When we recognize our place in an immensity of light‐years and in the passage of ages, when we grasp the intricacy, beauty, and subtlety of life, then that soaring feeling, that sense of elation and humility combined, is surely spiritual. So are our emotions in the presence of great art or music or literature, or acts of exemplary selfless courage such as those of Mohandas Gandhi or Martin Luther King, Jr. The notion that science and spirituality are somehow mutually exclusive does a disservice to both.”
+
+> “We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.”
+
 **David Hume**
 > “In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence.”
 
