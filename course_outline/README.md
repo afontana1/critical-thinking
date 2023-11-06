@@ -14,6 +14,7 @@
     * [John Miller CMU](https://www.cmu.edu/dietrich/sds/people/faculty/john-miller.html)
     * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
     * [Ergodicity Economics](https://ergodicityeconomics.com/)
+    * [Econophysics](https://en.wikipedia.org/wiki/Econophysics)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
     * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
@@ -36,6 +37,7 @@
     * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
     * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
     * [Applied Decision Science](https://www.applieddecisionscience.com/)
+    * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
 
 ### Playlists I am Watching
 

@@ -65,7 +65,7 @@
 
 <details><summary><h2> Categories of Philosophy </h2></summary>
 
-1. [Epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
+1. [Epistemology](https://en.wikipedia.org/wiki/Category:Epistemology)
 	- [Epistemological_theories](https://en.wikipedia.org/wiki/Category:Epistemological_theories)
 	- [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology))
 	- [Concepts_in_epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
