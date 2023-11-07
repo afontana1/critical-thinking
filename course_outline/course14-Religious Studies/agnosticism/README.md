@@ -462,6 +462,7 @@
 80. [Nicholas Everitt](https://en.wikipedia.org/wiki/Nicholas_Everitt)
 81. [Mattew McCormick Philosophy](https://sites.google.com/site/mccormickphilosophy/)
 82. [Patrick Todd](https://www.patricktodd.co/)
+83. [Percy_Bysshe_Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)
 
 ## Books
 
@@ -486,3 +487,4 @@
 19. [Sacred and Secular: Religion and Politics Worldwide](https://www.amazon.com/Sacred-Secular-Religion-Worldwide-Cambridge/dp/1107648378)
 20. [The Nones: Where They Came From, Who They Are, and Where They Are Going](https://www.amazon.com/Nones-Where-They-Came-Going/dp/1506465854/ref=pd_bxgy_sccl_2/139-6976273-1327745?pd_rd_w=JIMif&content-id=amzn1.sym.43d28dfc-aa4f-4ef6-b591-5ab7095e137f&pf_rd_p=43d28dfc-aa4f-4ef6-b591-5ab7095e137f&pf_rd_r=DZ4QYD9HK2ZK4Z2RCQ5Q&pd_rd_wg=SnhuM&pd_rd_r=8797a589-6027-4bad-bf2f-97085258248c&pd_rd_i=1506465854&psc=1)
 21. [FREEDOM, FATALISM & FOREKNOWLEDGE](https://www.amazon.com/FREEDOM-FATALISM-FOREKNOWLEDGE-P-FISCHER/dp/0199942412)
+22. [Dangerous Games: What the Moral Panic over Role-Playing Games Says about Play, Religion, and Imagined Worlds](https://www.amazon.com/Dangerous-Games-Role-Playing-Religion-Imagined/dp/0520284925)

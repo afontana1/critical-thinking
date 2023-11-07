@@ -364,3 +364,9 @@
 	* [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
 
 87. [150 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2022/06/120-or-so-arguments-for-atheism.html)
+88. [Anthropic_principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+	* [Is The Anthropic Principle Significant?](https://youtu.be/NMV9t-3rFNs?si=clenObcP_V-qpDxa)
+	* [The Problem with the "Rare Earth Hypothesis"](https://youtu.be/-CsLmoiKugE?si=zlxMIcDJ4Jbwo2O2)
+	* [How Many "Earth-Like" Planets are there?](https://youtu.be/xEt941k2GAg?si=EpCDlRfiHGE-Do66)
+	* [The Drake Equation after 60 Years](https://youtu.be/dM_Pelfc92s?si=StvGF-Op5kWJj8hV)
+	* [The Birth Death Drake Equation](https://youtu.be/kliJ-CFVLeE?si=5Xs_4tdGOYxI6J_f)

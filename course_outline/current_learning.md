@@ -31,6 +31,12 @@
 3. [Machine Learning and Bayesian Inference](https://youtube.com/playlist?list=PLdLk2RYEiAhp9Slj6F_LCMXUv7_Fi3V_Y&si=Wx7kI0AFIpUD33uL)
 4. [Advanced Data Analysis](https://www.stat.cmu.edu/~cshalizi/uADA/)
 	* [ADA Reading Group](https://www.youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)
+5. [Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/)
+
+## Risk Management
+
+1. [Risk Management](https://youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq&si=tvZVOVIIwAxgEUyt)
+2. [Quantitative Risk Management](https://youtube.com/playlist?list=PLgCR5H4IzggHyHw8dalrVHqHAqZfmTeWa&si=7GTwP1igwl40effn)
 
 ## Process Mining
 
@@ -62,7 +68,7 @@
 5. [MIT 6.868J The Society of Mind, Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61E-vNcDV0w5xpsIBYNJDkU&si=bTZJbEhC0Bk8cZHk)
 6. [Probabilistic Modelling and Inference Course](https://www.youtube.com/playlist?list=PLyXv258Xt2PRhkou67NwiQD9OmiNMzdfa)
 7. [Operations Research](https://www.youtube.com/playlist?list=PL3oYhfJwwPuYp4gwDmSfh2gB1DQCZdASo)
-8. [MIT 18.404J Theory of Computation, Fall 2020](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=--dRPEoF-x_bLIbh)
+8. [MIT 18.404J Theory of Computation, Fall 2020](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=--dRPEoF-x_bLIbh) [Course Website](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 9. [Artificial Intelligence: Knowledge Representation and Reasoning](https://youtube.com/playlist?list=PLJ5C_6qdAvBG8HP77xIOVxH4Jzq3RQ9dI&si=ruNo1hXQF9Y8H2-4)
 10. [Foundations of Artificial Intelligence](https://youtube.com/playlist?list=PLafPhSv1OSDew4qhV9YeNFwf-1eU0NHng&si=Hyn7xhewptMXw01s)
 11. [Math 3342 (Theory of Computation) Spring 2022](https://youtube.com/playlist?list=PLLFpXNanTP9VdBkPcSr2zMIG8b_exbpcE&si=m2uvW8p8Rgxjk6R2)

@@ -158,3 +158,5 @@
 	- [Greco-Roman Context](https://4squareviews.com/2013/01/20/history-of-christianity-lecture-two-the-greco-roman-context-of-early-christianity/)
 121. [Foreknowledge and Free Will](https://plato.stanford.edu/entries/free-will-foreknowledge/)
 122. [Omniscience and Divine Foreknowledge](https://iep.utm.edu/omnisci/)
+123. [Origen of Alexandria](https://en.wikipedia.org/wiki/Origen)
+124. [Percy_Bysshe_Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)
