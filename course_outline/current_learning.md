@@ -49,6 +49,11 @@
 3. [computational-science-and-engineering](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
 4. [Intro to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
 5. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+6. [Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/)
+7. [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+8. [Design of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+9. [Signals and Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)
+10. [Computational Science](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/)
 
 ## Additional Systems Science
 
@@ -72,3 +77,4 @@
 9. [Artificial Intelligence: Knowledge Representation and Reasoning](https://youtube.com/playlist?list=PLJ5C_6qdAvBG8HP77xIOVxH4Jzq3RQ9dI&si=ruNo1hXQF9Y8H2-4)
 10. [Foundations of Artificial Intelligence](https://youtube.com/playlist?list=PLafPhSv1OSDew4qhV9YeNFwf-1eU0NHng&si=Hyn7xhewptMXw01s)
 11. [Math 3342 (Theory of Computation) Spring 2022](https://youtube.com/playlist?list=PLLFpXNanTP9VdBkPcSr2zMIG8b_exbpcE&si=m2uvW8p8Rgxjk6R2)
+12. [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
