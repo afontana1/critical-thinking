@@ -37,6 +37,7 @@
 	* [ADA Reading Group](https://www.youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)
 4. [Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/)
 
+
 ## Risk Management
 
 1. [Risk Management](https://youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq&si=tvZVOVIIwAxgEUyt)
@@ -69,3 +70,6 @@
 4. [Operations Research](https://www.youtube.com/playlist?list=PL3oYhfJwwPuYp4gwDmSfh2gB1DQCZdASo)
 5. [MIT 18.404J Theory of Computation, Fall 2020](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=--dRPEoF-x_bLIbh) [Course Website](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 6. [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+7. [Introduction to Spatial Data Science](https://youtube.com/playlist?list=PLzREt6r1NenmFyTw8v2JZpEE4PZGNi5Ht&si=wlAxTUTeEY5JGRAC)
+6. [Spatial Regression](https://youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT&si=23WQG3mnadJId_uD)
+7. [Spatial Cluster Analysis](https://youtube.com/playlist?list=PLzREt6r1Nenk3L0ndufhYuwdrrfZqdsIA&si=f8_62feIMiHvDZ9f)
