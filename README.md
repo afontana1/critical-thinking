@@ -36,6 +36,13 @@
 **Voltaire**
 > “Those who can make you believe absurdities, can make you commit atrocities.”
 
+**Denis Diderot**
+> “All things must be examined, debated, investigated without exception and without regard for anyone's feelings.”
+
+> “We swallow greedily any lie that flatters us, but we sip only little by little at a truth we find bitter.”
+
+> “Scepticism is the first step towards truth.”
+
 **Aristotle (misquoted)**
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.”
 
