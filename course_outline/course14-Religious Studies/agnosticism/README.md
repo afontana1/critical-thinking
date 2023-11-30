@@ -223,6 +223,8 @@
 113. [Why I Left Christianity, Part 1: The Bible](https://www.youtube.com/watch?v=5x4dxRAUk18&t=8s)
 114. [Why I Left Christianity, part 2: Faith and Prayer](https://www.youtube.com/watch?v=dpSksgj4qEk)
 115. [Noah Adam (formerly Veritas48)](https://www.youtube.com/live/MFmycg7LJ0c?si=PtMnENhsoL2ezoxS)
+116. [Why I No Longer Believe in God: Michael Maletin](https://youtu.be/M5ZLuRYp8gk?si=LvyREpN1ZfI_vuOc)
+117. [Escaping Religion: Lessons From My Journey Out](https://youtu.be/AaLMQUXhcRo?si=j9F4pJP2m6_A_rtn)
 
 </details>
 

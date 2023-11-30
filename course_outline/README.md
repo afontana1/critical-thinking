@@ -31,7 +31,7 @@
     * [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/)
 8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
 9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
-10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/)
+10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/) & [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
 11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially in [Game Theoretic](https://en.wikipedia.org/wiki/Category:Game_theory) contexts and [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
     * [Principal Agent Problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
     * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
@@ -45,6 +45,8 @@
 2. [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=hTktkgNI3Iz2GI4H)
 3. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
 4. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
+5. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
+6. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
