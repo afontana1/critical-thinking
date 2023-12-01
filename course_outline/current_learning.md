@@ -36,6 +36,12 @@
 3. [Advanced Data Analysis](https://www.stat.cmu.edu/~cshalizi/uADA/)
 	* [ADA Reading Group](https://www.youtube.com/playlist?list=PLob0yCmJjJ3XT9DfcQ63ly79ICmgGU5bt)
 4. [Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/)
+	* [A Little Book of Python for Multivariate Analysis](https://python-for-multivariate-analysis.readthedocs.io/)
+5. [BayesCog: Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science](https://youtube.com/playlist?list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-&si=nQvE-Af78P36NHAb)
+	* [Code](https://github.com/lei-zhang/BayesCog_Wien)
+	* [UCLA STATS 205 - Hierarchical Linear Models](https://youtube.com/playlist?list=PLAYxx7zX5F1MUAvvhZQyA4ISyKYuoKdH6&si=Y-TF61b6UGJXQ-k4)
+	* [Applied Hierarchical Modeling in Ecology](https://github.com/mikemeredith/AHM_code)
+	* [Bayesian Hierarchical Modelling course](https://github.com/andrewcparnell/bhm_course)
 
 
 ## Risk Management
