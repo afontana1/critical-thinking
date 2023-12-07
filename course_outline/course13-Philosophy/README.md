@@ -11,34 +11,6 @@
 
 </details>
 
-<details><summary><h2><a href="https://en.wikipedia.org/wiki/Classics"> Classics </a></h2></summary>
-
-1. [Aristotles Classics](http://classics.mit.edu/Browse/browse-Aristotle.html)
-2. [Plato](http://classics.mit.edu/Browse/browse-Plato.html)
-3. [Socrates](http://onlinebooks.library.upenn.edu/webbin/book/browse?type=lcsubc&key=Socrates)
-4. [Philology](https://en.wikipedia.org/wiki/Philology)
-
-</details>
-
-<details><summary><h2>Playlists</h2></summary>
-
-1. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
-2. [Philosophy of Science](https://www.youtube.com/playlist?list=PLXKKIUdnOESGJ2Gjea3vAlsYwNNzXJwP9)
-3. [Scientific Realism](https://www.youtube.com/playlist?list=PLXKKIUdnOESHcJwaBL2--vHSR5tWwjn-h)
-4. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
-5. [History of Philosophy](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv)
-6. [History of Western Philosophy](https://www.youtube.com/playlist?list=PLseq-Fwpb2K2FQj9WI7lMgPGX3r8Ahev3)
-7. [Foundations of Modern Social Theory](https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE)
-8. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-9. [Bayesian Epistemology](https://www.youtube.com/playlist?list=PLz0n_SjOttTdIqlgDjdNFfLUFVrl5j1J4)
-10. [Ethics](https://www.youtube.com/playlist?list=PLXKKIUdnOESEiJRXtGTcHHycfaXGeFjOp)
-11. [MetaEthics](https://www.youtube.com/playlist?list=PLXKKIUdnOESH7mWijTiv4tTFAcQnEkFDJ)
-12. [Philosophy of Astrobiology](https://www.youtube.com/playlist?list=PLXKKIUdnOESHa62D4GglumFPipvP86Xp6)
-13. [Epistemology](https://www.youtube.com/playlist?list=PLXKKIUdnOESFdCPf8ZTwVTb4Z4aSCQu3C)
-14. [John Searle Lectures](https://www.youtube.com/playlist?list=PL553DCA4DB88B0408)
-15. [Beyond Networks: The Evolution of Living Systems](https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W)
-
-</details>
 
 <details><summary><h2> Traditions, Movements, and Theories </h2></summary>
 
@@ -101,17 +73,11 @@
 	- [Meaning](https://en.wikipedia.org/wiki/Category:Meaning_(philosophy_of_language))
 	- [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
 	- [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
-5. [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
-6. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
-7. [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
-8. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
-9. [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
-10. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
-11. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
-12. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
-13. [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
-14. [History_of_psychology](https://en.wikipedia.org/wiki/Category:History_of_psychology)
-15. [Subjectivity vs. Objectivity in the epistemic and ontological senses (John Searle)](http://new-savanna.blogspot.com/2016/10/subjectivity-vs-objectivity-in.html)
+	- [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
+	- [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
+5. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
+6. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
+7. [Philology](https://en.wikipedia.org/wiki/Philology)
 
 </details>
 

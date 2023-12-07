@@ -3,7 +3,7 @@
 ## My Current Interests
 
 1. [MIT Center for Bits and Atoms](http://cba.mit.edu/)
-2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/)
+2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/),  [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
 3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics) and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
     * [J. Doyne Farmer](http://www.doynefarmer.com/)
     * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
@@ -39,14 +39,34 @@
     * [Applied Decision Science](https://www.applieddecisionscience.com/)
     * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
 
-### Playlists I am Watching
 
-1. [After Socrates](https://youtube.com/playlist?list=PLND1JCRq8Vuj6q5NP_fXjBzUT1p_qYSCC&si=XLLLMmc-a_4l5-uk)
-2. [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=hTktkgNI3Iz2GI4H)
-3. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
-4. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
-5. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
-6. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+<details><summary><h2>Playlists I am Watching</h2></summary>
+
+1. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
+2. [Philosophy of Science](https://www.youtube.com/playlist?list=PLXKKIUdnOESGJ2Gjea3vAlsYwNNzXJwP9)
+3. [Scientific Realism](https://www.youtube.com/playlist?list=PLXKKIUdnOESHcJwaBL2--vHSR5tWwjn-h)
+4. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+5. [History of Philosophy](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv)
+6. [History of Western Philosophy](https://www.youtube.com/playlist?list=PLseq-Fwpb2K2FQj9WI7lMgPGX3r8Ahev3)
+7. [Foundations of Modern Social Theory](https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE)
+8. [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
+9. [Bayesian Epistemology](https://www.youtube.com/playlist?list=PLz0n_SjOttTdIqlgDjdNFfLUFVrl5j1J4)
+10. [Ethics](https://www.youtube.com/playlist?list=PLXKKIUdnOESEiJRXtGTcHHycfaXGeFjOp)
+11. [MetaEthics](https://www.youtube.com/playlist?list=PLXKKIUdnOESH7mWijTiv4tTFAcQnEkFDJ)
+12. [Philosophy of Astrobiology](https://www.youtube.com/playlist?list=PLXKKIUdnOESHa62D4GglumFPipvP86Xp6)
+13. [Epistemology](https://www.youtube.com/playlist?list=PLXKKIUdnOESFdCPf8ZTwVTb4Z4aSCQu3C)
+14. [John Searle Lectures](https://www.youtube.com/playlist?list=PL553DCA4DB88B0408)
+15. [Beyond Networks: The Evolution of Living Systems](https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W)
+16. [After Socrates](https://youtube.com/playlist?list=PLND1JCRq8Vuj6q5NP_fXjBzUT1p_qYSCC&si=XLLLMmc-a_4l5-uk)
+17. [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=hTktkgNI3Iz2GI4H)
+18. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
+19. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
+20. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
+21. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+
+</details>
+
+
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
