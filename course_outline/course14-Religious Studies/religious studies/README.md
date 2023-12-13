@@ -79,6 +79,10 @@
 66. [Phillip R Davies](https://en.wikipedia.org/wiki/Philip_R._Davies)
 67. [Ronald S Hendel](https://www.biblicalarchaeology.org/scholar/ronald-s-hendel/)
 68. [Hugo Mendez](https://www.hugomendez.com/)
+69. [Richard C Miller](https://www.routledge.com/authors/i7783-richard-miller)
+70. [Matthew Monger](https://biblemonger.com/about)
+71. [Kipp Davis](https://independent.academia.edu/KippDavis)
+72. [Tyler Vela](https://rts.academia.edu/TylerVela)
 
 ## Methods
 

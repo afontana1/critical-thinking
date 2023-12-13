@@ -205,5 +205,9 @@
 125. [Rational Flaneur](https://rationalflaneur.com/)
 126. [The Intrinsic Perspective](https://www.theintrinsicperspective.com/)
 127. [ehrmanblog](https://ehrmanblog.org/)
+128. [forbetterscience](https://forbetterscience.com/)
+129. [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+130. [Data Colada](https://datacolada.org/)
+131. [Richard Gill](https://gill1109.com/?amp=1) [Statistics](https://www.math.leidenuniv.nl/~gill/)
 
 </details>
