@@ -1,5 +1,7 @@
 # Outline and Description of Contents
 
+- [Closer to Truth](https://closertotruth.com/)
+
 ## My Current Interests
 
 1. [MIT Center for Bits and Atoms](http://cba.mit.edu/)
@@ -15,6 +17,7 @@
     * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
     * [Ergodicity Economics](https://ergodicityeconomics.com/)
     * [Econophysics](https://en.wikipedia.org/wiki/Econophysics)
+    * [Aaron Clauset](https://aaronclauset.github.io/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
     * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
@@ -38,6 +41,7 @@
     * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
     * [Applied Decision Science](https://www.applieddecisionscience.com/)
     * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
+11. [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/) and [Cognitive Modeling](https://en.wikipedia.org/wiki/Cognitive_model)
 
 
 <details><summary><h2>Playlists I am Watching</h2></summary>
