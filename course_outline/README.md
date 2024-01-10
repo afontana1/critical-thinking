@@ -213,5 +213,6 @@
 129. [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 130. [Data Colada](https://datacolada.org/)
 131. [Richard Gill](https://gill1109.com/?amp=1) [Statistics](https://www.math.leidenuniv.nl/~gill/)
+132. [ML CMU](https://blog.ml.cmu.edu/)
 
 </details>

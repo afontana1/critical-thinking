@@ -377,6 +377,8 @@
 - [Ex Muslims North America](https://www.youtube.com/@ExMuslimsOrg)
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 - [Philosophy: Engineered!](https://www.youtube.com/@AntiCitizenX)
+- [OwenMorganTelltale](https://www.youtube.com/@OwenMorganTelltale/videos)
+- [TheMagicSkeptic](https://www.youtube.com/@TheMagicSkeptic)
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
