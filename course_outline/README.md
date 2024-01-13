@@ -67,6 +67,11 @@
 19. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
 20. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
 21. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+22. [SFI Community Lecture Series](https://youtube.com/playlist?list=PL7D69D1FFE63DA81A&si=YDnFg4lYgOg0UPfb)
+23. [SFI Ulam Memorial Lecture Series](https://youtube.com/playlist?list=PLZlVBTf7N6GqsN1u1eu_yTD7VxFVCrFzZ&si=tV00lCdc8vnGNEeW)
+24. [Collective Computation (C4) Public Lecture Videos](https://youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d&si=YHSZvHSEeJB3FhsR)
+25. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
+26. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
 
 </details>
 
