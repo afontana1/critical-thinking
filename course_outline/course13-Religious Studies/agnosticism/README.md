@@ -363,6 +363,7 @@
 - [Vridar](https://vridar.org/)
 - [biblefails](https://biblefails.wordpress.com/)
 - [badnewsaboutchristianity](https://www.badnewsaboutchristianity.com/)
+- [Non Stamp Collector](https://www.nonstampcollector.com/)
 
 ### Youtube Accounts
 
@@ -379,6 +380,9 @@
 - [Philosophy: Engineered!](https://www.youtube.com/@AntiCitizenX)
 - [OwenMorganTelltale](https://www.youtube.com/@OwenMorganTelltale/videos)
 - [TheMagicSkeptic](https://www.youtube.com/@TheMagicSkeptic)
+- [Non Stamp Collector](https://www.youtube.com/user/nonstampcollector)
+- [God Is Imaginary](https://www.youtube.com/@GIIVideo)
+- [QualiaSoup](https://www.youtube.com/@QualiaSoup/featured)
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 

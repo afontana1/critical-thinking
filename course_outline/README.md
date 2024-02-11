@@ -18,6 +18,7 @@
     * [Ergodicity Economics](https://ergodicityeconomics.com/)
     * [Econophysics](https://en.wikipedia.org/wiki/Econophysics)
     * [Aaron Clauset](https://aaronclauset.github.io/)
+    * [Omar A. Guerrero (Alan Turing Institute)](https://oguerr.com/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
     * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
 5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)

@@ -1,5 +1,7 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
 
+- [The House of Unamerican Activities Committee](https://www.trumanlibrary.gov/education/presidential-inquiries/house-un-american-activities-committee)
+
 1. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 2. [Attitude Change](https://en.wikipedia.org/wiki/Category:Attitude_change)
 3. [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
@@ -15,6 +17,7 @@
 13. [List of Think Tanks in the USA](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
 14. [American Constitution Society](https://www.acslaw.org/)
 15. [The Federalist Society](https://fedsoc.org/)
+16. [Somatic Marketing](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis)
 
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/
