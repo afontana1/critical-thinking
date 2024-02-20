@@ -386,6 +386,8 @@
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
+- [Secular Web Authors](https://infidels.org/library/authors/book-authors/)
+
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)
 3. [Atheist Scientists](https://en.wikipedia.org/wiki/List_of_atheists_in_science_and_technology)
@@ -471,6 +473,8 @@
 81. [Mattew McCormick Philosophy](https://sites.google.com/site/mccormickphilosophy/)
 82. [Patrick Todd](https://www.patricktodd.co/)
 83. [Percy_Bysshe_Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)
+84. [Jonathan MS Pearce](https://atipplingphilosopher.yolasite.com/a-tps-blog.php)
+85. [Raymond D. Bradley](https://www.sfu.ca/philosophy/people/faculty/profiles/ray-bradley.html) [PhilPapers](https://philpeople.org/profiles/raymond-bradley)
 
 ## Books
 
