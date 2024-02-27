@@ -83,6 +83,7 @@
 70. [Matthew Monger](https://biblemonger.com/about)
 71. [Kipp Davis](https://independent.academia.edu/KippDavis)
 72. [Tyler Vela](https://rts.academia.edu/TylerVela)
+73. [Jennifer Bird](https://www.jennifergracebird.com/)
 
 ## Methods
 

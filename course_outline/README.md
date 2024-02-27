@@ -2,50 +2,7 @@
 
 - [Closer to Truth](https://closertotruth.com/)
 
-## My Current Interests
-
-1. [MIT Center for Bits and Atoms](http://cba.mit.edu/)
-2. [Ray Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff) from the [Center for Cognitive Linguistics](https://sites.tufts.edu/cogstud/) and [George Lakoff](https://george-lakoff.com/),  [Cognitive Science](https://en.wikipedia.org/wiki/Category:Cognitive_science)
-3. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics) and [Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
-    * [J. Doyne Farmer](http://www.doynefarmer.com/)
-    * [W. Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur)
-    * [Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)
-    * [Duncan J. Watts](https://duncanjwatts.com/)
-    * [Joshua M. Epstein](https://publichealth.nyu.edu/faculty/joshua-epstein)
-    * [Scott E Page](https://sites.lsa.umich.edu/scottepage/)
-    * [John Miller CMU](https://www.cmu.edu/dietrich/sds/people/faculty/john-miller.html)
-    * [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
-    * [Ergodicity Economics](https://ergodicityeconomics.com/)
-    * [Econophysics](https://en.wikipedia.org/wiki/Econophysics)
-    * [Aaron Clauset](https://aaronclauset.github.io/)
-    * [Omar A. Guerrero (Alan Turing Institute)](https://oguerr.com/)
-4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
-    * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
-5. [Complexity Studies](https://complexsystemsupenn.com/) and [Network Science](https://www.networkscienceinstitute.org/)
-    * [Imperial College Centre for Complexity Science](https://www.imperial.ac.uk/complexity-science/)
-    * [Professor Henrik Jeldtoft Jensen](https://www.ma.imperial.ac.uk/~hjjens/)
-    * [Santa Fe Institute Resources](https://www.complexityexplorer.org/explore/resources)
-    * [Neil Theise](https://www.neiltheiseofficial.com/)
-    * [David Krakauer](https://www.santafe.edu/people/profile/david-krakauer)
-6. [UCI Hot Cognition Laboratory](https://sites.uci.edu/peterdittolab/), [Questions of Ethics](https://www.ethicscenter.uci.edu/index.php), and [Peter Ditto's](https://scholar.google.com/citations?user=Lv4KzjIAAAAJ&hl=en) Work on Motivated Reasoning
-7. Dr. Ben Goldacre's Investigation and [Simine Vazire's](https://www.simine.com/) into [badscience](https://www.badscience.net/) and the Replication Crisis. Ways of Improving research reliability:
-    * [datacarpentry.org](https://datacarpentry.org/)
-    * [software-carpentry.org](https://software-carpentry.org/)
-    * [Data Provenance Research Group](https://www.eva.mpg.de/ecology/projects-and-research-groups/data-provenance/)
-    * [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/)
-8. [Center for Algorithmic Biotechnology](https://cab.spbu.ru/)
-9. Cultural Evolution: [Richard McElreath](https://xcelab.net/rm/) and [Joseph Henrich](https://heb.fas.harvard.edu/people/joseph-henrich)
-10. Causal Inference: [Donald Rubin](https://en.wikipedia.org/wiki/Donald_Rubin) & [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens) & [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/) & [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
-11. [Decision Science Institute](https://decisionsciences.org/) and [The Decision Lab](https://thedecisionlab.com/) especially in [Game Theoretic](https://en.wikipedia.org/wiki/Category:Game_theory) contexts and [Multi Agent Systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems) under [VUCA](https://en.wikipedia.org/wiki/VUCA) conditions
-    * [Principal Agent Problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
-    * [Collective_action_problem](https://en.wikipedia.org/wiki/Collective_action_problem)
-    * [Asymmetric Risk](https://asymmetryobservations.com/definitions/asymmetry/asymmetrical-riskreward/)
-    * [Applied Decision Science](https://www.applieddecisionscience.com/)
-    * [Decision theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
-11. [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/) and [Cognitive Modeling](https://en.wikipedia.org/wiki/Cognitive_model)
-
-
-<details><summary><h2>Playlists I am Watching</h2></summary>
+<details><summary><h2>Playlists</h2></summary>
 
 1. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
 2. [Philosophy of Science](https://www.youtube.com/playlist?list=PLXKKIUdnOESGJ2Gjea3vAlsYwNNzXJwP9)
@@ -62,17 +19,15 @@
 13. [Epistemology](https://www.youtube.com/playlist?list=PLXKKIUdnOESFdCPf8ZTwVTb4Z4aSCQu3C)
 14. [John Searle Lectures](https://www.youtube.com/playlist?list=PL553DCA4DB88B0408)
 15. [Beyond Networks: The Evolution of Living Systems](https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W)
-16. [After Socrates](https://youtube.com/playlist?list=PLND1JCRq8Vuj6q5NP_fXjBzUT1p_qYSCC&si=XLLLMmc-a_4l5-uk)
-17. [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&si=hTktkgNI3Iz2GI4H)
-18. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
-19. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
-20. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
-21. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
-22. [SFI Community Lecture Series](https://youtube.com/playlist?list=PL7D69D1FFE63DA81A&si=YDnFg4lYgOg0UPfb)
-23. [SFI Ulam Memorial Lecture Series](https://youtube.com/playlist?list=PLZlVBTf7N6GqsN1u1eu_yTD7VxFVCrFzZ&si=tV00lCdc8vnGNEeW)
-24. [Collective Computation (C4) Public Lecture Videos](https://youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d&si=YHSZvHSEeJB3FhsR)
-25. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
-26. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
+16. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
+17. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
+18. [Platonic Dialogues](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
+19. [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+20. [SFI Community Lecture Series](https://youtube.com/playlist?list=PL7D69D1FFE63DA81A&si=YDnFg4lYgOg0UPfb)
+21. [SFI Ulam Memorial Lecture Series](https://youtube.com/playlist?list=PLZlVBTf7N6GqsN1u1eu_yTD7VxFVCrFzZ&si=tV00lCdc8vnGNEeW)
+22. [Collective Computation (C4) Public Lecture Videos](https://youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d&si=YHSZvHSEeJB3FhsR)
+23. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
+24. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
 
 </details>
 
@@ -84,7 +39,6 @@
 
 1. [Critical Thinking Academy](https://thecriticalthinkingacademy.blogspot.com/?m=1)
 2. [The Critical Thinking Academy](https://thecriticalthinkingacademy.com/)
-3. [Medium Blog](https://medium.com/@ajfontana78)
 
 ## Some Blogs and Websites I Like
 
