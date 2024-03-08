@@ -276,6 +276,10 @@
 70. [Practical Arguments for Belief](https://plato.stanford.edu/entries/pragmatic-belief-god/)
 
 71. [Salvation in Heaven](https://www.ajol.info/index.php/pp/article/view/29480)
+	* [Paradox of Free Will](https://sheseeksnonfiction.blog/2017/09/10/the-paradox-of-christian-free-will/)
+	* [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
+	* [Some Problems of Heavenly Freedom](https://philarchive.org/rec/KITSPO-2)
+	* [Paradox of Free Will in Heavan](https://www.reddit.com/r/DebateReligion/comments/23hwy9/the_paradox_of_free_will_in_heaven/)
 
 72. [30 Arguments Against God](https://www.youtube.com/playlist?list=PLq3dh__o7S0p_jnG5aHBB8Dn6yHxUe_mb)
 
@@ -370,3 +374,5 @@
 	* [How Many "Earth-Like" Planets are there?](https://youtu.be/xEt941k2GAg?si=EpCDlRfiHGE-Do66)
 	* [The Drake Equation after 60 Years](https://youtu.be/dM_Pelfc92s?si=StvGF-Op5kWJj8hV)
 	* [The Birth Death Drake Equation](https://youtu.be/kliJ-CFVLeE?si=5Xs_4tdGOYxI6J_f)
+
+89. [An atheological argument from evil natural laws](https://philpapers.org/rec/SMIAAA-3)
