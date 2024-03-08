@@ -84,6 +84,12 @@
 71. [Kipp Davis](https://independent.academia.edu/KippDavis)
 72. [Tyler Vela](https://rts.academia.edu/TylerVela)
 73. [Jennifer Bird](https://www.jennifergracebird.com/)
+74. [Amy-Jill Levine](https://en.wikipedia.org/wiki/Amy-Jill_Levine)
+75. [Jeffrey Tripp](https://www.alangarrow.com/jeffrey-tripp.html)
+76. [Susan Niditch](https://www.amherst.edu/people/facstaff/sniditch)
+77. [James Howard-Johnston](https://en.wikipedia.org/wiki/James_Howard-Johnston)
+78. [Robert Conner](https://www.goodreads.com/author/list/153017.Robert_Conner)
+79. [David Madison](https://www.tentoughproblems.com/about-the-author/)
 
 ## Methods
 

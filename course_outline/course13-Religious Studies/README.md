@@ -18,6 +18,41 @@
 16. [Religious Landscape Study](https://www.pewresearch.org/religion/religious-landscape-study/)
 17. [Early Christian Writings](http://www.earlychristianwritings.com/index.html)
 
+<details><summary><h1>Videos</h1></summary>
+
+1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
+2. [Religious History Documentaries](https://www.youtube.com/channel/UCtqAF8FSQIIq-vBLKtgLH_w)
+3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
+4. [Religious Studies](https://www.youtube.com/watch?v=XRvAwAAjYHU&list=PL5Ag9n-o0IZBcVkZgYhQLehVEHs7tOl5c)
+5. [Case for Atheism](https://www.youtube.com/playlist?list=PLFJr3pJl27pJCNqQicnlwQvQtuKpYkLMj)
+6. [Theological Epistemology](https://www.youtube.com/playlist?list=PLU6KVXxGpeZjEyVGY9M9A-F7gS61eu7O6)
+8. [UCSD Exodus Conference](https://www.youtube.com/watch?v=OzWtPZSt5Go&list=PLbbCsk7MUIGeFrKlS-snrKWTT-uPs7VNO)
+9. [Debunks/Discussions/Debates](https://www.youtube.com/playlist?list=PLybg94GvOJ9GEuq4mp9ruJpj-rjKQ_a6E)
+10. [Big Questions About God - Closer To Truth - Core Topic](https://www.youtube.com/playlist?list=PLFJr3pJl27pKyjextCjGsYzvrMvWCj4tX)
+11. [Why People Make Fun of Creationists](https://www.youtube.com/playlist?list=PLAC3481305829426D)
+12. [Religious Epistemology Conference, Royal Institute of Philosophy 2015](https://www.youtube.com/playlist?list=PLqK-cZS_wviDbx7kn8kXG_02gk41wq-Rq)
+13. [Nanak Naam](https://www.youtube.com/channel/UCevfxDIvmjSkE9KIwlf6-MQ)
+
+</details>
+
+
+<details><summary><h2>Abrahamic</h2></summary>
+
+1. [Bible as Literature Pt. 1](https://www.youtube.com/watch?v=vL3oPpBEJ0w&list=PLKjwFyELc2SlZf-SMdial4wEVX-QZJxhu)
+2. [C.S. Lewis](https://www.youtube.com/watch?v=z8stFStEVsU&list=PLKjwFyELc2SkniyQuAP5NhJZ8gTqaKmJZ)
+3. [History of Literary Theory](https://www.youtube.com/watch?v=0QsnNzFq9cs&list=PLKjwFyELc2Sk4IF-h8IfisV1Jv0WJ9k_y)
+4. [Bible as Literature Pt. 2](https://www.youtube.com/watch?v=UuLivBJOnvc&list=PLKjwFyELc2SmSvtOU3RDI2v4b0jowCCoy)
+5. [New Testament History and Literature](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PL279CFA55C51E75E0)
+6. [Introduction to the Old Testament](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
+7. [Mysteries of the Bible Series](https://www.youtube.com/watch?v=4aIaKilnc8M&list=PLt8g78xI4CClyAgB6Nx8cpc4RWAM_sm2p)
+8. [Michael Sugrue: The Bible and Western Culture](https://www.youtube.com/watch?v=fZVcI94EKQg&list=PLYYQ4XdZeLuAm7D-neqaxHEhWrnOCXdg)
+9. [Paula Fredriksen: Early Christianity](https://www.youtube.com/watch?v=53PDO7OQSTs&list=PLNslttMCi6BWqj_5TiWJ6YLVN0nQqBzti)
+10. [Christianity & Platonism](https://www.youtube.com/watch?v=y32kGGlGQac&list=PLkrkT-0Dit2m26P8m3iz3uYZBcy9pvd4r)
+11. [Introduction to Old Testament](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
+12. [History of Christian Philosophy](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Qi6k4d6srF55OUpNSu8av3)
+
+</details>
+
 ## General Concepts
 1. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
 2. [Mind-Body Dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)

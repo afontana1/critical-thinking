@@ -225,6 +225,7 @@
 115. [Noah Adam (formerly Veritas48)](https://www.youtube.com/live/MFmycg7LJ0c?si=PtMnENhsoL2ezoxS)
 116. [Why I No Longer Believe in God: Michael Maletin](https://youtu.be/M5ZLuRYp8gk?si=LvyREpN1ZfI_vuOc)
 117. [Escaping Religion: Lessons From My Journey Out](https://youtu.be/AaLMQUXhcRo?si=j9F4pJP2m6_A_rtn)
+118. [From Fundamentalist To Skeptic | What Really Happened? @GnosticInformant](https://www.youtube.com/live/jX29c-TNS2Y?si=F3whLx8MWT58RdX7)
 
 </details>
 
@@ -364,6 +365,7 @@
 - [biblefails](https://biblefails.wordpress.com/)
 - [badnewsaboutchristianity](https://www.badnewsaboutchristianity.com/)
 - [Non Stamp Collector](https://www.nonstampcollector.com/)
+- [Taking Off The Tinfoil Hat](https://takingoffthetinfoilhat.com/)
 
 ### Youtube Accounts
 
@@ -383,6 +385,18 @@
 - [Non Stamp Collector](https://www.youtube.com/user/nonstampcollector)
 - [God Is Imaginary](https://www.youtube.com/@GIIVideo)
 - [QualiaSoup](https://www.youtube.com/@QualiaSoup/featured)
+- [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
+- [CosmikSkeptic](https://www.youtube.com/user/alexjoconnor)
+- [Gnostic Informant](https://www.youtube.com/c/GnosticInformant/featured)
+- [Science for the Win](https://www.youtube.com/channel/UCCWlPeAbmkh0b8F9u8DBAIA)
+- [Majesty of Reason](https://www.youtube.com/c/MajestyofReason/featured)
+- [Paulogia](https://www.youtube.com/channel/UCIS4cWaXgWpznjwovFYQBJQ)
+- [TMM](https://www.youtube.com/user/TheMessianicManic/videos)
+- [Professor David Explains](youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+- [King Crocoduck](https://www.youtube.com/c/KingCrocoduck/featured)
+- [Forrest Valkai](https://www.youtube.com/c/RenegadeScienceTeacher)
+- [TheTruthHurts](youtube.com/@TheTruthHurts)
+- [LloydEvans](https://www.youtube.com/@LloydEvans/about)
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
