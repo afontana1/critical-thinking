@@ -1,4 +1,4 @@
-# [Ethics](https://en.wikipedia.org/wiki/Category:Ethics) and [Philosophers of Ethics](https://en.wikipedia.org/wiki/Category:Philosophers_of_ethics_and_morality)
+# [Ethics](https://en.wikipedia.org/wiki/Category:Ethics) and [Morality](https://en.wikipedia.org/wiki/Category:Morality)
 
 1. [Outline of Ethics](https://en.wikipedia.org/wiki/Outline_of_ethics)
 2. [Ethics Glossary](https://ethicsunwrapped.utexas.edu/glossary)
@@ -151,6 +151,13 @@
 113. [Ideal_observer_theory](https://en.wikipedia.org/wiki/Ideal_observer_theory)
 114. [Bertrand Russell: Authority and the Individual](https://ia601400.us.archive.org/3/items/AuthorityAndTheIndividual_656/BertrandRussell-authorityAndTheIndividual-routledge1985.pdf)
 115. [Marriage_and_Morals](https://en.wikipedia.org/wiki/Marriage_and_Morals)
+116. [Moral development](https://en.wikipedia.org/wiki/Moral_development)
+117. [Lawrence Kohlberg's stages of moral development](https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development)
+118. [Evolution of morality](https://en.wikipedia.org/wiki/Evolution_of_morality)
+119. [The Moral Landscape](https://en.wikipedia.org/wiki/The_Moral_Landscape)
+120. [Moral foundations theory](https://en.wikipedia.org/wiki/Moral_foundations_theory)
+121. [On_the_Basis_of_Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
+122. [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
 
 ## People
 
