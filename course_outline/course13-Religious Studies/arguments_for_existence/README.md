@@ -16,6 +16,7 @@
 	* [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
 
 5. [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
+	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=dkhgJeDGa9nviJpd)
 
 6. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
 
@@ -33,6 +34,8 @@
 	* [The inconsistency in Gödel's ontological argument: a success story for AI in metaphysics](https://dl.acm.org/doi/10.5555/3060621.3060751)
 	* [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
 	* [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
+	* [A User's Guide to the Modal Ontological Argument](https://youtu.be/iKgJvGHYqs8?si=GQT6kQtqZoGOYIFc)
+	* [11 Ontological Arguments: An Analysis](https://youtu.be/YiK2W9jfpoU?si=Ud6A79HD6Qlz6R3l)
 
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
@@ -81,6 +84,7 @@
 22. [The Experience of God: Being, Consciousness, Bliss](https://whyevolutionistrue.com/2014/01/13/unequivocal-evidence-for-god-i-dont-think-so/)
 
 23. [Edwards Response to Aquinas](https://bettystoneman.wordpress.com/2010/10/25/aquinas-cosmological-argument-and-edwards-responses/)
+	* [20 Cosmological Arguments: An Analysis](https://youtu.be/EysSbVCkJLo?si=4Yqq8y1CyeTCG4Q-)
 
 24. [Hundreds of Proofs of God’s Existence](https://www.godlessgeeks.com/LINKS/GodProof.htm)
 	* [Why Atheism?](https://www.godlessgeeks.com/WhyAtheism.htm)
@@ -112,6 +116,7 @@
 	* [Best of all Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 	* [Skeptical Theism](https://plato.stanford.edu/entries/skeptical-theism/)
 	* [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
+	* [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
 
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
@@ -126,6 +131,17 @@
 	* [Collection of Discussions](https://www.youtube.com/watch?v=ZTDbUE83JyI&list=PLxRhaLyXxXkZzH2YffI32ViTZ73Tu8jSR)
 	* [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
 	* [Countering the Kalam](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7E17ejxJNyPxRM7Zki-nS6G)
+	* [‘Mere’ Causality: Arguments, Objections, and Good Principles](https://youtu.be/qTEKUowWoIE?si=B8fE5aWO72ARjGb1)
+	* [William Lane Craig & Scott Clifton Discuss the Kalam Cosmological Argument](https://www.youtube.com/live/TmYCwjU_5Wc?si=9nnnPSF6BQu1g0gJ)
+	* [Episode 21, Scott Clifton and Wes Morriston on the Clifton-Craig debate](https://youtu.be/fjajeG2QixM?si=-tmscdHRUlen4gOp)
+	* [Episode 4, Wes Morriston; On the Kalam Cosmological Argument](https://youtu.be/tsErbEt9MOQ?si=CYzJJHtGW1d8fkrA)
+	* [No, science doesn’t show the universe began to exist | Dr. Daniel Linford](https://youtu.be/35tICdYtHsQ?si=Z-YcW94rkRBsL9GL)
+	* [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://youtu.be/femxJFszbo8?si=lj8FG3Dabb3JsDQw)
+	* [The Kalam and Successive Addition | Dr. Wes Morriston](https://youtu.be/3bI4mvkR6D4?si=-fvoPw8gK7_sFe-B)
+	* [Hilbert’s Hotel and Craig’s Kalam | Dr. Alex Malpass](https://youtu.be/U6RQa-mPKV8?si=_7F-kc_jKqngKXrb)
+	* [Whatever begins to exist has a cause? | Dr. Daniel Linford](https://youtu.be/XN2_xd6xtUk?si=gE1l9GgoteRcKpOj)
+	* [Hilbert's Hotel: A Comprehensive Response](https://youtu.be/wt-rEeUIcR4?si=kM-RVjuZHfECjjY4)
+	* [The Kalam's Causal Principle: An Analysis](https://youtu.be/XslZE3luFq4?si=w49y1m2FQwQASYqg)
 
 30. [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
 	* [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
@@ -142,6 +158,7 @@
 	* [Discussing the Fine-Tuning Argument](https://www.youtube.com/watch?v=3WrBPCfg62M)
 	* [Leonard Susskind - Is the Universe Fine-Tuned for Life and Mind?](https://www.youtube.com/watch?v=2cT4zZIHR3s)
 	* [What's Fine-Tuning in Physics? | Episode 1903 | Closer To Truth](https://www.youtube.com/watch?v=UizIrcdSuuo)
+	* [12 Design Arguments: An Analysis](https://youtu.be/_hxuKMEzDLk?si=6stXQ7VN1Oa6K3iz)
 
 32. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
@@ -150,6 +167,9 @@
 	* [Moral Arguments for the Existence of God](https://plato.stanford.edu/entries/moral-arguments-god/)
 	* [Quick Counters to the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FMPvpIo5ReKW4pneBHzZdX)
 	* [Countering the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FAcDBQq-sMejB9jtbF1gSs)
+	* [Moral Arguments for God: An Analysis](https://youtu.be/cFEjSzfEQrU?si=UZuPSKaOJ7LtTF44)
+	* [Objective Morality Without God](https://youtu.be/50CQwa15R7A?si=oagU3PXsthSrjmFg)
+	* [Why I Don't Use The Moral Argument For Theism](https://youtu.be/wiVEU6yAVZk?si=DzDaOlZLaCyP7wcq)
 
 33. [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
 
@@ -193,6 +213,7 @@
 	* [On Stage One of Fesers "Aristotelian Proof"](https://www.researchgate.net/publication/336900890_On_stage_one_of_Feser's_'Aristotelian_proof')
 	* [Harrison Jennings on Act and Potency](https://realatheology.wordpress.com/2019/07/04/harrison-jennings-on-act-and-potency-pt-1/)
 	* [Feser on Schmid on the Aristotelian Proof](https://majestyofreason.wordpress.com/2021/07/04/feser-on-schmid-on-the-aristotelian-proof/)
+	* [Feser's Aristotelian Proof: An Analysis](https://youtu.be/O_DUgRWHv7U?si=4dq0Wm51OWK5_xaQ)
 	* Majesty of Reason Critiques:
 		- [Part 1](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-introduction-part-1/)
 		- [Part 2](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-formalization-part-2/)
@@ -376,3 +397,14 @@
 	* [The Birth Death Drake Equation](https://youtu.be/kliJ-CFVLeE?si=5Xs_4tdGOYxI6J_f)
 
 89. [An atheological argument from evil natural laws](https://philpapers.org/rec/SMIAAA-3)
+90. [psychophysical harmony](https://youtube.com/playlist?list=PLxRhaLyXxXkaxsGfwQc4yNqqeF-WOnRSx&si=meqANkAy3-5keNM-)
+91. [Phil Halper and Ken Williford, on Animal Suffering](https://youtu.be/OG_QOFLEizo?si=DPgmaVgbVAa77M7m)
+92. [Episode 11, Tyler McNabb, On Reformed Epistemology](https://youtu.be/LTBXYC_1x2o?si=JlKpdZTtewnJNDti)
+93. [Theological Fatalism](https://en.wikipedia.org/wiki/Fatalism)
+	* [Divine Foreknowledge and Human Freedom | Dr. Taylor Cyr and Sean Clements](https://youtu.be/2eo6ZwZ0c5U?si=8SpbEDvA0fTX0tKI)
+	* [Is Omniscience Possible? | Dr. Josh Rasmussen](https://youtu.be/BqxR_Cs1LEg?si=grrKEVKBgxkiI7q6)
+	* [Omniscience, Time, and Freedom](https://youtu.be/HPajfhRLGVU?si=qBhnHM3ETqa-Ss-_)
+94. [PZ Myers - The Evolution of Creationism](https://youtu.be/ruBjWkVKyRo?si=KQJjFo91xoNMH5bs)
+95. [The Argument for God from Logic](https://youtu.be/mX76lzXu_Jc?si=eTd7NJi-Koh6ofhb)
+	* [From Abstracta to Atheism? | Dr. Felipe Leon](https://youtu.be/8MeJAFsB8BA?si=0GysQIRC6l8iCnHA)
+96. [Feser's Neo-Platonic Proof: An Analysis](https://youtu.be/BYhV5JAy48g?si=hl8ZB-aAaD-eHrPB)
