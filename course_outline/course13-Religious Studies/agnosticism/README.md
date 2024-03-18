@@ -226,6 +226,7 @@
 116. [Why I No Longer Believe in God: Michael Maletin](https://youtu.be/M5ZLuRYp8gk?si=LvyREpN1ZfI_vuOc)
 117. [Escaping Religion: Lessons From My Journey Out](https://youtu.be/AaLMQUXhcRo?si=j9F4pJP2m6_A_rtn)
 118. [From Fundamentalist To Skeptic | What Really Happened? @GnosticInformant](https://www.youtube.com/live/jX29c-TNS2Y?si=F3whLx8MWT58RdX7)
+119. [Felipe Leon Interview](https://www.youtube.com/live/t5xzNeNmUwM?si=14g8jGOaC87DW29j)
 
 </details>
 
@@ -401,6 +402,7 @@
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 
 - [Secular Web Authors](https://infidels.org/library/authors/book-authors/)
+- [Clergy Project](https://clergyproject.org/)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
 2. [English Atheists](https://en.wikipedia.org/wiki/Category:English_atheists)

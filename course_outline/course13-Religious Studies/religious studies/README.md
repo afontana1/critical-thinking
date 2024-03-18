@@ -91,7 +91,7 @@
 78. [Robert Conner](https://www.goodreads.com/author/list/153017.Robert_Conner)
 79. [David Madison](https://www.tentoughproblems.com/about-the-author/)
 80. [Brad Onishi](https://www.bradonishi.com/)
-81. 
+81. [Cynthia Chapman](https://www.oberlin.edu/cindy-chapman)
 
 ## Methods
 

@@ -1,4 +1,4 @@
-# [Famous](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
+# [Various](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
 
 - [Over 100 Arguments for God ANSWERED](https://www.youtube.com/watch?v=iP0Mh42jvV4)
 - [Philosophy of Religion online Textbook](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/TABLE_of_CONTENTS.htm)
@@ -57,6 +57,14 @@
 	* [DEBATE: The Argument for God From Reason • Cosmic Skeptic vs Max Baker-Hytch](https://www.youtube.com/watch?v=kI)
 
 14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief) and [Divine Hiddenness](https://plato.stanford.edu/entries/divine-hiddenness/)
+	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (1/5)](https://youtu.be/7hBpZ-ystOg?si=-3zsvoiE_QVjdJWt)
+	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (2/5)](https://youtu.be/sBiGfcCI7Zo?si=-ymOz-dxV2Ar_mZf)
+	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (3/5](https://youtu.be/3ce7WipX_Ek?si=476fWfvSivZS4KGT)
+	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (4/5)](https://youtu.be/se9HFUQ8piM?si=xBPGkMGCoI9qulz3)
+	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (5/5)](https://youtu.be/Dlx06BXsNxk?si=EVrznYrxqhNh4q7q)
+	* [Nonbelief Revisited: The Ghost of Veritas48](https://youtu.be/FCGCjLEJF_g?si=kZogBD9qy8z7HdEY)
+	* [Wrapping Up 'Nonbelief'](https://youtu.be/L54fUWIBKAY?si=4WDyoqngwDCHsvh-)
+	* [Divine Hiddenness: Mike Winger's Desperate Dance Around God's Disappearance](https://youtu.be/KO9IxzjnCIo?si=b97NDppSSQjG8IJf)
 
 15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
 	* [Why Anything at All? | Episode 1213 | Closer To Truth](https://www.youtube.com/watch?v=tgU49k1d7TE)
@@ -148,6 +156,9 @@
 	* [Is God Totally Free? | Episode 1313 | Closer To Truth](https://www.youtube.com/watch?v=1-7t2cSvxTw)
 	* [Can Free Will Survive God's Foreknowledge? | Episode 1412 | Closer To Truth](https://www.youtube.com/watch?v=0bEBFdTfHbg)
 	* [If God Knows the Future, What is Free Will? | Episode 710 | Closer To Truth](https://www.youtube.com/watch?v=Z9EeVRD43qA)
+	* [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
+	* [The Problem of Hell: Raymond Bradley vs. William Lane Craig (Debate)](https://youtu.be/oJdlO6esWr8?si=Elk9BEMlh_PR29-E)
+	* [Can God Condemn One to an Afterlife in Hell?](https://philpapers.org/rec/BRACGC)
 
 31. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
 	* [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)
@@ -388,7 +399,7 @@
 	* [Psychic Phenomena](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Psychic_phenomena.htm)
 	* [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
 
-87. [150 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2022/06/120-or-so-arguments-for-atheism.html)
+87. [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
 88. [Anthropic_principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 	* [Is The Anthropic Principle Significant?](https://youtu.be/NMV9t-3rFNs?si=clenObcP_V-qpDxa)
 	* [The Problem with the "Rare Earth Hypothesis"](https://youtu.be/-CsLmoiKugE?si=zlxMIcDJ4Jbwo2O2)
