@@ -94,8 +94,9 @@
 23. [Edwards Response to Aquinas](https://bettystoneman.wordpress.com/2010/10/25/aquinas-cosmological-argument-and-edwards-responses/)
 	* [20 Cosmological Arguments: An Analysis](https://youtu.be/EysSbVCkJLo?si=4Yqq8y1CyeTCG4Q-)
 
-24. [Hundreds of Proofs of God’s Existence](https://www.godlessgeeks.com/LINKS/GodProof.htm)
-	* [Why Atheism?](https://www.godlessgeeks.com/WhyAtheism.htm)
+24. [Hundreds of Proofs of God’s Existence](https://web.archive.org/web/20230611011201/https://www.godlessgeeks.com/LINKS/GodProof.htm)
+	* [Why Atheism?](https://web.archive.org/web/20230530214214/http://godlessgeeks.com/WhyAtheism.htm)
+	* [Atheists of Silicon Valley](https://web.archive.org/web/20230225074059/https://www.godlessgeeks.com/LINKS/Debate.html)
 
 25. [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
 
