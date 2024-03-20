@@ -227,6 +227,8 @@
 117. [Escaping Religion: Lessons From My Journey Out](https://youtu.be/AaLMQUXhcRo?si=j9F4pJP2m6_A_rtn)
 118. [From Fundamentalist To Skeptic | What Really Happened? @GnosticInformant](https://www.youtube.com/live/jX29c-TNS2Y?si=F3whLx8MWT58RdX7)
 119. [Felipe Leon Interview](https://www.youtube.com/live/t5xzNeNmUwM?si=14g8jGOaC87DW29j)
+120. [Why I Left Jehovah's Witnesses - Former Elder / Pioneer](https://youtu.be/r7tNNo8EzfQ?si=830FqlhP7UvzE4ek)
+121. [John MacArthur is Wrong About Deconstruction | Ex Christian Responds](https://youtu.be/KjFtPoYqQW0?si=uJEKu6I_hwPqn_lY)
 
 </details>
 
