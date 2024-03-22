@@ -92,6 +92,7 @@
 79. [David Madison](https://www.tentoughproblems.com/about-the-author/)
 80. [Brad Onishi](https://www.bradonishi.com/)
 81. [Cynthia Chapman](https://www.oberlin.edu/cindy-chapman)
+82. [Karen Armstrong](https://en.wikipedia.org/wiki/Karen_Armstrong)
 
 ## Methods
 
