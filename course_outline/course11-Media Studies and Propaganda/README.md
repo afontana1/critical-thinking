@@ -28,3 +28,32 @@
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/
 - https://www.visualcapitalist.com/who-owns-your-favorite-news-media-outlet/
+
+## Conspiracy and Propaganda
+
+1. [In Defense of Conspiracy Theories pt 1](https://youtu.be/p0poRoE_kVk?si=QbhsIPmPAsfMv0r3)
+2. [In Defense of Conspiracy Theories pt 2](https://youtu.be/TRKYf49aMfU?si=C6bHVzE8CZbCxVTb)
+3. [How to Argue with conspiracy Theorists (And Win)](https://youtu.be/KLfL1Gm9QDM?si=falx1nMUUpYpvh-Y)
+4. [The Art of Rhetoric: 10 Principles of Persuasive Speech](https://youtu.be/qAert4eHBRM?si=JKN1N5JwqmnLndKH)
+5. [Why Trust Experts?](https://youtu.be/TPq6zKf7RQQ?si=QLut7-FDf79XqO0c)
+6. [The Conspiracy Hypothesis](https://youtu.be/378KsaqmHOA?si=utPp9UATsR8ruj7j)
+7. [Dietary Nihilism](https://youtu.be/hTcbmxrrTn0?si=yxuXl2j5M3XSonq4)
+8. [Karl Popper's "The Conspiracy Theory of Society"](https://youtu.be/KumNAOH33VM?si=5EJFHZyUE7TfoPNB)
+9. [Episode 12, Dr M R. X. Dentith on Conspiracy Theories (audio fixed)](https://youtu.be/VgUdy01KZbY?si=yjAQXxMK0l00AguH)
+10. [You Are Lied to Every Day](https://youtu.be/ewXqB7g7t1A?si=NWMqbZ86-iIDE3LR)
+11. [Noam Chomsky on Democracy and the Media (1994)](https://youtu.be/xI2qSQWvPnM?si=tVjRRiFfHI_EBHWO)
+12. [Fairness and Accuracy in Reporting- Noam Chomsky Manufacturing Consent](https://youtu.be/em-eljd5y64?si=zFb6azWle-cIQyJI)
+13. [Noam Chomsky Interview Used in Documentary "Manufacturing Consent", February 1, 1990](https://youtu.be/Qv-zIE_HxLA?si=_k5EQlNMyj_cZxrJ)
+14. [Manufacturing Consent, Chapter 1: A Propaganda Model](https://youtu.be/hgnX8by4DPQ?si=lNHefQJmuDKZR7cj)
+15. [Edward Bernays: Social Engineering, Advertising and Marketing](https://youtu.be/XzutxRi9xVI?si=bg_Kq_Pw0Gxu6LQa)
+16. [The Fall of Russell Brand](https://youtu.be/yr5e38RznKY?si=Dp2Na-NHKs8IzLY8)
+17. [how dogma pollutes discourse | qualiasoup & theramintrees [cc]](https://youtu.be/o6-Htscvf4k?si=PtDyg59rLgP54pMg)
+18. [Noam Chomsky on Propaganda - The Big Idea - Interview with Andrew Marr](https://youtu.be/GjENnyQupow?si=2cR6OlKdmfsfOle-)
+19. [Global Debunking Arguments](https://youtu.be/FFaOUX9PjPg?si=yBckRhsAtOneNcvS)
+20. [CARTA: Folklore, Conspiracy Theories, and Threat](https://youtu.be/UmUukTBAM98?si=1JQ1-gVmQcgcv5sm)
+21. [Free Thought and Official Propaganda | Bertrand Russell | Human Narration](https://youtu.be/ZGQ7Fm-HggQ?si=xpu12Bd6TB7jQMDW)
+22. [Debunking and Argumentation: Looking at Kenneth Burke's Debunking Essay](https://youtu.be/bD4ZcTrkjX8?si=Z-LhHiyEdtE8IIVg)
+23. [Jesse Walker "The United States of Paranoia"](https://youtu.be/9ffxKN1hppc?si=gROzIqqcq5xrvxX2)
+24. [Episode 127: The United States of Paranoia: A Conspiracy Theory (with Jesse Walker)](https://youtu.be/2harUfkThMo?si=t-STvLG0MlevseOu)
+25. [The Paranoid Style in American Politics - Richard Hofstadter - 1964](https://youtu.be/zkVBgOc4Vbo?si=Dk61mhReDlZ2ejw7)
+26. [The Right-Wing War on Education](https://youtu.be/bo0M3H1QsEQ?si=l6Q2QJOQ2nZc9VxO)

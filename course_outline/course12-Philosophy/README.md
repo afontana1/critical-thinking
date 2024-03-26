@@ -313,6 +313,9 @@
 
 <details><summary><h2><a href="https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html">Philosophers</a></h2></summary>
 
+- [Timeline of Western Philosophy](https://en.wikipedia.org/wiki/Timeline_of_Western_philosophers)
+- [Pupils of Socrates](https://en.wikipedia.org/wiki/Category:Pupils_of_Socrates)
+
 <details><summary><h3> Ancient Greece and Rome </h3></summary>
 
 1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
@@ -330,6 +333,7 @@
 12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
 13. [Ancient_Roman_philosophy](https://en.wikipedia.org/wiki/Ancient_Roman_philosophy)
 14. [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
+15. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 
 </details>
 
@@ -381,6 +385,7 @@
 40. [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
 41. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
 42. [Seneca The Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+43. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
 
 #### Historical Information
 
