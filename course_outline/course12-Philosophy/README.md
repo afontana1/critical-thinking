@@ -64,6 +64,8 @@
 	- [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
 	- [Disquotational Principle](https://en.wikipedia.org/wiki/Disquotational_principle)
 	- [Computational Epistemology](http://cogsci.uwaterloo.ca/Index.html)
+	- [Defeasibility Theories of Knowledge](https://philpapers.org/browse/defeasibility-theory-of-knowledge) & [Defeaters in Epistemology](https://iep.utm.edu/defeaters-in-epistemology/)
+	- [Hinge Epistemology](https://philpapers.org/rec/COLWHE)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)

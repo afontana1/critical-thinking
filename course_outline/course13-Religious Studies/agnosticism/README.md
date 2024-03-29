@@ -493,6 +493,7 @@
 83. [Percy_Bysshe_Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)
 84. [Jonathan MS Pearce](https://atipplingphilosopher.yolasite.com/a-tps-blog.php)
 85. [Raymond D. Bradley](https://www.sfu.ca/philosophy/people/faculty/profiles/ray-bradley.html) [PhilPapers](https://philpeople.org/profiles/raymond-bradley)
+86. [Stephen Law](https://stephenlaw.blogspot.com/)
 
 ## Books
 
