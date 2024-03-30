@@ -1,4 +1,4 @@
-# [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
+# [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods) and [Deception](https://en.wikipedia.org/wiki/Category:Deception)
 
 - [The House of Unamerican Activities Committee](https://www.trumanlibrary.gov/education/presidential-inquiries/house-un-american-activities-committee)
 
@@ -22,6 +22,11 @@
 18. [American Think Tanks](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
 19. [List of Think Tanks](https://en.wikipedia.org/wiki/List_of_think_tanks)
 20. [The_medium_is_the_message](https://en.wikipedia.org/wiki/The_medium_is_the_message)
+21. [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
+22. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
+23. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
+24. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
+25. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/
