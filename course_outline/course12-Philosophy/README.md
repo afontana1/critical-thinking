@@ -440,6 +440,22 @@
 
 </details>
 
+<details><summary><h3><a href="https://en.wikipedia.org/wiki/Classical_antiquity#Late_antiquity_(4th_to_6th_centuries_AD)"> Late Antiquity </a> </h3></summary>
+
+1. [Plotinus](https://plato.stanford.edu/entries/plotinus/)
+2. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
+3. [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers)
+4. [Porphyry](https://en.wikipedia.org/wiki/Porphyry_(philosopher))
+5. [Proclus](https://plato.stanford.edu/entries/proclus/)
+6. [iamblichus](https://plato.stanford.edu/entries/iamblichus/)
+7. [Ammonius Saccas](https://en.wikipedia.org/wiki/Ammonius_Saccas)
+8. [Augustine](https://plato.stanford.edu/entries/augustine/)
+9. [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/)
+10. [Simplicius of Cilicia](https://en.wikipedia.org/wiki/Simplicius_of_Cilicia)
+11. [Damascius](https://en.wikipedia.org/wiki/Damascius)
+
+</details>
+
 <details><summary><h3><a href="https://en.wikipedia.org/wiki/Medieval_philosophy">Medieval and </a><a href="https://en.wikipedia.org/wiki/Scholasticism">Scholasticism</a></h3></summary>
 
 1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
