@@ -100,3 +100,6 @@
 98. [Dr. Russ Shafer-Landau: Objective Morality Without God](https://youtu.be/50CQwa15R7A?si=L5StFnkCnhy9Qp8r)
 99. [Martha Nussbaum, "Creating Capabilities: The Human Development Approach"](https://youtu.be/sYfFGDhbHUk?si=LV8qDyodPam4uPVq)
 100. [Do We Need Ethical Principles? Richard Rorty (1994)](https://youtu.be/SDAdveMYHFs?si=a4GCj9yTYMB6sRv6)
+101. [Ethics of Principle vs Sensitivity - Richard Rorty (1990)](https://youtu.be/nD248K11zNE?si=C_Hxxep2THR5x-oY)
+102. [The Fundamentals of Ethics - Chapter 15: Ethical Pluralism and Absolute Moral Rules](https://youtu.be/kMtnhdpHJ9M?si=xiqBiG4QBM8RreKM)
+103. [The Fundamentals of Ethics - Chapter 16: Ethical Pluralism: Prima Facie Duties/Ethical Particularism](https://youtu.be/dijHYMyFnLw?si=MCCHP3t9WqAdwKvX)

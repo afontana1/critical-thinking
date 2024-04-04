@@ -158,6 +158,7 @@
 120. [Moral foundations theory](https://en.wikipedia.org/wiki/Moral_foundations_theory)
 121. [On_the_Basis_of_Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
 122. [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
+123. [Act and Rule Utilitarianism](https://iep.utm.edu/util-a-r/)
 
 ## People
 
