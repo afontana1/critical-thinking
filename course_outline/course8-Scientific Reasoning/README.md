@@ -2,7 +2,9 @@
 
 ## [Logic and Statistics](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics), and [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 
+- [Research Methods Knowledge Base](https://conjointly.com/kb/table-of-contents/)
 - [STAT503](https://online.stat.psu.edu/stat503/)
+- [Theories](https://en.wikipedia.org/wiki/Category:Theories)
 
 1. [Simpsons Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 2. [Reference Class Problem](https://en.wikipedia.org/wiki/Reference_class_problem)

@@ -93,6 +93,7 @@
 80. [Brad Onishi](https://www.bradonishi.com/)
 81. [Cynthia Chapman](https://www.oberlin.edu/cindy-chapman)
 82. [Karen Armstrong](https://en.wikipedia.org/wiki/Karen_Armstrong)
+83. [Diana L Eck](https://en.wikipedia.org/wiki/Diana_L._Eck)
 
 ## Methods
 

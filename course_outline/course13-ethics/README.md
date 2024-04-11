@@ -187,3 +187,4 @@
 23. [Christine_Korsgaard](https://en.wikipedia.org/wiki/Christine_Korsgaard)
 24. [Amartya_Sen](https://en.wikipedia.org/wiki/Amartya_Sen)
 25. [Elizabeth Spelke](https://en.wikipedia.org/wiki/Elizabeth_Spelke)
+26. [Catherine Wilson](https://en.wikipedia.org/wiki/Catherine_Wilson_%28philosopher%29)
