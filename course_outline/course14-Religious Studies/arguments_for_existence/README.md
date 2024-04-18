@@ -432,3 +432,4 @@
 	* [Everything WRONG With Christian Apologetics](https://youtu.be/NSL4qua6AeA?si=WOKsCVKmoKkdCROr)
 	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
 	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
+98. [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)

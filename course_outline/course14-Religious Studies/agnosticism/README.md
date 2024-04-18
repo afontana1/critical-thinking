@@ -494,6 +494,7 @@
 84. [Jonathan MS Pearce](https://atipplingphilosopher.yolasite.com/a-tps-blog.php)
 85. [Raymond D. Bradley](https://www.sfu.ca/philosophy/people/faculty/profiles/ray-bradley.html) [PhilPapers](https://philpeople.org/profiles/raymond-bradley)
 86. [Stephen Law](https://stephenlaw.blogspot.com/)
+87. [Robert G. Ingersoll](https://en.wikipedia.org/wiki/Robert_G._Ingersoll)
 
 ## Books
 
