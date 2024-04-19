@@ -1,14 +1,5 @@
 # [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
-- [Catalog of Bias](https://catalogofbias.org/biases/)
-- [Decision Lab Bias Index](https://thedecisionlab.com/biases-index)
-- [Pscychological Methodology](https://en.wikipedia.org/wiki/Category:Psychological_methodology)
-- [Psychological Theories](https://en.wikipedia.org/wiki/Category:Psychological_theories)
-- [Psychological Concepts](https://en.wikipedia.org/wiki/Category:Psychological_concepts)
-- [Psychometrics](https://en.wikipedia.org/wiki/Category:Psychometrics)
-- [Psychotherapy](https://en.wikipedia.org/wiki/Category:Psychotherapy)
-- [List of Psychotherapies](https://en.wikipedia.org/wiki/List_of_psychotherapies)
-
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
 3. [List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
@@ -39,7 +30,7 @@
 28. [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
 29. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
 
-# [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty), [Probability](https://en.wikipedia.org/wiki/Category:Probability), and [Problem Solving](https://en.wikipedia.org/wiki/Category:Problem_solving)
+# [Risk](https://en.wikipedia.org/wiki/Category:Risk) and [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) 
 
 - [The Decision Lab](https://thedecisionlab.com/)
 
@@ -50,7 +41,7 @@
 5. [Decision Making](https://en.wikipedia.org/wiki/Category:Decision-making)
 6. [Problem_solving_skills](https://en.wikipedia.org/wiki/Category:Problem_solving_skills)
 7. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
-8. [Risk](https://en.wikipedia.org/wiki/Category:Risk)
+8. [Reliability_analysis](https://en.wikipedia.org/wiki/Category:Reliability_analysis)
 9. [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
 10. [Problem_solving_methods](https://en.wikipedia.org/wiki/Category:Problem_solving_methods)
 11. [Business Process](https://en.wikipedia.org/wiki/Category:Business_process)
@@ -64,3 +55,6 @@
 19. [Economics of Uncertainty](https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty)
 20. [Applied Probability](https://en.wikipedia.org/wiki/Category:Applied_probability)
 21. [Black_swan_theory](https://en.wikipedia.org/wiki/Black_swan_theory)
+22. [Reliability_engineering](https://en.wikipedia.org/wiki/Category:Reliability_engineering)
+23. [Risk_analysis](https://en.wikipedia.org/wiki/Category:Risk_analysis)
+24. [Decision_analysis](https://en.wikipedia.org/wiki/Category:Decision_analysis)

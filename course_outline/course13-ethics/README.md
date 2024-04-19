@@ -159,6 +159,8 @@
 121. [On_the_Basis_of_Morality](https://en.wikipedia.org/wiki/On_the_Basis_of_Morality)
 122. [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
 123. [Act and Rule Utilitarianism](https://iep.utm.edu/util-a-r/)
+124. [Moral Luck](https://plato.stanford.edu/entries/moral-luck/)
+125. [Cornell_realism](https://en.wikipedia.org/wiki/Cornell_realism)
 
 ## People
 
@@ -188,3 +190,28 @@
 24. [Amartya_Sen](https://en.wikipedia.org/wiki/Amartya_Sen)
 25. [Elizabeth Spelke](https://en.wikipedia.org/wiki/Elizabeth_Spelke)
 26. [Catherine Wilson](https://en.wikipedia.org/wiki/Catherine_Wilson_%28philosopher%29)
+27. [Richard Boyd](https://en.wikipedia.org/wiki/Richard_Boyd)
+
+## Books
+
+1. [Freedom's Law: The Moral Reading of the American Constitution](https://www.amazon.com/Freedoms-Law-Reading-American-Constitution/dp/0674319281)
+2. [Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism](https://www.amazon.com/Robust-Ethics-Metaphysics-Epistemology-Normative/dp/0198714327)
+3. [The Sources of Normativity](https://www.amazon.com/Sources-Normativity-Christine-M-Korsgaard/dp/052155960X)
+4. [The Theory of Moral Sentiments](https://www.amazon.com/Theory-Moral-Sentiments-Adam-Smith/dp/1614279985)
+5. [Collective Choice and Social Welfare: An Expanded Edition ](https://www.amazon.com/Collective-Choice-Social-Welfare-Expanded/dp/0674971604)
+6. [On What Matters: Volume One](https://www.amazon.com/What-Matters-Berkeley-Tanner-Lectures/dp/0199681031)
+7. [On Liberty, Utilitarianism and Other Essays (Oxford World's Classics)](https://www.amazon.com/Liberty-Utilitarianism-Essays-Oxford-Classics/dp/0199670803)
+8. [Moral Realism: A Defence](https://www.amazon.com/Moral-Realism-Defence-Russ-Shafer-Landau/dp/0199259755)
+9. [The Moral Problem](https://www.amazon.com/Moral-Problem-Michael-Smith/dp/0631192468)
+10. [Moral Realism and the Foundations of Ethics](https://www.amazon.com/Realism-Foundations-Cambridge-Studies-Philosophy/dp/0521359376)
+11. [What We Owe to Each Other](https://www.jstor.org/stable/j.ctv134vmrn)
+12. [Moral Dimensions: Permissibility, Meaning, Blame](https://www.amazon.com/Moral-Dimensions-Permissibility-Meaning-Blame/dp/0674057457)
+13. [Being Realistic about Reasons](https://www.amazon.com/Being-Realistic-about-Reasons-Scanlon/dp/0198748108)
+14. [Contractualism (Elements in Ethics)](https://www.amazon.com/Contractualism-Elements-Ethics-Jussi-Suikkanen/dp/110871269X)
+15. [The Right and the Good](https://en.wikipedia.org/wiki/The_Right_and_the_Good)
+16. [Ethical Intuitionism](https://www.amazon.com/Ethical-Intuitionism-M-Huemer/dp/0230573746)
+17. [Value and Virtue in a Godless Universe](https://www.amazon.com/Value-Virtue-Godless-Universe-Wielenberg/dp/0521607841)
+18. [Cornell Realism](https://philpapers.org/browse/cornell-realism)
+19. [Moral Feelings, Moral Reality, and Moral Progress](https://www.amazon.com/Moral-Feelings-Reality-Progress/dp/0197690882)
+20. [The Possibility of Altruism](https://www.amazon.com/Possibility-Altruism-Thomas-Nagel/dp/0691020027)
+21. [Essays on Moral Realism](https://www.amazon.com/Essays-Moral-Realism-Geoffrey-Sayre-McCord/dp/080142240X)
