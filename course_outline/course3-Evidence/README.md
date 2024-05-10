@@ -60,6 +60,7 @@
 47. [Memory](https://en.wikipedia.org/wiki/Category:Memory)
 48. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))
 49. [Legal_procedure](https://en.wikipedia.org/wiki/Category:Legal_procedure)
+50. [Higher Order Evidence](https://plato.stanford.edu/entries/higher-order-evidence/)
 
 ## People
 

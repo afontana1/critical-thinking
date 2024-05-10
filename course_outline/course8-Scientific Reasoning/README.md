@@ -1,11 +1,5 @@
 # Science Related Concepts
 
-## [Logic and Statistics](https://en.wikipedia.org/wiki/Category:Logic_and_statistics), [Causality](https://en.wikipedia.org/wiki/Category:Causality), [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics), and [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
-
-- [Research Methods Knowledge Base](https://conjointly.com/kb/table-of-contents/)
-- [STAT503](https://online.stat.psu.edu/stat503/)
-- [Theories](https://en.wikipedia.org/wiki/Category:Theories)
-
 1. [Simpsons Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 2. [Reference Class Problem](https://en.wikipedia.org/wiki/Reference_class_problem)
 3. [Base Rate Fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)
@@ -39,8 +33,11 @@
 31. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
 32. [Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 33. [Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+34. [Causality](https://en.wikipedia.org/wiki/Category:Causality)
+35. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
+36. [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 
-## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Formal Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
+## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Types of Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
 
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Structure](https://plato.stanford.edu/entries/structure-scientific-theories/)
@@ -56,7 +53,7 @@
 12. [Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/)
 13. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
 14. [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-15. [Macroevolution](https://plato.stanford.edu/entries/macroevolution/)
+15. [Theories](https://en.wikipedia.org/wiki/Category:Theories)
 16. [Research Methods](https://en.wikipedia.org/wiki/Category:Research_methods)
 17. [Methodology](https://en.wikipedia.org/wiki/Category:Methodology)
 18. [Evaluation Methods](https://en.wikipedia.org/wiki/Category:Evaluation_methods)

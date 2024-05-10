@@ -1,7 +1,5 @@
 # Outline and Description of Contents
 
-- [Closer to Truth](https://closertotruth.com/)
-
 <details><summary><h2>Playlists</h2></summary>
 
 1. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
@@ -28,6 +26,7 @@
 22. [Collective Computation (C4) Public Lecture Videos](https://youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d&si=YHSZvHSEeJB3FhsR)
 23. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
 24. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
+25. [Closer to Truth](https://closertotruth.com/)
 
 </details>
 
@@ -35,10 +34,9 @@
 
 <details><summary><h2>Useful External Resources to Consult</h2></summary>
 
-## My Own Blogs
+## My Own Blog
 
 1. [Critical Thinking Academy](https://thecriticalthinkingacademy.blogspot.com/?m=1)
-2. [The Critical Thinking Academy](https://thecriticalthinkingacademy.com/)
 
 ## Some Blogs and Websites I Like
 

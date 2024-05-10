@@ -1,6 +1,6 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods) and [Deception](https://en.wikipedia.org/wiki/Category:Deception)
 
-- [The House of Unamerican Activities Committee](https://www.trumanlibrary.gov/education/presidential-inquiries/house-un-american-activities-committee)
+- 
 
 1. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 2. [Attitude Change](https://en.wikipedia.org/wiki/Category:Attitude_change)
@@ -27,10 +27,10 @@
 23. [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 24. [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 25. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
+26. [The House of Unamerican Activities Committee](https://www.trumanlibrary.gov/education/presidential-inquiries/house-un-american-activities-committee)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/
-
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/
 - https://www.visualcapitalist.com/who-owns-your-favorite-news-media-outlet/

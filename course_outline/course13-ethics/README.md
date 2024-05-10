@@ -7,15 +7,18 @@
 5. [Online Guide to moral and Political Philosophy](http://caae.phil.cmu.edu/Cavalier/80130/index.html)
 6. [Thought_experiments_in_ethics](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_ethics)
 7. [Dilemmas](https://en.wikipedia.org/wiki/Category:Dilemmas)
-8. [Introduction to Ethics Playlist](https://www.youtube.com/playlist?list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd)
-9. [Platonic Dialogues Playlist](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
-10. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-11. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
-12. [Ethics for A-Level](https://books.openedition.org/obp/4401)
-13. [Ethical Concepts Playlist](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3RqKENcjVM-g10CHeLtdCoD)
-14. [Introduction to Ethics](https://www.youtube.com/playlist?list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd)
-15. [Ethics - Daniel Bonevac](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3RqKENcjVM-g10CHeLtdCoD)
-16. [Ethics & Moral Philosophy: Philosophy Overdose](https://youtube.com/playlist?list=PLhP9EhPApKE-iX8SWvd76ZK_j0jIbzt17&si=-c1xNhnTJOtFHTPb)
+
+## Playlists
+
+1. [Introduction to Ethics Playlist](https://www.youtube.com/playlist?list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd)
+2. [Platonic Dialogues Playlist](https://www.youtube.com/playlist?list=PL65ijVzWl9kvQmBMv7nFo5FkqMSWN-q16)
+3. [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+4. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+5. [Ethics for A-Level](https://books.openedition.org/obp/4401)
+6. [Ethical Concepts Playlist](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3RqKENcjVM-g10CHeLtdCoD)
+7. [Introduction to Ethics](https://www.youtube.com/playlist?list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd)
+8. [Ethics - Daniel Bonevac](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3RqKENcjVM-g10CHeLtdCoD)
+9. [Ethics & Moral Philosophy: Philosophy Overdose](https://youtube.com/playlist?list=PLhP9EhPApKE-iX8SWvd76ZK_j0jIbzt17&si=-c1xNhnTJOtFHTPb)
 
 ## Concepts
 
