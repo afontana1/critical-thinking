@@ -48,6 +48,14 @@
 
 > " for it is the mark of an educated person to search for the same kind of clarity in each topic to the extent that the nature of the matter accepts it. "
 
+**Robert G. Ingersoll**
+
+> “I will not attack your doctrines nor your creeds if they accord liberty to me. If they hold thought to be dangerous - if they aver that doubt is a crime, then I attack them one and all, because they enslave the minds of men. I attack the monsters, the phantoms of imagination that have ruled the world. I attack slavery. I ask for room -- room for the human mind.”
+
+**Robert J. Oppenheimer**
+
+> “We do not believe any group of men adequate enough or wise enough to operate without scrutiny or without criticism. We know that the only way to avoid error is to detect it, that the only way to detect it is to be free to enquire. We know that the wages of secrecy are corruption. We know that in secrecy error, undetected, will flourish and subvert.”
+
 **John Maynard Keynes**
 > “When my information changes, I alter my conclusions. What do you do, sir?”
 
@@ -82,6 +90,9 @@
 > “In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence.”
 
 > “...no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavors to establish.”
+
+**Jonathan Swift**
+> “Falsehood flies, and truth comes limping after it, so that when men come to be undeceived, it is too late; the jest is over, and the tale hath had its effect: like a man, who hath thought of a good repartee when the discourse is changed, or the company parted; or like a physician, who hath found out an infallible medicine, after the patient is dead.”
 
 **[Alfred Henrye Lloyd: The Will to Doubt](https://en.wikipedia.org/wiki/Alfred_Henry_Lloyd)**
 > "We would often hide it from others, not to say from ourselves, but it is there, and we all know it to be there. Though many fear doubt, and try to keep it hidden and locked away, the confession of doubt is in fact the beginning of philosophy.Fear is a chief motivator of dogmatism, and dogmatic people are slaves to their fears. This is not genuine confidence. But doubt is not the road to atheism; in fact, doubt is part of a very difficult road to theism."

@@ -66,6 +66,8 @@
 	- [Computational Epistemology](http://cogsci.uwaterloo.ca/Index.html)
 	- [Defeasibility Theories of Knowledge](https://philpapers.org/browse/defeasibility-theory-of-knowledge) & [Defeaters in Epistemology](https://iep.utm.edu/defeaters-in-epistemology/)
 	- [Hinge Epistemology](https://philpapers.org/rec/COLWHE)
+	- [Truth Correspondence](https://plato.stanford.edu/entries/truth-correspondence/)
+	- [Knowledge and Truth Tracking](https://academic.oup.com/book/5808/chapter-abstract/149017155?redirectedFrom=fulltext)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
@@ -80,6 +82,7 @@
 5. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
 6. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
 7. [Philology](https://en.wikipedia.org/wiki/Philology)
+8. [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
 
 </details>
 

@@ -27,6 +27,8 @@
 23. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
 24. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
 25. [Closer to Truth](https://closertotruth.com/)
+26. [Ontology of Language](https://youtube.com/playlist?list=PLyngZgIl3WTjK-D7L1pdtpqzxIBhjBsb_&si=l5cQabFJNld88dxO)
+27. [Social Ontology](https://youtube.com/playlist?list=PLyngZgIl3WTht-ilt-WpUhCv7rbB1Crd9&si=CqdFwiUJuMwnEwbJ)
 
 </details>
 
