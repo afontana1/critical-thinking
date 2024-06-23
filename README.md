@@ -86,6 +86,8 @@
 
 > “We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.”
 
+> “The truth may be puzzling. It may take some work to grapple with. It may be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true. We have a method, and that method helps us to reach not absolute truth, only asymptotic approaches to the truth — never there, just closer and closer, always finding vast new oceans of undiscovered possibilities. Cleverly designed experiments are the key.”
+
 **David Hume**
 > “In our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence.”
 
