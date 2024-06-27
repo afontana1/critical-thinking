@@ -2,6 +2,49 @@
 
 ## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
 
+```
+|Traits
+| - Analyzing
+| - Conceptualizing
+| - Defining
+| - examining
+| - Inferring
+| - listening
+| - Questioning
+| - Reasoning
+| - Synthesizing
+| - Interpreting
+| - Validating & Verifying
+| - explores options & tradeoffs
+| - Evaluating Information
+| - Seeks to widen perspective
+| - Doubts or suspends judgment
+| - identifies assumptions
+| - Tolerance of ambiguity
+| - Assessing criteria and methods
+| - Preferring to be aware of ones own ignorance
+|
+| -- These Traits Help Us
+| --- Refine our thought processes
+| --- To Think and Assess our own thoughts comprehensively
+| --- To help us think about our thinking
+| --- while identifying flaws and biases in the processes generating our conclusions
+| --- To help us identify & reject false ideas/ideologies
+| --- So that if a belief is unfounded, we can appropriately change our position
+| --- preferring answers that are evidence based
+|
+|Traits to Avoid
+| - Lack of respect for reason
+| - Intellectual Arrogance
+| - Unwillingness to listen
+| - Intellectual Laziness
+| - Lack of respect for Evidence
+| - Black and White thinking
+| - intolerance of ambiguity (leaping to flawed conclusions because you cant tolerate indefinite answers)
+```
+
+## Quotes that Resonate
+
 **[Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)**
 > "Originally, fallibilism (from Medieval Latin: fallibilis, "liable to err") is the philosophical principle that propositions can be accepted even though they cannot be conclusively proven or justified, or that neither knowledge nor belief is certain. The term was coined in the late nineteenth century by the American philosopher Charles Sanders Peirce, as a response to foundationalism. Theorists, following Austrian-British philosopher Karl Popper, may also refer to fallibilism as the notion that knowledge might turn out to be false. Furthermore, fallibilism is said to imply corrigibilism, the principle that propositions are open to revision. Fallibilism is often juxtaposed with infallibilism."
 
