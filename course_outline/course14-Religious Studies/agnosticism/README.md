@@ -509,6 +509,21 @@
 85. [Raymond D. Bradley](https://www.sfu.ca/philosophy/people/faculty/profiles/ray-bradley.html) [PhilPapers](https://philpeople.org/profiles/raymond-bradley)
 86. [Stephen Law](https://stephenlaw.blogspot.com/)
 87. [Robert G. Ingersoll](https://en.wikipedia.org/wiki/Robert_G._Ingersoll)
+88. [Joe Campbell](https://philpeople.org/profiles/joe-campbell)
+89. [Paul Russell](https://philpeople.org/profiles/paul-russell)
+90. [Benjamin Watkins](https://philpapers.org/profile/106298/myview.html) from [real Atheology](https://realatheology.wordpress.com/about/)
+91. [Jeffery Jay Lowder](https://infidels.org/author/jeffery-jay-lowder/)
+92. [William L. Vanderburgh](https://williamvanderburgh.com/)
+93. [Michael Hemmingsen](https://philpeople.org/profiles/michael-hemmingsen)
+94. [C.M. Lorkowski](https://philpeople.org/profiles/c-m-lorkowski)
+95. [Aron Lucas](https://infidels.org/author/aron-lucas/)
+96. [Felipe Leon](https://philpeople.org/profiles/felipe-leon-1)
+97. [Jason Thibodeau](https://philpeople.org/profiles/jason-thibodeau)
+98. [Scott A. Davison](https://scholar.google.com/citations?user=GlZh26QAAAAJ&hl=en)
+99. [Evan Fales](https://philpeople.org/profiles/evan-fales)
+100. [Cory Markum](https://www.atheistrepublic.com/blogs/cory-markum)
+101. [Dan Linford](https://philpeople.org/profiles/dan-linford)
+102. [William L. Rowe](https://en.wikipedia.org/wiki/William_L._Rowe)
 
 ## Books
 
