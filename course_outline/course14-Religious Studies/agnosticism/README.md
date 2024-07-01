@@ -229,6 +229,9 @@
 119. [Felipe Leon Interview](https://www.youtube.com/live/t5xzNeNmUwM?si=14g8jGOaC87DW29j)
 120. [Why I Left Jehovah's Witnesses - Former Elder / Pioneer](https://youtu.be/r7tNNo8EzfQ?si=830FqlhP7UvzE4ek)
 121. [John MacArthur is Wrong About Deconstruction | Ex Christian Responds](https://youtu.be/KjFtPoYqQW0?si=uJEKu6I_hwPqn_lY)
+122. [Dan Barker - How an Evangelical Preacher Became One of America's Leading Atheists](https://youtu.be/K-91oN4Km5U?si=3wd6NQD6V5PRr69k)
+123. [Teresa MacBain on Her Transition from Minister to Atheist](https://youtu.be/nh1qmQKvuYw?si=4LWVvxQodHwYPUy5)
+124. [Jerry DeWitt on his transition from Pastor to Atheist - Arkansas Society of Freethinkers](https://youtu.be/-xYLKh3cdCI?si=FlzUt3aUIolz0wBN)
 
 </details>
 
