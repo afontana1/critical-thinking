@@ -1,0 +1,3 @@
+# Section 9: Diversity and Innovation
+
+In this section, we cover some models of problem solving to show the role that diversity plays in innovation. We see how diverse perspectives (problem representations) and heuristics enable groups of problem solvers to outperform individuals. We also introduce some new concepts like "rugged landscapes" and "local optima". In the last lecture, we'll see the awesome power of recombination and how it contributes to growth. The readings for this chapters consist on an excerpt from my book The Difference courtesy of Princeton University Press.

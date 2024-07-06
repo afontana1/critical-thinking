@@ -1,0 +1,3 @@
+# Section 16: The Colonel Blotto Game
+
+In this section, we cover the Colonel Blotto Game. This game was originally developed to study war on multiple fronts. It's now applied to everything from sports to law to terrorism. We will discuss the basics of Colonel Blotto, move on to some more advanced analysis and then contrast Blotto with our skill luck model from the previous section. The readings for this section are an excerpt from my book The Difference and a paper that I wrote with Russell Golman of Carnegie Mellon. You need only read the first four pages of the Golman paper.

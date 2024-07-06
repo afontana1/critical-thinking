@@ -1,0 +1,3 @@
+# Section 18: Mechanism Design: Auctions
+
+In this section, we cover mechanism design. We begin with some of the basics: how to overcome problems of hidden action and hidden information. We then turn to the more applied question of how to design auctions. We conclude by discussion how one can use mechanisms to make decisions about public projects. The readings for this section consist of a piece by the Eric Maskin who won a Nobel Prize for his work on mechanism design and some slides on auctions by V.S. Subrahmanian. The Maskin article can be tough sledding near the end. Don't worry about necessarily understanding everything. Focus on the big picture that he describes.

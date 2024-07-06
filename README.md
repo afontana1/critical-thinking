@@ -1,6 +1,4 @@
-# Become a [Critical Thinker](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
-
-## Learn [Critical Thinking](https://en.wikipedia.org/wiki/Category:Critical_thinking) from a [Free Thinking](https://en.wikipedia.org/wiki/Category:Freethought) [Skeptic](https://en.wikipedia.org/wiki/Category:Skepticism)
+# Become a [Critical Thiner](https://en.wikipedia.org/wiki/Category:Critical_thinking)
 
 ```
 |Traits
@@ -42,6 +40,8 @@
 | - Black and White thinking
 | - intolerance of ambiguity (leaping to flawed conclusions because you cant tolerate indefinite answers)
 ```
+
+- [Critical Thinking Skill](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
 
 ## Quotes that Resonate
 

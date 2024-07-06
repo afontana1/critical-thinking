@@ -1,0 +1,3 @@
+# Section 17: The Prisoners' Dilemma and Collective Action
+
+In this section, we cover the Prisoners' Dilemma, Collective Action Problems and Common Pool Resource Problems. We begin by discussion the Prisoners' Dilemma and showing how individual incentives can produce undesirable social outcomes. We then cover seven ways to produce cooperation. Five of these will be covered in the paper by Nowak and Sigmund listed below. We conclude by talking about collective action and common pool resource problems and how they require deep careful thinking to solve. There's a wonderful piece to read on this by the Nobel Prize winner Elinor Ostrom.

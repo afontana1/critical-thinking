@@ -1,0 +1,3 @@
+# Section 13: Path Dependence
+
+In this set of lectures, we cover path dependence. We do so using some very simple urn models. The most famous of which is the Polya Process. These models are very simple but they enable us to unpack the logic of what makes a process path dependent. We also relate path dependence to increasing returns and to tipping points. The reading for this lecture is a paper that I wrote that is published in the Quarterly Journal of Political Science

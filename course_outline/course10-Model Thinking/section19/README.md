@@ -1,0 +1,3 @@
+# Section 19: Learning: Replicator Dynamics
+
+In this section, we cover replicator dynamics and Fisher's fundamental theorem. Replicator dynamics have been used to explain learning as well as evolution. Fisher's theorem demonstrates how the rate of adaptation increases with the amount of variation. We conclude by describing how to make sense of both Fisher's theorem and our results on six sigma and variation reduction. The readings for this section are very short. The second reading on Fisher's Theorem is rather technical. Both are excerpts from Diversity and Complexity.

@@ -1,0 +1,3 @@
+# Section 11: Lyapunov Functions
+
+Models can help us to determine the nature of outcomes produced by a system: will the system produce an equilibrium, a cycle, randomness, or complexity? In this set of lectures, we cover Lyapunov Functions. These are a technique that will enable us to identify many systems that go to equilibrium. In addition, they enable us to put bounds on how quickly the equilibrium will be attained. In this set of lectures, we learn the formal definition of Lyapunov Functions and see how to apply them in a variety of settings. We also see where they don't apply and even study a problem where no one knows whether or not the system goes to equilibrium or not.

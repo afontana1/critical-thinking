@@ -1,0 +1,3 @@
+# Section 8: Economic Growth
+
+In this section, we cover several models of growth. We start with a simple model of exponential growth and then move on to models from economics, with a focus on Solow's basic growth model. I simplify the model by leaving out the labor component. These models help us distinguish between two types of growth: growth that occurs from capital accumulation and growth that occurs from innovation.

@@ -1,0 +1,3 @@
+# Section 20: The Many Model Thinker: Diversity and Prediction
+
+In our final section, we cover the value of ability and diversity to create wise crowds when making predictions. We start off by talking about category models and linear models and how they can be used to make predictions. We then cover the Diversity Prediction Theorem, which provides basic intuition for how collective prediction works. We conclude by talking about the value of having lots of models. The reading for this section is a short explanation of the Diversity Prediction Theorem.

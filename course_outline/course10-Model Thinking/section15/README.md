@@ -1,0 +1,3 @@
+# Section 15: Randomness and Random Walks
+
+In this section, we first discuss randomness and its various sources. We then discuss how performance can depend on skill and luck, where luck is modeled as randomness. We then learn a basic random walk model, which we apply to the Efficient Market Hypothesis, the ideas that market prices contain all relevant information so that what's left is randomness. We conclude by discussing finite memory random walk model that can be used to model competition. The reading for this section is a paper on distinguishing skill from luck by Michael Mauboussin.

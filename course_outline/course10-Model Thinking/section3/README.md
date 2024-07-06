@@ -1,0 +1,5 @@
+# Section 3: Aggregation
+
+In this section, we explore the mysteries of aggregation, i.e. adding things up. We start by considering how numbers aggregate, focusing on the Central Limit Theorem. We then turn to adding up rules. We consider the Game of Life and one dimensional cellular automata models. Both models show how simple rules can combine to produce interesting phenomena. Last, we consider aggregating preferences. Here we see how individual preferences can be rational, but the aggregates need not be.
+
+There exist many great places on the web to read more about the Central Limit Theorem, the Binomial Distribution, Six Sigma, The Game of LIfe, and so on. I've included some links to get you started. The readings for cellular automata and for diverse preferences are short excerpts from my books Complex Adaptive Social Systems and The Difference respectively.

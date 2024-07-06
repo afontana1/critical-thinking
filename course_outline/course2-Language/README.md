@@ -30,3 +30,18 @@
 28. [Legal_interpretation](https://en.wikipedia.org/wiki/Category:Legal_interpretation)
 29. [Language_interpretation](https://en.wikipedia.org/wiki/Category:Language_interpretation)
 30. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
+
+## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
+
+1. [Semantics of Logic](https://en.wikipedia.org/wiki/Semantics_of_logic)
+2. [Propositions](https://plato.stanford.edu/entries/propositions/)
+3. [Lexical Semantics](https://en.wikipedia.org/wiki/Category:Lexical_semantics)
+4. [Semantic Relations](https://en.wikipedia.org/wiki/Category:Semantic_relations)
+5. [Propositions](https://plato.stanford.edu/entries/propositions/)
+6. [Structured Propositions](https://plato.stanford.edu/entries/propositions-structured/)
+7. [Singular Propositions](https://plato.stanford.edu/entries/propositions-singular/)
+8. [Ambiguity](https://plato.stanford.edu/entries/ambiguity/)
+9. [Descriptions](https://plato.stanford.edu/entries/descriptions/)
+10. [Truth Values](https://plato.stanford.edu/entries/truth-values/)
+11. [Tense and Aspect](https://plato.stanford.edu/entries/tense-aspect/)
+12. [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)

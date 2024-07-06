@@ -1,0 +1,3 @@
+# Section 14: Networks
+
+In this section, we cover networks. We discuss how networks form, their structure -- in particular some common measures of networks -- and their function. Often, networks exhibit functions that emerge, but that we mean that no one intended for the functionality but it arises owing to the structure of the network. The reading for this section is a short article by Steven Strogatz.
