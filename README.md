@@ -41,7 +41,41 @@
 | - intolerance of ambiguity (leaping to flawed conclusions because you cant tolerate indefinite answers)
 ```
 
-- [Critical Thinking Skill](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
+## Great Introductory Explorations
+
+### Evaluating Arguments
+
+- [A Workbook for Arguments, Part 1: Arguments](https://majestyofreason.wordpress.com/2018/07/01/a-workbook-for-arguments-part-1/)
+- [A Workbook For Arguments, Part 2: Generalizations and Statistics](https://majestyofreason.wordpress.com/2018/07/30/a-workbook-for-arguments-part-2-generalizations-and-statistics/)
+- [A Workbook For Arguments, Part 3: Analogies, Sources, Causal Claims, and Theoretical Virtues… Oh My!](https://majestyofreason.wordpress.com/2018/08/18/a-workbook-for-arguments-part-3-analogies-sources-and-causal-claims/)
+
+1. [Evaluating Arguments, Part 1: Introduction and General Dichotomy](https://majestyofreason.wordpress.com/2018/06/24/evaluating-arguments-part-1-introduction-and-general-dichotomy/)
+2. [Evaluating Arguments, Part 2: Circularity](https://majestyofreason.wordpress.com/2018/06/24/evaluating-arguments-part-2-circularity/)
+3. [Evaluating Arguments, Part 3: Science, Lack of Substantiation, and Contradictions](https://majestyofreason.wordpress.com/2018/06/25/evaluating-arguments-part-3-science-lack-of-substantiation-and-contradictions/)
+4. [Evaluating Arguments, Part 4: Defeaters and Definitions](https://majestyofreason.wordpress.com/2018/06/25/evaluating-arguments-part-4-defeaters-and-definitions/)
+5. [Evaluating Arguments, Part 5: Fallacies](https://majestyofreason.wordpress.com/2018/06/25/evaluating-arguments-part-5-fallacies/)
+6. [Evaluating Arguments, Part 6: Analogies and Kicking the Can](https://majestyofreason.wordpress.com/2018/06/26/evaluating-arguments-part-6-analogies-and-kicking-the-can/)
+7. [Evaluating Arguments, Part 7: Expectation, Causation, and Conceptuality](https://majestyofreason.wordpress.com/2018/06/26/evaluating-arguments-part-7-expectation-causationand-conceptuality/)
+8. [Evaluating Arguments, Part 8: Variables, Sample Sizes, and Experimentation](https://majestyofreason.wordpress.com/2018/06/26/evaluating-arguments-part-8-variables-sample-sizes-and-experimentation/)
+9. [Evaluating Arguments, Part 9: Non-Explanations, Internal Critiques, and the Epistemological-Metaphysical Fallacy](https://majestyofreason.wordpress.com/2018/06/26/evaluating-arguments-part-9-epistemological-metaphysical-fallacy/)
+10. [Evaluating Arguments, Part 10: Hypotheses, Objections, and Category Mistakes](https://majestyofreason.wordpress.com/2018/06/27/evaluating-arguments-part-10-hypotheses-objections-and-category-mistakes/)
+11. [Evaluating Arguments, Part 11: Counter-Examples and Understated Evidence](https://majestyofreason.wordpress.com/2018/06/27/evaluating-arguments-part-11-counter-examples-and-understated-evidence/)
+12. [Evaluating Arguments, Part 12: Presupposing What Needs to Be Explained](https://majestyofreason.wordpress.com/2018/09/06/evaluating-arguments-part-12-presupposing-what-needs-to-be-explained/)
+13. [Evaluating Arguments, Part 13: The Principle of Relevant Propositions](https://majestyofreason.wordpress.com/2018/10/05/evaluating-arguments-part-13-the-principle-of-relevant-propositions/)
+
+### Critical Thinking Blog Posts
+
+- [Critical Thinking Skills](https://en.wikipedia.org/wiki/Category:Critical_thinking_skills)
+
+1. [Critical Thinking, Part 1: What is Critical Thinking?](https://majestyofreason.wordpress.com/2018/06/23/critical-thinking-part-1-what-is-critical-thinking/)
+2. [Critical Thinking, Part 2: Intellectual Standards](https://majestyofreason.wordpress.com/2018/06/23/critical-thinking-part-2-intellectual-standards/)
+3. [Critical Thinking, Part 3: Elements of Reasoning](https://majestyofreason.wordpress.com/2018/06/24/critical-thinking-part-3-elements-of-reasoning/)
+4. [Critical Thinking, Part 4: Explanations](https://majestyofreason.wordpress.com/2018/06/24/critical-thinking-part-4-explanations/)
+5. [Critical Thinking, Part 5: Logic](https://majestyofreason.wordpress.com/2018/06/24/critical-thinking-part-5-logic/)
+6. [Critical Thinking, Part 6: A Case Study](https://majestyofreason.wordpress.com/2018/06/24/critical-thinking-part-6-a-case-study/)
+7. [Critical Thinking, Part 7: Confirmation Bias and Fallacies](https://majestyofreason.wordpress.com/2018/06/24/critical-thinking-part-7-confirmation-bias-and-fallacies/)
+8. [Critical Thinking, Part 8: Sources Yet Again!](https://majestyofreason.wordpress.com/2018/10/07/critical-thinking-part-8-sources-yet-again/)
+
 
 ## Quotes that Resonate
 
