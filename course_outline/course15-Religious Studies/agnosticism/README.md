@@ -527,6 +527,10 @@
 100. [Cory Markum](https://www.atheistrepublic.com/blogs/cory-markum)
 101. [Dan Linford](https://philpeople.org/profiles/dan-linford)
 102. [William L. Rowe](https://en.wikipedia.org/wiki/William_L._Rowe)
+103. [Arthur Caplan](https://en.wikipedia.org/wiki/Arthur_Caplan)
+104. [Charlene Haddock Seigfried](https://www.cla.purdue.edu/directory/profiles/charlene-haddock-seigfried.html)
+105. [Victor J Sanger](https://en.wikipedia.org/wiki/Victor_J._Stenger)
+106. [James Gouinlock](https://secularhumanism.org/authors/james-gouinlock/)
 
 ## Books
 
@@ -556,3 +560,12 @@
 24. [The Atheist Handbook to the Old Testament: Volume 2](https://www.amazon.com/Atheist-Handbook-Old-Testament/dp/1736592076/ref=pd_lpo_sccl_2/137-1168821-0820733?pd_rd_w=xEr2U&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=9BKWFBNMP4MDFJ6NEHDG&pd_rd_wg=K6xkn&pd_rd_r=64bf091d-8e11-436c-84ce-3be5e3491fed&pd_rd_i=1736592076&psc=1)
 25. [The Skeptics Annotated Bible](https://www.amazon.com/Skeptics-Annotated-Bible-Steve-Wells/dp/0988245108/ref=m_crc_dp_lf_d_t1_sccl_2_2/137-1168821-0820733?pd_rd_w=tnj1K&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=5QH15A2P81BGQQX9RCY7&pd_rd_wg=5Deix&pd_rd_r=71a02e8c-4330-42f0-b784-364e41c34d67&pd_rd_i=0988245108&psc=1)
 26. [Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity](https://www.amazon.com/Religion-Make-Believe-Theory-Imagination-Identity/dp/067429033X)
+27. [Faith No More: Why People Reject Religion](https://www.amazon.com/Faith-No-More-People-Religion/dp/019024884X)
+28. [Atheist Awakening: Secular Activism and Community in America](https://www.amazon.com/Atheist-Awakening-Secular-Activism-Community/dp/0199986320)
+29. [Atheists in America](https://www.amazon.com/Atheists-America-Melanie-Brewster/dp/0231163584)
+30. [Disenchanted Lives: Apostasy and Ex-Mormonism among the Latter-day Saints](https://www.amazon.com/Disenchanted-Lives-Apostasy-Ex-Mormonism-Latter-day/dp/0813592186)
+31. [The Apostates: When Muslims Leave Islam](https://www.amazon.com/Apostates-When-Muslims-Leave-Islam/dp/1849044694)
+32. [Hidden Heretics: Jewish Doubt in the Digital Age ](https://www.amazon.com/Hidden-Heretics-Digital-Princeton-Technology/dp/069116990X)
+33. [A Qualitative Study of Black Atheists: "Don’t Tell Me You’re One of Those!"](https://www.amazon.com/Qualitative-Study-Black-Atheists-Religion/dp/1498592392)
+34. [Caught in the Pulpit: Leaving Belief Behind](https://www.amazon.com/Caught-Pulpit-Leaving-Belief-Behind/dp/1634310209)
+35. [Amazing Conversions: Why Some Turn to Faith & Others Abandon Religion](https://www.amazon.com/Amazing-Conversions-Others-Abandon-Religion/dp/1573921475)
