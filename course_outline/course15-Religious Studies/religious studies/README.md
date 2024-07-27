@@ -107,3 +107,4 @@
 15. [Criterion_of_contextual_credibility](https://en.wikipedia.org/wiki/Criterion_of_contextual_credibility)
 16. [Criterion_of_dissimilarity](https://en.wikipedia.org/wiki/Criterion_of_dissimilarity)
 17. [Redaction Criticism](https://en.wikipedia.org/wiki/Redaction_criticism)
+18. [Mimesis Criticism](https://en.wikipedia.org/wiki/Mimesis_criticism)

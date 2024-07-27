@@ -63,3 +63,7 @@
 24. [Episode 127: The United States of Paranoia: A Conspiracy Theory (with Jesse Walker)](https://youtu.be/2harUfkThMo?si=t-STvLG0MlevseOu)
 25. [The Paranoid Style in American Politics - Richard Hofstadter - 1964](https://youtu.be/zkVBgOc4Vbo?si=Dk61mhReDlZ2ejw7)
 26. [The Right-Wing War on Education](https://youtu.be/bo0M3H1QsEQ?si=l6Q2QJOQ2nZc9VxO)
+27. [Episode 95, Conspiracy Theories (Part I - Origins)](https://youtu.be/4SuPmxa9tOw?si=BvKoKryqkfeqewBh)
+28. [Episode 95, Conspiracy Theories (Part II - Solutions)](https://youtu.be/v5a27JF93Fs?si=v10ZH6_6zW7O9X0l)
+29. [Episode 95, Conspiracy Theories (Part III - Further Analysis and Discussion)](https://youtu.be/iF-9pm__KTQ?si=RvVBs1Tk5uyuMg9Q)
+30. [The Brainwashing of my Dad (with documentary filmmaker Jen Senko)](https://youtu.be/MW7Go6_sShI?si=B5MkhWrGUvOtd48k)

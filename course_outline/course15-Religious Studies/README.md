@@ -13,6 +13,7 @@
 11. [Neuroscience of Religion](https://en.wikipedia.org/wiki/Neuroscience_of_religion)
 12. [Neurotheology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3968360/)
 13. [Irreligion](https://commons.wikimedia.org/wiki/Category:Irreligion) [Category](https://en.wikipedia.org/wiki/Category:Irreligion)
+14. [Comparative Mythology](https://en.wikipedia.org/wiki/Category:Comparative_mythology)
 
 <details><summary><h1>Videos</h1></summary>
 

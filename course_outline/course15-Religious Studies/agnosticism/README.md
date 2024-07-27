@@ -331,6 +331,18 @@
 92. [The Church Covered Up The TRUE ORIGINS of Christianity | MythVision Documentary](https://youtu.be/e4nM4PJkGZo?si=NS4SNCM_YCpMndsx)
 93. [Why The Bible Began | SHOCKING Evidence](https://youtu.be/60mDWLRIAU4?si=xoIpBbZGeVIOJ7rx)
 94. [THEY Rewrote the ENTIRE THING | Bart D. Ehrman](https://youtu.be/IkYDi7pKCtE?si=Y97dZ1eK05QU3rxN)
+95. [Wild and Domesticated Religions: How the Machinery of Religion Evolved](https://youtu.be/Qo4V7PsX4qU?si=hd-bdfE45iA2ESyG)
+96. [How religion evolved and why it endures, with Robin Dunbar | Humanists UK Convention 2023](https://youtu.be/dfAXx6CELPg?si=XQuZbY0gqpUGwSur)
+97. [Episode 13, Religious Experience (Part I)](https://youtu.be/i8-5Nzr1F3E?si=5ZPM9DwtI6v_PwE3)
+98. [Episode 13, Religious Experience (Part II)](https://youtu.be/SW7O6N83-zo?si=u97CdSpv5iDQA80K)
+99. [Episode 13, Religious Experience (Part III)](https://youtu.be/ZX-kYd6DGwE?si=1FPfaHFqSqOZXjxk)
+100. [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=jwYU604BluZxXPD7)
+101. [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=Rc6jXHx9RaZLBfaE)
+102. [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=l1F7oOMYpFSZQrpz)
+103. [Episode 37, Religious Language (Part IV – Further Analysis and Discussion)](https://youtu.be/XyEejHUIZec?si=qmh9bnx3CDyR_Bdr)
+104. [Religious Language (part one) OCR Religious Studies Lockdown Special!](https://youtu.be/OpUGektts08?si=Oz3rDPwBKbqGfRl_)
+105. [Religious Language (part two) OCR Religious Studies Lockdown Special!](https://youtu.be/k4TieHVVUoE?si=K7w1nZ18ykTNb5yv)
+106. [RELIGIOUS LANGUAGE: VERIFICATION, FALSIFICATION & LANGUAGE GAMES (A LEVEL RELIGIOUS STUDIES)](https://youtu.be/5gAH6SiofKU?si=9rUwlpBA4-MyiRZV)
 
 </details>
 
@@ -400,6 +412,7 @@
 - [badnewsaboutchristianity](https://www.badnewsaboutchristianity.com/)
 - [Non Stamp Collector](https://www.nonstampcollector.com/)
 - [Taking Off The Tinfoil Hat](https://takingoffthetinfoilhat.com/)
+- [Proving The Negative](http://www.provingthenegative.com/)
 
 ### Youtube Accounts
 
@@ -581,3 +594,5 @@
 33. [A Qualitative Study of Black Atheists: "Don’t Tell Me You’re One of Those!"](https://www.amazon.com/Qualitative-Study-Black-Atheists-Religion/dp/1498592392)
 34. [Caught in the Pulpit: Leaving Belief Behind](https://www.amazon.com/Caught-Pulpit-Leaving-Belief-Behind/dp/1634310209)
 35. [Amazing Conversions: Why Some Turn to Faith & Others Abandon Religion](https://www.amazon.com/Amazing-Conversions-Others-Abandon-Religion/dp/1573921475)
+36. [Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation](https://www.amazon.com/Jesus-John-Wayne-Evangelicals-Corrupted/dp/1631495739)
+37. [American Idolatry: How Christian Nationalism Betrays the Gospel and Threatens the Church](https://www.amazon.com/American-Idolatry-Christian-Nationalism-Threatens/dp/1587435764)
