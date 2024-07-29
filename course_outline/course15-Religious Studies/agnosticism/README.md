@@ -232,6 +232,21 @@
 122. [Dan Barker - How an Evangelical Preacher Became One of America's Leading Atheists](https://youtu.be/K-91oN4Km5U?si=3wd6NQD6V5PRr69k)
 123. [Teresa MacBain on Her Transition from Minister to Atheist](https://youtu.be/nh1qmQKvuYw?si=4LWVvxQodHwYPUy5)
 124. [Jerry DeWitt on his transition from Pastor to Atheist - Arkansas Society of Freethinkers](https://youtu.be/-xYLKh3cdCI?si=FlzUt3aUIolz0wBN)
+125. [Why He Left Christianity: The 3 Bible Issues He Couldn't Ignore](https://youtu.be/_GkdkDvW_p4?si=hq9U0rJIb0itbUFS)
+126. [Four Reasons I Left Christianity...](https://www.youtube.com/live/6pIBiHFd-Os?si=nwToC7x3TCZG5hy3)
+127. [5 Bible Passages That Caused Me To Lose My Faith](https://youtu.be/gDCCzzwy_Nk?si=-wZ0a6ySwHCmMN99)
+128. [Why I Left Christianity](https://youtu.be/idaRtqvOwm4?si=G2Q8SoeAzq88VRPW)
+129. [Bible Scholar Dr. Joshua Bowen Leaves Christianity](https://youtu.be/uJ-Id6ydsB0?si=MrhlvGYMMMOTFiny)
+130. [My faith died the death of a thousand unanswered prayers - Bart Campolo](https://youtu.be/fANBs6wnHoI?si=cj5KMxrPR1p-GsMF)
+131. [Religion is pretending to know things you don't know - Aron Ra](https://youtu.be/39vRrZ-hBcM?si=o0Eb1UEXI3QvZd1N)
+132. [Worship Leader LEAVES Christianity For GOOD!](https://youtu.be/2punacLWcw8?si=D0EfgntnOPLnXskH)
+133. [Disturbing questions led me to one simple answer: Goodbye, Jesus - Tim Sledge](https://youtu.be/viCGMV7So-s?si=KgYmA-woUIon--6d)
+134. [As I pastored for 20 years, the truth claims of Christianity kept on crumbling - Ed Raby](https://youtu.be/lc_by5wx3Tg?si=o6lfFcfLW7RVNpVa)
+135. [The truth caused a mind shift that led me straight out of Christianity - Brandon](https://youtu.be/Tnx5SOnpGhM?si=xhRa9g8CS8JFLMNb)
+136. [What was it like to leave Evangelical Christianity as a married couple?](https://youtu.be/f_6KjO96jH4?si=wRHG-VuCgSWsUBX7)
+137. [Why I Am No Longer A Christian (Was Studying to be a Pastor)](https://youtu.be/go-D__jVPLo?si=29DT4ns8lB4Ls4p6)
+138. [Why I Left Christianity - Clay Arnall](https://youtu.be/idaRtqvOwm4?si=fEImYAX320zjkaYA)
+139. [Why I Left Christianity - John Rainey](https://youtu.be/6fvCT2Y9rHU?si=UqeDm0G7qUrh76Yy)
 
 </details>
 
