@@ -30,6 +30,8 @@
 28. [Legal_interpretation](https://en.wikipedia.org/wiki/Category:Legal_interpretation)
 29. [Language_interpretation](https://en.wikipedia.org/wiki/Category:Language_interpretation)
 30. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
+31. [Procatalepsis](https://en.wikipedia.org/wiki/Procatalepsis)
+32. [Relevance Fallacies](https://en.wikipedia.org/wiki/Category:Relevance_fallacies)
 
 ## [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
 

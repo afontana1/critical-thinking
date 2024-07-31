@@ -1,4 +1,4 @@
-# Become a [Critical Thiner](https://en.wikipedia.org/wiki/Category:Critical_thinking)
+# Become a [Critical Thinker](https://en.wikipedia.org/wiki/Category:Critical_thinking)
 
 ```
 |Traits

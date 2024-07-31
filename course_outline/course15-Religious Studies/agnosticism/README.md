@@ -247,6 +247,7 @@
 137. [Why I Am No Longer A Christian (Was Studying to be a Pastor)](https://youtu.be/go-D__jVPLo?si=29DT4ns8lB4Ls4p6)
 138. [Why I Left Christianity - Clay Arnall](https://youtu.be/idaRtqvOwm4?si=fEImYAX320zjkaYA)
 139. [Why I Left Christianity - John Rainey](https://youtu.be/6fvCT2Y9rHU?si=UqeDm0G7qUrh76Yy)
+140. [Apostate Aladdin: Inside Islam | Mindshift Podcast #1](https://youtu.be/xM0UPTUKv_s?si=gkz6gpHfeFMC2C7j)
 
 </details>
 
@@ -358,6 +359,12 @@
 104. [Religious Language (part one) OCR Religious Studies Lockdown Special!](https://youtu.be/OpUGektts08?si=Oz3rDPwBKbqGfRl_)
 105. [Religious Language (part two) OCR Religious Studies Lockdown Special!](https://youtu.be/k4TieHVVUoE?si=K7w1nZ18ykTNb5yv)
 106. [RELIGIOUS LANGUAGE: VERIFICATION, FALSIFICATION & LANGUAGE GAMES (A LEVEL RELIGIOUS STUDIES)](https://youtu.be/5gAH6SiofKU?si=9rUwlpBA4-MyiRZV)
+107. [How the New Testament Was CREATED | Bart Ehrman and James Tabor](https://youtu.be/XS4UrErMGBQ?si=dfphDwb_3Wta1PdD)
+108. [RELIGIOUS EXPERIENCES (A LEVEL RELIGIOUS STUDIES)](https://youtu.be/CEPXRxszswA?si=UOokO_nC3dgdaJk4)
+109. [How We KNOW The Gospels Are LOADED With Fable, Myth, Legend!](https://www.youtube.com/live/a5UWjV1TMzc?si=qsLOzNmvfsY-gs1o)
+110. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=SHERkoZ3vjO3pFp-)
+111. [Fancy Fiction: Comparing the Bible to the Great Works of Literature!](https://youtu.be/XWGaS3m1He0?si=fiYlsD_mI-Etqgwj)
+112. [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=3jpQqjebPLbRvYDd)
 
 </details>
 
