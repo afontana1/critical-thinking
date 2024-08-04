@@ -43,6 +43,13 @@
 39. [Scientific Law](https://en.wikipedia.org/wiki/Scientific_law)
 40. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
 41. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
+42. [Sensitivity Analysis](https://en.wikipedia.org/wiki/Category:Sensitivity_analysis)
+43. [Statistical Analysis](https://en.wikipedia.org/wiki/Category:Statistical_analysis)
+44. [Data Analysis](https://en.wikipedia.org/wiki/Category:Data_analysis)
+45. [Simulation](https://en.wikipedia.org/wiki/Category:Simulation)
+46. [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
+47. [Design of Experiments](https://en.wikipedia.org/wiki/Category:Design_of_experiments)
+48. [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization)
 
 ## Process of Discovery
 1. [Criticism_of_academia](https://en.wikipedia.org/wiki/Category:Criticism_of_academia)

@@ -1,6 +1,6 @@
 # Evidence and Proof
 
-## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence) & [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+## [Evidence](https://en.wikipedia.org/wiki/Category:Evidence)
 
 - [Evidence Explained](https://www.evidenceexplained.com/index.php/)
 
@@ -61,6 +61,7 @@
 48. [Priming](https://en.wikipedia.org/wiki/Priming_(psychology))
 49. [Legal_procedure](https://en.wikipedia.org/wiki/Category:Legal_procedure)
 50. [Higher Order Evidence](https://plato.stanford.edu/entries/higher-order-evidence/)
+51. [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
 
 ## People
 
