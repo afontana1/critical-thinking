@@ -248,6 +248,7 @@
 138. [Why I Left Christianity - Clay Arnall](https://youtu.be/idaRtqvOwm4?si=fEImYAX320zjkaYA)
 139. [Why I Left Christianity - John Rainey](https://youtu.be/6fvCT2Y9rHU?si=UqeDm0G7qUrh76Yy)
 140. [Apostate Aladdin: Inside Islam | Mindshift Podcast #1](https://youtu.be/xM0UPTUKv_s?si=gkz6gpHfeFMC2C7j)
+141. [Jesus FREAK Mark Edward Leaves Christianity](https://youtu.be/8U3EOFwXxRA?si=7vDUHf7NcMbEZQOc)
 
 </details>
 
