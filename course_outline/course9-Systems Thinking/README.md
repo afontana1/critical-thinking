@@ -19,6 +19,28 @@
 9. [Phase Locked Loop](https://en.wikipedia.org/wiki/Phase-locked_loop)
 10. [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
 
+## Videos
+
+1. [Thinking in Systems](https://youtube.com/playlist?list=PLL6RiAl2WHXEU04zFYyWrUGV_fqGG4TuR&si=MMPt13WPm2s0YgTp)
+2. [Systems Thinking Tutorials](https://youtube.com/playlist?list=PLlu3VssJh_pi6XvEYpnW3s6lBvRUVP18H&si=Odu4Gui-Dk99XrJw)
+3. [System Dynamics: Systems Thinking and Modeling for a Complex World](https://youtu.be/o-Yp8A7BPE8?si=E0yTGWuHnQGMoS1O)
+4. [Characteristics of Model Based Systems Engineering](https://youtu.be/Y1E0DYcY1AM?si=qMat6E47Y6QbLIVJ)
+5. [An Introduction to System Dynamics by George Richardson](https://youtu.be/MSo8kqbLDlw?si=vhsK3rddPNx_EKwO)
+6. [A Philosophical Look at System Dynamics](https://youtu.be/XL_lOoomRTA?si=wwTv8XbRP-7sHCnw)
+7. [Systems thinking as it applies to systems engineering](https://youtu.be/3CkS4qdjicA?si=uVOUTnrbMWljtgoC)
+8. [May 2023 Systems Thinking Summit Session 2 4 little known tools to jumpstart your systems thinking](https://youtu.be/9LtaAoc-rB8?si=cS-ZdntBl3OADZ__)
+9. [Two major misconceptions of systems thinking exposed](https://youtu.be/fxZa-qpnAnU?si=Uap-E7l4WCJkDz63)
+10. [System Dynamics for Beginners Hands on Training](https://youtu.be/w8sWQOOEnh4?si=IdnORMzFSQpAuZsM)
+11. [Hospital Congestion using System Dynamics - Health SIG](https://youtu.be/7MVHJM_JkmU?si=yJHNimr-jBDMGWtx)
+12. [Why you should be using systems thinking to solve problems](https://youtu.be/wXj-lCYSmGk?si=a9qB3o_7B88McKqG)
+13. [Workshop: Complexity Methods - Robert Axtell](https://youtu.be/AV1tMyinot0?si=T96zzjIsaQsv6rK5)
+14. [Let’s just stop writing requirements, we can’t write them properly anyhow](https://youtu.be/FqdqSXvYT7I?si=VHTDJ98oNAF3F7bq)
+15. [Systems Thinking #2 - Andrew Howley - NASA, Biomimicry, Circular Economy, Energy Systems](https://youtu.be/Eq6JqwNe-Gc?si=s4UEgCy9Aa9CH_nu)
+16. [Systems Thinking: Feedback Loops - Optimization, Measurements, KPI, Key Activities, Exponentials](https://youtu.be/jnVju8udX9I?si=dzCVtRSuIwybIGT5)
+17. [Systems Thinking: Bob Royce - Information Architecture, Organizational Structure, Education](https://youtu.be/pg66wNpL3wY?si=utEmpDTDTB7D3-pW)
+18. [Distillation: The Keystone Skill of Systems Thinking - Aphorisms, Mantras, Acronyms, and Mnemonics](https://youtu.be/34YCjljm9jA?si=rmtcbDLFbMNhm8Px)
+19. [Forcing Functions - Constraints, Affordances, Bounds, and Systems Behavior [SYSTEMS THINKING]](https://youtu.be/optxZVxt9Ao?si=I0n-EizYVEV-J2j1)
+
 ## People
 1. [Omar A. Guerrero](https://oguerr.com/)
 
