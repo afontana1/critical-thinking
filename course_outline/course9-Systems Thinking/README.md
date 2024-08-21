@@ -1,6 +1,8 @@
 # Systems Thinking
 
 - [Refer to my Computational Science Repository](https://github.com/afontana1/computational-science/tree/master/systems)
+- [Systems Thinking Website](https://systems-thinking.org/)
+- [Th Systems Thinker](https://thesystemsthinker.com/)
 
 ## System Concepts
 1. [Types of Equilibrium](https://en.wikipedia.org/wiki/List_of_types_of_equilibrium)
@@ -18,6 +20,8 @@
 8. [Action Research](https://en.wikipedia.org/wiki/Action_research)
 9. [Phase Locked Loop](https://en.wikipedia.org/wiki/Phase-locked_loop)
 10. [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
+11. [System Archetype](https://en.wikipedia.org/wiki/System_archetype)
+    * [Examples](https://www.systems-thinking.org/arch/arch.htm)
 
 ## Videos
 
@@ -40,6 +44,7 @@
 17. [Systems Thinking: Bob Royce - Information Architecture, Organizational Structure, Education](https://youtu.be/pg66wNpL3wY?si=utEmpDTDTB7D3-pW)
 18. [Distillation: The Keystone Skill of Systems Thinking - Aphorisms, Mantras, Acronyms, and Mnemonics](https://youtu.be/34YCjljm9jA?si=rmtcbDLFbMNhm8Px)
 19. [Forcing Functions - Constraints, Affordances, Bounds, and Systems Behavior [SYSTEMS THINKING]](https://youtu.be/optxZVxt9Ao?si=I0n-EizYVEV-J2j1)
+20. [Systems Thinking Tools: Archetypes](https://youtu.be/XRf_OaoJpCs?si=lZ_SVZi2-zcgMKpp)
 
 ## People
 1. [Omar A. Guerrero](https://oguerr.com/)
