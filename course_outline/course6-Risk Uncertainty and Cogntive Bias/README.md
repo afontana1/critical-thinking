@@ -31,6 +31,8 @@
 29. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
 30. [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)
 31. [Reminiscence_bump](https://en.wikipedia.org/wiki/Reminiscence_bump)
+32. [Actor–observer asymmetry](https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry)
+33. [Attribution Bias](https://en.wikipedia.org/wiki/Attribution_bias)
 
 # [Risk](https://en.wikipedia.org/wiki/Category:Risk) and [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) 
 

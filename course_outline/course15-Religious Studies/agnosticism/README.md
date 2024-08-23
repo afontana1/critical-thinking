@@ -249,6 +249,10 @@
 139. [Why I Left Christianity - John Rainey](https://youtu.be/6fvCT2Y9rHU?si=UqeDm0G7qUrh76Yy)
 140. [Apostate Aladdin: Inside Islam | Mindshift Podcast #1](https://youtu.be/xM0UPTUKv_s?si=gkz6gpHfeFMC2C7j)
 141. [Jesus FREAK Mark Edward Leaves Christianity](https://youtu.be/8U3EOFwXxRA?si=7vDUHf7NcMbEZQOc)
+142. [What if the real reason god seems so silent is that he's simply not there? - Untestimony](https://youtu.be/z_QgvUF5s4g?si=-l_nVLtu_p_btbvD)
+143. [HARMONIC ATHEIST - Will Thorpe: An apostate examines the bible and the claims of Christians](https://youtu.be/CrIXpNcEx64?si=IExU0LXD1jIlnqUe)
+144. [Christianity trains people to believe in glaring falsehoods - Shane Almgren](https://youtu.be/0lFnP4SPSiw?si=OKP__xyK80kLvMMw)
+145. [Childhood indoctrination into religion induces psychological trauma - Darrel Ray](https://youtu.be/Sgb-Pljsic4?si=VyJKgQDmZ4zA-egd)
 
 </details>
 
