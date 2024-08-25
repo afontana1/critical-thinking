@@ -26,6 +26,8 @@
 
 ## Concepts
 
+- [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
+
 1. [Simpsons Paradox](https://plato.stanford.edu/entries/paradox-simpson/)
 2. [Probabilty Interpretations](https://en.wikipedia.org/wiki/Probability_interpretations)
 3. [Metadata](https://en.wikipedia.org/wiki/Metadata)
@@ -49,10 +51,6 @@
 21. [Evidence Based Practice Toolkit](https://libguides.winona.edu/ebptoolkit/Levels-Evidence)
 22. [Understanding Evidence-Based Public Health Policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724448/)
 23. [NCBI Practitioners Guide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124652/)
-24. [An Introduction to Evidence Based Medicine](https://www.youtube.com/watch?v=P-G2veeYC1Q)
-25. [How to Appraise a Clinical Trial - Part 1](https://www.youtube.com/watch?v=lmbxnnjfnGs&t=1s)
-26. [How to Appraise a Clinical Trial - Part 2](https://www.youtube.com/watch?v=mjoxnQ-DpBI)
-27. [How to Appraise a Clinical Trial - Part 3](https://www.youtube.com/watch?v=OPTm9amQgEE)
 
 ## Problems
 
@@ -84,14 +82,12 @@
 26. [Berksons Paradox](https://en.wikipedia.org/wiki/Berkson%27s_paradox)
 27. [Regression Towards the Mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean)
 28. [Processes](https://en.wikipedia.org/wiki/Process)
-29. 
+29. [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 30. [Statistical Hypothesis Testing](https://en.wikipedia.org/wiki/Category:Statistical_hypothesis_testing)
 31. [Hypotheses](https://en.wikipedia.org/wiki/Category:Hypotheses)
 32. [Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 33. [Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 34. [Causality](https://en.wikipedia.org/wiki/Category:Causality)
-35. [Misuse of Statistics](https://en.wikipedia.org/wiki/Category:Misuse_of_statistics)
-36. [Statistical Validity](https://en.wikipedia.org/wiki/Category:Validity_(statistics))
 
 ## Lessons
 
@@ -113,22 +109,7 @@
 12. [Epidemiology: Measure of Disease Frequency, Incidence and Prevalence](https://www.youtube.com/watch?v=9Jg4Dzdvv8M)
 13. [Errors in Hypothesis...Detail lecture](https://www.youtube.com/watch?v=UTS-x7StOcM)
 14. [What is Standardized Data?](https://www.youtube.com/watch?v=DOEstU62D4w)
-
-## Full Playlists
-
-1. [A Students Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
-2. [Factor Analysis and SEM](https://www.youtube.com/playlist?list=PLwJRxp3blEvaOTZfSKXysxRmi6gXJf5gP)
-3. [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
-4. [Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-5. [Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
-6. [Towards Bayesian Regression](https://www.youtube.com/playlist?list=PLivJwLo9VCUISiuiRsbm5xalMbIwOHOOn)
-7. [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
-8. [Research Methods](https://www.youtube.com/playlist?list=PLzv58M2GAfm5rSt9jADvTf4i54O_5q7Qs)
-9. [Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-10. [Introduction to Epidemiology and Biostatistics](https://www.youtube.com/playlist?list=PLZ-wrYux2HNJOBKf79yJ_0z5lag1QC7I3)
-11. [Introduction to the Principles and Practice of Clinical Research](https://www.youtube.com/playlist?list=PLifjiEBb2Zq7ruvGhgyD2jDsgoaD3p6d4)
-12. [Introduction to Statistical Hypothesis Testing](https://www.youtube.com/playlist?list=PLvOh309NvHlFue0q5Ra6u1YnnoXlCCFtM)
-13. [Evidence Based Medicine Lectures](https://www.youtube.com/playlist?list=PLW52emRJoXhD5cG3kNmHXBXzZ0tyeLeep)
-14. [Measures of Association](https://www.youtube.com/playlist?list=PL6p7gIm6aWd_9v6s3Mu80tREbFy22NmdI)
-15. [Statistics for Beginners](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz)
-16. [Quantitative Social Science Methods, I (Gov2001 at Harvard University)](https://youtube.com/playlist?list=PL0n492lUg2sgSevEQ3bLilGbFph4l92gH&si=1OycdmeydEkavVy3)
+15. [An Introduction to Evidence Based Medicine](https://www.youtube.com/watch?v=P-G2veeYC1Q)
+16. [How to Appraise a Clinical Trial - Part 1](https://www.youtube.com/watch?v=lmbxnnjfnGs&t=1s)
+17. [How to Appraise a Clinical Trial - Part 2](https://www.youtube.com/watch?v=mjoxnQ-DpBI)
+18. [How to Appraise a Clinical Trial - Part 3](https://www.youtube.com/watch?v=OPTm9amQgEE)
