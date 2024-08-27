@@ -2,7 +2,7 @@
 
 - [Refer to my Computational Science Repository](https://github.com/afontana1/computational-science/tree/master/systems)
 - [Systems Thinking Website](https://systems-thinking.org/)
-- [Th Systems Thinker](https://thesystemsthinker.com/)
+- [The Systems Thinker](https://thesystemsthinker.com/)
 
 ## System Concepts
 1. [Types of Equilibrium](https://en.wikipedia.org/wiki/List_of_types_of_equilibrium)
