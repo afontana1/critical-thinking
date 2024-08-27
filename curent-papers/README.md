@@ -1,6 +1,4 @@
-# Learning Path
-
-## My Current Interests
+# My Current Interests
 
 1. [Software Engineering Institute](https://www.sei.cmu.edu/)
 2. [NIH Human Microbiome Project](https://hmpdacc.org/)
