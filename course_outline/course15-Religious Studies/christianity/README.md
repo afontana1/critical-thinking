@@ -90,6 +90,16 @@
 66. [Quiet Revolution](https://en.wikipedia.org/wiki/Quiet_Revolution)
 67. [De spectaculis](https://en.wikipedia.org/wiki/De_spectaculis)
 
+### Great Content from Scripture and Church Fathers
+
+#### Verses
+
+1. [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A13-21&version=NIV)
+2. [Revelation 2:22](https://www.biblegateway.com/verse/en/Revelation%202%3A22) and [Analysis](https://www.reddit.com/r/AcademicBiblical/comments/19du4hk/what_does_i_am_throwing_her_on_a_bed_mean_in_rev/)
+3. [2 Kings 2:23-24](https://www.biblegateway.com/passage/?search=2%20Kings%202%3A23-24&version=NIV;KJV)
+4. [Genesis 19:32-35](https://www.biblegateway.com/passage/?search=Genesis%2019%3A32-35&version=NIV)
+5. [Numbers 5:11-21](https://www.biblegateway.com/passage/?search=Numbers%205%3A11-21&version=NIV)
+
 AUGUSTINE
 > They who shall enter into [the] joy [of the Lord] shall know what is going on outside in the outer darkness. The saints knowledge, which shall be great, shall keep them acquainted with the eternal sufferings of the lost.
 [The City of God, Book 20, Chapter 22, "What is Meant by the Good Going Out to See the Punishment of the Wicked" & Book 22, Chapter 30, "Of the Eternal Felicity of the City of God, and of the Perpetual Sabbath"]

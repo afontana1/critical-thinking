@@ -39,6 +39,9 @@
 29. [Intelligence Operations](https://en.wikipedia.org/wiki/Category:Intelligence_operations_by_type)
 30. [Mass Media Monitoruing](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
 31. [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
+32. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
+33. [Choice Architecture](https://en.wikipedia.org/wiki/Choice_architecture)
+34. [Nudge Theory](https://en.wikipedia.org/wiki/Nudge_theory)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/
