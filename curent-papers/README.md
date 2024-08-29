@@ -33,6 +33,7 @@
     * [Harry Crane](https://www.harrycrane.com/)
     * [Cole Mathis](https://colemathis.github.io/)
     * [Robert Hanneman](https://faculty.ucr.edu/~hanneman/)
+    * [John H Holland](https://en.wikipedia.org/wiki/John_Henry_Holland)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
     * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
     * [MIT Center for Bits and Atoms](http://cba.mit.edu/)
