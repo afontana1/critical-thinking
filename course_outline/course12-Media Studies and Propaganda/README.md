@@ -1,5 +1,7 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods) and [Deception](https://en.wikipedia.org/wiki/Category:Deception)
 
+- [conspirituality](https://www.conspirituality.net/) [Videos](https://www.youtube.com/@Conspiritualitypodcast)
+- [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
 - [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
 - [Psychological Manipulation](https://en.wikipedia.org/wiki/Category:Psychological_manipulation)
 - [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
@@ -37,11 +39,21 @@
 27. [Black Propaganda](https://en.wikipedia.org/wiki/Category:Black_propaganda)
 28. [Reputation Management](https://en.wikipedia.org/wiki/Reputation_management)
 29. [Intelligence Operations](https://en.wikipedia.org/wiki/Category:Intelligence_operations_by_type)
-30. [Mass Media Monitoruing](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
+30. [Mass Media Monitoring](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
 31. [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
 32. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
 33. [Choice Architecture](https://en.wikipedia.org/wiki/Choice_architecture)
 34. [Nudge Theory](https://en.wikipedia.org/wiki/Nudge_theory)
+35. [State Propaganda in the Russian Federation](https://en.wikipedia.org/wiki/State_propaganda_in_the_Russian_Federation)
+    * [GEC Special Report: Russia’s Pillars of Disinformation and Propaganda](https://www.state.gov/russias-pillars-of-disinformation-and-propaganda-report/)
+    * [Pro-Kremlin disinformation: Research papers](https://consilium-europa.libguides.com/Kremlin-Disinformation/Research-papers)
+36. [Distinction without a Difference](https://en.wikipedia.org/wiki/Distinction_without_a_difference)
+37. [Reinforcement Theory](https://en.wikipedia.org/wiki/Reinforcement_theory)
+38. [In Group and Out Group](https://en.wikipedia.org/wiki/In-group_and_out-group)
+39. [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
+40. [Processing fluency](https://en.wikipedia.org/wiki/Processing_fluency)
+41. [Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
+42. [Motivated Skepticism](https://ideas.repec.org/p/hal/wpaper/hal-03770685.html)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/

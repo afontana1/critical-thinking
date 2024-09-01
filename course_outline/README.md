@@ -4,6 +4,7 @@
 - [Sense Sensibility and Science](https://sensesensibilityscience.berkeley.edu/)
 - [UC Berkeley Stats & Logic](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
 - [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
+- [panpsycast](https://thepanpsycast.com/panpsycast)
 
 <details><summary><h2>Playlists</h2></summary>
 
