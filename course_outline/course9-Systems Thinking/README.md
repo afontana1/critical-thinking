@@ -3,6 +3,7 @@
 - [Refer to my Computational Science Repository](https://github.com/afontana1/computational-science/tree/master/systems)
 - [Systems Thinking Website](https://systems-thinking.org/)
 - [The Systems Thinker](https://thesystemsthinker.com/)
+- [Decision Analysis and System Dynamics Resources](https://www.public.asu.edu/~kirkwood/)
 
 ## Organizations
 1. [Systems Science Institutes](https://en.wikipedia.org/wiki/Category:Systems_science_institutes)
