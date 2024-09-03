@@ -5,6 +5,8 @@
 - [UC Berkeley Stats & Logic](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
 - [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
 - [panpsycast](https://thepanpsycast.com/panpsycast)
+- [James Fodor](https://jamesfodor.com/) [The Science of Everything Podcast](https://www.thescienceofeverything.net/)
+- [Majesty of Reason](https://majestyofreason.wordpress.com/)
 
 <details><summary><h2>Playlists</h2></summary>
 
