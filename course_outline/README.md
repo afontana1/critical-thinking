@@ -37,5 +37,12 @@
 25. [Closer to Truth](https://closertotruth.com/)
 26. [Ontology of Language](https://youtube.com/playlist?list=PLyngZgIl3WTjK-D7L1pdtpqzxIBhjBsb_&si=l5cQabFJNld88dxO)
 27. [Social Ontology](https://youtube.com/playlist?list=PLyngZgIl3WTht-ilt-WpUhCv7rbB1Crd9&si=CqdFwiUJuMwnEwbJ)
+28. [Philosophy of Religion, full online course: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzAaiZJLOZyyXuHTfi1SS_6y&si=WaR55T49tZkA2Lkg)
+29. [Philosophy of Mind](https://youtube.com/playlist?list=PLUJ-vlKYyqzAAk_Wn6OloVLcYVm7RDtg2&si=e1Rsnfpytt7Cgm8q)
+30. [Inductive Logic: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzB7ndTYFVe-VsjWAFItVr9I&si=OYWwjUUynmViQK4F)
+31. [2023 Cornell Systems Thinking Conference Recordings](https://youtube.com/playlist?list=PLJYST9b0XMPufxL6yGmYz9m2J8hAvpFkH&si=itq5SbtRvi39nToy)
+32. [Behavioural Finance Lectures](https://youtube.com/playlist?list=PL0A21A329D01D0CFE&si=JUbAqCu4EvtBlsav)
+33. [MIT 14.13 Psychology and Economics, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q&si=SzfITgTSjNZtn9i3)
+34. [Inductive Logic II: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzDVX2DzXwR_7xw-wvcWQETY&si=m0F1t_8gqrvcLWKZ)
 
 </details>

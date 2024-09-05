@@ -2,6 +2,8 @@
 
 - [Over 100 Arguments for God ANSWERED](https://www.youtube.com/watch?v=iP0Mh42jvV4)
 - [Philosophy of Religion online Textbook](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/TABLE_of_CONTENTS.htm)
+- [Bad Apologetics: Digital Gnosis](https://youtube.com/playlist?list=PLggkCqSR7N1eq3UGURGKs9hcJNV-uIn4n&si=v0D2GmppggbPFf7P)
+- [Bad Apologetics: James Fodor](https://youtube.com/playlist?list=PLFQW0yCmiRVM7bBTOZ5kgjMugp-aTZmUU&si=ULnMnGB3EO2MaSQ4)
 
 1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 

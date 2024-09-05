@@ -370,6 +370,9 @@
 110. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=SHERkoZ3vjO3pFp-)
 111. [Fancy Fiction: Comparing the Bible to the Great Works of Literature!](https://youtu.be/XWGaS3m1He0?si=fiYlsD_mI-Etqgwj)
 112. [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=3jpQqjebPLbRvYDd)
+113. [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=SRGW2jrqKMRLf17p)
+114. [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=GBpH3GHjrhSYnZZw)
+115. [Somehow, the Minimal Facts Argument Got Worse](https://www.youtube.com/live/DHIGMOYJscU?si=6ISZbsIGXUBUSdUk)
 
 </details>
 
