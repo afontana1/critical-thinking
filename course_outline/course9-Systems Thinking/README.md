@@ -4,6 +4,8 @@
 - [Systems Thinking Website](https://systems-thinking.org/)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Decision Analysis and System Dynamics Resources](https://www.public.asu.edu/~kirkwood/)
+- [Systemic Steering and Governance](https://systemic2016.wordpress.com/)
+- [Systems Theory and Cybernetics](https://chaturvedimayank.wordpress.com/category/systems-theory-and-cybernetics/)
 
 ## Organizations
 1. [Systems Science Institutes](https://en.wikipedia.org/wiki/Category:Systems_science_institutes)
