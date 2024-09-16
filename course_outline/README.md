@@ -44,5 +44,6 @@
 32. [Behavioural Finance Lectures](https://youtube.com/playlist?list=PL0A21A329D01D0CFE&si=JUbAqCu4EvtBlsav)
 33. [MIT 14.13 Psychology and Economics, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q&si=SzfITgTSjNZtn9i3)
 34. [Inductive Logic II: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzDVX2DzXwR_7xw-wvcWQETY&si=m0F1t_8gqrvcLWKZ)
+35. [Courses in Epistemology](https://youtube.com/playlist?list=PL8Nxd4OXpzqnK97Go28_2MlmnCQIi3wDv&si=2kwjdlmJvNz6rjRo)
 
 </details>
