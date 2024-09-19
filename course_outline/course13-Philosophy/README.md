@@ -71,6 +71,7 @@
 	- [Infinitism](https://iep.utm.edu/inf-epis/)
 	- [Coherentism](https://plato.stanford.edu/entries/justep-coherence/)
 	- [Internalism and Externalism](https://plato.stanford.edu/entries/justep-intext/)
+	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
 2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
 	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)

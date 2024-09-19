@@ -21,6 +21,7 @@
 	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=dkhgJeDGa9nviJpd)
 
 6. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
+	* [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
 
 7. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
 
@@ -88,6 +89,9 @@
 	* [Omniscience, Time, and Freedom](https://www.youtube.com/watch?v=HPajfhRLGVU)
 
 20. [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
+	* [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
+	* [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
+	* [Arguing God from Consciousness | Episode 804 | Closer To Truth](https://www.youtube.com/watch?v=GdDhssz94EI)
 
 21. [Lack of Empirical Proof Argument](http://christiancadre.blogspot.com/2019/03/why-there-is-no-empirical-proof-that.html) and [Counterargument](https://theskepticzone.blogspot.com/2016/10/hinmans-argument-from-god-corrolate.html)
 
@@ -96,15 +100,15 @@
 23. [Edwards Response to Aquinas](https://bettystoneman.wordpress.com/2010/10/25/aquinas-cosmological-argument-and-edwards-responses/)
 	* [20 Cosmological Arguments: An Analysis](https://youtu.be/EysSbVCkJLo?si=4Yqq8y1CyeTCG4Q-)
 
-24. [Hundreds of Proofs of God’s Existence](https://web.archive.org/web/20230611011201/https://www.godlessgeeks.com/LINKS/GodProof.htm)
+24. [Atheists of Silicon Valley](https://web.archive.org/web/20230225074059/https://www.godlessgeeks.com/LINKS/Debate.html)
 	* [Why Atheism?](https://web.archive.org/web/20230530214214/http://godlessgeeks.com/WhyAtheism.htm)
-	* [Atheists of Silicon Valley](https://web.archive.org/web/20230225074059/https://www.godlessgeeks.com/LINKS/Debate.html)
+	* [Hundreds of Proofs of God’s Existence](https://web.archive.org/web/20230611011201/https://www.godlessgeeks.com/LINKS/GodProof.htm)
 
 25. [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
 
 26. [Transcendental Argument for God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
 
-27. [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)) and [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism)
+27. [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism) [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy))
 	- [Discussion](https://philosophy.stackexchange.com/questions/31401/what-are-the-problems-with-plantingas-evolutionary-argument-against-naturalism)
 	- [Critical Appraisal](https://www.jstor.org/stable/27749994)
 	- [Does it Work?](https://www.cambridge.org/core/journals/religious-studies/article/abs/does-plantingas-evolutionary-argument-against-naturalism-work/E38C04BC3D418AF634B2830797639E08)
@@ -193,7 +197,7 @@
 
 36. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
-37. [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
+37. 
 
 38. [Transcendental_argument For God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
 	* [Transcendental_arguments In General](https://plato.stanford.edu/entries/transcendental-arguments/)
@@ -207,7 +211,7 @@
 
 40. [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 
-41. [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
+41. 
 
 42. [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/)
 	* [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC)
@@ -251,7 +255,7 @@
 	* [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
 	* [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
 
-48. [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
+48. 
 
 49. [Cumulative_case_argument](https://religions.wiki/index.php/Cumulative_case_argument)
 	* [Criticism](http://stephenlaw.blogspot.com/2017/05/a-cumulative-case-for-existence-of-god.html)
@@ -259,7 +263,7 @@
 50. [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 	* [Is the Anthropic Principle Significant? | Episode 1904 | Closer To Truth](https://www.youtube.com/watch?v=NMV9t-3rFNs)
 
-51. [Arguing God from Consciousness | Episode 804 | Closer To Truth](https://www.youtube.com/watch?v=GdDhssz94EI)
+51. 
 
 52. [Arguing God from Being | Episode 807 | Closer To Truth](https://www.youtube.com/watch?v=sP5KaFyem_Q)
 
@@ -271,14 +275,9 @@
 
 56. [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
 
-57. [Does God Exist? Many Proofs](https://www.youtube.com/watch?v=GuRU-daTboM&list=PLpdBEstCHhmWj2Z45up6-XYzqqeqMMZMm)
+57. [Does God Exist? Many Proofs](https://youtube.com/playlist?list=PLpdBEstCHhmWj2Z45up6-XYzqqeqMMZMm&si=r0eIZdoR5H7PJA4h)
 
-58. [Arguments Against](https://www.youtube.com/c/TheWonderfulTruth/videos)
-	* [Dan Barker: Best arguments against religion/faith #1](https://www.youtube.com/watch?v=p0g7wzl097Q)
-	* [Dan Barker: Best arguments against religion/faith #2](https://www.youtube.com/watch?v=XUYuWvMp9II)
-	* [Dan Barker: Best arguments against religion/faith #3](https://www.youtube.com/watch?v=WRv2zTfC_pA)
-	* [Dan Barker: Best arguments against religion/faith #4](https://www.youtube.com/watch?v=NKoaDrJCIQo)
-	* [Dan Barker: Best arguments against religion/faith #5](https://www.youtube.com/watch?v=_PYCzIxvLHI)
+58. 
 
 59. [Principle_of_sufficient_reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 	* [On the Fourfold Root of the Principle of Sufficient Reason](https://en.wikipedia.org/wiki/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason)
@@ -288,12 +287,15 @@
 	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
 
 60. [Non Standard Arguments for Gods Existence](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
+	* [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
 
 61. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
+	* [free-will-foreknowledge](https://plato.stanford.edu/entries/free-will-foreknowledge/)
+	* [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
 
 62. [Absence of Good](https://en.wikipedia.org/wiki/Absence_of_good)
 
-63. [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
+63. 
 
 64. [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
 	* [Debunking Arguments against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
@@ -323,8 +325,6 @@
 	- [Evidence for Intelligent Design](https://www.discovery.org/a/sixfold-evidence-for-intelligent-design/)
 	- [More Refutations](https://philosophicaldisquisitions.blogspot.com/2017/07/the-argument-from-irreducible-complexity.html)
 	- [More Problems](https://rationalwiki.org/wiki/Irreducible_complexity#:~:text=not%20irreducibly%20complex.-,In,-a%20nutshell)
-	- [Argument from BioLogos](https://biologos.org/articles/biological-information-and-intelligent-design)
-	- [Argument from Biologival Information](https://iep.utm.edu/design-arguents-for-existence-of-god/#:~:text=The%20argument%20from%20biological%20information%20is%20concerned%20with%20an%20explanation,very%20first%20forms%20of%20life.)
 	- [Rejections of Informational Concepts](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
 	- [Rare Earth Hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
 	- [Complexity isn't that Complex of an Argument](https://www.youtube.com/watch?v=9jvv5lcs27U)
@@ -388,7 +388,7 @@
 
 84. [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
 
-85. [Complexity isn't that Complex of an Argument | Reacteria](https://www.youtube.com/watch?v=9jvv5lcs27U)
+85. [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)
 
 86. [Argument_from_religious_experience](https://en.wikipedia.org/wiki/Argument_from_religious_experience)
 	* [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
@@ -434,4 +434,3 @@
 	* [Everything WRONG With Christian Apologetics](https://youtu.be/NSL4qua6AeA?si=WOKsCVKmoKkdCROr)
 	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
 	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
-98. [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)
