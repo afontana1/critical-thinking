@@ -1,5 +1,6 @@
 # Additional Resources
 
+- [lauren n. ross](https://sites.socsci.uci.edu/~rossl/) [Scholar Page](https://scholar.google.com/citations?user=MR__Y0AAAAAJ&hl=en)
 - [Judea Pearl Website](http://bayes.cs.ucla.edu/jp_home.html)
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 - [Mathematical Treatments of Causality](https://github.com/afontana1/Applied-Economics/tree/main/Econometrics)

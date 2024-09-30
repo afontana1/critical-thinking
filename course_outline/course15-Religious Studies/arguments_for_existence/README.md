@@ -4,6 +4,7 @@
 - [Philosophy of Religion online Textbook](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/TABLE_of_CONTENTS.htm)
 - [Bad Apologetics: Digital Gnosis](https://youtube.com/playlist?list=PLggkCqSR7N1eq3UGURGKs9hcJNV-uIn4n&si=v0D2GmppggbPFf7P)
 - [Bad Apologetics: James Fodor](https://youtube.com/playlist?list=PLFQW0yCmiRVM7bBTOZ5kgjMugp-aTZmUU&si=ULnMnGB3EO2MaSQ4)
+- [Philosophical Failures of Christian Apologetics](https://www.youtube.com/playlist?list=PL3IOkNR8_9gpQa5teO1xQANB-3MiY17uk)
 
 1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
@@ -58,6 +59,9 @@
 13. [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
 	* [Anscombe Debate about Naturalism](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
 	* [DEBATE: The Argument for God From Reason • Cosmic Skeptic vs Max Baker-Hytch](https://www.youtube.com/watch?v=kI)
+	* [The Argument from Reason: C. S. Lewis’ Fundamental Mistakes](https://infidels.org/library/modern/david-kyle-johnson-lewis-mistakes/)
+	* [Richard Carrier: The Argument from Reason](https://www.richardcarrier.info/archives/20922)
+	* [A response to C. S. Lewis’s argument from reason](https://www.sciencesnail.com/philosophy/a-response-to-c-s-lewiss-argument-from-reason)
 
 14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief) and [Divine Hiddenness](https://plato.stanford.edu/entries/divine-hiddenness/)
 	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (1/5)](https://youtu.be/7hBpZ-ystOg?si=-3zsvoiE_QVjdJWt)
@@ -112,6 +116,19 @@
 	- [Discussion](https://philosophy.stackexchange.com/questions/31401/what-are-the-problems-with-plantingas-evolutionary-argument-against-naturalism)
 	- [Critical Appraisal](https://www.jstor.org/stable/27749994)
 	- [Does it Work?](https://www.cambridge.org/core/journals/religious-studies/article/abs/does-plantingas-evolutionary-argument-against-naturalism-work/E38C04BC3D418AF634B2830797639E08)
+	- [What’s wrong with the evolutionary argument against naturalism?](https://philarchive.org/rec/CHIWWW)
+	- [The evolutionary argument against naturalism: a Wittgensteinian response](https://link.springer.com/article/10.1007/s11153-022-09832-3)
+	- [Does the Evolutionary Argument Against Naturalism Defeat God’s Beliefs?](https://philarchive.org/rec/HENDTE)
+	- [Darwin's doubt or Plantinga's conviction? Some failures in Plantinga's attempt to debunk naturalistic evolution](https://www.cambridge.org/core/journals/religious-studies/article/darwins-doubt-or-plantingas-conviction-some-failures-in-plantingas-attempt-to-debunk-naturalistic-evolution/A246AE63DFC922D439CF751045E3A7DD)
+	- [Plantinga's Evolutionary Argument Against Naturalism refuted](https://stephenlaw.blogspot.com/2012/12/plantingas-evolutionary-argument.html)
+	- [Does Plantinga's Evolutionary Argument against Naturalism Work?](https://www.jstor.org/stable/27749994)
+	- [Evolutionary Argument Against Naturalism (EAAN)](https://emersongreenblog.wordpress.com/2018/07/22/evolutionary-argument-against-naturalism-eaan/)
+	- [The troublesome explanandum in Plantinga’s argument against naturalism](https://link.springer.com/article/10.1007/s11153-010-9228-7)
+	- [Evolutionary Absurdity Against Naturalism](https://youtu.be/jffWAdaz3kQ?si=Wa0YdrSwbQR-Xqyo)
+	- [4 Genealogical Debunking Arguments](https://academic.oup.com/book/36593/chapter-abstract/321566472?redirectedFrom=fulltext)
+	- [Genealogical Debunking](https://philpapers.org/browse/genealogical-debunking)
+	- [In defense of sensible naturalism](https://philpapers.org/rec/DRAIDO-3)
+	- [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
 
 28. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
@@ -132,6 +149,7 @@
 	* [Skeptical Theism](https://plato.stanford.edu/entries/skeptical-theism/)
 	* [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
 	* [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
+	* [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
 
 29. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
@@ -197,7 +215,18 @@
 
 36. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
-37. 
+37. [Near Death Experience](https://en.wikipedia.org/wiki/Near-death_experience)
+	* [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=VQgXsBrakxSukRmM)
+	* [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=i727Q8r7fsXcg9Pa)
+	* [Dogmatic Materialists DESTROYED by AMAZING EVIDENCE of Pam Reynolds Near Death Experience Case](https://www.youtube.com/live/WEDZ2LToSWM?si=qna6E8nGf6UjPE0n)
+	* [Bad Apologetics Ep 10 - Are Near Death Experiences Evidence of Life After Death?](https://www.youtube.com/live/2TdLoGpIu3Q?si=G8hb2yVO8uh3_WTP)
+	* [Near Death Experiences Explained - Truth About NDEs](https://youtu.be/Yz0C0JpVqnM?si=0YQaLiG7z-WO-WvH)
+	* [The Evidential Value of Near Death Experiences, Part 1](https://majestyofreason.wordpress.com/2018/12/25/the-evidential-value-of-near-death-experiences-part-1/)
+	* [Defeasible Reasoning, NDE Veridicality, and Hume: An Analysis, Part 2](https://majestyofreason.wordpress.com/2018/12/25/defeasible-reasoning-nde-veridicality-and-hume-an-analysis-part-2/)
+	* [A Novel Dilemma and Theoretical Comparison Concerning NDE’s, Part 3](https://majestyofreason.wordpress.com/2018/12/25/a-novel-dilemma-and-theoretical-comparison-concerning-ndes-part-3/)
+	* [Near-Death Experiences are Not Evidence for Either Atheism or Theism](https://philpapers.org/rec/AUGNEA-4)
+	* [Hallucinatory Near-Death Experiences](https://infidels.org/library/modern/keith-augustine-hndes/)
+	* [Lifeafterdeath Immortality](https://infidels.org/library/modern/lifeafterdeath-immortality/)
 
 38. [Transcendental_argument For God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
 	* [Transcendental_arguments In General](https://plato.stanford.edu/entries/transcendental-arguments/)
@@ -211,7 +240,9 @@
 
 40. [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 
-41. 
+41. The Holy Ghost
+	* [Philosophical Failures of Christian Apologetics, Part 11: The Holy Spirit](https://youtu.be/RoyFdWYgz5I?si=C_Ci2syNbyfEI52B)
+	* [Craig on Faith and Doubt](https://youtu.be/Mh7JjeakfjI?si=TOVmDmShgt_LFBke)
 
 42. [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/)
 	* [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC)
@@ -254,6 +285,7 @@
 	* [Epistemic Theory of Miracles](https://en.wikipedia.org/wiki/Epistemic_theory_of_miracles)
 	* [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
 	* [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
+	* [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=D70ZyE3TarmkYcTU)
 
 48. 
 
@@ -389,6 +421,7 @@
 84. [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
 
 85. [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)
+	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=rICdBkezChlLhYrW)
 
 86. [Argument_from_religious_experience](https://en.wikipedia.org/wiki/Argument_from_religious_experience)
 	* [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
@@ -434,3 +467,4 @@
 	* [Everything WRONG With Christian Apologetics](https://youtu.be/NSL4qua6AeA?si=WOKsCVKmoKkdCROr)
 	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
 	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
+	* [Let's review some more Capturing Christianity Cringe](https://www.youtube.com/live/v-srdpGP1DY?si=v757iiegzT5eQLIT)

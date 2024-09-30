@@ -55,3 +55,4 @@
 18. [Black_swan_theory](https://en.wikipedia.org/wiki/Black_swan_theory)
 19. [Economics of Uncertainty](https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty)
 20. [Reliability_engineering](https://en.wikipedia.org/wiki/Category:Reliability_engineering)
+21. [Multi Criteria Decision Analysis](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)

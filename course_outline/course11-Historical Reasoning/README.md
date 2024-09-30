@@ -29,6 +29,10 @@
 19. [Friedrich Nietzsche: On the Use and Abuse of History for Life](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheAbuseTableAll.pdf)
 20. [Integrated Action Civics Project](https://iacp.berkeley.edu/)
 21. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
+22. [Historical Fiction](https://en.wikipedia.org/wiki/Category:Historical_fiction)
+23. [Narrative Techniques](https://en.wikipedia.org/wiki/Category:Narrative_techniques)
+24. [Narrative Forms](https://en.wikipedia.org/wiki/Category:Narrative_forms)
+25. [Narratology](https://en.wikipedia.org/wiki/Category:Narratology)
 
 ## [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
 

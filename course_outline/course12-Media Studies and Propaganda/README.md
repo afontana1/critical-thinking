@@ -9,6 +9,7 @@
 - [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 - [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 - [Psychological Warfare](https://en.wikipedia.org/wiki/Category:Psychological_warfare)
+- [genealogical-debunking](https://philpapers.org/browse/genealogical-debunking)
 
 1. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 2. [Attitude Change](https://en.wikipedia.org/wiki/Category:Attitude_change)
@@ -54,6 +55,16 @@
 40. [Processing fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 41. [Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
 42. [Motivated Skepticism](https://ideas.repec.org/p/hal/wpaper/hal-03770685.html)
+43. [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
+44. [Lobbying](https://en.wikipedia.org/wiki/Category:Lobbying)
+    * [Organizations in the US](https://en.wikipedia.org/wiki/Category:Lobbying_organizations_in_the_United_States)
+45. [Neuromarketing](https://en.wikipedia.org/wiki/Neuromarketing)
+46. [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)
+47. [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
+48. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
+    * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
+    * [Media Analysis](https://en.wikipedia.org/wiki/Category:Media_analysis)
+    * [Concentration of Media Ownership](https://en.wikipedia.org/wiki/Category:Concentration_of_media_ownership)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/

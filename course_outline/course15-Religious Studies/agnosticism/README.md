@@ -253,6 +253,11 @@
 143. [HARMONIC ATHEIST - Will Thorpe: An apostate examines the bible and the claims of Christians](https://youtu.be/CrIXpNcEx64?si=IExU0LXD1jIlnqUe)
 144. [Christianity trains people to believe in glaring falsehoods - Shane Almgren](https://youtu.be/0lFnP4SPSiw?si=OKP__xyK80kLvMMw)
 145. [Childhood indoctrination into religion induces psychological trauma - Darrel Ray](https://youtu.be/Sgb-Pljsic4?si=VyJKgQDmZ4zA-egd)
+146. [The questions that shook my beliefs to the core - Holy Koolaid](https://youtu.be/BYa6IdPOO8o?si=slasAAwUCYwFNoAM)
+147. [Conversation with EX-PASTOR Darante Lamar on His Deconstruction](https://youtu.be/0Q1_BfCNsUI?si=2ivh-eemN6vV8uS-)
+148. [I was a Pastor for 30 years ... until I realized that Christianity is mythology - Timmy Gibson](https://youtu.be/e73jIl-bWuk?si=BScco63fHovXAc3M)
+149. [Disturbing questions led me to one simple answer: Goodbye, Jesus - Tim Sledge](https://youtu.be/viCGMV7So-s?si=WFm7wDLJyNXDjfGn)
+150. [Confessions of an Ex-Pastor (with Timmy Gibson)](https://youtu.be/X95_yGi7LlM?si=1GAswzdXwEIM8PGi)
 
 </details>
 
@@ -373,6 +378,15 @@
 113. [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=SRGW2jrqKMRLf17p)
 114. [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=GBpH3GHjrhSYnZZw)
 115. [Somehow, the Minimal Facts Argument Got Worse](https://www.youtube.com/live/DHIGMOYJscU?si=6ISZbsIGXUBUSdUk)
+116. [Paranoid Protestants | Seventh-day Adventists](https://youtu.be/hEEIyg_J2g0?si=XF3S0WqVRKwk02v9)
+117. [The Jesus Hoax with Dr. David Skrbina](https://youtu.be/XMqvP2m1Dqs?si=8yBMhusdkCPnYYjW)
+118. [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=8VkKbCavnvkrwdYX)
+119. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=lTljw8Q67xfdgVdS)
+120. [Solid Evidence The New Testament Is Imitating Homers Odyssey!](https://youtu.be/pMf40mX9w_k?si=TAkTcrq3Z4DUu3yY)
+121. [GROUNDBREAKING Discovery on the REAL Dates of the Gospels](https://youtu.be/dOznZncdlCY?si=3Zd65BLnl6igfVOo)
+122. [Early Christianity Was NOTHING Like You Were Taught!](https://youtu.be/MsBz9ZrVK6E?si=ocKDUVv00FDJKq7x)
+123. [What Does the Bible Say about Abortion?](https://youtu.be/Agy88gCk1K0?si=dsGYTPCz2VnGLRzX)
+124. [What is Hermeticism?](https://youtu.be/COYJi9CKrGI?si=QM0f9ldKUoDUVZkB)
 
 </details>
 
