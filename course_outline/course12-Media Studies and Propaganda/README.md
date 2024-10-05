@@ -65,12 +65,30 @@
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
     * [Media Analysis](https://en.wikipedia.org/wiki/Category:Media_analysis)
     * [Concentration of Media Ownership](https://en.wikipedia.org/wiki/Category:Concentration_of_media_ownership)
+49. [Processing Fluency](https://en.wikipedia.org/wiki/Processing_fluency)
+50. [Attribute Substitution](https://en.wikipedia.org/wiki/Attribute_substitution)
+51. [Social Heuristics](https://en.wikipedia.org/wiki/Social_heuristics)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/
 - https://projects.iq.harvard.edu/futureofmedia/index-us-mainstream-media-ownership
 - https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/
 - https://www.visualcapitalist.com/who-owns-your-favorite-news-media-outlet/
+
+## Philosophical Concepts
+
+1. [Episode 124, ‘Narrative Critique’ with Rachel Fraser (Part I – Disrupting Ideology)](https://youtu.be/xLlrItiK4yA?si=Gofy-FAtOPJjzzfb)
+2. [Episode 124, ‘Narrative Critique’ with Rachel Fraser (Part II – Further Analysis and...](https://youtu.be/jRT0JdG8Oc8?si=NyKKKGuiNby-y5-x)
+3. [Episode 126, ‘Playfulness Versus Epistemic Traps’ with C. Thi Nguyen (Part I)](https://youtu.be/jmiDJvD5INs?si=vqFT8X3azGJ9QPTm)
+4. [Episode 126, ‘Playfulness Versus Epistemic Traps’ with C. Thi Nguyen (Part II)](https://youtu.be/4wCmxG3xDPM?si=EirJFcgTBgB4n2g5)
+5. [C. Thi Nguyen: Metrification](https://youtu.be/CEekJqgSo2g?si=LWNcrQkYxOE8h_UZ)
+6. [Mindscape 169 | C. Thi Nguyen on Games, Art, Values, and Agency](https://youtu.be/H0EhjQDHaAw?si=9JLg23sAC-NUql1c)
+7. [C. Thi Nguyen: Transparency is Surveillance](https://youtu.be/8JEzXL5OXPI?si=hHWs7IK6jIh45kC8)
+8. [C. Thi Nguyen: The Gamification of Public Discourse (Royal Institute of Philosophy)](https://youtu.be/1LpbGW3qLVg?si=0KK0OTcwcJ0aVUqF)
+9. [C. Thi Nguyen | Transparency is surveillance](https://youtu.be/ZcEJY61FKIc?si=fC0l1Kn60NdzjAYf)
+10. ["Trust and Hostile Epistemology": C. Thi Nguyen in conversation with Johnny Brennan](https://youtu.be/-LFd9YCpGvA?si=lWnNx10scMtOBCdE)
+11. [Keynote: Quantification and the Limits of Scale, C. Thi Nguyen](https://youtu.be/e94yY3AKh9Q?si=qds1Bsuf_UhtsUrp)
+12. [The Seductions of Clarity: Conspiracy Theories, Echo Chambers, and the Gamification of Social Media](https://youtu.be/Nkf8uGEN3zA?si=taRtpQpedQue1Yql)
 
 ## Conspiracy and Propaganda
 
