@@ -89,6 +89,7 @@
 17. [Pascals Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and [Atheist Wager](https://en.wikipedia.org/wiki/Atheist%27s_Wager)
 	* [Series Refuting the Argument](https://www.youtube.com/watch?v=M4Dm1HWJhoo&list=PLMd8xj-C1CsNqG4gRbUZqqlUuGH-QVS8B)
 	* [Practical Arguments for Belief](https://plato.stanford.edu/entries/pragmatic-belief-god/)
+	* [Pascal's Wager | Dr. Al Hájek and Dr. Liz Jackson](https://youtu.be/zeSICId7Yhw?si=XFy79bnSF1tt_qKC)
 
 18. [Phil Halper and Ken Williford, on Animal Suffering](https://youtu.be/OG_QOFLEizo?si=DPgmaVgbVAa77M7m)
 
@@ -199,6 +200,8 @@
 	* [Leonard Susskind - Is the Universe Fine-Tuned for Life and Mind?](https://www.youtube.com/watch?v=2cT4zZIHR3s)
 	* [What's Fine-Tuning in Physics? | Episode 1903 | Closer To Truth](https://www.youtube.com/watch?v=UizIrcdSuuo)
 	* [12 Design Arguments: An Analysis](https://youtu.be/_hxuKMEzDLk?si=6stXQ7VN1Oa6K3iz)
+	* [YET MORE Apologetics Nonsense about Fine-Tuning](https://www.youtube.com/live/JQxCZrFJjso?si=-L4ZbiQbKC9Rb_CG)
+	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=z-nu46nyJubsyDdD)
 
 30. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
@@ -313,6 +316,7 @@
 49. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
 	* [free-will-foreknowledge](https://plato.stanford.edu/entries/free-will-foreknowledge/)
 	* [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
+	* [Arguments for and against Molinism | Dr. Daniel Rubio](https://youtu.be/y92T1xEBJHk?si=1YTQEAxAn4NZI4lj)
 
 50. [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
 	* [Debunking Arguments against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
@@ -433,6 +437,8 @@
 70. [The Argument for God from Logic](https://youtu.be/mX76lzXu_Jc?si=eTd7NJi-Koh6ofhb)
 	* [From Abstracta to Atheism? | Dr. Felipe Leon](https://youtu.be/8MeJAFsB8BA?si=0GysQIRC6l8iCnHA)
 	* [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
+	* [Logic Doesn't Need God - Responding to James Anderson](https://www.youtube.com/live/Om3cU9AGPdw?si=P0H_FhU3v6vqbLzb)
+	* [Does Maths Prove God? Alexey Burov vs James Fodor](https://youtu.be/Pw_bjw-NP14?si=52X-E8P_cmx283qD)
 71. Ed Feser Rebuttals
 	* [Feser's Neo-Platonic Proof: An Analysis](https://youtu.be/BYhV5JAy48g?si=hl8ZB-aAaD-eHrPB)
 	* [Can We "Prove" that God Exists? | Graham Oppy vs Ed Feser](https://www.youtube.com/live/XoVDutpB4Cw?si=X2fSQZmseX5oDcvj)
