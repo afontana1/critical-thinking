@@ -457,6 +457,7 @@
 - [Non Stamp Collector](https://www.nonstampcollector.com/)
 - [Taking Off The Tinfoil Hat](https://takingoffthetinfoilhat.com/)
 - [Proving The Negative](http://www.provingthenegative.com/)
+- [Emerson Green](https://emersongreenblog.wordpress.com/)
 
 ### Youtube Accounts
 
@@ -600,6 +601,14 @@
 104. [Charlene Haddock Seigfried](https://www.cla.purdue.edu/directory/profiles/charlene-haddock-seigfried.html)
 105. [Victor J Sanger](https://en.wikipedia.org/wiki/Victor_J._Stenger)
 106. [James Gouinlock](https://secularhumanism.org/authors/james-gouinlock/)
+107. [Paul Russell](https://philpeople.org/profiles/paul-russell)
+108. [Jeremy Koons](https://philpeople.org/profiles/jeremy-koons)
+109. [Tyler Mcnabb](https://philpeople.org/profiles/tyler-dalton-mcnabb)
+110. [Aron Lucas](https://infidels.org/author/aron-lucas/)
+111. [Michael Hemmingsen](https://philpeople.org/profiles/michael-hemmingsen)
+112. [Andrew Pavelich](https://philpeople.org/profiles/andrew-pavelich)
+113. [Matthew Adelstein](https://philpeople.org/profiles/matthew-adelstein)
+114. [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
 
 ## Books
 

@@ -75,6 +75,7 @@
 	* [Nonbelief Revisited: The Ghost of Veritas48](https://youtu.be/FCGCjLEJF_g?si=kZogBD9qy8z7HdEY)
 	* [Wrapping Up 'Nonbelief'](https://youtu.be/L54fUWIBKAY?si=4WDyoqngwDCHsvh-)
 	* [Divine Hiddenness: Mike Winger's Desperate Dance Around God's Disappearance](https://youtu.be/KO9IxzjnCIo?si=b97NDppSSQjG8IJf)
+	* [Divine Hiddenness Series: An Introduction to J.L. Schellenberg's Argument from Nonresistant Nonbelief](https://youtube.com/playlist?list=PL2ru4PSw7gsLuIEkwnyl0DWxdCgnYoFJj&si=DzVn7qLLJ45933Ir)
 
 15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
 	* [Why Anything at All? | Episode 1213 | Closer To Truth](https://www.youtube.com/watch?v=tgU49k1d7TE)
@@ -134,6 +135,7 @@
 	- [Genealogical Debunking](https://philpapers.org/browse/genealogical-debunking)
 	- [In defense of sensible naturalism](https://philpapers.org/rec/DRAIDO-3)
 	- [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
+	- [Chatting about the Evolutionary Argument Against Naturalism](https://www.youtube.com/live/AW9oqcshkFA?si=Yj9CB_ajAkU6Pppp)
 
 26. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
@@ -291,6 +293,10 @@
 	* [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
 	* [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=D70ZyE3TarmkYcTU)
 	* [Arguing God from Miracles & Revelations | Episode 704 | Closer To Truth](https://www.youtube.com/watch?v=dmButXMCrZ4)
+	* [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=VmPR7rfYpppXprwx)
+	* [1. Arif Ahmed, On Miracles](https://youtu.be/xQ9Z92ldW-U?si=B5UjQpwTALi5u6oc)
+	* [RA036: Ben Watkins on Hume Against the Believability of Miracles](https://youtu.be/dzJcujTbvpg?si=XY9PVUCOLeJb4-6J)
+	* [RA037: Bill Vanderburgh on Misinterpretations of Hume's Of Miracles](https://youtu.be/4eVqOT0ip0U?si=q21m1AAovUxYeOoD)
 
 42. [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
 
@@ -455,3 +461,17 @@
 	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
 	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
 	* [Let's review some more Capturing Christianity Cringe](https://www.youtube.com/live/v-srdpGP1DY?si=v757iiegzT5eQLIT)
+73. Refuting Classical Theism
+	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
+	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
+	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=uHq2TWCBd5_5HOTq)
+	* [RA018: Scott Davison on Petitionary Prayer](https://youtu.be/F3wZEZ07Emk?si=E4Eieo7MWx--L7ny)
+	* [RA013: Quentin Smith on Natural Evils and Immaterial Minds](https://youtu.be/mvkghIrF7XY?si=fJzL9bJq1DLtu7tV)
+	* [RA012: Interview: Felipe Leon on Ex Nihilo Creation](https://youtu.be/C2lMs7NIuAI?si=5ASYP5kC5rAm9iib)
+	* [God and the Physical Dependency of Minds; An Interview with Ben Watkins](https://youtu.be/POUP99Nb-rE?si=TiDiHYI_JFpiUcxo)
+	* [What makes a good prophecy?: Responding to more Christian Apologetics nonense](https://www.youtube.com/live/B2NdxknK5V0?si=Bv3e6Ky8pTwfjJLp)
+	* [RA009: Interview: Wes Morriston on Moral Freedom and The Moral Argument](https://youtu.be/af7MYYwuA_c?si=edFiqn_Beu_GqUC7)
+	* [RA041: Joe Campbell on David Hume's Refutation of the Cosmological Argument](https://youtu.be/B6vnJNVh02Q?si=9ZEzUWsqJCyd9-2n)
+	* [RA35: Andrew Pavelich on the Moral Problem with the Free Will Defense](https://youtu.be/mZ3Mv7cgdnI?si=wVFdU2h-Ucb-T2xJ)
+	* [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
+74. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
