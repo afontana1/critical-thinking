@@ -100,3 +100,4 @@
     * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 15. [The Information Philosopher](https://www.informationphilosopher.com/)
 16. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
+17. [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)

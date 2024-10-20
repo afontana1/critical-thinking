@@ -1,4 +1,9 @@
-# [Biases](https://en.wikipedia.org/wiki/Category:Bias)
+# Content Related to [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)
+
+- [Behavioral Economics](https://en.wikipedia.org/wiki/Category:Behavioral_economics)
+- [Rational Choice Theory](https://en.wikipedia.org/wiki/Category:Rational_choice_theory)
+
+## [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
@@ -34,7 +39,7 @@
 32. [Actor–observer asymmetry](https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry)
 33. [Attribution Bias](https://en.wikipedia.org/wiki/Attribution_bias)
 
-# [Risk](https://en.wikipedia.org/wiki/Category:Risk) and [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) 
+## [Risk](https://en.wikipedia.org/wiki/Category:Risk) and [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) 
 
 - [The Decision Lab](https://thedecisionlab.com/)
 
