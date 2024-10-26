@@ -216,6 +216,7 @@
 	* [Objective Morality Without God](https://youtu.be/50CQwa15R7A?si=oagU3PXsthSrjmFg)
 	* [Why I Don't Use The Moral Argument For Theism](https://youtu.be/wiVEU6yAVZk?si=DzDaOlZLaCyP7wcq)
 	* [Arguing God from Morality | Episode 202 | Closer To Truth](https://www.youtube.com/watch?v=h9F-CaquPTc)
+	* [Rewiewing McDowell and Shermer on Morality](https://www.youtube.com/live/GKktEA2T3Vw?si=9jkH88eOciRn3CGb)
 
 31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
