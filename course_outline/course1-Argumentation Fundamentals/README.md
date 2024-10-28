@@ -1,21 +1,4 @@
-# Papers and Resources on the Study of Reasoning
-
-## People
-1. [Eric Pacuit](https://pacuit.org/)
-	- [Rationality](http://ai.stanford.edu/~epacuit/classes/rationality-fall2010.html)
-	- [Models of Strategic Reasoning](http://ai.stanford.edu/~epacuit/esslli2012/stratreas.html)
-1. [Law Probability and Risk](https://academic.oup.com/lpr)
-2. [Informal Logic](https://informallogic.ca/index.php/informal_logic/issue/archive)
-3. [Ontario Society for the Study of Argumentation](https://scholar.uwindsor.ca/ossaarchive/)
-4. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
-5. [Floris Bex](https://www.florisbex.com/)
-6. [David Godden](https://www.davidgodden.ca/)
-7. [Trevor-Bench-Capon](https://www.researchgate.net/profile/Trevor-Bench-Capon)
-8. [Adam Wyner](https://www.researchgate.net/profile/Adam-Wyner)
-9. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
-10. [John Pollock](https://johnpollock.us/ftp/publications.html)
-11. [Paul Thagard](https://paulthagard.com/)
-12. [Bart Verheij](https://www.ai.rug.nl/~verheij/)
+# Resources on Study of Reasoning
 
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies)
 
