@@ -1,5 +1,10 @@
 ## Language and [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
 
+- [Conceptual Analysis](https://philpapers.org/browse/conceptual-analysis)
+- [Concept](https://en.wikipedia.org/wiki/Concept)
+- [Conceptual Modeling](https://en.wikipedia.org/wiki/Category:Conceptual_modelling)
+- [Conceptual Model](https://en.wikipedia.org/wiki/Category:Conceptual_models)
+
 1. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
 2. [Literary Theory](https://en.wikipedia.org/wiki/Category:Literary_theory)
 3. [Literary Criticism](https://en.wikipedia.org/wiki/Category:Literary_criticism)

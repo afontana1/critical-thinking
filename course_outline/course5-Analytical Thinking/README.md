@@ -1,6 +1,9 @@
 # Analytical Thinking
 
-## [Logic](https://en.wikipedia.org/wiki/Category:Logic)**:** [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
+- [Analysis](https://en.wikipedia.org/wiki/Category:Analysis)
+- [Problem Solving Methods](https://en.wikipedia.org/wiki/Category:Problem_solving_methods)
+
+## [Outline](https://en.wikipedia.org/wiki/Outline_of_logic)
 
 1. [Modal](https://plato.stanford.edu/entries/logic-modal/) [Logic](https://en.wikipedia.org/wiki/Category:Modal_logic)
 2. [Philosophical Logic](https://en.wikipedia.org/wiki/Category:Philosophical_logic)
