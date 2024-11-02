@@ -204,6 +204,7 @@
 	* [12 Design Arguments: An Analysis](https://youtu.be/_hxuKMEzDLk?si=6stXQ7VN1Oa6K3iz)
 	* [YET MORE Apologetics Nonsense about Fine-Tuning](https://www.youtube.com/live/JQxCZrFJjso?si=-L4ZbiQbKC9Rb_CG)
 	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=z-nu46nyJubsyDdD)
+	* [Episode 9, Neil Sinhababu, On Fine Tuning](https://youtu.be/70EDGcAXOAE?si=9l010Mi7XMHKpOd1)
 
 30. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
@@ -217,6 +218,9 @@
 	* [Why I Don't Use The Moral Argument For Theism](https://youtu.be/wiVEU6yAVZk?si=DzDaOlZLaCyP7wcq)
 	* [Arguing God from Morality | Episode 202 | Closer To Truth](https://www.youtube.com/watch?v=h9F-CaquPTc)
 	* [Rewiewing McDowell and Shermer on Morality](https://www.youtube.com/live/GKktEA2T3Vw?si=9jkH88eOciRn3CGb)
+	* [Episode 20, Russ Shafer-Landau, on Moral Realism](https://youtu.be/zRQk9AaPbQY?si=V18Lelf9zQB3yjm0)
+	* [The Incoherence of Morality](https://youtu.be/w4tRgsHcXQU?si=PX4afduWfzbT-VTW)
+	* [Metaethics: The Evolutionary Debunking Argument](https://youtu.be/0x2v-ucrSGA?si=5I8xmiuJUs2bQdI9)
 
 31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
@@ -260,6 +264,8 @@
 	* [Critique of Grabers Divine Command Theory](https://www.jstor.org/stable/40017722)
 	* [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=dkhgJeDGa9nviJpd)
+	* [The Sci Phi Show1: Fine Tuning & Genocide, a reply to Craig](https://youtu.be/e8vB3ZyS3dY?si=jGKxqJM2ecy8GB8-)
+	* [When Rationality Becomes Horrific](https://youtu.be/vxqar1B_MpY?si=pzTD6Fx3Guvr8W76)
 
 39. [Unactualized Actualizer](https://lastedenblog.wordpress.com/2017/12/18/two-aristotelian-arguments-for-an-unactualized-actualizer/) and [Critique](https://www.richardcarrier.info/archives/13752)
 	* [Discussion](https://www.reddit.com/r/DebateAnAtheist/comments/avkc7b/can_anyone_point_out_the_flaws_in_fesers/)
@@ -300,6 +306,7 @@
 	* [RA037: Bill Vanderburgh on Misinterpretations of Hume's Of Miracles](https://youtu.be/4eVqOT0ip0U?si=q21m1AAovUxYeOoD)
 
 42. [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
+	* [Episode 13, Paul Draper, On Arguments for Atheism](https://youtu.be/Ur6gxT6bQZQ?si=XAHJiuZ7P-LAbfIV)
 
 43. [Cumulative_case_argument](https://religions.wiki/index.php/Cumulative_case_argument)
 	* [Criticism](http://stephenlaw.blogspot.com/2017/05/a-cumulative-case-for-existence-of-god.html)
@@ -446,6 +453,7 @@
 	* [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
 	* [Logic Doesn't Need God - Responding to James Anderson](https://www.youtube.com/live/Om3cU9AGPdw?si=P0H_FhU3v6vqbLzb)
 	* [Does Maths Prove God? Alexey Burov vs James Fodor](https://youtu.be/Pw_bjw-NP14?si=52X-E8P_cmx283qD)
+	* [Episode 10, Penelope Rush, on the Metaphysics of Logic](https://youtu.be/xDM75-6B1fM?si=Dkri4OKpr1n7Mp8T)
 71. Ed Feser Rebuttals
 	* [Feser's Neo-Platonic Proof: An Analysis](https://youtu.be/BYhV5JAy48g?si=hl8ZB-aAaD-eHrPB)
 	* [Can We "Prove" that God Exists? | Graham Oppy vs Ed Feser](https://www.youtube.com/live/XoVDutpB4Cw?si=X2fSQZmseX5oDcvj)
