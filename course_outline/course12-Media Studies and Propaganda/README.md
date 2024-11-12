@@ -122,3 +122,15 @@
 28. [Episode 95, Conspiracy Theories (Part II - Solutions)](https://youtu.be/v5a27JF93Fs?si=v10ZH6_6zW7O9X0l)
 29. [Episode 95, Conspiracy Theories (Part III - Further Analysis and Discussion)](https://youtu.be/iF-9pm__KTQ?si=RvVBs1Tk5uyuMg9Q)
 30. [The Brainwashing of my Dad (with documentary filmmaker Jen Senko)](https://youtu.be/MW7Go6_sShI?si=B5MkhWrGUvOtd48k)
+
+## Articles on Conspiracy Theory
+
+1. [Conspiracy Beliefs between Secret Evidence and Delusion](https://imperfectcognitions.blogspot.com/2024/10/conspiracy-beliefs-between-secret.html?m=1)
+2. [On the Origin of Conspiracy Theories](https://imperfectcognitions.blogspot.com/2024/01/on-origin-of-conspiracy-theories.html?m=1)
+3. [Conspiracy Beliefs, Delusions, and Testimony](https://imperfectcognitions.blogspot.com/2023/07/conspiracy-beliefs-delusions-and.html?m=1)
+4. [Conspiracy Beliefs, Democracy, and Confabulation](https://imperfectcognitions.blogspot.com/2023/07/conspiracy-beliefs-democracy-and.html?m=1)
+5. [Conspiracy Theories](https://imperfectcognitions.blogspot.com/2019/11/conspiracy-theories.html?m=1)
+6. [Belief, Imagination, and Delusion](https://imperfectcognitions.blogspot.com/2019/01/belief-imagination-and-delusion.html?m=1)
+7. [Delusion-Like Beliefs: Epistemic and Forensic Innocence?](https://imperfectcognitions.blogspot.com/2020/08/delusion-like-beliefs-epistemic-and.html?m=1)
+8. [The relationship between conspiratorial beliefs and cognitive styles](https://imperfectcognitions.blogspot.com/2024/03/disentangling-relationship-between.html?m=1)
+9. [Extreme Beliefs: An Interview with Rik Peels](https://imperfectcognitions.blogspot.com/2021/11/extreme-beliefs-interview-with-rik-peels.html?m=1)

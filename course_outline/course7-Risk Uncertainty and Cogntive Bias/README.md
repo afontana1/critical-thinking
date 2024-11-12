@@ -2,6 +2,7 @@
 
 - [Behavioral Economics](https://en.wikipedia.org/wiki/Category:Behavioral_economics)
 - [Rational Choice Theory](https://en.wikipedia.org/wiki/Category:Rational_choice_theory)
+- [Doxastic Conservatism](https://iep.utm.edu/doxastic-conservatism/)
 
 ## [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
