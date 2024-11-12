@@ -2,6 +2,7 @@
 
 ## [Historical](https://en.wikipedia.org/wiki/Category:History) [Methods](https://en.wikipedia.org/wiki/Historical_method)
 
+- [UMASS Outline of Historical Procedure](https://www.umass.edu/wsp/method/history/outline/)
 - [E.H. Carr: What Is History?](https://en.wikipedia.org/wiki/What_Is_History%3F)
 - [Creating a Usable Past](https://www.degruyter.com/document/doi/10.12987/9780300252316-015/html?lang=en)
 - [Historical Thinking Guidelines](https://iacp.berkeley.edu/historical-analysis/historical-thinking)
