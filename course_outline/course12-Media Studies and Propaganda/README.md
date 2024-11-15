@@ -1,5 +1,6 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods) and [Deception](https://en.wikipedia.org/wiki/Category:Deception)
 
+- [List of American Thinktanks](https://economics.virginia.edu/think-tanks)
 - [conspirituality](https://www.conspirituality.net/) [Videos](https://www.youtube.com/@Conspiritualitypodcast)
 - [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
 - [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
