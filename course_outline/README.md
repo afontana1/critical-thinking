@@ -4,6 +4,7 @@
 - [Sense Sensibility and Science](https://sensesensibilityscience.berkeley.edu/)
 - [UC Berkeley Stats & Logic](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
 - [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
+- [Logic Course](https://lucidphilosophy.com/logic-course-3/)
 - [panpsycast](https://thepanpsycast.com/panpsycast)
 - [James Fodor](https://jamesfodor.com/) [The Science of Everything Podcast](https://www.thescienceofeverything.net/)
 
@@ -41,6 +42,7 @@
 14. [Zoe Bee](https://www.youtube.com/@zoe_bee)
 15. [Then & Now](https://www.youtube.com/@ThenNow)
 16. [Economic Policy Institute](https://www.youtube.com/@EconomicPolicy)
+17. [Watson Institute for International and Public Affairs](https://www.youtube.com/@WatsonInstitute)
 
 ## Documentaries
 
@@ -66,6 +68,9 @@
 11. [Philosophy Overdose](https://www.youtube.com/@Philosophy_Overdose)
 12. [Theory and Philosophy](https://www.youtube.com/@TheoryPhilosophy)
 13. [Victor Gijsbers](https://www.youtube.com/@VictorGijsbers/featured)
+14. [Mind-Body Solution](https://www.youtube.com/@drtevinnaidu)
+15. [Philosophical Trials](https://www.youtube.com/@PhilosophicalTrials)
+16. [Artificiality](https://www.youtube.com/@Artificiality)
 
 ### Playlists 
 
@@ -112,6 +117,7 @@
 
 1. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
 2. [Philosophy of Religion, full online course: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzAaiZJLOZyyXuHTfi1SS_6y&si=WaR55T49tZkA2Lkg)
+3. [Exposing Discovery Institute](https://www.youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q)
 
 ## Science & Engineering
 
@@ -129,6 +135,10 @@
 10. [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
 11. [NIH Videos](https://www.youtube.com/@NIHVideoCast)
 12. [University of California TV](https://www.youtube.com/@uctv)
+13. [Michael Levin's Academic Content](https://www.youtube.com/@drmichaellevin)
+14. [Brain Science Podcast with Ginger Campbell](https://www.youtube.com/@BrainSciencePodcast)
+15. [The Nature & Nurture Podcast](https://www.youtube.com/@TheNatureNurturePodcast)
+16. [Santa Fe Institute](https://www.youtube.com/@SFIScience)
 
 ### Playlists
 
@@ -140,6 +150,8 @@
 6. [Collective Computation (C4) Public Lecture Videos](https://youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d&si=YHSZvHSEeJB3FhsR)
 7. [SFI Seminars](https://youtube.com/playlist?list=PLZlVBTf7N6Gpc690KyysAO5J8iuc-ffyP&si=CriRa_bj_c_GuhJt)
 8. [Complexity Podcast](https://youtube.com/playlist?list=PLZlVBTf7N6GqWUtLVQ-pWehJElcMTGiea&si=B1itTI_hhlqEeMYu)
+9. [Science as Process and Perspective – A Crash Course in the Philosophy of Science for Researchers](https://youtube.com/playlist?list=PL8vh-kVsYPqPVrV0m4HjZexgO6oDkgkK0&si=Tt5_PgYP5KyIXwq2)
+10. [Beyond Networks: The Evolution of Living Systems](https://youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W&si=HpU6LKYycWB6pAmc)
 
 
 ## Systems
