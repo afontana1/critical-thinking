@@ -25,3 +25,8 @@
 18. [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 19. [Causal Decision Theory](https://plato.stanford.edu/entries/decision-causal/)
 20. [Causal Process](https://plato.stanford.edu/archIves/spr2010/entries/causation-process/)
+
+## Videos
+
+1. [BI 027 Ioana Marinescu & Konrad Kording: Causality in Quasi-Experiments](https://youtu.be/6lnKzPmqI4M?si=4IIdJsYZcWoDpnYx)
+2. [BI 145 James Woodward: Causation With a Human Face](https://youtu.be/WzasAbrkxNg?si=0m_J_JTH2Gkef6AM)
