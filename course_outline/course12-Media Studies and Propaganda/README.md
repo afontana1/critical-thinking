@@ -69,6 +69,9 @@
 49. [Processing Fluency](https://en.wikipedia.org/wiki/Processing_fluency)
 50. [Attribute Substitution](https://en.wikipedia.org/wiki/Attribute_substitution)
 51. [Social Heuristics](https://en.wikipedia.org/wiki/Social_heuristics)
+52. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
+53. [Media Ecology](https://media-ecology.org/)
+54. [Network Contagion Institute](https://networkcontagion.us/)
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/

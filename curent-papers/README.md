@@ -117,3 +117,7 @@
     * [John Pollock](https://johnpollock.us/ftp/publications.html)
     * [Paul Thagard](https://paulthagard.com/)
     * [Bart Verheij](https://www.ai.rug.nl/~verheij/)
+18. [Max Planck Institutes](https://www.mpg.de/institutes)
+    * [Cognitive Computational Neuroscience](https://www.cbs.mpg.de/1023954/cognitive-computational-neuroscience)
+19. [Computational Cognitive Science Lab](https://cocosci.princeton.edu/)
+    * [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php)
