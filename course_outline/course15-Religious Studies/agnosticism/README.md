@@ -258,6 +258,7 @@
 148. [I was a Pastor for 30 years ... until I realized that Christianity is mythology - Timmy Gibson](https://youtu.be/e73jIl-bWuk?si=BScco63fHovXAc3M)
 149. [Disturbing questions led me to one simple answer: Goodbye, Jesus - Tim Sledge](https://youtu.be/viCGMV7So-s?si=WFm7wDLJyNXDjfGn)
 150. [Confessions of an Ex-Pastor (with Timmy Gibson)](https://youtu.be/X95_yGi7LlM?si=1GAswzdXwEIM8PGi)
+151. [Bible Scholar Dr. Jennifer Bird Left Fundamentalist Christianity](https://www.youtube.com/live/Z-sU4t86FVA?si=pgZ58D04fqFWdDLA)
 
 </details>
 

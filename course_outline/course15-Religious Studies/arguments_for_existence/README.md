@@ -363,6 +363,7 @@
 	- [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
 	- [Is God Necessary? | Episode 607 | Closer To Truth](https://www.youtube.com/watch?v=yJ1nWKbtku8)
 	- [Presuppositionalism Destroyed Like You've Never Seen! | Dr. Alex Malpass](https://www.youtube.com/live/LyL7rMfJ7lA?si=CmCEpjp-yaECHblG)
+	- [presuppositionalism; Fallacy and Failure](https://youtu.be/w_n1cGgF3dw?si=MDW9GHlHeFZkJque)
 
 57. [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
 	- [Several Layers of Wrong | Wise Disciple Fails to Shatter Russell's Teapot](https://www.youtube.com/watch?v=wqYBlwHDxms)
@@ -470,6 +471,9 @@
 	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
 	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
 	* [Let's review some more Capturing Christianity Cringe](https://www.youtube.com/live/v-srdpGP1DY?si=v757iiegzT5eQLIT)
+	* [Christian "SCHOLARSHIP" Collapses | The MELTDOWN of Michael Jones](https://youtu.be/-0xuG8wYLnU?si=eXZCeLW4WXw9laLt)
+	* [Inspiring Philosophy Gets Exposed](https://youtu.be/XNygmVlr6kc?si=dWReuGacWsJvhehF)
+	* [Top 15 Prophecies of Jesus DEBUNKED!!! | MythVision Documentary](https://youtu.be/puez1gWtcbE?si=ECDEr4CkNnlkBwB2)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -483,4 +487,12 @@
 	* [RA041: Joe Campbell on David Hume's Refutation of the Cosmological Argument](https://youtu.be/B6vnJNVh02Q?si=9ZEzUWsqJCyd9-2n)
 	* [RA35: Andrew Pavelich on the Moral Problem with the Free Will Defense](https://youtu.be/mZ3Mv7cgdnI?si=wVFdU2h-Ucb-T2xJ)
 	* [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
+	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
 74. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
+75. Mythological Origins of Monotheism
+	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
+	* [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
+	* [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=l_lugiSlmZRota0e)
+	* [What is Neoplatonism?](https://youtu.be/vZEUo_sHoBw?si=Lk60emY4KsdohntW)
+	* [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY?si=mDsSZnLfUg1czMrL)
+	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=lS7AnY3tC3iDIxbj)
