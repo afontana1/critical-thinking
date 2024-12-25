@@ -245,9 +245,8 @@
 	* [Another Debate](https://www.youtube.com/watch?v=rb1mfKJU6bo)
 	* [Short Explanation](https://www.youtube.com/watch?v=OrwzuXrlnxs)
 
-34. Debates
-	* [Stephen Fry & Jordan Peterson on Morality](https://www.youtube.com/watch?v=-0lD3krLcK0)
-	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
+34. [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
+	* [The Evil God Challenge - Extended and Defended](https://philarchive.org/archive/COLTEC-6)
 
 35. [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 
@@ -474,6 +473,7 @@
 	* [Christian "SCHOLARSHIP" Collapses | The MELTDOWN of Michael Jones](https://youtu.be/-0xuG8wYLnU?si=eXZCeLW4WXw9laLt)
 	* [Inspiring Philosophy Gets Exposed](https://youtu.be/XNygmVlr6kc?si=dWReuGacWsJvhehF)
 	* [Top 15 Prophecies of Jesus DEBUNKED!!! | MythVision Documentary](https://youtu.be/puez1gWtcbE?si=ECDEr4CkNnlkBwB2)
+	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=eQocmAgZ2pR9pJ2K)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -488,6 +488,7 @@
 	* [RA35: Andrew Pavelich on the Moral Problem with the Free Will Defense](https://youtu.be/mZ3Mv7cgdnI?si=wVFdU2h-Ucb-T2xJ)
 	* [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
 	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
+	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
 74. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
 75. Mythological Origins of Monotheism
 	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
