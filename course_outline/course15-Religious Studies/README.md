@@ -1,4 +1,4 @@
-# [Philosophy of Religion](https://en.wikipedia.org/wiki/Category:Philosophy_of_religion)
+# [Philosophy of Religion](https://en.wikipedia.org/wiki/Category:Philosophy_of_religion) and Belief Systems
 
 1. [Psychology of Religion](https://en.wikipedia.org/wiki/Category:Psychology_of_religion)
 2. [List of Philosophers of Religion](https://en.wikipedia.org/wiki/Category:Philosophers_of_religion)
@@ -23,6 +23,13 @@
 4. [Theological Epistemology](https://www.youtube.com/playlist?list=PLU6KVXxGpeZjEyVGY9M9A-F7gS61eu7O6)
 
 </details>
+
+## [Belief](https://en.wikipedia.org/wiki/Category:Belief)
+
+1. [Ethics of Belief](https://plato.stanford.edu/entries/doxastic-voluntarism/#EthBel)
+2. [Propositional Attitudes](https://en.wikipedia.org/wiki/Category:Propositional_attitudes)
+3. [Religious Belief and Doctrine](https://en.wikipedia.org/wiki/Category:Religious_belief_and_doctrine)
+4. [Belief Revision](https://en.wikipedia.org/wiki/Category:Belief_revision)
 
 
 ## General Concepts
@@ -115,3 +122,4 @@
 	- [Index of Repudiated Books](https://en.wikipedia.org/wiki/Index_of_Repudiated_Books)
 87. [Rousseau on Religion](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau#Religion)
 88. [Marriage_and_Morals](https://en.wikipedia.org/wiki/Marriage_and_Morals) and [The_Bertrand_Russell_Case](https://en.wikipedia.org/wiki/The_Bertrand_Russell_Case)
+89. [Religion and Children](https://en.wikipedia.org/wiki/Category:Religion_and_children)

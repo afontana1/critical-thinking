@@ -6,7 +6,7 @@
 - [Imperfect Cognitions](http://imperfectcognitions.blogspot.com/)
 - [Logic Course](https://lucidphilosophy.com/logic-course-3/)
 - [panpsycast](https://thepanpsycast.com/panpsycast)
-- [James Fodor](https://jamesfodor.com/) [The Science of Everything Podcast](https://www.thescienceofeverything.net/)
+- [Social Epistemology Review](https://social-epistemology.com/)
 
 <details><summary><h2>Video Content</h2></summary>
 

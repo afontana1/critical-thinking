@@ -72,6 +72,11 @@
 52. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
 53. [Media Ecology](https://media-ecology.org/)
 54. [Network Contagion Institute](https://networkcontagion.us/)
+55. [Availability Cascade](https://en.wikipedia.org/wiki/Availability_cascade)
+56. [Freedom of Mind Resource Center](https://freedomofmind.com/) - [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
+
+
+## Data Sources 
 
 - https://www.usaspending.gov/
 - https://www.foreignassistance.gov/
@@ -94,7 +99,7 @@
 11. [Keynote: Quantification and the Limits of Scale, C. Thi Nguyen](https://youtu.be/e94yY3AKh9Q?si=qds1Bsuf_UhtsUrp)
 12. [The Seductions of Clarity: Conspiracy Theories, Echo Chambers, and the Gamification of Social Media](https://youtu.be/Nkf8uGEN3zA?si=taRtpQpedQue1Yql)
 
-## Conspiracy and Propaganda
+## Conspiracy, Propaganda, and Media Studies
 
 1. [In Defense of Conspiracy Theories pt 1](https://youtu.be/p0poRoE_kVk?si=QbhsIPmPAsfMv0r3)
 2. [In Defense of Conspiracy Theories pt 2](https://youtu.be/TRKYf49aMfU?si=C6bHVzE8CZbCxVTb)
@@ -126,6 +131,11 @@
 28. [Episode 95, Conspiracy Theories (Part II - Solutions)](https://youtu.be/v5a27JF93Fs?si=v10ZH6_6zW7O9X0l)
 29. [Episode 95, Conspiracy Theories (Part III - Further Analysis and Discussion)](https://youtu.be/iF-9pm__KTQ?si=RvVBs1Tk5uyuMg9Q)
 30. [The Brainwashing of my Dad (with documentary filmmaker Jen Senko)](https://youtu.be/MW7Go6_sShI?si=B5MkhWrGUvOtd48k)
+31. [Steven Hassan on the Cult of Trump](https://youtu.be/f26NjZizg1A?si=gDMHwhINy6afM4Rs)
+32. [The Myth of a Free Press: Media Bias Explained](https://youtu.be/v-8t0EfLzQo?si=Tt29-SE8E_kyf7TW)
+33. [Think Tanks: How Fake Experts Shape the News](https://youtu.be/3n3Hq7XSBjA?si=2FfZBO0i_rnvlNX3)
+34. [Griftonomics: Why Scams are Everywhere Now](https://youtu.be/2bq3SdfzcA4?si=D12LtqZBjE46WJjz)
+35. [The Psychology of Conspiracy Theorists](https://youtu.be/ByOHRqCP_kY?si=Vy4N5KvSe8XcQIxD)
 
 ## Articles on Conspiracy Theory
 
@@ -138,3 +148,5 @@
 7. [Delusion-Like Beliefs: Epistemic and Forensic Innocence?](https://imperfectcognitions.blogspot.com/2020/08/delusion-like-beliefs-epistemic-and.html?m=1)
 8. [The relationship between conspiratorial beliefs and cognitive styles](https://imperfectcognitions.blogspot.com/2024/03/disentangling-relationship-between.html?m=1)
 9. [Extreme Beliefs: An Interview with Rik Peels](https://imperfectcognitions.blogspot.com/2021/11/extreme-beliefs-interview-with-rik-peels.html?m=1)
+10. [Developing a Model of Groupstrapping: A Response to Baumgaertner and Nguyen, Kenneth Boyd](https://social-epistemology.com/2019/08/14/developing-a-model-of-groupstrapping-a-response-to-baumgaertner-and-nguyen-kenneth-boyd/)
+11. [Groupstrapping, Bootstrapping, and Oops-strapping: A Reply to Boyd, Bert Baumgaertner](https://social-epistemology.com/2019/06/10/groupstrapping-bootstrapping-and-oops-strapping-a-reply-to-boyd-bert-baumgaertner/)
