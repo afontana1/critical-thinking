@@ -626,6 +626,7 @@
 112. [Andrew Pavelich](https://philpeople.org/profiles/andrew-pavelich)
 113. [Matthew Adelstein](https://philpeople.org/profiles/matthew-adelstein)
 114. [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
+115. [Victor Moberger](https://www.umu.se/en/staff/victor-moberger/)
 
 ## Books
 
