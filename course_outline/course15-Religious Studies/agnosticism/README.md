@@ -259,6 +259,7 @@
 149. [Disturbing questions led me to one simple answer: Goodbye, Jesus - Tim Sledge](https://youtu.be/viCGMV7So-s?si=WFm7wDLJyNXDjfGn)
 150. [Confessions of an Ex-Pastor (with Timmy Gibson)](https://youtu.be/X95_yGi7LlM?si=1GAswzdXwEIM8PGi)
 151. [Bible Scholar Dr. Jennifer Bird Left Fundamentalist Christianity](https://www.youtube.com/live/Z-sU4t86FVA?si=pgZ58D04fqFWdDLA)
+152. [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
 
 </details>
 
@@ -504,6 +505,11 @@
 - [Real Atheology](https://www.youtube.com/@RealAtheology/featured)
 - [Mythvision](https://www.youtube.com/@MythVisionPodcast/videos)
 - [Mindshift](https://www.youtube.com/@MindShift-Brandon)
+- [Deconstruction Zone](https://www.youtube.com/@Deconstruction_Zone)
+- [Emerson Green](https://www.youtube.com/@EmersonGreen)
+- [Freedom from Religion Foundation](https://www.youtube.com/@FFRForg)
+- [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
+- [The Non Alchemist](https://www.youtube.com/@TheNonAlchemist)
 
 ### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 

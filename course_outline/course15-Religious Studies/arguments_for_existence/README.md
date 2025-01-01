@@ -474,6 +474,9 @@
 	* [Inspiring Philosophy Gets Exposed](https://youtu.be/XNygmVlr6kc?si=dWReuGacWsJvhehF)
 	* [Top 15 Prophecies of Jesus DEBUNKED!!! | MythVision Documentary](https://youtu.be/puez1gWtcbE?si=ECDEr4CkNnlkBwB2)
 	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=eQocmAgZ2pR9pJ2K)
+	* [Christian "HISTORY" is an ABSOLUTE Trainwreck | The FAILURE of Inspiring Philosophy](https://youtu.be/GFhGznpzT7M?si=Ql8sib7SiBAt1OjZ)
+	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=RMgo-_jcc0AQLT9z)
+	* [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -497,3 +500,4 @@
 	* [What is Neoplatonism?](https://youtu.be/vZEUo_sHoBw?si=Lk60emY4KsdohntW)
 	* [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY?si=mDsSZnLfUg1czMrL)
 	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=lS7AnY3tC3iDIxbj)
+	* [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
