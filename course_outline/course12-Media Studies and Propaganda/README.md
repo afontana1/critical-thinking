@@ -74,6 +74,9 @@
 54. [Network Contagion Institute](https://networkcontagion.us/)
 55. [Availability Cascade](https://en.wikipedia.org/wiki/Availability_cascade)
 56. [Freedom of Mind Resource Center](https://freedomofmind.com/) - [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
+57. [Roger Griffin](https://en.wikipedia.org/wiki/Roger_Griffin)
+58. [A James Gregor](https://simple.wikipedia.org/wiki/A._James_Gregor)
+59. [Citizens United v. FEC](https://en.wikipedia.org/wiki/Citizens_United_v._FEC)
 
 
 ## Data Sources 

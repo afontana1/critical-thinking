@@ -7,6 +7,7 @@
 - [Logic Course](https://lucidphilosophy.com/logic-course-3/)
 - [panpsycast](https://thepanpsycast.com/panpsycast)
 - [Social Epistemology Review](https://social-epistemology.com/)
+- [Skillful Reasoning](https://www.skillfulreasoning.com/)
 
 <details><summary><h2>Video Content</h2></summary>
 
@@ -43,6 +44,8 @@
 15. [Then & Now](https://www.youtube.com/@ThenNow)
 16. [Economic Policy Institute](https://www.youtube.com/@EconomicPolicy)
 17. [Watson Institute for International and Public Affairs](https://www.youtube.com/@WatsonInstitute)
+18. [European Council on Foreign Relations](https://ecfr.eu/)
+19. [Atlantic Council](https://www.atlanticcouncil.org/)
 
 ## Documentaries
 

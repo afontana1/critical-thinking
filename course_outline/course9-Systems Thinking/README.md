@@ -1,11 +1,12 @@
 # Systems Thinking
 
 - [Refer to my Computational Science Repository](https://github.com/afontana1/computational-science/tree/master/systems)
-- [Systems Thinking Website](https://systems-thinking.org/)
+- [Systems Innovation](https://www.systemsinnovation.network/discovery)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Decision Analysis and System Dynamics Resources](https://www.public.asu.edu/~kirkwood/)
 - [Systemic Steering and Governance](https://systemic2016.wordpress.com/)
 - [Systems Theory and Cybernetics](https://chaturvedimayank.wordpress.com/category/systems-theory-and-cybernetics/)
+- [Stanford Thinking in Systems](http://sehub-modules.stanford.edu/SLS_thinking_in_systems/)
 
 ## Organizations
 1. [Systems Science Institutes](https://en.wikipedia.org/wiki/Category:Systems_science_institutes)
