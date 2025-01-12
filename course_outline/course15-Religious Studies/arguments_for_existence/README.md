@@ -43,6 +43,7 @@
 	* [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
 	* [A User's Guide to the Modal Ontological Argument](https://youtu.be/iKgJvGHYqs8?si=GQT6kQtqZoGOYIFc)
 	* [11 Ontological Arguments: An Analysis](https://youtu.be/YiK2W9jfpoU?si=Ud6A79HD6Qlz6R3l)
+	* [Symmetry Breakers for the Modal Ontological Argument](https://philpapers.org/rec/SCHSBF-2)
 
 9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
 	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
@@ -477,6 +478,11 @@
 	* [Christian "HISTORY" is an ABSOLUTE Trainwreck | The FAILURE of Inspiring Philosophy](https://youtu.be/GFhGznpzT7M?si=Ql8sib7SiBAt1OjZ)
 	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=RMgo-_jcc0AQLT9z)
 	* [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
+	* [Lee Strobel Misleads Millions of People](https://youtu.be/kQCX4p8HdbA?si=tofHSz5Onm8XsdAw)
+	* [5 Questions for Atheists ANSWERED (w/ @naturalismnext5861)](https://www.youtube.com/live/WadUfMPl_cA?si=_e80tRHxJsorZsuY)
+	* [How Wes Huff Got The Bible Wrong on Joe Rogan](https://youtu.be/I0qzvDSmKi4?si=RUDr3KCohhreGuU_)
+	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=6XW3ptGiBhTdUN0t)
+	* [Answering Braxton's Five Questions for Atheists in 2025](https://www.youtube.com/live/QsaxijHUlr4?si=akid24J-2KFU1NK3)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)

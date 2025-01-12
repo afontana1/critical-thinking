@@ -52,6 +52,10 @@
 13. [Dr. Darren Staloff, William McNeill's "Plagues and Peoples"](https://www.youtube.com/watch?v=XlD3gc1wEs4)
 14. [Dr. Darren Staloff, The Heterogeneity of Historical Knowledge](https://www.youtube.com/watch?v=wimNy09cS9U)
 
+## Methodology
+
+1. [Pop History and its Consequences](https://youtu.be/MECWMGLGU5c?si=7rV-Cw2bdakx1wxi)
+
 ## Critical Questions for Historical Sources
 
 1. Are records acknowledged as fallible? Is it possible there are errors or mistakes?

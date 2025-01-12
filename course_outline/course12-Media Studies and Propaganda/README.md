@@ -11,6 +11,7 @@
 - [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 - [Psychological Warfare](https://en.wikipedia.org/wiki/Category:Psychological_warfare)
 - [genealogical-debunking](https://philpapers.org/browse/genealogical-debunking)
+- [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
 
 1. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 2. [Attitude Change](https://en.wikipedia.org/wiki/Category:Attitude_change)
@@ -104,6 +105,9 @@
 
 ## Conspiracy, Propaganda, and Media Studies
 
+- [Philosophy of Conspiracy Theories](https://philpapers.org/browse/conspiracy-theories)
+- [Academic Papers on Debunking Arguments](https://danielzkorman.weebly.com/papers-and-books.html)
+
 1. [In Defense of Conspiracy Theories pt 1](https://youtu.be/p0poRoE_kVk?si=QbhsIPmPAsfMv0r3)
 2. [In Defense of Conspiracy Theories pt 2](https://youtu.be/TRKYf49aMfU?si=C6bHVzE8CZbCxVTb)
 3. [How to Argue with conspiracy Theorists (And Win)](https://youtu.be/KLfL1Gm9QDM?si=falx1nMUUpYpvh-Y)
@@ -139,8 +143,9 @@
 33. [Think Tanks: How Fake Experts Shape the News](https://youtu.be/3n3Hq7XSBjA?si=2FfZBO0i_rnvlNX3)
 34. [Griftonomics: Why Scams are Everywhere Now](https://youtu.be/2bq3SdfzcA4?si=D12LtqZBjE46WJjz)
 35. [The Psychology of Conspiracy Theorists](https://youtu.be/ByOHRqCP_kY?si=Vy4N5KvSe8XcQIxD)
+36. [Debunking Arguments: Majesty of Reason](https://youtu.be/fz6cHG1lczU?si=0rZyvL0KavslBIEK)
 
-## Articles on Conspiracy Theory
+## Psychology and Sociology of Conspiracy Theory
 
 1. [Conspiracy Beliefs between Secret Evidence and Delusion](https://imperfectcognitions.blogspot.com/2024/10/conspiracy-beliefs-between-secret.html?m=1)
 2. [On the Origin of Conspiracy Theories](https://imperfectcognitions.blogspot.com/2024/01/on-origin-of-conspiracy-theories.html?m=1)
