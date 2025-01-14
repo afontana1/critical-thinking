@@ -7,6 +7,7 @@
 - [Bad Apologetics: Digital Gnosis](https://youtube.com/playlist?list=PLggkCqSR7N1eq3UGURGKs9hcJNV-uIn4n&si=v0D2GmppggbPFf7P)
 - [Bad Apologetics: James Fodor](https://youtube.com/playlist?list=PLFQW0yCmiRVM7bBTOZ5kgjMugp-aTZmUU&si=ULnMnGB3EO2MaSQ4)
 - [Philosophical Failures of Christian Apologetics](https://www.youtube.com/playlist?list=PL3IOkNR8_9gpQa5teO1xQANB-3MiY17uk)
+- [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
 
 1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
@@ -104,6 +105,7 @@
 	* [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
 	* [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
 	* [Arguing God from Consciousness | Episode 804 | Closer To Truth](https://www.youtube.com/watch?v=GdDhssz94EI)
+	* [More Bad Theist Arguments about Consciousness - Buckle up!](https://www.youtube.com/live/JawWdYyP5tM?si=xFDjCEXsHvtn1e5E)
 
 21. [Lack of Empirical Proof Argument](http://christiancadre.blogspot.com/2019/03/why-there-is-no-empirical-proof-that.html)
 	* [Counterargument](https://theskepticzone.blogspot.com/2016/10/hinmans-argument-from-god-corrolate.html)
@@ -137,6 +139,7 @@
 	- [In defense of sensible naturalism](https://philpapers.org/rec/DRAIDO-3)
 	- [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
 	- [Chatting about the Evolutionary Argument Against Naturalism](https://www.youtube.com/live/AW9oqcshkFA?si=Yj9CB_ajAkU6Pppp)
+	- [Debate on The Evolutionary argument against Naturalism | @JamesFodor vs @MaverickChristian](https://www.youtube.com/live/JAsd8knUh_w?si=qYe4TwN35Rx5JvPt)
 
 26. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
@@ -206,6 +209,9 @@
 	* [YET MORE Apologetics Nonsense about Fine-Tuning](https://www.youtube.com/live/JQxCZrFJjso?si=-L4ZbiQbKC9Rb_CG)
 	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=z-nu46nyJubsyDdD)
 	* [Episode 9, Neil Sinhababu, On Fine Tuning](https://youtu.be/70EDGcAXOAE?si=9l010Mi7XMHKpOd1)
+	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=bjNsVQUFUeHnGKQn)
+	* [Physicists & Philosophers debunk The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M?si=THL3HA_9CXAf5JYu)
+	* [Is Cosmic Fine-Tuning a good argument for Theism?](https://youtu.be/HZuVYBzYi-8?si=wi34UtItTHBMPsi4)
 
 30. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
@@ -431,7 +437,7 @@
 	* [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
 	* [The Experience of God: Being, Consciousness, Bliss](https://whyevolutionistrue.com/2014/01/13/unequivocal-evidence-for-god-i-dont-think-so/)
 
-66. [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
+66. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
 67. [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 	* [Is The Anthropic Principle Significant?](https://youtu.be/NMV9t-3rFNs?si=clenObcP_V-qpDxa)
 	* [The Problem with the "Rare Earth Hypothesis"](https://youtu.be/-CsLmoiKugE?si=zlxMIcDJ4Jbwo2O2)
@@ -483,6 +489,8 @@
 	* [How Wes Huff Got The Bible Wrong on Joe Rogan](https://youtu.be/I0qzvDSmKi4?si=RUDr3KCohhreGuU_)
 	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=6XW3ptGiBhTdUN0t)
 	* [Answering Braxton's Five Questions for Atheists in 2025](https://www.youtube.com/live/QsaxijHUlr4?si=akid24J-2KFU1NK3)
+	* [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
+	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -498,8 +506,8 @@
 	* [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
 	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
 	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
-74. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
-75. Mythological Origins of Monotheism
+	* [Why Theism can't Explain Anything - Reviewing another Capturing Christianity Video](https://www.youtube.com/live/7hA8hHgbI3w?si=rer18dxEO5qZpl4e)
+74. Mythological Origins of Monotheism
 	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
 	* [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
 	* [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=l_lugiSlmZRota0e)
@@ -507,3 +515,5 @@
 	* [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY?si=mDsSZnLfUg1czMrL)
 	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=lS7AnY3tC3iDIxbj)
 	* [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
+	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
+	* [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
