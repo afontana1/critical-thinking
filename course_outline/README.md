@@ -24,6 +24,7 @@
 9. [The Royal Institution](https://www.youtube.com/TheRoyalInstitution)
 10. [The Panpsycast](https://www.youtube.com/@ThePanpsycast)
 11. [NBER](https://www.youtube.com/@NBERvideos)
+12. [unSILOed Podcast](https://www.youtube.com/@unsiloedpodcastwithgreglab2188)
 
 ## Politically Oriented Content
 
@@ -74,6 +75,8 @@
 14. [Mind-Body Solution](https://www.youtube.com/@drtevinnaidu)
 15. [Philosophical Trials](https://www.youtube.com/@PhilosophicalTrials)
 16. [Artificiality](https://www.youtube.com/@Artificiality)
+17. [Red Star](https://www.youtube.com/@TaimurRahman-English)
+18. [Free Will Show](https://www.youtube.com/@thefreewillshow2132)
 
 ### Playlists 
 
@@ -95,7 +98,8 @@
 16. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
 17. [Ontology of Language](https://youtube.com/playlist?list=PLyngZgIl3WTjK-D7L1pdtpqzxIBhjBsb_&si=l5cQabFJNld88dxO)
 18. [Social Ontology](https://youtube.com/playlist?list=PLyngZgIl3WTht-ilt-WpUhCv7rbB1Crd9&si=CqdFwiUJuMwnEwbJ)
-19. [Free Will Show](https://www.youtube.com/@thefreewillshow2132)
+19. [Philosophy of Economics 2022](https://youtube.com/playlist?list=PLHwUrKo7SDpTRZ5mAQaMsuYJor1kakKMr&si=lbYj0wrQ_5wHIGX9)
+20. [Marxism](https://youtube.com/playlist?list=PLq-kUiXssVioxBWwToyN3Apqd8f_a7mCC&si=iB5cTgAgJ6d90Rua)
 
 ## Religion
 

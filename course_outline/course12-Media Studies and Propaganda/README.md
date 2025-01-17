@@ -2,6 +2,7 @@
 
 - [List of American Thinktanks](https://economics.virginia.edu/think-tanks)
 - [conspirituality](https://www.conspirituality.net/) [Videos](https://www.youtube.com/@Conspiritualitypodcast)
+- [The Manipulation Check](https://www.youtube.com/@themanipulationcheck9770)
 - [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
 - [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
 - [Psychological Manipulation](https://en.wikipedia.org/wiki/Category:Psychological_manipulation)
