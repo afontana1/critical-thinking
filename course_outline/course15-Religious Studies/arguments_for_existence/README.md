@@ -491,6 +491,7 @@
 	* [Answering Braxton's Five Questions for Atheists in 2025](https://www.youtube.com/live/QsaxijHUlr4?si=akid24J-2KFU1NK3)
 	* [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
 	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
+	* [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -517,3 +518,7 @@
 	* [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
 	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
 	* [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
+75. Religious Language
+	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
+	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
+	* [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)

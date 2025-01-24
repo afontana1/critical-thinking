@@ -90,6 +90,8 @@
 
 ## Philosophical Concepts
 
+- [Philosophy of Conspiracy Theories](https://philpapers.org/browse/conspiracy-theories)
+- [Academic Papers on Debunking Arguments](https://danielzkorman.weebly.com/papers-and-books.html)
 - [genealogical-debunking](https://philpapers.org/browse/genealogical-debunking)
 - [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 - [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
@@ -107,10 +109,7 @@
 11. [Keynote: Quantification and the Limits of Scale, C. Thi Nguyen](https://youtu.be/e94yY3AKh9Q?si=qds1Bsuf_UhtsUrp)
 12. [The Seductions of Clarity: Conspiracy Theories, Echo Chambers, and the Gamification of Social Media](https://youtu.be/Nkf8uGEN3zA?si=taRtpQpedQue1Yql)
 
-## Conspiracy and Propaganda
-
-- [Philosophy of Conspiracy Theories](https://philpapers.org/browse/conspiracy-theories)
-- [Academic Papers on Debunking Arguments](https://danielzkorman.weebly.com/papers-and-books.html)
+## Videos
 
 1. [In Defense of Conspiracy Theories pt 1](https://youtu.be/p0poRoE_kVk?si=QbhsIPmPAsfMv0r3)
 2. [In Defense of Conspiracy Theories pt 2](https://youtu.be/TRKYf49aMfU?si=C6bHVzE8CZbCxVTb)
@@ -148,6 +147,21 @@
 34. [Griftonomics: Why Scams are Everywhere Now](https://youtu.be/2bq3SdfzcA4?si=D12LtqZBjE46WJjz)
 35. [The Psychology of Conspiracy Theorists](https://youtu.be/ByOHRqCP_kY?si=Vy4N5KvSe8XcQIxD)
 36. [Debunking Arguments: Majesty of Reason](https://youtu.be/fz6cHG1lczU?si=0rZyvL0KavslBIEK)
+37. [#474 Andrew Norman - Mental Immunity; Reason, Critical Thinking, Beliefs, and Morality](https://youtu.be/1zVl9nuYAjU?si=yZHBYKiXiefJ7jQ3)
+38. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=qLz5piSY464lNnMT)
+39. [#738 Antoine Marie: Moral Convictions, Politics, Misinformation, and Conspiracy Theories](https://youtu.be/1gMxfEZAThA?si=yH_ol7Ye1pJ99g3m)
+40. [#772 Joseph Uscinski: The Politics and Psychology of Conspiracy Theories](https://youtu.be/vQHpPco4laY?si=DfJxZkTcVN_kFMke)
+41. [#193 Paul Slovic: Risk Perception, GMOs, Vaccines, And Climate Change](https://youtu.be/AwEYI4P7BIo?si=riw5IftrXZwI0gDn)
+42. [#1048 Mona Simion: Why Do People Resist Evidence?](https://youtu.be/P_Rw1U7GxzA?si=FGgj6ywuXjs9AMtq)
+43. [#618 Lee McIntyre - How to Talk to a Science Denier](https://youtu.be/paQWuuFKAS0?si=2wC7XqkLHQh5aQhj)
+44. [#586 Marianna Ganapini: Beliefs, Confabulations, Rationalizations, and AI Systems](https://youtu.be/CooZlBJSS2c?si=FrW-kgElFu7V9EW1)
+45. [#816 Gareth Leng - The Matter of Facts: Skepticism, Persuasion, and Evidence in Science](https://youtu.be/bqNT5xdAQyM?si=uVVRRi3Rcdu-K8Wp)
+46. [#874 Cecilie Traberg: Misinformation, Debunking, Prebunking, and Inoculation Approaches](https://youtu.be/RaRAEJ8IQEw?si=wFsrEEoY13bCdnxW)
+47. [#923 Nicholas Brown: How to Spot Bad Science](https://youtu.be/0ovxk0s3UT8?si=DG5zqw3mRxaQtN63)
+48. [#918 Antoine Marie: The Biases of People with Strong Political and Moral Convictions](https://youtu.be/QzvIfUZpELw?si=b3kMMDvKj2E7KX25)
+49. [Ep. 3 Applying Asch's conformity studies to the pandemic: Are you in an epistemological nightmare?](https://youtu.be/DjjpE5xiR4s?si=XqjiYdF3qDoh6jBK)
+50. [#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups Lies, and Responsibility](https://youtu.be/OnW93tV_Ky8?si=PZJgaNNwkob9quOi)
+51. [#71 Massimo Pigliucci: The Philosophy of Pseudoscience](https://youtu.be/a9Fl63Ca9pE?si=nI3xmt7f-osCTett)
 
 ## Psychology and Sociology of Conspiracy Theory
 

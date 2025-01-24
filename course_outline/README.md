@@ -100,6 +100,7 @@
 18. [Social Ontology](https://youtube.com/playlist?list=PLyngZgIl3WTht-ilt-WpUhCv7rbB1Crd9&si=CqdFwiUJuMwnEwbJ)
 19. [Philosophy of Economics 2022](https://youtube.com/playlist?list=PLHwUrKo7SDpTRZ5mAQaMsuYJor1kakKMr&si=lbYj0wrQ_5wHIGX9)
 20. [Marxism](https://youtube.com/playlist?list=PLq-kUiXssVioxBWwToyN3Apqd8f_a7mCC&si=iB5cTgAgJ6d90Rua)
+21. [MAVERICK THINKERS, VOL. 1: CHARLES S. PEIRCE](https://youtube.com/playlist?list=PLOGsWqsfK6qSuuNrcstFdSbig2DaS1mM5&si=e9MGFefgtVRdMq4A)
 
 ## Religion
 
