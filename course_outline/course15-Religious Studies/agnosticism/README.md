@@ -396,6 +396,8 @@
 
 ### Organizations
 
+- [Explaining Atheism](https://www.explainingatheism.org/)
+- [Secularism and Non Religion](https://secularismandnonreligion.org/)
 - [American Humanist Association](https://americanhumanist.org/)
 - [Freedom From Religion Foundation](https://ffrf.org/)
 - [American Atheists](https://www.atheists.org/)

@@ -124,3 +124,5 @@
 88. [Marriage_and_Morals](https://en.wikipedia.org/wiki/Marriage_and_Morals) and [The_Bertrand_Russell_Case](https://en.wikipedia.org/wiki/The_Bertrand_Russell_Case)
 89. [Religion and Children](https://en.wikipedia.org/wiki/Category:Religion_and_children)
 90. [Torcaso v. Watkins](https://en.wikipedia.org/wiki/Torcaso_v._Watkins)
+91. [Bible Version Debate](https://en.wikipedia.org/wiki/Bible_version_debate)
+92. [Interpreters Bible Series](https://en.wikipedia.org/wiki/Interpreter%27s_Bible_series)

@@ -1,5 +1,8 @@
 # Resources on Study of Reasoning
 
+- [Argument Map](https://en.wikipedia.org/wiki/Argument_map)
+- [Argumentation Framework](https://en.wikipedia.org/wiki/Argumentation_framework)
+
 ## [Fallacies](https://en.wikipedia.org/wiki/Category:Fallacies)
 
 1. [Category: Informal Fallacies](https://en.wikipedia.org/wiki/Category:Informal_fallacies)

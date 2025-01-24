@@ -29,9 +29,12 @@
 18. [Black Propaganda](https://en.wikipedia.org/wiki/Category:Black_propaganda)
 19. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
 20. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
+21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
 
 ## Media Studies and [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
 
+- [Institute on Taxation and Economic Policy](https://itep.org/)
+- [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union)
 - [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
 - [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
 - [Media Ecology](https://media-ecology.org/)
@@ -75,6 +78,7 @@
 
 ## Government and Legal 
 
+- [Influence Watch](https://www.influencewatch.org/)
 - [USA Spending Data Source](https://www.usaspending.gov/)
 - [Foreign Aid Spending](https://www.foreignassistance.gov/)
 

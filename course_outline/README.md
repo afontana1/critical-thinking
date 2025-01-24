@@ -8,6 +8,8 @@
 - [panpsycast](https://thepanpsycast.com/panpsycast)
 - [Social Epistemology Review](https://social-epistemology.com/)
 - [Skillful Reasoning](https://www.skillfulreasoning.com/)
+- [Studies in Critical Thinking](https://ecampusontario.pressbooks.pub/criticalthinking1234/)
+- [Street Epistemology](https://www.streetepistemology.com/)
 
 <details><summary><h2>Video Content</h2></summary>
 
