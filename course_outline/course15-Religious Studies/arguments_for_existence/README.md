@@ -161,6 +161,7 @@
 	* [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
 	* [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
 	* [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
+	* [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
 
 27. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
@@ -228,6 +229,7 @@
 	* [Episode 20, Russ Shafer-Landau, on Moral Realism](https://youtu.be/zRQk9AaPbQY?si=V18Lelf9zQB3yjm0)
 	* [The Incoherence of Morality](https://youtu.be/w4tRgsHcXQU?si=PX4afduWfzbT-VTW)
 	* [Metaethics: The Evolutionary Debunking Argument](https://youtu.be/0x2v-ucrSGA?si=5I8xmiuJUs2bQdI9)
+	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=oEB8I9MGNvfR8EyG)
 
 31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
@@ -492,6 +494,7 @@
 	* [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
 	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
 	* [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
+	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=TuD7Vje5drISmtyP)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -522,3 +525,4 @@
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
 	* [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
+76. [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
