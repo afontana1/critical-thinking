@@ -374,7 +374,7 @@
 107. [How the New Testament Was CREATED | Bart Ehrman and James Tabor](https://youtu.be/XS4UrErMGBQ?si=dfphDwb_3Wta1PdD)
 108. [RELIGIOUS EXPERIENCES (A LEVEL RELIGIOUS STUDIES)](https://youtu.be/CEPXRxszswA?si=UOokO_nC3dgdaJk4)
 109. [How We KNOW The Gospels Are LOADED With Fable, Myth, Legend!](https://www.youtube.com/live/a5UWjV1TMzc?si=qsLOzNmvfsY-gs1o)
-110. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=SHERkoZ3vjO3pFp-)
+110. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=lTljw8Q67xfdgVdS)
 111. [Fancy Fiction: Comparing the Bible to the Great Works of Literature!](https://youtu.be/XWGaS3m1He0?si=fiYlsD_mI-Etqgwj)
 112. [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=3jpQqjebPLbRvYDd)
 113. [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=SRGW2jrqKMRLf17p)
@@ -383,16 +383,31 @@
 116. [Paranoid Protestants | Seventh-day Adventists](https://youtu.be/hEEIyg_J2g0?si=XF3S0WqVRKwk02v9)
 117. [The Jesus Hoax with Dr. David Skrbina](https://youtu.be/XMqvP2m1Dqs?si=8yBMhusdkCPnYYjW)
 118. [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=8VkKbCavnvkrwdYX)
-119. [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=lTljw8Q67xfdgVdS)
+119. [#786 Vassilis Saroglou: The Psychological Traits of Religious People](https://youtu.be/m9_zwC7pdTo?si=LB29VAPU8L2X8uqt)
 120. [Solid Evidence The New Testament Is Imitating Homers Odyssey!](https://youtu.be/pMf40mX9w_k?si=TAkTcrq3Z4DUu3yY)
 121. [GROUNDBREAKING Discovery on the REAL Dates of the Gospels](https://youtu.be/dOznZncdlCY?si=3Zd65BLnl6igfVOo)
 122. [Early Christianity Was NOTHING Like You Were Taught!](https://youtu.be/MsBz9ZrVK6E?si=ocKDUVv00FDJKq7x)
 123. [What Does the Bible Say about Abortion?](https://youtu.be/Agy88gCk1K0?si=dsGYTPCz2VnGLRzX)
 124. [What is Hermeticism?](https://youtu.be/COYJi9CKrGI?si=QM0f9ldKUoDUVZkB)
+125. [#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence Offers the Humanities](https://youtu.be/zZ3h00-huR4?si=6a2M-d1CHgpQsxsq)
+126. [#154 Robert McCauley: Cognitive Science of Religion, Culture, Cognition, Evolution, and Ritual](https://youtu.be/MPkj12JxxcY?si=X41cKLocLp-mlODE)
+127. [#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars](https://youtu.be/mjWveAPPoSk?si=XO8e11Z7tw_4hWsC)
+128. [#180 Joseph Bulbulia: Religion, Cognition, Ritual, Morality, And Meaning](https://youtu.be/Wy0baOach30?si=OWSVfQ4kIZfb5XBT)
+129. [#435 Christopher Kavanagh: Religion, Rituals, Belief in Japanese Society, and WEIRD Psychology](https://youtu.be/NZezY2aYAZo?si=zdPsIV-Tef-OShBm)
+130. [#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music](https://youtu.be/Ijf8cNBgztA?si=JggK5dmX30Tt-Qac)
+131. [#472 Aiyana Koka Willard: Religion, Cognition, Culture, and Human Universals](https://youtu.be/ppcQ4bAerjg?si=3QUWb5ABK4jb5XSy)
+132. [#722 Martin Lang: Rituals, Synchrony, Moralizing Gods, and the Study of Religion](https://youtu.be/oy3iYNtlNDc?si=9YU4AEPTzPOHrucA)
+133. [#179 Justin Barrett: Cognition And Development In Religion](https://youtu.be/GaFeBTv37ag?si=RCziTfNpA1SHfLG1)
+134. [#1045 Will Gervais - Disbelief: The Origins of Atheism in a Religious Species](https://youtu.be/9ApKqrvjx68?si=aitVAhyHN5xQDM2b)
+135. [#1012 Lance Grande - The Evolution of Religions: A History of Related Traditions](https://youtu.be/6WgbS4yo0vA?si=FPwULh1586FCVZ4l)
+136. [#1010 Michael Price: The Biocultural Evolution of Religion, and Universal Darwinism](https://youtu.be/xfF_axuekjI?si=PKrUO6Saz67ESIQ_)
+137. [865 Neil Van Leeuwen - Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity](https://youtu.be/2c17EHUaIBk?si=Y46IHkdpnvQ5xANo)
+138. [#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience: Decentering and the Self](https://youtu.be/Iwj4KOYH954?si=x37lIqMyvlwYqDFL)
+139. [#989 Robert Vinten: Wittgenstein and the Cognitive Science of Religion](https://youtu.be/nodv3cQO-os?si=pTX9cU6zrSIneG_2)
 
 </details>
 
-## [Atheist/Agnostic Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
+<details><summary><h1> Organizations, Blogs, Related Information</h1></summary>
 
 ### Organizations
 
@@ -513,8 +528,11 @@
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 - [The Non Alchemist](https://www.youtube.com/@TheNonAlchemist)
 
-### [People](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
+</details>
 
+<details><summary><h1> Famous Thinkers</h1></summary>
+
+- [Atheist Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 - [Secular Web Authors](https://infidels.org/library/authors/book-authors/)
 - [Clergy Project](https://clergyproject.org/)
 
@@ -675,3 +693,5 @@
 35. [Amazing Conversions: Why Some Turn to Faith & Others Abandon Religion](https://www.amazon.com/Amazing-Conversions-Others-Abandon-Religion/dp/1573921475)
 36. [Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation](https://www.amazon.com/Jesus-John-Wayne-Evangelicals-Corrupted/dp/1631495739)
 37. [American Idolatry: How Christian Nationalism Betrays the Gospel and Threatens the Church](https://www.amazon.com/American-Idolatry-Christian-Nationalism-Threatens/dp/1587435764)
+
+</details>

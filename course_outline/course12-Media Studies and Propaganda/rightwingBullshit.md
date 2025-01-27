@@ -1,5 +1,7 @@
 ## Videos of Sheer Right Wing Bullshit
 
+- [The Alt-Right Playbook](https://youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ&si=uRf37bkNniPofbo_)
+
 1. [How The GOP Lies To Us: The Trump Economy](https://youtu.be/uWdUeuRJhvo?si=BCBAonQdaxzaFt9h)
 2. [How Project 2025 Targets Atheists (and Non-Religious Americans)](https://youtu.be/NQIWcSY6MPk?si=Xx5pmsavhVpnXazB)
 3. [Trump Is Immune](https://youtu.be/MXQ43yyJvgs?si=7PRDmzH-QF4a-_jk)
