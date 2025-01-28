@@ -30,6 +30,7 @@
 19. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
 20. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
 21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
+22. [Ur Fascism](https://en.wikipedia.org/wiki/Ur-Fascism)
 
 ## Media Studies and [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
 
@@ -166,6 +167,7 @@
 49. [Ep. 3 Applying Asch's conformity studies to the pandemic: Are you in an epistemological nightmare?](https://youtu.be/DjjpE5xiR4s?si=XqjiYdF3qDoh6jBK)
 50. [#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups Lies, and Responsibility](https://youtu.be/OnW93tV_Ky8?si=PZJgaNNwkob9quOi)
 51. [#71 Massimo Pigliucci: The Philosophy of Pseudoscience](https://youtu.be/a9Fl63Ca9pE?si=nI3xmt7f-osCTett)
+52. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
 
 ## Psychology and Sociology of Conspiracy Theory
 

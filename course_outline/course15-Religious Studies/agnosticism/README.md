@@ -404,6 +404,9 @@
 137. [865 Neil Van Leeuwen - Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity](https://youtu.be/2c17EHUaIBk?si=Y46IHkdpnvQ5xANo)
 138. [#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience: Decentering and the Self](https://youtu.be/Iwj4KOYH954?si=x37lIqMyvlwYqDFL)
 139. [#989 Robert Vinten: Wittgenstein and the Cognitive Science of Religion](https://youtu.be/nodv3cQO-os?si=pTX9cU6zrSIneG_2)
+140. [#165 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists](https://youtu.be/gDfSMv2BHzg?si=nT6tC4gRvGhd9KTq)
+141. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
+142. [#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion](https://youtu.be/SnBRgXMHXtg?si=qfKd2POwJY21JgZm)
 
 </details>
 
