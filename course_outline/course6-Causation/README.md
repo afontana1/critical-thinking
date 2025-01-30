@@ -1,5 +1,6 @@
 # Additional Resources
 
+- [Rani Lill Anjum](https://ranilillanjum.com/)
 - [lauren n. ross](https://sites.socsci.uci.edu/~rossl/) [Scholar Page](https://scholar.google.com/citations?user=MR__Y0AAAAAJ&hl=en)
 - [Judea Pearl Website](http://bayes.cs.ucla.edu/jp_home.html)
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
@@ -30,3 +31,7 @@
 
 1. [BI 027 Ioana Marinescu & Konrad Kording: Causality in Quasi-Experiments](https://youtu.be/6lnKzPmqI4M?si=4IIdJsYZcWoDpnYx)
 2. [BI 145 James Woodward: Causation With a Human Face](https://youtu.be/WzasAbrkxNg?si=0m_J_JTH2Gkef6AM)
+3. [Lauren Ross “Tracers in Neuroscience: Causation, Constraints, and Connectivity” (#DDLS).](https://youtu.be/8YOz7sad_CU?si=XnhXapFJWaTlk1IL)
+4. [CCN 2019: Tutorial T-B Causal inference](https://youtu.be/WFnz_CWWFmM?si=jCTiZ2dulgPa-aSy)
+5. [#856 Frank Keil: The Development of Causal Thinking, Explanation, and the Institution of Science](https://youtu.be/_3Br_iGfRaQ?si=d2N9YLfNdR8wZf4l)
+6. [#1001 Edward Hall: The Philosophy of Causation, and the Structure of Reality](https://youtu.be/_SCcQ6W_Mf0?si=GAidDlWzuttK39W1)

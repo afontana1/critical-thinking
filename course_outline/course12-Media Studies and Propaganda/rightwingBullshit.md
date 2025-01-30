@@ -103,3 +103,5 @@
 99. [Conservative Response to Squid Game Is Embarrassing](https://youtu.be/Zp1cp8m3i3Q?si=kTeTvK9LMt_OMAm_)
 100. [Elon Musk's "Hitler Problem" - SOME MORE NEWS](https://youtu.be/xDyPSKLy5E4?si=QailBev-E2xUTIMM)
 101. [Elon Musk salute was 'no accident', says expert in the alt-right | LBC](https://youtu.be/kWuzeHKXyCI?si=ht6KPRKAernYgG7V)
+102. [Elon Musk's "Hitler Problem" - SOME MORE NEWS](https://youtu.be/xDyPSKLy5E4?si=ekbB8g8M9_tnu8f5)
+103. [Sound of Freedom and the Shape of Modern Propaganda](https://youtu.be/k5jkQsHuaWA?si=tfzGv4T-e7bX8tsa)

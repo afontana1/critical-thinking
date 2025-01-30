@@ -56,3 +56,7 @@
 40. [Truth Values](https://plato.stanford.edu/entries/truth-values/)
 41. [Tense and Aspect](https://plato.stanford.edu/entries/tense-aspect/)
 42. [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
+
+## Videos
+
+1. [#783 Kevin Dorst: Epistemology, Justified Beliefs, and Epistemic Modesty](https://youtu.be/yG4MGzq5zzc?si=yUwXNXbzTPm66c8D)
