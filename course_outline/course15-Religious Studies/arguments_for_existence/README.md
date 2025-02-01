@@ -51,6 +51,11 @@
 	* [The Argument from Hell](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7G8-No--9MAdNgJmAGiIXjh)
 
 10. [PZ Myers - The Evolution of Creationism](https://youtu.be/ruBjWkVKyRo?si=KQJjFo91xoNMH5bs)
+	* [The Definitive Guide to Debunking Creationists Part 1: Cosmology/Planetary Science](https://youtu.be/r7_HOZHOi1w?si=Wa41fdn8qRZp3mHF)
+	* [The Definitive Guide to Debunking Creationists Part 2: Abiogenesis](https://youtu.be/s2JjHDZDdRE?si=kNWlOjXYAAtGN5Pu)
+	* [The Definitive Guide to Debunking Creationists Part 3: Evolutionary Biology/Paleontology](https://youtu.be/pQOCybcSnug?si=RfiBYsKmdCK1A5VC)
+	* [The Definitive Guide to Debunking Creationists Part 4: Genetics/Molecular Biology](https://youtu.be/tfm9q4UoQBI?si=cLA7-3Rl7JzUarQi)
+	* [The Definitive Guide to Debunking Creationists Part 5: Philosophy/Theology](https://youtu.be/xU8H_Fh-TAE?si=T3ALlQSmCqvsFJCH)
 
 11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
 

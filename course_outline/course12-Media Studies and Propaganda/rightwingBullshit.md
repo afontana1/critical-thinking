@@ -105,3 +105,4 @@
 101. [Elon Musk salute was 'no accident', says expert in the alt-right | LBC](https://youtu.be/kWuzeHKXyCI?si=ht6KPRKAernYgG7V)
 102. [Elon Musk's "Hitler Problem" - SOME MORE NEWS](https://youtu.be/xDyPSKLy5E4?si=ekbB8g8M9_tnu8f5)
 103. [Sound of Freedom and the Shape of Modern Propaganda](https://youtu.be/k5jkQsHuaWA?si=tfzGv4T-e7bX8tsa)
+104. [Candace. Pretty. Stupid.](https://youtu.be/ei8QzqJji34?si=EiTZmxzLy6s7FcyA)
