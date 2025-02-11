@@ -6,13 +6,15 @@
 2. [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
 3. [Intellectual Responsibility](https://en.wikipedia.org/wiki/Intellectual_responsibility)
 
-## Language and Metaphor
+## [Conceptual Analysis](https://philpapers.org/browse/conceptual-analysis)
 
-- [Conceptual Analysis](https://philpapers.org/browse/conceptual-analysis)
-- [Concept](https://en.wikipedia.org/wiki/Concept)
-- [Conceptual Modeling](https://en.wikipedia.org/wiki/Category:Conceptual_modelling)
-- [Conceptual Model](https://en.wikipedia.org/wiki/Category:Conceptual_models)
-- [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
+1. [Concept](https://en.wikipedia.org/wiki/Concept)
+2. [Conceptual Modeling](https://en.wikipedia.org/wiki/Category:Conceptual_modelling)
+3. [Conceptual Model](https://en.wikipedia.org/wiki/Category:Conceptual_models)
+4. [Definition](https://en.wikipedia.org/wiki/Category:Definition)
+5. [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
+
+## Language and Metaphor
 
 1. [Hermeneutics](https://en.wikipedia.org/wiki/Category:Hermeneutics)
 2. [Literary Theory](https://en.wikipedia.org/wiki/Category:Literary_theory)
@@ -40,7 +42,7 @@
 24. [Narratology](https://en.wikipedia.org/wiki/Category:Narratology)
 25. [Story Telling](https://en.wikipedia.org/wiki/Category:Storytelling)
 26. [Figures of Speech](https://en.wikipedia.org/wiki/Category:Figures_of_speech)
-27. [Definition](https://en.wikipedia.org/wiki/Category:Definition)
+27. [Interpretation](https://en.wikipedia.org/wiki/Interpretation)
 28. [Legal_interpretation](https://en.wikipedia.org/wiki/Category:Legal_interpretation)
 29. [Language_interpretation](https://en.wikipedia.org/wiki/Category:Language_interpretation)
 30. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
@@ -55,7 +57,6 @@
 39. [Descriptions](https://plato.stanford.edu/entries/descriptions/)
 40. [Truth Values](https://plato.stanford.edu/entries/truth-values/)
 41. [Tense and Aspect](https://plato.stanford.edu/entries/tense-aspect/)
-42. [Word Meaning](https://plato.stanford.edu/entries/word-meaning/)
 
 ## Videos
 
