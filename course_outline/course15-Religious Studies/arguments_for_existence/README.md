@@ -167,6 +167,7 @@
 	* [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
 	* [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
 	* [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
+	* [The ULTIMATE Guide to the Problem of Evil](https://youtu.be/Qr4JBRuRE20?si=sc2GpVoQohIKvltY)
 
 27. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)

@@ -260,6 +260,7 @@
 150. [Confessions of an Ex-Pastor (with Timmy Gibson)](https://youtu.be/X95_yGi7LlM?si=1GAswzdXwEIM8PGi)
 151. [Bible Scholar Dr. Jennifer Bird Left Fundamentalist Christianity](https://www.youtube.com/live/Z-sU4t86FVA?si=pgZ58D04fqFWdDLA)
 152. [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
+153. [I Was a Devout Believer—Until I Discovered this!](https://www.youtube.com/live/OgZoCgii34A?si=pGfzkmIBpVCTcXnt)
 
 </details>
 

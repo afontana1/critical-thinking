@@ -58,6 +58,11 @@
 18. [Distillation: The Keystone Skill of Systems Thinking - Aphorisms, Mantras, Acronyms, and Mnemonics](https://youtu.be/34YCjljm9jA?si=rmtcbDLFbMNhm8Px)
 19. [Forcing Functions - Constraints, Affordances, Bounds, and Systems Behavior [SYSTEMS THINKING]](https://youtu.be/optxZVxt9Ao?si=I0n-EizYVEV-J2j1)
 20. [Systems Thinking Tools: Archetypes](https://youtu.be/XRf_OaoJpCs?si=lZ_SVZi2-zcgMKpp)
+21. [A Philosophical Look at System Dynamics](https://youtu.be/XL_lOoomRTA?si=qyBDUBGIw41qs9XJ)
+22. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 1 of 4)](https://youtu.be/HMmChiLZZHg?si=ohr3RFc9mQT9r5Sa)
+23. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 2 of 4)](https://youtu.be/HuIoego-xVc?si=Fkl6482X53Qgi5gK)
+24. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 3 of 4)](https://youtu.be/j-k5oSlgIbA?si=8Y8qOtMR9Ax9CdPs)
+25. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 4 of 4)](https://youtu.be/d9Lfp8SQ6rc?si=c_l3_HcXF7NRbqaF)
 
 ## Playlists
 
