@@ -261,6 +261,8 @@
 151. [Bible Scholar Dr. Jennifer Bird Left Fundamentalist Christianity](https://www.youtube.com/live/Z-sU4t86FVA?si=pgZ58D04fqFWdDLA)
 152. [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
 153. [I Was a Devout Believer—Until I Discovered this!](https://www.youtube.com/live/OgZoCgii34A?si=pGfzkmIBpVCTcXnt)
+154. [Christianity deprives you of true human empathy - Katrina Richard](https://youtu.be/wSux5PBbsZs?si=YBZvHfjtGeLL_8U3)
+155. [I Was a Pastor… Until I Discovered THIS!](https://www.youtube.com/live/epZFG3MHx5c?si=LKfXTRQYNK9Nw0p4)
 
 </details>
 
