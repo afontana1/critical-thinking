@@ -136,3 +136,4 @@
 132. [Thought-Terminating Clichés In Christianity | Belief It Or Not](https://youtu.be/v1Dx50ReNXc?si=qHM0btRv9pBYXv_h)
 133. [Why did the middle classes support fascism?](https://youtu.be/RqESHNvmP20?si=-P4YMXNManspiP-F)
 134. [The Trump movement is turning America fascist w/Jeff Sharlet | The Chris Hedges Report](https://youtu.be/JtrkSeTOv7g?si=VyXk-RuuDWgNkpaB)
+135. [Money, Lies, and God: with Katherine Stewart](https://youtu.be/g2ZVzvYMy3I?si=T1D3oQaCOtG-bGp8)

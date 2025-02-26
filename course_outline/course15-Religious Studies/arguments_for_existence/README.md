@@ -168,6 +168,7 @@
 	* [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
 	* [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
 	* [The ULTIMATE Guide to the Problem of Evil](https://youtu.be/Qr4JBRuRE20?si=sc2GpVoQohIKvltY)
+	* [This One Argument Against God Will Change How You See Religion!](https://youtu.be/LzVjA9cRhvQ?si=o-UV3fAiWEpdJHvx)
 
 27. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
@@ -219,6 +220,7 @@
 	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=bjNsVQUFUeHnGKQn)
 	* [Physicists & Philosophers debunk The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M?si=THL3HA_9CXAf5JYu)
 	* [Is Cosmic Fine-Tuning a good argument for Theism?](https://youtu.be/HZuVYBzYi-8?si=wi34UtItTHBMPsi4)
+	* [The Case Against Theism - A Fine-Tuning Argument for Naturalism](https://youtu.be/TGGvRUglLSE?si=3OtK2iG-fvKpwtQc)
 
 30. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
 	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
@@ -527,6 +529,7 @@
 	* [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
 	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
 	* [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
+	* [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=0XzjkXGDjehgmQPR)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
