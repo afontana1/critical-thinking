@@ -26,6 +26,8 @@
 15. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
 16. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
 17. [Cliodynamics](https://en.wikipedia.org/wiki/Cliodynamics)
+    * [So-Dy: Societal Dynamics](https://so-dy.org/)
+    * [Seshat: Global History Databank](https://seshat-db.com/)
 18. [Cliometrics](https://en.wikipedia.org/wiki/Cliometrics)
 19. [Friedrich Nietzsche: On the Use and Abuse of History for Life](https://la.utexas.edu/users/hcleaver/330T/350kPEENietzscheAbuseTableAll.pdf)
 20. [Integrated Action Civics Project](https://iacp.berkeley.edu/)
@@ -52,9 +54,15 @@
 13. [Dr. Darren Staloff, William McNeill's "Plagues and Peoples"](https://www.youtube.com/watch?v=XlD3gc1wEs4)
 14. [Dr. Darren Staloff, The Heterogeneity of Historical Knowledge](https://www.youtube.com/watch?v=wimNy09cS9U)
 
+## People
+
+1. [Daniel Hoyer](https://csh.ac.at/daniel-hoyer/)
+2. [Peter Turchin](https://peterturchin.com/)
+
 ## Methodology
 
 1. [Pop History and its Consequences](https://youtu.be/MECWMGLGU5c?si=7rV-Cw2bdakx1wxi)
+2. [#1057 Daniel Hoyer: Cliodynamics, Inequality, Elite Overproduction, and Revolution](https://youtu.be/IEPeCgmqVwo?si=GsnGfK0s0cZyKwwN)
 
 ## Critical Questions for Historical Sources
 

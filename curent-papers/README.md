@@ -36,6 +36,7 @@
 21. [John H Holland](https://en.wikipedia.org/wiki/John_Henry_Holland)
 22. [Paul Smaldoni](https://smaldino.com/wp/)
 23. [Carlos Gershenson](https://scholar.google.com/citations?user=fBRKCewAAAAJ&hl=en)
+24. [Daniel Hoyer](https://csh.ac.at/daniel-hoyer/)
 
 ### Journals, Institutes, Research Labs
 
@@ -48,6 +49,7 @@
 7. [Computational Social Dynamics](https://picsolab.github.io/)
 8. [Computational Social Science Lab](https://dgarcia.eu/)
 9. [Complexity Hub](https://csh.ac.at/)
+10. [Cascade Institute](https://cascadeinstitute.org/)
 
 ## Systems Science
 
@@ -109,6 +111,7 @@
 1. [Christian List](https://personal.lse.ac.uk/list/)
 2. [Paul Slovic](https://en.wikipedia.org/wiki/Paul_Slovic)
 3. [Richard Gill](https://gill1109.com/?amp=1) [Statistics](https://www.math.leidenuniv.nl/~gill/)
+4. [Philip Tetlock](https://thedecisionlab.com/thinkers/political-science/philip-tetlock)
 
 ### Journals, Institutes, Research Labs
 
