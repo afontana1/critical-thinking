@@ -98,6 +98,7 @@
 - [Philosophy of Conspiracy Theories](https://philpapers.org/browse/conspiracy-theories)
 - [Academic Papers on Debunking Arguments](https://danielzkorman.weebly.com/papers-and-books.html)
 - [genealogical-debunking](https://philpapers.org/browse/genealogical-debunking)
+- [global debunking](https://philpapers.org/s/global%20debunking)
 - [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
 - [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
 
