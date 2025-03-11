@@ -8,6 +8,7 @@
 - [Bad Apologetics: James Fodor](https://youtube.com/playlist?list=PLFQW0yCmiRVM7bBTOZ5kgjMugp-aTZmUU&si=ULnMnGB3EO2MaSQ4)
 - [Philosophical Failures of Christian Apologetics](https://www.youtube.com/playlist?list=PL3IOkNR8_9gpQa5teO1xQANB-3MiY17uk)
 - [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
+- [The Sci Phi Show](https://youtube.com/playlist?list=PLJ4zAUPI-qqprexGfnGwCpugHnUuSjPmG&si=Fs4Zz_fLAQBjpJQs)
 
 1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 
@@ -56,6 +57,8 @@
 	* [The Definitive Guide to Debunking Creationists Part 3: Evolutionary Biology/Paleontology](https://youtu.be/pQOCybcSnug?si=RfiBYsKmdCK1A5VC)
 	* [The Definitive Guide to Debunking Creationists Part 4: Genetics/Molecular Biology](https://youtu.be/tfm9q4UoQBI?si=cLA7-3Rl7JzUarQi)
 	* [The Definitive Guide to Debunking Creationists Part 5: Philosophy/Theology](https://youtu.be/xU8H_Fh-TAE?si=T3ALlQSmCqvsFJCH)
+	* [Foundational Falsehood of Creationism](https://youtube.com/playlist?list=PL258CAE2F4546AA95&si=PKUHUwuKNVt1K_et)
+	* [Why Do People Laugh at Creationists?](https://youtube.com/playlist?list=PLAC3481305829426D&si=89036hCo3MAEfVrD)
 
 11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
 
