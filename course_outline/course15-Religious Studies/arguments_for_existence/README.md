@@ -505,7 +505,7 @@
 	* [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
 	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
 	* [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
-	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=TuD7Vje5drISmtyP)
+	* [Have Christian Apologists Just Given Up? Religious Fan-Fiction Replaces Actual Argumentation](https://www.youtube.com/live/Begz8lLU3lE?si=_Nfzap4d-cMIn7hc)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
