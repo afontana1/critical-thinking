@@ -123,6 +123,7 @@
 6. [Centre for Brain, Mind and Markets](https://www.unimelb.edu.au/cbmm)
 7. [The Society for Judgment and Decision Making](https://sjdm.org/)
 8. [Judgement and Decision Making Journal](https://www.cambridge.org/core/journals/judgment-and-decision-making)
+9. [Stanford Decision Analysis Group](https://dara.stanford.edu/)
 
 ## Causal Inference
 

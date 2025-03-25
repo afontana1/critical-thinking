@@ -660,6 +660,7 @@
 113. [Matthew Adelstein](https://philpeople.org/profiles/matthew-adelstein)
 114. [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
 115. [Victor Moberger](https://www.umu.se/en/staff/victor-moberger/)
+116. [Taner Edis](https://en.wikipedia.org/wiki/Taner_Edis)
 
 ## Books
 

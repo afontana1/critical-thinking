@@ -326,6 +326,9 @@
 	* [1. Arif Ahmed, On Miracles](https://youtu.be/xQ9Z92ldW-U?si=B5UjQpwTALi5u6oc)
 	* [RA036: Ben Watkins on Hume Against the Believability of Miracles](https://youtu.be/dzJcujTbvpg?si=XY9PVUCOLeJb4-6J)
 	* [RA037: Bill Vanderburgh on Misinterpretations of Hume's Of Miracles](https://youtu.be/4eVqOT0ip0U?si=q21m1AAovUxYeOoD)
+	* [Why won't God heal amputees?](https://youtu.be/vQ1K_Pi-Pqw?si=dgsOm-NnKXdi96So)
+	* [What would make atheists accept a miracle claim? | C.M. Lorkowski & Real Atheology](https://youtu.be/NFMI3c_Iex4?si=ZYP1bJHsCYlp7Yy5)
+	* [The Argument from Miracles: Emerson Green](https://youtu.be/i0DUQbvQvBk?si=LRQcdL4r_BvU5r17)
 
 42. [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
 	* [Episode 13, Paul Draper, On Arguments for Atheism](https://youtu.be/Ur6gxT6bQZQ?si=XAHJiuZ7P-LAbfIV)
@@ -541,3 +544,8 @@
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
 	* [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
 76. [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
+77. Cultural / Pragmatic Arguments
+	* ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
+78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
+	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
+	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)
