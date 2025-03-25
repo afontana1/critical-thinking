@@ -172,6 +172,7 @@
 	* [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
 	* [The ULTIMATE Guide to the Problem of Evil](https://youtu.be/Qr4JBRuRE20?si=sc2GpVoQohIKvltY)
 	* [This One Argument Against God Will Change How You See Religion!](https://youtu.be/LzVjA9cRhvQ?si=o-UV3fAiWEpdJHvx)
+	* [Why are theodicies so unconvincing?](https://youtu.be/A6uzqkCalQs?si=5zp32oHtPIx3N9wz)
 
 27. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
 	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
@@ -206,6 +207,8 @@
 	* [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
 	* [The Problem of Hell: Raymond Bradley vs. William Lane Craig (Debate)](https://youtu.be/oJdlO6esWr8?si=Elk9BEMlh_PR29-E)
 	* [Can God Condemn One to an Afterlife in Hell?](https://philpapers.org/rec/BRACGC)
+	* [The Utter Failure of the Free Will Theodicy](https://counterapologist.blogspot.com/2022/10/the-utter-failure-of-free-will-theodicy.html)
+	* [God’s Prime Directive: Non-Interference and Why There Is No (Viable) Free Will Defense](https://philarchive.org/archive/JOHGPD)
 
 29. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
 	* [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)

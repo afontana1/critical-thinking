@@ -263,6 +263,7 @@
 153. [I Was a Devout Believer—Until I Discovered this!](https://www.youtube.com/live/OgZoCgii34A?si=pGfzkmIBpVCTcXnt)
 154. [Christianity deprives you of true human empathy - Katrina Richard](https://youtu.be/wSux5PBbsZs?si=YBZvHfjtGeLL_8U3)
 155. [I Was a Pastor… Until I Discovered THIS!](https://www.youtube.com/live/epZFG3MHx5c?si=LKfXTRQYNK9Nw0p4)
+156. [Darante’ LaMar: Former Pastor Tells All... | Mindshift Podcast #6](https://youtu.be/HZ3ex6e5Bgo?si=i1BS0xO1YgYRIt06)
 
 </details>
 
