@@ -108,6 +108,8 @@
 
 <details><summary><h1> Deconversion Stories</h1></summary>
 
+- [Deconversion Help](https://youtube.com/playlist?list=PLLecYLkaBsy3OjvvUMcHB0MXGfAHI8NbU&si=KmUiRgD4ONGPJvKN)
+
 1. [What's with all the deconstruction stories? With Sean McDowell](https://www.youtube.com/watch?v=nJyLkfoxGYY&t=1s)
 2. [Testimonies of People Who Left Christ and Christianity](https://www.youtube.com/playlist?list=PLzx-z5fZzYz6o5AoHfze_88BWlA2ocUIv)
 3. [Christians Probe the Paulogia Deconversion Origin Story](https://www.youtube.com/watch?v=h5SYO5mQfkE)

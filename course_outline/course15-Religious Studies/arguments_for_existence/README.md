@@ -59,6 +59,7 @@
 	* [The Definitive Guide to Debunking Creationists Part 5: Philosophy/Theology](https://youtu.be/xU8H_Fh-TAE?si=T3ALlQSmCqvsFJCH)
 	* [Foundational Falsehood of Creationism](https://youtube.com/playlist?list=PL258CAE2F4546AA95&si=PKUHUwuKNVt1K_et)
 	* [Why Do People Laugh at Creationists?](https://youtube.com/playlist?list=PLAC3481305829426D&si=89036hCo3MAEfVrD)
+	* [Grayson & Professor Dave vs The World's "Smartest" Creationist](https://youtu.be/J2ELejeWZKA?si=yLLVfw28wdgErqv2)
 
 11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
 
@@ -209,6 +210,7 @@
 	* [Can God Condemn One to an Afterlife in Hell?](https://philpapers.org/rec/BRACGC)
 	* [The Utter Failure of the Free Will Theodicy](https://counterapologist.blogspot.com/2022/10/the-utter-failure-of-free-will-theodicy.html)
 	* [God’s Prime Directive: Non-Interference and Why There Is No (Viable) Free Will Defense](https://philarchive.org/archive/JOHGPD)
+	* [Paradise Hell: The Theodicy Destroying Thought Experiment](https://youtu.be/Vy5tL4_EjiE?si=lCFvvPD_6SxwkpJm)
 
 29. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
 	* [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)
@@ -244,6 +246,8 @@
 	* [The Incoherence of Morality](https://youtu.be/w4tRgsHcXQU?si=PX4afduWfzbT-VTW)
 	* [Metaethics: The Evolutionary Debunking Argument](https://youtu.be/0x2v-ucrSGA?si=5I8xmiuJUs2bQdI9)
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=oEB8I9MGNvfR8EyG)
+	* [The moral argument for God isn't good (Part 1)](https://www.youtube.com/live/M1qo2qaJftI?si=aP_mF0qBIaP6N_Ar)
+	* [The moral argument for God isn't good (Part 2)](https://www.youtube.com/live/OT3obQ3yTAw?si=Spe9GwNXDMwwoiVF)
 
 31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
@@ -539,6 +543,15 @@
 	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
 	* [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
 	* [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=0XzjkXGDjehgmQPR)
+	* [Ancient Historian David Miano Schools Pseudo-Archaeologists](https://youtu.be/WOAFhwTMXr8?si=WQGMrCbMP9ZLaqgZ)
+	* [Expert Historian PROVES Moses Was INVENTED 4th Century BCE](https://youtu.be/UjOW7vfPILA?si=qh9VQBRBu50s0CgQ)
+	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=jFLZDU6kXQN-Alfi)
+	* [Unveiling the Truth About Dying and Rising Deities!](https://youtu.be/uwgGg0Bl06k?si=EwzqGCtiSsHp-Tf3)
+	* [Christian "experts" HUMBLY educated by actual expert!](https://youtu.be/DSeLK5dPRzg?si=XUMw6K3YG-XggefR)
+	* [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=xTzp0eouZ0DOelvA)
+	* [The Goddess Who Died and Rose Again After 3 Days—BEFORE Jesus!](https://youtu.be/Dc330wSTShw?si=s9Lj2Ci2-N0MMALN)
+	* [Was Genesis Inspired by Older Creation Stories?](https://youtu.be/VHVplvvddnU?si=xAJoudMi6zRxUpKC)
+	* [Ancient Egyptian Mysteries Found In Christ](https://youtu.be/W6cizMfLIZM?si=8M32nheMRdKIAbnV)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
