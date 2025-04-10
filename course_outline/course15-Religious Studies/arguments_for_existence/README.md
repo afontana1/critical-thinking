@@ -470,6 +470,7 @@
 	* [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 	* [Is the Anthropic Principle Significant? | Episode 1904 | Closer To Truth](https://www.youtube.com/watch?v=NMV9t-3rFNs)
 	* [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
+	* [The Anthropic Argument](https://youtu.be/mxl2iempj_w?si=ul4IGJwM5Q7Ea6gT)
 
 68. [psychophysical harmony](https://youtube.com/playlist?list=PLxRhaLyXxXkaxsGfwQc4yNqqeF-WOnRSx&si=meqANkAy3-5keNM-)
 
