@@ -553,6 +553,8 @@
 	* [The Goddess Who Died and Rose Again After 3 Days—BEFORE Jesus!](https://youtu.be/Dc330wSTShw?si=s9Lj2Ci2-N0MMALN)
 	* [Was Genesis Inspired by Older Creation Stories?](https://youtu.be/VHVplvvddnU?si=xAJoudMi6zRxUpKC)
 	* [Ancient Egyptian Mysteries Found In Christ](https://youtu.be/W6cizMfLIZM?si=8M32nheMRdKIAbnV)
+	* [The Ancient PAGAN Myths Behind the Bible That SHATTERED Scholarship!](https://youtu.be/vkq2vYuDYyE?si=_HuWk5lCdGEHDe3h)
+	* [The Great Big Pseudoarcheology Debunk (Graham Hancock, Dan Richards, Jimmy Corsetti)](https://youtu.be/JK4Fo6m9C9M?si=mQ6E6599iK3AJ41x)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
@@ -560,6 +562,7 @@
 76. [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
 77. Cultural / Pragmatic Arguments
 	* ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
+	* [Christianity's Dirty Secret - Why Conservatives Lose Their Faith In Seminary](https://youtu.be/3VV_Rj4P6jo?si=iRhSagpiqqr4uEYN)
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)

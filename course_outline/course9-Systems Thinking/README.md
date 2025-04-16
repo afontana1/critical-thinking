@@ -74,6 +74,10 @@
 6. [IEE 475 (2022, Fall): Simulating Stochastic Systems - Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqEabmdX7QMg0yj_Qjh54rJs&si=3ErIiudSaDmKTi90)
 7. [IEE/CSE 598 (2022, Spring): Bio-Inspired AI and Optimization - Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqEtpEGPUCAsyW1eYZwPAoNj&si=sU1iPHRIV8R7DF33)
 8. [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra&si=AQhbFkAzij5K1yV_)
+9. [SOS 325 (2020, Fall): Economics of Sustainability, Classroom Recordings](https://youtube.com/playlist?list=PLXBbGVSkQJqFfZn5qbGb3nMd4fIaxCekl&si=ehNPzSHKiazLy__5)
+10. [SOS 325: Economics of Sustainability](https://youtube.com/playlist?list=PLXBbGVSkQJqH423jmbAZJmNmBma_4bA4q&si=90P3-Q8N2ARpPdMg)
+11. [SOS 212: Systems, Dynamics, and Sustainability](https://youtube.com/playlist?list=PLXBbGVSkQJqGe6MLnQFtlSuRT1eGuQ_wK&si=lTSrj0OwPjUwPhUe)
+12. [IEE 475: Simulating Stochastic Systems](https://youtube.com/playlist?list=PLXBbGVSkQJqG5ho-97AnDQEcdQI3CxBj9&si=HY-yXuDpweKASlID)
 
 ## People
 1. [Omar A. Guerrero](https://oguerr.com/)
