@@ -1,5 +1,22 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
 
+## Relevant Researchers
+
+1. [M R. X. Dentith](https://scholar.google.co.nz/citations?user=k_262rwAAAAJ&hl=en)
+2. [Robin McKenna](https://robinmckenna.weebly.com/)
+3. [Steven Hales](http://stevenhales.org/)
+4. [Dan Williams Philosophy](https://danwilliamsphilosophy.com/)
+
+## Relevant Books
+
+1. [Vices of the Mind, by Quassim Cassam](https://academic.oup.com/mind/article-abstract/129/515/959/5536335)
+2. [Conspiracy Theories - Quassim Cassam](https://philpapers.org/rec/CASCT-4)
+3. [Suspicious Minds: Why We Believe Conspiracy Theories](https://www.amazon.com/Suspicious-Minds-Believe-Conspiracy-Theories/dp/1472915631)
+4. [Believing Bullshit: How Not to Get Sucked into an Intellectual Black Hole](https://www.amazon.com/Believing-Bullshit-Sucked-Intellectual-Black/dp/1616144114)
+5. [Conspiracy: Why the Rational Believe the Irrational](https://www.amazon.com/Conspiracy-Why-Rational-Believe-Irrational/dp/1421444453)
+6. [he Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
+7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
+
 ## Channels
 
 1. [The Manipulation Check](https://www.youtube.com/@themanipulationcheck9770)
@@ -183,3 +200,4 @@
 9. [Extreme Beliefs: An Interview with Rik Peels](https://imperfectcognitions.blogspot.com/2021/11/extreme-beliefs-interview-with-rik-peels.html?m=1)
 10. [Developing a Model of Groupstrapping: A Response to Baumgaertner and Nguyen, Kenneth Boyd](https://social-epistemology.com/2019/08/14/developing-a-model-of-groupstrapping-a-response-to-baumgaertner-and-nguyen-kenneth-boyd/)
 11. [Groupstrapping, Bootstrapping, and Oops-strapping: A Reply to Boyd, Bert Baumgaertner](https://social-epistemology.com/2019/06/10/groupstrapping-bootstrapping-and-oops-strapping-a-reply-to-boyd-bert-baumgaertner/)
+12. [Conspiracy Theories are propaganda for deep beliefs](https://tomstafford.substack.com/p/conspiracy-theories-are-propaganda)

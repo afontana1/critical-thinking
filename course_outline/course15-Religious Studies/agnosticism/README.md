@@ -537,6 +537,7 @@
 - [Freedom from Religion Foundation](https://www.youtube.com/@FFRForg)
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 - [The Non Alchemist](https://www.youtube.com/@TheNonAlchemist)
+- [Darante' LaMar](https://www.youtube.com/@DaranteLaMar)
 
 </details>
 

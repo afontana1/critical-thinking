@@ -37,6 +37,8 @@
 22. [Paul Smaldoni](https://smaldino.com/wp/)
 23. [Carlos Gershenson](https://scholar.google.com/citations?user=fBRKCewAAAAJ&hl=en)
 24. [Daniel Hoyer](https://csh.ac.at/daniel-hoyer/)
+25. [Luis H. Favela](https://scholar.google.com/citations?user=-MnTuJUAAAAJ&hl=en)
+26. [Deborah M. Gordon](https://web.stanford.edu/~dmgordon/)
 
 ### Journals, Institutes, Research Labs
 
@@ -95,6 +97,11 @@
 5. [Developmental Biology](https://en.wikipedia.org/wiki/Developmental_biology)
 6. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
 
+### Philosophy of Biology
+
+1. [Cailin O'Connor](https://cailinoconnor.com/)
+2. [Sabina Leonelli](https://scholar.google.co.uk/citations?user=uNj98SoAAAAJ&hl=en)
+
 ## Decision Science
 
 ### Topics
@@ -132,6 +139,7 @@
 3. [marcelo-perraillon](https://clas.ucdenver.edu/marcelo-perraillon/)
 4. [Clark Glymour](https://philpeople.org/profiles/clark-glymour)
 5. [Judea Pearl](https://bayes.cs.ucla.edu/jp_home.html)
+6. [Nancy Cartwright](https://www.profnancycartwright.com/)
 
 ## Cognitive Science
 
@@ -200,3 +208,6 @@
 2. Topics in Philosophy
     * [Journal of Applied Ontology](https://ip.ios.semcs.net/journals/applied-ontology/Pre-press/Pre-press)
     * [The Information Philosopher](https://www.informationphilosopher.com/)
+3. Philosophy of Economics
+    * [Erik Angner](https://www.erikangner.com/)
+    * [Daniel Hausman](https://philpeople.org/profiles/daniel-hausman)
