@@ -6,6 +6,8 @@
 2. [Robin McKenna](https://robinmckenna.weebly.com/)
 3. [Steven Hales](http://stevenhales.org/)
 4. [Dan Williams Philosophy](https://danwilliamsphilosophy.com/)
+5. [Cailin O'Connor](https://cailinoconnor.com/)
+6. [Quassim Cassam](https://www.quassimcassam.com/)
 
 ## Relevant Books
 

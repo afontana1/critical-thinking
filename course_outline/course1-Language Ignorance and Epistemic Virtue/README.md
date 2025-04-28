@@ -5,8 +5,13 @@
 1. [UCI Anteater Virtues](https://anteatervirtues.uci.edu/)
 2. [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
 3. [Intellectual Responsibility](https://en.wikipedia.org/wiki/Intellectual_responsibility)
-4. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
+4. [Virtue Epistemology](https://en.wikipedia.org/wiki/Virtue_epistemology)
 5. [Vices of the Mind, by Quassim Cassam](https://academic.oup.com/mind/article-abstract/129/515/959/5536335)
+6. [On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)
+
+## People
+
+1. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
 
 ## [Conceptual Analysis](https://philpapers.org/browse/conceptual-analysis)
 
