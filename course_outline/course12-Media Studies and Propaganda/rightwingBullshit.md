@@ -193,3 +193,4 @@
 189. [Trump 2.0, DOGE, and America's Global Decline with Sam Harris and Jonah Goldberg](https://youtu.be/pQfrZTJ4vek?si=tYqHVCOxAQ8MVYFc)
 190. [trump theologist explains trumps role as son of man in the apocalypse](https://youtu.be/0qsKkHISZWo?si=QVn-PRbNBBDt9GGW)
 191. [They're Fabricating Criminal Prosecutions Now](https://youtu.be/5KApz1PdBgA?si=vsqHyl6wDSrwFibZ)
+193. [The Right's War on Empathy - SOME MORE NEWS](https://youtu.be/dwdAEkJks8A?si=h0alRvM_k2CCjyMN)
