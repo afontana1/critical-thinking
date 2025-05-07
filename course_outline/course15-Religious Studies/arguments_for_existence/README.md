@@ -149,6 +149,7 @@
 	- [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
 	- [Chatting about the Evolutionary Argument Against Naturalism](https://www.youtube.com/live/AW9oqcshkFA?si=Yj9CB_ajAkU6Pppp)
 	- [Debate on The Evolutionary argument against Naturalism | @JamesFodor vs @MaverickChristian](https://www.youtube.com/live/JAsd8knUh_w?si=qYe4TwN35Rx5JvPt)
+	- [Evolutionary Debunking, Metaphilosophy, & More on @PhilosophyVisualised](https://youtu.be/tXDkHef__04?si=oNZUGEFB2sApSaqN)
 
 26. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
 	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
@@ -517,6 +518,9 @@
 	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
 	* [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
 	* [Have Christian Apologists Just Given Up? Religious Fan-Fiction Replaces Actual Argumentation](https://www.youtube.com/live/Begz8lLU3lE?si=_Nfzap4d-cMIn7hc)
+	* [Richard Carrier Destroys the Resurrection Argument – Must-See!](https://youtu.be/yEGH1DGMICQ?si=8aG2bCfKeJjvAfSF)
+	* [We've Been Destroyed By Apologists... Game Over!](https://youtu.be/HlG4lPsu12Q?si=1UyFRgeLMvDkWN19)
+	* [Apologist Wes Huff's Myths CRUSHED by Assyriologist & Dead Sea Scholar](https://www.youtube.com/live/vGhvUUzi3iE?si=_ORYNiOMaQU0n3eG)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -555,6 +559,10 @@
 	* [Ancient Egyptian Mysteries Found In Christ](https://youtu.be/W6cizMfLIZM?si=8M32nheMRdKIAbnV)
 	* [The Ancient PAGAN Myths Behind the Bible That SHATTERED Scholarship!](https://youtu.be/vkq2vYuDYyE?si=_HuWk5lCdGEHDe3h)
 	* [The Great Big Pseudoarcheology Debunk (Graham Hancock, Dan Richards, Jimmy Corsetti)](https://youtu.be/JK4Fo6m9C9M?si=mQ6E6599iK3AJ41x)
+	* [Paul's Letters: Real History or Roman Fiction?](https://youtu.be/YYQKui_H3_E?si=LPkXb0qfmwI8v4dH)
+	* [Jesus' Dionysian ORIGINS WIll BLOW YOUR MIND! | Documentary](https://youtu.be/B9XDf1YrKqc?si=Bk36NZi7GcD8_1NO)
+	* [The Gospels Do Imitate Homer | Dr. Karl Olav Sandnes & Dr. Dennis R MacDonald Expose the Truth!](https://youtu.be/k10ko-D0Dwk?si=a5EoNdNKA9S0fdYz)
+	* [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)

@@ -133,6 +133,9 @@
 10. ["Trust and Hostile Epistemology": C. Thi Nguyen in conversation with Johnny Brennan](https://youtu.be/-LFd9YCpGvA?si=lWnNx10scMtOBCdE)
 11. [Keynote: Quantification and the Limits of Scale, C. Thi Nguyen](https://youtu.be/e94yY3AKh9Q?si=qds1Bsuf_UhtsUrp)
 12. [The Seductions of Clarity: Conspiracy Theories, Echo Chambers, and the Gamification of Social Media](https://youtu.be/Nkf8uGEN3zA?si=taRtpQpedQue1Yql)
+13. [Quassim Cassam (University of Warwick): Disinformation, Narratives and Radicalization](https://youtu.be/ko3dw-9tiVU?si=kFqyuBs-UgXqDwx-)
+14. [Extremism - A Philosophical Analysis by Professor Quassim Cassam](https://www.youtube.com/live/5mJXaaT3d0M?si=neZEGrLk4E4R0Id9)
+15. [Misinformation | With Lisa Bortolotti, Quassim Cassam, and Cailin O’Connor](https://youtu.be/4c3xcjlL5Yw?si=rbCrqYZdn5mCu_lk)
 
 ## Videos
 
@@ -188,6 +191,13 @@
 50. [#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups Lies, and Responsibility](https://youtu.be/OnW93tV_Ky8?si=PZJgaNNwkob9quOi)
 51. [#71 Massimo Pigliucci: The Philosophy of Pseudoscience](https://youtu.be/a9Fl63Ca9pE?si=nI3xmt7f-osCTett)
 52. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
+53. [Quassim Cassam - Misunderstanding Conspiracy Theories | PERITIA Lectures](https://www.youtube.com/live/DiDAsO0KPKQ?si=Tgf0dcVbXeWtbPwP)
+54. [Expert guide to conspiracy theories part 1 – how to spot one](https://youtu.be/VJugRueL3A0?si=KRiryrrhSKa01XTI)
+55. [Expert guide to conspiracy theories part 2 – who believes them and why?](https://youtu.be/8Q3xLr0YpqA?si=slXxJ-geg8U_0Vuc)
+56. [Expert guide to conspiracy theories part 3 – their history](https://youtu.be/higNAGro7mg?si=EQSg2d3g7HAU78tS)
+57. [Expert guide to conspiracy theories part 4 – how they spread](https://youtu.be/ZLknUf7xWeU?si=dwMzKF30aiJgXEiL)
+58. [Expert guide to conspiracy theories part 5 – how dangerous are they?](https://youtu.be/8Mh8V4I0hKI?si=9IiBYcWBBIW0ccLl)
+59. [Expert guide to conspiracy theories part 6 – coronavirus](https://youtu.be/2crOiEog9mY?si=0iOWZw3WX7ca14cA)
 
 ## Psychology and Sociology of Conspiracy Theory
 
