@@ -194,3 +194,6 @@
 190. [trump theologist explains trumps role as son of man in the apocalypse](https://youtu.be/0qsKkHISZWo?si=QVn-PRbNBBDt9GGW)
 191. [They're Fabricating Criminal Prosecutions Now](https://youtu.be/5KApz1PdBgA?si=vsqHyl6wDSrwFibZ)
 193. [The Right's War on Empathy - SOME MORE NEWS](https://youtu.be/dwdAEkJks8A?si=h0alRvM_k2CCjyMN)
+194. [Opus Dei: From Vatican Secrets to Washington Influence](https://youtu.be/NUhexmGPzVE?si=-KN11LU3LxwI-Ipa)
+195. [Opus Dei, Leonard Leo, and Project2025 | a strategy of division](https://youtu.be/0RjT8LGwn1U?si=GxcqUaYsimoGsdQO)
+196. [I was WRONG about Opus Dei (and J.D. Vance is involved) | Opus Dei Deep Dive](https://youtu.be/reHcPa3fJCI?si=4zhGcDtZqlPFx7em)

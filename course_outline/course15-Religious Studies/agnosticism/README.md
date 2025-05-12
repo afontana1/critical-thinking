@@ -269,6 +269,7 @@
 157. [Why I Left Christianity - Rhett McLaughlin](https://youtu.be/Y9wjVLKy8Xk?si=kU3vc0GrFIdQ4p4G)
 158. [I Escaped Christian Conservative Indoctrination](https://youtu.be/JQEpG0CvqEY?si=LH85B_2vrrcABcN9)
 159. [The faith that was meant to heal me was actually killing me - Aaron Tomlinson](https://youtu.be/kdgHP_57KC0?si=DYpVj_Qy_TvH6HcS)
+160. [Christianity is a mind virus of deception and control - Jo-Ann](https://youtu.be/WmYrnX0que4?si=6TErn89D2cGr_E_W)
 
 </details>
 

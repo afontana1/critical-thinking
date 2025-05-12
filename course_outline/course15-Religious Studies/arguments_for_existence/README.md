@@ -521,6 +521,10 @@
 	* [Richard Carrier Destroys the Resurrection Argument – Must-See!](https://youtu.be/yEGH1DGMICQ?si=8aG2bCfKeJjvAfSF)
 	* [We've Been Destroyed By Apologists... Game Over!](https://youtu.be/HlG4lPsu12Q?si=1UyFRgeLMvDkWN19)
 	* [Apologist Wes Huff's Myths CRUSHED by Assyriologist & Dead Sea Scholar](https://www.youtube.com/live/vGhvUUzi3iE?si=_ORYNiOMaQU0n3eG)
+	* [How a NON-BELIEVER Became Christianity's Favorite Historian, Tom Holland](https://youtu.be/1o5K7JaEKb4?si=0ogiHUdJrRmDgitx)
+	* [He Says Bible Prophecy Is So Precise, Only God Explains It! (Mike Winger response)](https://youtu.be/BHTD9HJB20Y?si=nksVTvVhQ-y4Tj5-)
+	* [Why Atheists Reject Biblical Prophecies](https://youtu.be/QwuKfY-mfkY?si=avuRmU2j7aYw7wWf)
+	* [Did Rhett Just Break Christianity on Resurrection Sunday? (Responding to ALL the Responses)](https://youtu.be/2onIdSbqSRQ?si=91oUHQPs3jxN1BOn)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -563,6 +567,7 @@
 	* [Jesus' Dionysian ORIGINS WIll BLOW YOUR MIND! | Documentary](https://youtu.be/B9XDf1YrKqc?si=Bk36NZi7GcD8_1NO)
 	* [The Gospels Do Imitate Homer | Dr. Karl Olav Sandnes & Dr. Dennis R MacDonald Expose the Truth!](https://youtu.be/k10ko-D0Dwk?si=a5EoNdNKA9S0fdYz)
 	* [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
+	* [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
@@ -574,3 +579,4 @@
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)
+79. [A Critique of Substance Dualism - Responding to @faithbecauseofreason8381](https://www.youtube.com/live/9COVx5pwQUw?si=6opTMTW-TjSFMeZt)
