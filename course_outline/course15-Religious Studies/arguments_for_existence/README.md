@@ -541,7 +541,7 @@
 	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
 	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
 	* [Why Theism can't Explain Anything - Reviewing another Capturing Christianity Video](https://www.youtube.com/live/7hA8hHgbI3w?si=rer18dxEO5qZpl4e)
-74. Mythological Origins of Monotheism
+74. Mythological Origins of Monotheistic Religions
 	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
 	* [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
 	* [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=l_lugiSlmZRota0e)
@@ -568,6 +568,7 @@
 	* [The Gospels Do Imitate Homer | Dr. Karl Olav Sandnes & Dr. Dennis R MacDonald Expose the Truth!](https://youtu.be/k10ko-D0Dwk?si=a5EoNdNKA9S0fdYz)
 	* [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
 	* [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
+	* [The Apostle Paul: A Fabricated Figure of Early Christianity?](https://www.youtube.com/live/sdor4nEVYSA?si=kvQTdrXh6PmDUF9k)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
@@ -576,6 +577,11 @@
 77. Cultural / Pragmatic Arguments
 	* ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
 	* [Christianity's Dirty Secret - Why Conservatives Lose Their Faith In Seminary](https://youtu.be/3VV_Rj4P6jo?si=iRhSagpiqqr4uEYN)
+	* [Cultural Evolution Disproves the God of the Bible](https://youtu.be/EbzbqUKg4s4?si=UX1zIwf4bKX6PTtz)
+	* [Why Christianity Checks Every Box of a Death Cult | You Were Raised in This](https://youtu.be/NRZYlDFzGb8?si=v1gHGbix57I8xg03)
+	* [The Church is One Big Cosplay—And No One Wants to Admit It](https://youtu.be/XNGKjsy1QG4?si=XGcwlYycygC8voOx)
+	* [Is Religion Killing Your Brain?](https://youtu.be/4caG3evzv50?si=jJGzUPFAS0mcqjIW)
+	* [The God of Ignorance: Why Religion Doesn’t Want You to Grow Up](https://youtu.be/wVryuRd4fBE?si=KWNENVUrRpI2OLAL)
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)

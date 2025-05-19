@@ -270,6 +270,7 @@
 158. [I Escaped Christian Conservative Indoctrination](https://youtu.be/JQEpG0CvqEY?si=LH85B_2vrrcABcN9)
 159. [The faith that was meant to heal me was actually killing me - Aaron Tomlinson](https://youtu.be/kdgHP_57KC0?si=DYpVj_Qy_TvH6HcS)
 160. [Christianity is a mind virus of deception and control - Jo-Ann](https://youtu.be/WmYrnX0que4?si=6TErn89D2cGr_E_W)
+161. [Bible Scholar Dr. Robert M. Price Leaves Christianity](https://www.youtube.com/live/UXE_zbct7lg?si=ygP2MK2He4kFBFXB)
 
 </details>
 
