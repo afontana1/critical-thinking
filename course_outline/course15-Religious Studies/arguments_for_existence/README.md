@@ -190,6 +190,7 @@
 	* [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
 	* [Countering the Kalam](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7E17ejxJNyPxRM7Zki-nS6G)
 	* [‘Mere’ Causality: Arguments, Objections, and Good Principles](https://youtu.be/qTEKUowWoIE?si=B8fE5aWO72ARjGb1)
+	* [William Lane Craig and Metaphysical Cherry Picking](https://youtu.be/NpKGMq077-s?si=Bf0hZqJ3aI6cfHu9)
 	* [William Lane Craig & Scott Clifton Discuss the Kalam Cosmological Argument](https://www.youtube.com/live/TmYCwjU_5Wc?si=9nnnPSF6BQu1g0gJ)
 	* [Episode 21, Scott Clifton and Wes Morriston on the Clifton-Craig debate](https://youtu.be/fjajeG2QixM?si=-tmscdHRUlen4gOp)
 	* [Episode 4, Wes Morriston; On the Kalam Cosmological Argument](https://youtu.be/tsErbEt9MOQ?si=CYzJJHtGW1d8fkrA)
@@ -200,6 +201,8 @@
 	* [Whatever begins to exist has a cause? | Dr. Daniel Linford](https://youtu.be/XN2_xd6xtUk?si=gE1l9GgoteRcKpOj)
 	* [Hilbert's Hotel: A Comprehensive Response](https://youtu.be/wt-rEeUIcR4?si=kM-RVjuZHfECjjY4)
 	* [The Kalam's Causal Principle: An Analysis](https://youtu.be/XslZE3luFq4?si=w49y1m2FQwQASYqg)
+	* [Exposing the Hidden Premises of the Kalam Cosmological Argument](https://youtu.be/im2I0nXPUak?si=L5uxQkv_NLQx8cMN)
+	* [Demolishing the Kalam Cosmological Argument](https://youtu.be/DIHNFL4nlWo?si=ic1Ooq1LxSSaTrE0)
 
 28. [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
 	* [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
@@ -249,6 +252,8 @@
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=oEB8I9MGNvfR8EyG)
 	* [The moral argument for God isn't good (Part 1)](https://www.youtube.com/live/M1qo2qaJftI?si=aP_mF0qBIaP6N_Ar)
 	* [The moral argument for God isn't good (Part 2)](https://www.youtube.com/live/OT3obQ3yTAw?si=Spe9GwNXDMwwoiVF)
+	* [Is God Necessary for Morality? William Lane Craig vs Shelly Kagan Debate](https://youtu.be/SiJnCQuPiuo?si=MGZt3d0yE3BCFL83)
+	* [Why Natural Law Theory is FALSE](https://youtu.be/E8H_gUrPXL4?si=OWqKg_IhhwwnAJPK)
 
 31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
 
@@ -413,6 +418,7 @@
 	- [The Evidence for Jesus Is Worse than You Think](https://www.youtube.com/watch?v=PGHOp-9yAbA)
 	- [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
 	- [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
+	- [The Case Against the Resurrection (Richard Carrier)](https://youtu.be/amtbhnGWvpQ?si=S7m1g0lCTT0uLtsr)
 
 60. [Attributes_of_God_in_Christian_theology](https://en.wikipedia.org/wiki/Category:Attributes_of_God_in_Christian_theology)
 	* [Divine](https://en.wikipedia.org/wiki/Divine_simplicity) [Simplicity](https://plato.stanford.edu/entries/divine-simplicity/)
@@ -525,6 +531,7 @@
 	* [He Says Bible Prophecy Is So Precise, Only God Explains It! (Mike Winger response)](https://youtu.be/BHTD9HJB20Y?si=nksVTvVhQ-y4Tj5-)
 	* [Why Atheists Reject Biblical Prophecies](https://youtu.be/QwuKfY-mfkY?si=avuRmU2j7aYw7wWf)
 	* [Did Rhett Just Break Christianity on Resurrection Sunday? (Responding to ALL the Responses)](https://youtu.be/2onIdSbqSRQ?si=91oUHQPs3jxN1BOn)
+	* [CHRISTIANS: Stop Making This Ridiculous Mistake!](https://youtu.be/CNox3kHW8hg?si=uVQNNKXpKsbWkfcq)
 73. Refuting Classical Theism
 	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
 	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
@@ -569,12 +576,13 @@
 	* [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
 	* [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
 	* [The Apostle Paul: A Fabricated Figure of Early Christianity?](https://www.youtube.com/live/sdor4nEVYSA?si=kvQTdrXh6PmDUF9k)
+	* [Richard Carrier: Acts as Historical Fiction](https://youtu.be/B5MUUP4l6l4?si=PgPbD-04W3lk0-FN)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
 	* [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
 76. [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
-77. Cultural / Pragmatic Arguments
+77. Science Based Explanations of Religion & Cultural / Pragmatic Arguments
 	* ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
 	* [Christianity's Dirty Secret - Why Conservatives Lose Their Faith In Seminary](https://youtu.be/3VV_Rj4P6jo?si=iRhSagpiqqr4uEYN)
 	* [Cultural Evolution Disproves the God of the Bible](https://youtu.be/EbzbqUKg4s4?si=UX1zIwf4bKX6PTtz)
@@ -582,6 +590,9 @@
 	* [The Church is One Big Cosplay—And No One Wants to Admit It](https://youtu.be/XNGKjsy1QG4?si=XGcwlYycygC8voOx)
 	* [Is Religion Killing Your Brain?](https://youtu.be/4caG3evzv50?si=jJGzUPFAS0mcqjIW)
 	* [The God of Ignorance: Why Religion Doesn’t Want You to Grow Up](https://youtu.be/wVryuRd4fBE?si=KWNENVUrRpI2OLAL)
+	* [What Happened When Christianity Came to Power Last Time](https://youtu.be/d3ZTVaThZC8?si=7SyisfafUOiNryXi)
+	* [The Man Behind the Curtain: How We Created God](https://youtu.be/TBLf4LZTrsI?si=gg078UYxtgejZTKX)
+	* [The Co-Evolution of Religion and Humans](https://youtu.be/_IVnrdl-qno?si=SWb1akmTcqsS1zQv)
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)

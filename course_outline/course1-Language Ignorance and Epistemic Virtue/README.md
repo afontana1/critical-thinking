@@ -68,3 +68,4 @@
 ## Videos
 
 1. [#783 Kevin Dorst: Epistemology, Justified Beliefs, and Epistemic Modesty](https://youtu.be/yG4MGzq5zzc?si=yUwXNXbzTPm66c8D)
+2. [#1100 Jonathan Ichikawa: Epistemic Courage](https://youtu.be/PtUj6_8Be4I?si=vKMKj0T7U1f5TugA)

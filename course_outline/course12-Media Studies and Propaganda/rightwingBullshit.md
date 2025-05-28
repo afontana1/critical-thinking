@@ -197,3 +197,4 @@
 194. [Opus Dei: From Vatican Secrets to Washington Influence](https://youtu.be/NUhexmGPzVE?si=-KN11LU3LxwI-Ipa)
 195. [Opus Dei, Leonard Leo, and Project2025 | a strategy of division](https://youtu.be/0RjT8LGwn1U?si=GxcqUaYsimoGsdQO)
 196. [I was WRONG about Opus Dei (and J.D. Vance is involved) | Opus Dei Deep Dive](https://youtu.be/reHcPa3fJCI?si=4zhGcDtZqlPFx7em)
+197. [Christian Nationalism: Using Spiritual Manipulation to Control a Party](https://youtu.be/Y_CwOp-v8gM?si=IwZqm-tch7PDg26s)
