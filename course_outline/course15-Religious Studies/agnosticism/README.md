@@ -418,6 +418,7 @@
 140. [#165 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists](https://youtu.be/gDfSMv2BHzg?si=nT6tC4gRvGhd9KTq)
 141. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
 142. [#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion](https://youtu.be/SnBRgXMHXtg?si=qfKd2POwJY21JgZm)
+143. [#1103 Paul Seabright - The Divine Economy: How Religions Compete for Wealth, Power, and People](https://youtu.be/BxWdO7V37H0?si=OcEPH2N1q_M8xlVJ)
 
 </details>
 
@@ -600,7 +601,7 @@
 45. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
 46. [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 47. [JL Schellenberg](https://en.wikipedia.org/wiki/J._L._Schellenberg)
-48. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
+48. [Victor Moberger](https://www.umu.se/en/staff/victor-moberger/)
 49. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
 50. [Voltaire](https://plato.stanford.edu/entries/voltaire/)
 51. [John W Loftus](https://en.wikipedia.org/wiki/John_W._Loftus)
@@ -646,7 +647,7 @@
 91. [Jeffery Jay Lowder](https://infidels.org/author/jeffery-jay-lowder/)
 92. [William L. Vanderburgh](https://williamvanderburgh.com/)
 93. [Michael Hemmingsen](https://philpeople.org/profiles/michael-hemmingsen)
-94. [C.M. Lorkowski](https://philpeople.org/profiles/c-m-lorkowski)
+94. [Taner Edis](https://en.wikipedia.org/wiki/Taner_Edis)
 95. [Aron Lucas](https://infidels.org/author/aron-lucas/)
 96. [Felipe Leon](https://philpeople.org/profiles/felipe-leon-1)
 97. [Jason Thibodeau](https://philpeople.org/profiles/jason-thibodeau)
@@ -667,8 +668,6 @@
 112. [Andrew Pavelich](https://philpeople.org/profiles/andrew-pavelich)
 113. [Matthew Adelstein](https://philpeople.org/profiles/matthew-adelstein)
 114. [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
-115. [Victor Moberger](https://www.umu.se/en/staff/victor-moberger/)
-116. [Taner Edis](https://en.wikipedia.org/wiki/Taner_Edis)
 
 ## Books
 
@@ -707,7 +706,9 @@
 33. [A Qualitative Study of Black Atheists: "Don’t Tell Me You’re One of Those!"](https://www.amazon.com/Qualitative-Study-Black-Atheists-Religion/dp/1498592392)
 34. [Caught in the Pulpit: Leaving Belief Behind](https://www.amazon.com/Caught-Pulpit-Leaving-Belief-Behind/dp/1634310209)
 35. [Amazing Conversions: Why Some Turn to Faith & Others Abandon Religion](https://www.amazon.com/Amazing-Conversions-Others-Abandon-Religion/dp/1573921475)
-36. [Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation](https://www.amazon.com/Jesus-John-Wayne-Evangelicals-Corrupted/dp/1631495739)
-37. [American Idolatry: How Christian Nationalism Betrays the Gospel and Threatens the Church](https://www.amazon.com/American-Idolatry-Christian-Nationalism-Threatens/dp/1587435764)
+36. [A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam](https://www.amazon.com/History-God-000-Year-Judaism-Christianity/dp/0345384563)
+37. [Who Wrote the New Testament?: The Making of the Christian Myth](https://www.amazon.com/Who-Wrote-New-Testament-Christian/dp/0060655186)
+38. [The Divine Economy: How Religions Compete for Wealth, Power, and People](https://www.amazon.com/Divine-Economy-Religions-Compete-Wealth-ebook/dp/B0CNJ9WRKP)
+39. [Resurrection and Reception in Early Christianity (Routledge Studies in Religion) ](https://www.amazon.com/Resurrection-Reception-Christianity-Routledge-Religion/dp/1138048275)
 
 </details>

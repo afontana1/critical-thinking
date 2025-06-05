@@ -548,6 +548,7 @@
 	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
 	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
 	* [Why Theism can't Explain Anything - Reviewing another Capturing Christianity Video](https://www.youtube.com/live/7hA8hHgbI3w?si=rer18dxEO5qZpl4e)
+	* [A Critique of Substance Dualism - Responding to @faithbecauseofreason8381](https://www.youtube.com/live/9COVx5pwQUw?si=6opTMTW-TjSFMeZt)
 74. Mythological Origins of Monotheistic Religions
 	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
 	* [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
@@ -577,6 +578,7 @@
 	* [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
 	* [The Apostle Paul: A Fabricated Figure of Early Christianity?](https://www.youtube.com/live/sdor4nEVYSA?si=kvQTdrXh6PmDUF9k)
 	* [Richard Carrier: Acts as Historical Fiction](https://youtu.be/B5MUUP4l6l4?si=PgPbD-04W3lk0-FN)
+	* [Jesus & the Translation Fable: The TRUTH is right in front of your eyes](https://www.youtube.com/live/pZ2JnnS9Scw?si=Tyl9aKY4u0PGteec)
 75. Religious Language
 	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
 	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
@@ -593,7 +595,8 @@
 	* [What Happened When Christianity Came to Power Last Time](https://youtu.be/d3ZTVaThZC8?si=7SyisfafUOiNryXi)
 	* [The Man Behind the Curtain: How We Created God](https://youtu.be/TBLf4LZTrsI?si=gg078UYxtgejZTKX)
 	* [The Co-Evolution of Religion and Humans](https://youtu.be/_IVnrdl-qno?si=SWb1akmTcqsS1zQv)
+	* [When Debate Becomes Disaster | Jordan Peterson vs. 20 Atheists](https://youtu.be/rfaAKgwA0qk?si=boGEQn0nSzht5OPr)
+	* [Jordan Peterson vs Danny, Danny reacts with the SciPhi Show, Episode 19](https://youtu.be/PnOqkaEXeNo?si=9Mea5jXPRAGrDpA_)
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)
-79. [A Critique of Substance Dualism - Responding to @faithbecauseofreason8381](https://www.youtube.com/live/9COVx5pwQUw?si=6opTMTW-TjSFMeZt)
