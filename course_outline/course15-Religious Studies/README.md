@@ -126,3 +126,5 @@
 90. [Torcaso v. Watkins](https://en.wikipedia.org/wiki/Torcaso_v._Watkins)
 91. [Bible Version Debate](https://en.wikipedia.org/wiki/Bible_version_debate)
 92. [Interpreters Bible Series](https://en.wikipedia.org/wiki/Interpreter%27s_Bible_series)
+93. [Dialogue between a Man and His God](https://en.wikipedia.org/wiki/Dialogue_between_a_Man_and_His_God)
+94. [Ludlul bēl nēmeqi](https://en.wikipedia.org/wiki/Ludlul_b%C4%93l_n%C4%93meqi)
