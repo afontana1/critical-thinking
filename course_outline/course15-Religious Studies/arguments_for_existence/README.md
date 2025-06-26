@@ -597,6 +597,7 @@
 	* [The Co-Evolution of Religion and Humans](https://youtu.be/_IVnrdl-qno?si=SWb1akmTcqsS1zQv)
 	* [When Debate Becomes Disaster | Jordan Peterson vs. 20 Atheists](https://youtu.be/rfaAKgwA0qk?si=boGEQn0nSzht5OPr)
 	* [Jordan Peterson vs Danny, Danny reacts with the SciPhi Show, Episode 19](https://youtu.be/PnOqkaEXeNo?si=9Mea5jXPRAGrDpA_)
+	* [Jordan Peterson: What Went Wrong?](https://youtu.be/H16GBjvB3D4?si=Q15Kxb6sy7ZpAXkB)
 78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
 	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
 	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)

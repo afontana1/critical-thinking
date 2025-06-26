@@ -271,6 +271,7 @@
 159. [The faith that was meant to heal me was actually killing me - Aaron Tomlinson](https://youtu.be/kdgHP_57KC0?si=DYpVj_Qy_TvH6HcS)
 160. [Christianity is a mind virus of deception and control - Jo-Ann](https://youtu.be/WmYrnX0que4?si=6TErn89D2cGr_E_W)
 161. [Bible Scholar Dr. Robert M. Price Leaves Christianity](https://www.youtube.com/live/UXE_zbct7lg?si=ygP2MK2He4kFBFXB)
+* [Why Jordan Peterson Made Me An Atheist - Jubilee Surrounded](https://youtu.be/wRn5mUy5aOQ?si=80tdVevVZock_4aH)
 
 </details>
 
