@@ -7,7 +7,12 @@
 3. [Intellectual Responsibility](https://en.wikipedia.org/wiki/Intellectual_responsibility)
 4. [Virtue Epistemology](https://en.wikipedia.org/wiki/Virtue_epistemology)
 5. [Vices of the Mind, by Quassim Cassam](https://academic.oup.com/mind/article-abstract/129/515/959/5536335)
-6. [On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)
+6. [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
+
+### Undesirable Epistemic Qualities
+
+1. [On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)
+2. [Cognitive Rigidity](https://en.wikipedia.org/wiki/Rigidity_(psychology))
 
 ## People
 
