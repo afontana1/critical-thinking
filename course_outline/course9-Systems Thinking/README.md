@@ -1,4 +1,4 @@
-# Systems Thinking
+# [Systems Thinking](https://en.wikipedia.org/wiki/Category:Systems_thinking)
 
 - [Refer to my Computational Science Repository](https://github.com/afontana1/computational-science/tree/master/systems)
 - [Systems Innovation](https://www.systemsinnovation.network/discovery)
