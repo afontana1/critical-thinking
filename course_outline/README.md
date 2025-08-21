@@ -13,22 +13,7 @@
 
 <details><summary><h2>Video Content</h2></summary>
 
-## General
-
-1. [Closer to Truth](https://closertotruth.com/)
-2. [Freakonomics](https://www.youtube.com/@Freakonomics)
-3. [LikeStoriesofOld](https://www.youtube.com/@LikeStoriesofOld)
-4. [Masaman](https://www.youtube.com/@Masaman)
-5. [MegaProjects](https://www.youtube.com/@megaprojects9649)
-6. [Sean Carroll](https://www.youtube.com/@seancarroll)
-7. [The Dissenter](https://www.youtube.com/@TheDissenterRL)
-8. [The Partially Examined Life](https://www.youtube.com/@ThePartiallyExaminedLife)
-9. [The Royal Institution](https://www.youtube.com/TheRoyalInstitution)
-10. [The Panpsycast](https://www.youtube.com/@ThePanpsycast)
-11. [NBER](https://www.youtube.com/@NBERvideos)
-12. [unSILOed Podcast](https://www.youtube.com/@unsiloedpodcastwithgreglab2188)
-
-## Politically Oriented Content
+## Society and Politics
 
 1. [CarefreeWandering](https://www.youtube.com/@carefreewandering)
 2. [CaspianReport](https://www.youtube.com/@CaspianReport)
@@ -42,20 +27,12 @@
 10. [Real Life Lore](https://www.youtube.com/@RealLifeLore)
 11. [Ryan Chapman](https://www.youtube.com/@realryanchapman)
 12. [Unreported World](https://www.youtube.com/@unreportedworld)
-13. [Vlad Vexler](https://www.youtube.com/@VladVexler)
-14. [Zoe Bee](https://www.youtube.com/@zoe_bee)
+13. [Atlantic Council](https://www.atlanticcouncil.org/)
+14. [European Council on Foreign Relations](https://ecfr.eu/)
 15. [Then & Now](https://www.youtube.com/@ThenNow)
 16. [Economic Policy Institute](https://www.youtube.com/@EconomicPolicy)
 17. [Watson Institute for International and Public Affairs](https://www.youtube.com/@WatsonInstitute)
-18. [European Council on Foreign Relations](https://ecfr.eu/)
-19. [Atlantic Council](https://www.atlanticcouncil.org/)
 
-## Documentaries
-
-1. [Journyman](https://www.youtube.com/@journeyman)
-2. [DWDocumentary](https://www.youtube.com/@DWDocumentary)
-3. [VPRO Documentary](https://www.youtube.com/vprodocumentary)
-4. [WELT Documentary](https://www.youtube.com/@WELTDocumentary)
 
 ## Philosophy
 
@@ -79,6 +56,10 @@
 16. [Artificiality](https://www.youtube.com/@Artificiality)
 17. [Red Star](https://www.youtube.com/@TaimurRahman-English)
 18. [Free Will Show](https://www.youtube.com/@thefreewillshow2132)
+19. [The Dissenter](https://www.youtube.com/@TheDissenterRL)
+20. [The Partially Examined Life](https://www.youtube.com/@ThePartiallyExaminedLife)
+21. [The Royal Institution](https://www.youtube.com/TheRoyalInstitution)
+22. [The Panpsycast](https://www.youtube.com/@ThePanpsycast)
 
 ### Playlists 
 
@@ -104,30 +85,6 @@
 20. [Marxism](https://youtube.com/playlist?list=PLq-kUiXssVioxBWwToyN3Apqd8f_a7mCC&si=iB5cTgAgJ6d90Rua)
 21. [MAVERICK THINKERS, VOL. 1: CHARLES S. PEIRCE](https://youtube.com/playlist?list=PLOGsWqsfK6qSuuNrcstFdSbig2DaS1mM5&si=e9MGFefgtVRdMq4A)
 
-## Religion
-
-### Channels
-
-1. [Bart Ehrman](https://www.youtube.com/@bartdehrman)
-2. [DarkMatter2525](https://www.youtube.com/@DarkMatter2525)
-3. [EmersonGreen](https://www.youtube.com/@EmersonGreen)
-4. [Freedom From Religion Foundation](https://www.youtube.com/@FFRForg)
-5. [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
-6. [James Fodor](https://www.youtube.com/@JamesFodor)
-7. [LetsTalkReligion](https://www.youtube.com/@LetsTalkReligion)
-8. [Majesty of Reason](https://www.youtube.com/@MajestyofReason)
-9. [Mindshift](https://www.youtube.com/@MindShift-Brandon)
-10. [MythVisionPodcast](https://www.youtube.com/@MythVisionPodcast)
-11. [Skydive Phil](https://www.youtube.com/@PhilHalper1)
-12. [Religion for Breakfast](https://www.youtube.com/@ReligionForBreakfast)
-13. [Theramin Trees](https://www.youtube.com/@TheraminTrees)
-14. [The Thinking Atheist](https://www.youtube.com/@TheThinkingAtheist)
-
-### Playlists
-
-1. [Misquoting Jesus Podcast with Bart Ehrman](https://youtube.com/playlist?list=PLmutpnyeVQcrRNOzPWdEothXcCVo2Npfv&si=hpr4cPTVGm_2YspJ)
-2. [Philosophy of Religion, full online course: Matt McCormick](https://youtube.com/playlist?list=PLUJ-vlKYyqzAaiZJLOZyyXuHTfi1SS_6y&si=WaR55T49tZkA2Lkg)
-3. [Exposing Discovery Institute](https://www.youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q)
 
 ## Science & Engineering
 

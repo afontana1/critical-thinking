@@ -544,6 +544,13 @@
 - [Harmonic Atheist](https://www.youtube.com/@HarmonicAtheist)
 - [The Non Alchemist](https://www.youtube.com/@TheNonAlchemist)
 - [Darante' LaMar](https://www.youtube.com/@DaranteLaMar)
+- [Bart Ehrman](https://www.youtube.com/@bartdehrman)
+- [EmersonGreen](https://www.youtube.com/@EmersonGreen)
+- [James Fodor](https://www.youtube.com/@JamesFodor)
+- [Skydive Phil](https://www.youtube.com/@PhilHalper1)
+- [Religion for Breakfast](https://www.youtube.com/@ReligionForBreakfast)
+- [Theramin Trees](https://www.youtube.com/@TheraminTrees)
+- [The Thinking Atheist](https://www.youtube.com/@TheThinkingAtheist)
 
 </details>
 

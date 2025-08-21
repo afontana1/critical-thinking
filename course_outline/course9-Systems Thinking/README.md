@@ -35,6 +35,10 @@
 10. [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
 11. [System Archetype](https://en.wikipedia.org/wiki/System_archetype)
     * [Examples](https://www.systems-thinking.org/arch/arch.htm)
+12. [Systems Theory](https://en.wikipedia.org/wiki/Category:Systems_theory)
+13. [Systems Analysis](https://en.wikipedia.org/wiki/Category:Systems_analysis)
+14. [Systems Engineering](https://en.wikipedia.org/wiki/Category:Systems_engineering)
+15. [Systems Science](https://en.wikipedia.org/wiki/Portal:Systems_science)
 
 ## Videos
 
