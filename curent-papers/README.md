@@ -39,6 +39,7 @@
 24. [Daniel Hoyer](https://csh.ac.at/daniel-hoyer/)
 25. [Luis H. Favela](https://scholar.google.com/citations?user=-MnTuJUAAAAJ&hl=en)
 26. [Deborah M. Gordon](https://web.stanford.edu/~dmgordon/)
+27. [Tina Eliassi-Rad](https://eliassi.org/)
 
 ### Journals, Institutes, Research Labs
 
@@ -52,6 +53,7 @@
 8. [Computational Social Science Lab](https://dgarcia.eu/)
 9. [Complexity Hub](https://csh.ac.at/)
 10. [Cascade Institute](https://cascadeinstitute.org/)
+11. [The Computational Social Sciences Society of the Americas](https://computationalsocialscience.org/)
 
 ## Systems Science
 

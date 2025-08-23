@@ -1,10 +1,13 @@
 # Content Related to [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)
 
+- [Institute and Faculty of Actuaries](https://actuaries.org.uk/)
+- [Society for Risk Analysis](https://www.sra.org/)
+
+## [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
+
 - [Behavioral Economics](https://en.wikipedia.org/wiki/Category:Behavioral_economics)
 - [Rational Choice Theory](https://en.wikipedia.org/wiki/Category:Rational_choice_theory)
 - [Introduction to Consumer Behavior](https://opentextbc.ca/introconsumerbehaviour/)
-
-## [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics) and [Biases](https://en.wikipedia.org/wiki/Category:Bias)
 
 1. [Category: Memory Biases](https://en.wikipedia.org/wiki/Category:Memory_biases)
 2. [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)

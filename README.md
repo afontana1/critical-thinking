@@ -43,6 +43,8 @@
 
 ## Great Introductory Explorations
 
+- [Critical Thinking, Logic, and Argument](https://read.aupress.ca/projects/critical-thinking-logic-and-argument)
+
 ### Evaluating Arguments
 
 - [A Workbook for Arguments, Part 1: Arguments](https://majestyofreason.wordpress.com/2018/07/01/a-workbook-for-arguments-part-1/)
