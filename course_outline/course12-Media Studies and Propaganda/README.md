@@ -65,6 +65,7 @@
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
     * [Media Analysis](https://en.wikipedia.org/wiki/Category:Media_analysis)
     * [Concentration of Media Ownership](https://en.wikipedia.org/wiki/Category:Concentration_of_media_ownership)
+    - [Outline of Public Relations](https://en.wikipedia.org/wiki/Outline_of_public_relations)
 2. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 3. [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)
 4. [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
