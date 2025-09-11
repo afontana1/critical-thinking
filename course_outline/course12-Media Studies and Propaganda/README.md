@@ -60,6 +60,7 @@
 - [Media Ecology](https://media-ecology.org/)
 - [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
 - [Network Contagion Institute](https://networkcontagion.us/)
+- [Media Manipulaton Casebook](https://mediamanipulation.org/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
