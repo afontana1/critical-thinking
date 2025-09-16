@@ -61,6 +61,8 @@
 - [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
 - [Network Contagion Institute](https://networkcontagion.us/)
 - [Media Manipulaton Casebook](https://mediamanipulation.org/)
+- [Digital Forensic Research Lab](https://dfrlab.org/)
+- [Disinformation, Misinformation, and Fake News Teach-Out: Michigan Online](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
@@ -81,6 +83,7 @@
 13. [Mass Media Monitoring](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
 14. [Distinction without a Difference](https://en.wikipedia.org/wiki/Distinction_without_a_difference)
 15. [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
+16. [The 4D Model of Disinformation Campaigns](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/lessons/4d-model-disinformation-campaigns/)
 
 ## Marketing Tactics
 
@@ -138,6 +141,8 @@
 13. [Quassim Cassam (University of Warwick): Disinformation, Narratives and Radicalization](https://youtu.be/ko3dw-9tiVU?si=kFqyuBs-UgXqDwx-)
 14. [Extremism - A Philosophical Analysis by Professor Quassim Cassam](https://www.youtube.com/live/5mJXaaT3d0M?si=neZEGrLk4E4R0Id9)
 15. [Misinformation | With Lisa Bortolotti, Quassim Cassam, and Cailin O’Connor](https://youtu.be/4c3xcjlL5Yw?si=rbCrqYZdn5mCu_lk)
+16. [C. Thi Nguyen: The Seductions of Clarity](https://youtu.be/ioyr4X4A4C0?si=KXtl3axy5IBZ2hEp)
+17. [#38 C. Thi Nguyen - Value Capture by Gamification](https://youtu.be/b3IybuXi3DI?si=8yg_X77kMQ5I4MFS)
 
 ## Videos
 
@@ -200,6 +205,25 @@
 57. [Expert guide to conspiracy theories part 4 – how they spread](https://youtu.be/ZLknUf7xWeU?si=dwMzKF30aiJgXEiL)
 58. [Expert guide to conspiracy theories part 5 – how dangerous are they?](https://youtu.be/8Mh8V4I0hKI?si=9IiBYcWBBIW0ccLl)
 59. [Expert guide to conspiracy theories part 6 – coronavirus](https://youtu.be/2crOiEog9mY?si=0iOWZw3WX7ca14cA)
+60. [Lecture 'Seeing Like an Extremist State' by Jonathan Maynard](https://youtu.be/l1S3lR9F6O8?si=78Ex0NF2yVes644u)
+61. [Group Fanaticism and Narratives of Resentment - Paul Katsafanes](https://youtu.be/1CWch9MarGo?si=zjImHXink0G8A2oC)
+62. [#761 Paul Katsafanas - Philosophy of Devotion: The Longing for Invulnerable Ideals](https://youtu.be/is5snuaUUA0?si=rulpsuGZDH9Nody_)
+63. [The Foundation of Propagandistic Speech | Jason Stanley](https://youtu.be/odUiEHdsgT8?si=Yfz1kkeqpfXlX4gp)
+64. [Keynote 4 'How to take a person with extreme beliefs seriously?' Naomi Kloosterboer](https://youtu.be/jMe5SlLz3Ro?si=Vsux4ibkxWTLQPWA)
+65. [Extreme Beliefs - Mapping the Terrain: Day 2 - Ruth Tietjen and Rik Peels & Quassim Cassam](https://youtu.be/fVedcjoM034?si=cL6Ni6dPzpr14oC2)
+66. [Quassim Cassam (Warwick): 'Vaccine Hesitancy, Old and New'](https://youtu.be/79oFUztfiLM?si=31CxX3o_HHSlbFOz)
+67. [Quassim Cassam (University of Warwick): Disinformation, Narratives and Radicalization](https://youtu.be/ko3dw-9tiVU?si=rUrZkM8Kw79--P95)
+68. [Quassim Cassam - Misunderstanding Conspiracy Theories | PERITIA Lectures](https://www.youtube.com/live/DiDAsO0KPKQ?si=LezfSxqO2zIXA-h-)
+69. [Episode 32: Naomi Oreskes on Climate Change and the Distortion of Scientific Facts](https://youtu.be/DhDujggi8DY?si=hO5mMAwCajZEYb99)
+70. [Naomi Oreskes on "Giant Power: Technology, Energy, and the Beginnings of Post-Truth America"](https://youtu.be/ZuEsVOIda9w?si=5LHLR4doQZghamkJ)
+71. [Exposing the Big “Free Market” Myth with Author Naomi Oreskes](https://youtu.be/kJV7_0BIbxo?si=BFP1dut1kO7XtNiI)
+72. [Luhmann’s Media Theory: The Specifics](https://youtu.be/9ZSOsaiQGD0?si=2gNLIk9JlIGgPC7G)
+73. [Noam Chomsky - The Political Economy of the Mass Media - Part 1](https://youtu.be/f6JqFtDWfxI?si=F5F3ok8tvRYw9BIT)
+74. [Noam Chomsky - The Political Economy of the Mass Media - Part 2](https://youtu.be/lobjJYXTJpQ?si=EAZaIgehSFa2OMbP)
+75. [Noam Chomsky Necessary Illusions](https://youtu.be/wi1WVEhlMh0?si=dkSdPUfQgHpwkCe-)
+76. [Cailin O'Connor: Multiple Mechanisms of Polarization](https://youtu.be/AkoQ-EI-5Bg?si=JZC_5pIXjVXhawkr)
+77. [Sarah Fisher: Reading between the lines. Language-based inferences and (ir)rationality](https://youtu.be/wtQ6I0KnnwA?si=hNBkL5Gu96Fq50gV)
+78. [Mona Simion: Politically Motivated Reasoning and Evidence Resistance](https://youtu.be/MyStmd7aBys?si=0nAlBMH6UBBTYP5s)
 
 ## Psychology and Sociology of Conspiracy Theory
 
