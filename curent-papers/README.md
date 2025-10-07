@@ -40,6 +40,7 @@
 25. [Luis H. Favela](https://scholar.google.com/citations?user=-MnTuJUAAAAJ&hl=en)
 26. [Deborah M. Gordon](https://web.stanford.edu/~dmgordon/)
 27. [Tina Eliassi-Rad](https://eliassi.org/)
+28. [Petter Tornberg](https://www.pettertornberg.com/)
 
 ### Journals, Institutes, Research Labs
 
