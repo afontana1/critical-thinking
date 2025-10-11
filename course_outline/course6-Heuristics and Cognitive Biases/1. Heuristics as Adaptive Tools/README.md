@@ -1,0 +1,21 @@
+# Resources
+
+- [Category: Cognitive Bias](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
+- [List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+1. [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)
+2. [Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
+3. [Biases](https://en.wikipedia.org/wiki/Category:Bias)
+4. [Defensive Attribution Hypothesis](https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis)
+5. [Self Serving Bias](https://en.wikipedia.org/wiki/Self-serving_bias)
+6. [Essentialism Bias](https://en.shortcogs.com/bias/essentialism-bias)
+7. [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
+8. [Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)
+9. [Ambiguity Tolerance](https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance)
+10. [Rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology))
+11. [Cognitive_inertia](https://en.wikipedia.org/wiki/Category:Cognitive_inertia)
+12. [Intentionality Bias](https://pubmed.ncbi.nlm.nih.gov/18692779/)
+13. [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
+14. [Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)
+15. [Actor–observer asymmetry](https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry)
+16. [Attribution Bias](https://en.wikipedia.org/wiki/Attribution_bias)

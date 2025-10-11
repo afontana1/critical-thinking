@@ -8,6 +8,7 @@
 4. [Dan Williams Philosophy](https://danwilliamsphilosophy.com/)
 5. [Cailin O'Connor](https://cailinoconnor.com/)
 6. [Quassim Cassam](https://www.quassimcassam.com/)
+7. [Shane Littrell](https://shanelittrell.com/)
 
 ## Relevant Books
 
@@ -224,6 +225,7 @@
 76. [Cailin O'Connor: Multiple Mechanisms of Polarization](https://youtu.be/AkoQ-EI-5Bg?si=JZC_5pIXjVXhawkr)
 77. [Sarah Fisher: Reading between the lines. Language-based inferences and (ir)rationality](https://youtu.be/wtQ6I0KnnwA?si=hNBkL5Gu96Fq50gV)
 78. [Mona Simion: Politically Motivated Reasoning and Evidence Resistance](https://youtu.be/MyStmd7aBys?si=0nAlBMH6UBBTYP5s)
+79. [Why We're Living in the Age of Bulls**t (and what to do about it)](https://youtu.be/r3-dpUJOduE?si=h4wD1fd88d2Arah-)
 
 ## Psychology and Sociology of Conspiracy Theory
 

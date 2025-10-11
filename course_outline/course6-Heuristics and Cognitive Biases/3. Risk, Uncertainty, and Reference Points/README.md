@@ -1,0 +1,15 @@
+# Resources
+
+1. [Risk](https://en.wikipedia.org/wiki/Category:Risk)
+2. [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty) 
+3. [Decision_analysis](https://en.wikipedia.org/wiki/Category:Decision_analysis)
+4. [Decision Theory](https://en.wikipedia.org/wiki/Category:Decision_theory)
+5. [Decision Making](https://en.wikipedia.org/wiki/Category:Decision-making)
+6. [Measurement](https://en.wikipedia.org/wiki/Category:Measurement)
+7. [Reliability_analysis](https://en.wikipedia.org/wiki/Category:Reliability_analysis)
+8. [Prospect Theory](https://en.wikipedia.org/wiki/Category:Prospect_theory)
+9. [Utility](https://en.wikipedia.org/wiki/Category:Utility)
+10. [Risk_analysis](https://en.wikipedia.org/wiki/Category:Risk_analysis)
+11. [Black_swan_theory](https://en.wikipedia.org/wiki/Black_swan_theory)
+12. [Economics of Uncertainty](https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty)
+13. [Multi Criteria Decision Analysis](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)

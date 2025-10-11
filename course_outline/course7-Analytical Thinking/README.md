@@ -86,7 +86,7 @@ Develop algorithmic habits of thought — systematic, stepwise problem solving t
 
 ---
 
-## **Unit 4 — Data, Risk, and Decision Analysis**
+## **Unit 4 — Decision Analysis**
 
 **Goal**
 Help learners analyze uncertain situations and make reasoned judgments about data, risk, and tradeoffs without requiring formal statistics.
