@@ -388,6 +388,7 @@
 	- [Rejections of Informational Concepts](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
 	- [Rare Earth Hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
 	- [Complexity isn't that Complex of an Argument](https://www.youtube.com/watch?v=9jvv5lcs27U)
+	- [Mathematician Debunks Creationist Information Theory](https://youtu.be/iJe_y4yXM7s?si=1UiAYjKgk_EJSNKL)
 
 55. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
 	- [Refutation](https://rationalwiki.org/wiki/Lewis_Trilemma)
