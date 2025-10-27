@@ -67,6 +67,7 @@
 - [Stanford Social Media Lab](https://sml.stanford.edu/)
 - [EU Disinfo Lab](https://www.disinfo.eu/)
 - [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
+- [Disinformation Tactics](https://www.disinformation.ch/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
