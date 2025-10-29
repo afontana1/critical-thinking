@@ -273,6 +273,8 @@
 161. [Bible Scholar Dr. Robert M. Price Leaves Christianity](https://www.youtube.com/live/UXE_zbct7lg?si=ygP2MK2He4kFBFXB)
 162. [Why Jordan Peterson Made Me An Atheist - Jubilee Surrounded](https://youtu.be/wRn5mUy5aOQ?si=80tdVevVZock_4aH)
 163. [How I Became a “Radical” Atheist (Without Raising a Fist)](https://youtu.be/tODZzlZ7bqM?si=mGMZMMAdlsOmuBV_)
+164. [From worship leader to atheist - Jessi Cone](https://youtu.be/b4XwpcsywnE?si=ra77cKQ9sDY7NK2C)
+165. [Ex-Pastors Panel: Why We Couldn’t Stay in the Pulpit](https://youtu.be/rvwgEi-11Eg?si=aqsFOjOibCO7v1hZ)
 
 </details>
 
@@ -677,6 +679,7 @@
 112. [Andrew Pavelich](https://philpeople.org/profiles/andrew-pavelich)
 113. [Matthew Adelstein](https://philpeople.org/profiles/matthew-adelstein)
 114. [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
+115. [Jason Rosenhouse](https://en.wikipedia.org/wiki/Jason_Rosenhouse)
 
 ## Books
 
