@@ -9,6 +9,7 @@
 5. [Cailin O'Connor](https://cailinoconnor.com/)
 6. [Quassim Cassam](https://www.quassimcassam.com/)
 7. [Shane Littrell](https://shanelittrell.com/)
+8. [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
 
 ## Relevant Books
 
