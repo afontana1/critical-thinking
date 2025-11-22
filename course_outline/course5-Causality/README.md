@@ -20,7 +20,7 @@
 
 **Feeds forward.** Sets the vocabulary you’ll reuse when talking about risks, biases (e.g., “post hoc”), and model/systems thinking.
 
-**Resources (plain text).**
+**Resources.**
 
 * John Stuart Mill, “A System of Logic,” Book III (1843).
 * James Woodward, “Making Things Happen: A Theory of Causal Explanation” (2003).
@@ -50,7 +50,7 @@
 
 **Feeds forward.** Prepares readers to parse risk studies and to spot bias and overclaiming.
 
-**Resources (plain text).**
+**Resources.**
 
 * William R. Shadish, Thomas D. Cook, and Donald T. Campbell, “Experimental and Quasi-Experimental Designs for Generalized Causal Inference” (2002).
 * Donald T. Campbell and Julian C. Stanley, “Experimental and Quasi-Experimental Designs for Research” (1966).
@@ -80,7 +80,7 @@
 
 **Feeds forward.** Gives visual habits that help with risk communication (what’s adjusted?), bias (where did it creep in?), and systems thinking (feedback loops vs. DAG acyclicity).
 
-**Resources (plain text).**
+**Resources.**
 
 * Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell, “Causal Inference in Statistics: A Primer” (2016), Chapters 1–3.
 * Stephen L. Morgan and Christopher Winship, “Counterfactuals and Causal Inference” (2nd ed., 2015), conceptual chapters.
@@ -100,7 +100,7 @@
 * **General vs. specific causation** (population evidence vs. “did it cause this person’s harm?”).
 * **Absolute vs. relative risk** (bridges to next unit).
 
-**Key resources (plain text).**
+**Key resources.**
 
 * A. Bradford Hill, “The Environment and Disease: Association or Causation?” (1965).
 * Kenneth J. Rothman, Sander Greenland, and Timothy L. Lash, “Modern Epidemiology” (3rd ed., 2008), selected conceptual sections.
@@ -113,7 +113,7 @@
 * High-level ideas: **instrumental variables** (encouragement devices), **difference-in-differences** (before/after with a comparison), **regression discontinuity** (thresholds).
 * Emphasis on assumptions and falsification tests (placebos, balance checks, pre-trends).
 
-**Key resources (plain text).**
+**Key resources.**
 
 * Joshua D. Angrist and Jörn-Steffen Pischke, “Mastering ’Metrics” (2014).
 * Scott Cunningham, “Causal Inference: The Mixtape” (2021), narrative chapters.
@@ -125,7 +125,7 @@
 * **Proximate cause**: foreseeability, scope of risk, policy limits; the Palsgraf intuition.
 * Standards of proof and expert evidence: **preponderance of the evidence** (civil), **Daubert** reliability factors, role of **epidemiological evidence** in toxic torts.
 
-**Key resources (plain text).**
+**Key resources.**
 
 * H. L. A. Hart and Tony Honoré, “Causation in the Law” (2nd ed., 1985).
 * Richard W. Wright, “Causation in Tort Law,” California Law Review (1985).
@@ -139,7 +139,7 @@
 * **Counterfactual fairness**: causal thinking to assess algorithmic bias.
 * Causal discovery as hypothesis generation (caveats!).
 
-**Key resources (plain text).**
+**Key resources.**
 
 * Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, “Elements of Causal Inference” (2017), conceptual intro.
 * Judea Pearl and Dana Mackenzie, “The Book of Why” (2018), Chs. on AI and the ladder of causation.
@@ -167,7 +167,7 @@
 
 **Feeds forward.** Mechanisms tie into systems thinking (feedback, delays) and help with external validity and model choice.
 
-**Resources (plain text).**
+**Resources.**
 
 * Peter Hedström and Petri Ylikoski, “Causal Mechanisms in the Social Sciences” (2010).
 * Alexander L. George and Andrew Bennett, “Case Studies and Theory Development in the Social Sciences” (2005).
@@ -197,7 +197,7 @@
 
 **Feeds forward.** This section hands off directly to **Risk Analysis** (absolute risk, expected harm), **Cognitive Bias** (how our minds mangle causal evidence), **Analytical/Model Thinking** (choosing representations), and **Systems Thinking** (feedback and nonlinearity).
 
-**Resources (plain text).**
+**Resources.**
 
 * David Spiegelhalter, “The Art of Statistics” (2019), communication chapters.
 * American Statistical Association, “Statement on p-Values” (2016), lay summaries.
