@@ -409,4 +409,4 @@ This connects your themes of ignorance & virtue with explicitly social structure
 [36]: https://www.amazon.com/Philosophy-Pseudoscience-Reconsidering-Demarcation-Problem/dp/022605196X "Philosophy of Pseudoscience: Reconsidering the ..."
 [37]: https://www.cambridge.org/core/journals/language-and-cognition/article/metaphorical-framing-in-political-discourse-through-words-vs-concepts-a-metaanalysis/865DFAB51172998E1C9574D74E275AAE "Metaphorical framing in political discourse through words vs. concepts: a meta-analysis"
 [38]: https://web.english.upenn.edu/~cavitch/pdf-library/Bruner_Narrative.pdf "Narrative Construction of Reality"
-[39]: https://en.wikipedia.org/wiki/Narrative_paradigm?utm_source=chatgpt.com "Narrative Paradigm"
+[39]: https://en.wikipedia.org/wiki/Narrative_paradigm "Narrative Paradigm"

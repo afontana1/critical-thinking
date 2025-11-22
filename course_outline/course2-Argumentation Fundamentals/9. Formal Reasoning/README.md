@@ -1,0 +1,15 @@
+## Formal Reasoning
+
+1. [Rules of Inference](https://en.wikipedia.org/wiki/List_of_rules_of_inference)
+2. [Principle of Explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
+3. [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)
+4. [Non Classical Knowledge](https://en.wikipedia.org/wiki/Category:Non-classical_logic)
+5. [Formal Logic](https://en.wikipedia.org/wiki/Category:Formal_logic)
+6. [Systems of Formal Logic](https://en.wikipedia.org/wiki/Category:Systems_of_formal_logic)
+7. [Outline of Logic](https://en.wikipedia.org/wiki/Outline_of_logic)
+8. [Open World Assumption](https://en.wikipedia.org/wiki/Open-world_assumption)
+9. [Closed World Assumption](https://en.wikipedia.org/wiki/Closed-world_assumption)
+10. [Self](https://en.wikipedia.org/wiki/Category:Self-reference) [Reference](https://plato.stanford.edu/entries/self-reference/)
+11. [Deductive Reasoning](https://en.wikipedia.org/wiki/Category:Deductive_reasoning)
+12. [Coreference](https://en.wikipedia.org/wiki/Coreference)
+13. [First Principle](https://en.wikipedia.org/wiki/First_principle)

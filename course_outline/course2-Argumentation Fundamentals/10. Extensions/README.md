@@ -1,0 +1,15 @@
+## Extensions
+
+1. [Model Based Reasoning](https://en.wikipedia.org/wiki/Model-based_reasoning)
+2. [Procedural Reasoning](https://en.wikipedia.org/wiki/Procedural_reasoning_system)
+3. [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning)
+4. [Aristotles Topics](https://en.wikipedia.org/wiki/Topics_(Aristotle))
+5. [Legal Reasoning](https://en.wikipedia.org/wiki/Category:Legal_reasoning)
+6. [Statutory Interpretation](https://en.wikipedia.org/wiki/Statutory_interpretation)
+7. [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning)
+8. [Facts](https://en.wikipedia.org/wiki/Fact) and [Factoid](https://en.wikipedia.org/wiki/Factoid)
+9. [Case Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning)
+10. [Counterfactual Conditionals](https://en.wikipedia.org/wiki/Counterfactual_conditional)
+11. [Arguments from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+12. [Knowledge Representation](https://en.wikipedia.org/wiki/Category:Knowledge_representation)
+13. [Metaphorical Reasoning](https://plato.stanford.edu/entries/metaphor/)
