@@ -68,7 +68,7 @@
 24. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 3 of 4)](https://youtu.be/j-k5oSlgIbA?si=8Y8qOtMR9Ax9CdPs)
 25. [Dana (Donella) Meadows Lecture: Sustainable Systems (Part 4 of 4)](https://youtu.be/d9Lfp8SQ6rc?si=c_l3_HcXF7NRbqaF)
 
-## Playlists
+## Courses
 
 1. [fundamentals-of-systems-engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/)
 2. [introduction-to-system-dynamics](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
@@ -82,6 +82,10 @@
 10. [SOS 325: Economics of Sustainability](https://youtube.com/playlist?list=PLXBbGVSkQJqH423jmbAZJmNmBma_4bA4q&si=90P3-Q8N2ARpPdMg)
 11. [SOS 212: Systems, Dynamics, and Sustainability](https://youtube.com/playlist?list=PLXBbGVSkQJqGe6MLnQFtlSuRT1eGuQ_wK&si=lTSrj0OwPjUwPhUe)
 12. [IEE 475: Simulating Stochastic Systems](https://youtube.com/playlist?list=PLXBbGVSkQJqG5ho-97AnDQEcdQI3CxBj9&si=HY-yXuDpweKASlID)
+13. [NOC: Introduction to System Dynamics Modeling, IIT Bombay](https://nptel.ac.in/courses/110101142)
+14. [systems engineering - Joseph Kasser](https://youtube.com/playlist?list=PLIYcHEnCwIBvZwwOBvDFF-CovEmEJmGEN&si=rhZfL8OaCQwalIP4)
+15. [systems thinking - Josph Kasser](https://youtube.com/playlist?list=PLIYcHEnCwIBtoaWSPutwQsiOY1IqDaY4b&si=Z7EyWnMMe-t45hXB)
+16. [Requirements engineering - Joseph Kasser](https://youtube.com/playlist?list=PLIYcHEnCwIBvYpgy1gcb8fsCOpPpQ338f&si=4_KUqJzI6L3KuUeK)
 
 ## People
 1. [Omar A. Guerrero](https://oguerr.com/)
