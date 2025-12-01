@@ -366,8 +366,6 @@ The unit is **not math-heavy**. Equations are treated as *examples* rather than 
 
 ## 7. Simulation & Agent-Based Modeling
 
-*(You introduced complex systems conceptually in the previous unit; here you show one major **modeling approach** for them.)*
-
 ### Goals
 
 * Introduce agent-based modeling (ABM) as a natural way to model **heterogeneous, interacting agents**.
@@ -420,8 +418,6 @@ The unit is **not math-heavy**. Equations are treated as *examples* rather than 
 ---
 
 ## 8. Optimization & Decision Models (Light OR)
-
-*(This is where you fold in the “intuitive OR/optimization” you mentioned, without duplicating Analytical Thinking’s decision analysis.)*
 
 ### Goals
 
