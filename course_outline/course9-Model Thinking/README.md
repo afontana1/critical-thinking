@@ -630,11 +630,6 @@ Learners pick a real-world issue (personal, organizational, societal). Building 
 
 ---
 
-If you’d like, next step I can:
-
-* Turn this into a **12–14 week syllabus** (with week-by-week readings and activities), or
-* Design **assignments/exercises** for each section (e.g., “build a toy model,” “write a model critique memo,” “do a conceptual sensitivity analysis”).
-
 [1]: https://www.jasss.org/11/4/12.html "Why Model?"
 [2]: https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627 "The Model Thinker: What You Need to Know to Make Data ..."
 [3]: https://plato.stanford.edu/entries/models-science/ "Models in Science - Stanford Encyclopedia of Philosophy"
