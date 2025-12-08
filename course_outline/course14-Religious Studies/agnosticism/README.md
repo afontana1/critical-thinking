@@ -561,6 +561,7 @@
 
 - [Atheist Philosophers](https://en.wikipedia.org/wiki/Category:Atheist_philosophers)
 - [Secular Web Authors](https://infidels.org/library/authors/book-authors/)
+- [Secular Web Subjects Index](https://infidels.org/library/modern-library-subject-index/)
 - [Clergy Project](https://clergyproject.org/)
 
 1. [List_of_atheist_philosophers](https://en.wikipedia.org/wiki/List_of_atheist_philosophers)
