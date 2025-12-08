@@ -22,7 +22,7 @@ How does science actually turn messy observations into relatively stable knowled
 * Describe the **reproducibility and replication crises**, and what counts as rigorous, reproducible research in practice (including measurement, metrology, and preregistration). ([Wikipedia][8])
 * Critically assess the **institutional ecosystem of science**: peer review, academic publishing, metascience, publication/reporting bias, evidence-based practice, and systematic review. ([Wikipedia][9])
 
-This course is a **capstone**: it assumes students have completed your courses on data literacy, causality, heuristics/bias, analytical thinking, systems thinking, and model thinking. Here we synthesize those tools in the specific context of **how science works**.
+This course is a **capstone**: it assumes students have completed the courses on data literacy, causality, heuristics/bias, analytical thinking, systems thinking, and model thinking. Here we synthesize those tools in the specific context of **how science works**.
 
 ---
 
@@ -56,7 +56,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 4. **Pseudoscience and the Demarcation Problem**
 
    * SEP on **pseudoscience**: features such as immunizing strategies, lack of testable predictions, selective use of evidence. ([Stanford Encyclopedia of Philosophy][1])
-   * Connect to your **Causality** and **Bias** courses: confirmation bias, motivated reasoning, and illusory correlation as engines of pseudoscience.
+   * Connect to **Causality** and **Bias** courses: confirmation bias, motivated reasoning, and illusory correlation as engines of pseudoscience.
    * Use familiar examples (astrology, homeopathy, some “brain training” products) as demarcation case studies.
 
 ### Core readings
@@ -82,13 +82,13 @@ This course is a **capstone**: it assumes students have completed your courses o
    * **Deduction**: from general premises to specific conclusions.
    * **Induction**: from specific cases to general regularities.
    * **Abduction**: inference to the best explanation – from effect to plausible cause. ([Wikipedia][2])
-   * Relate to your earlier **Causality** course (Mill’s methods, counterfactuals) and **Analytical Thinking** (argument structure).
+   * Relate to the earlier **Causality** course (Mill’s methods, counterfactuals) and **Analytical Thinking** (argument structure).
 
 2. **Abduction in Discovery and Explanation**
 
    * Magnani on **abduction** as a process of discovery across science and AI; cognitive and computational perspectives. ([SpringerLink][14])
    * Walton’s *Abductive Reasoning*: dialogue models of explanation; abduction in medicine, law, and everyday argument. ([PhilPapers][15])
-   * Link to **hypothesis generation** in research methods and to “two plausible stories” boxes from your Causality course.
+   * Link to **hypothesis generation** in research methods and to “two plausible stories” boxes from the Causality course.
 
 3. **Theory and Evidence in Development**
 
@@ -99,7 +99,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 
    * Mechanistic explanations as “how” stories (entities + activities organized to produce a phenomenon).
    * Bullock & Green’s **“Yes, but what’s the mechanism?”**: why mechanism talk matters (and sometimes doesn’t) for interpreting experiments and interventions. ([UBC Psychology][17])
-   * Tie back to your **Mechanisms, Cases, and Explanations** unit in the Causality course.
+   * Tie back to the **Mechanisms, Cases, and Explanations** unit in the Causality course.
 
 ### Core readings
 
@@ -123,7 +123,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 1. **Theories, Laws, and Models**
 
    * Theories as **structured networks of claims**; models as **specific representations** (mathematical, statistical, computational). ([Wikipedia][18])
-   * Theory–observation interdependence: how instruments, operational definitions, and modeling assumptions shape data (bridging to your Data Literacy and Model Thinking courses).
+   * Theory–observation interdependence: how instruments, operational definitions, and modeling assumptions shape data (bridging to the Data Literacy and Model Thinking courses).
 
 2. **Theoretical Virtues**
 
@@ -133,7 +133,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 3. **Ad Hoc Hypotheses and Theory Evaluation**
 
    * **Ad hoc hypotheses**: when adding parameters or clauses only to save a theory from disconfirmation crosses the line. ([Stanford Encyclopedia of Philosophy][4])
-   * Connect to **overfitting**, p-hacking, and “garden-of-forking-paths” from your Data Literacy and Bias courses.
+   * Connect to **overfitting**, p-hacking, and “garden-of-forking-paths” from the Data Literacy and Bias courses.
    * “Theory evaluation” as weighing data, theoretical virtues, and research program health.
 
 4. **Historical Perspectives on Theory**
@@ -190,7 +190,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 
 * Anol Bhattacherjee, *Social Science Research: Principles, Methods, and Practices* (open textbook). ([Digital Commons USF][20])
 * Wikipedia overviews on **Research Methods**, **Empirical Research**, **Design of Experiments**, and **Scientific Modelling** (as navigational scaffolding). ([Wikipedia][7])
-* Selections from your existing Data Literacy + Causality readings (CONSORT, STROBE, Hernán & Robins, Angrist & Pischke) referenced rather than re-explained.
+* Selections from the existing Data Literacy + Causality readings (CONSORT, STROBE, Hernán & Robins, Angrist & Pischke) referenced rather than re-explained.
 
 ---
 
@@ -216,7 +216,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 
 3. **Abduction, Mechanisms, and Models**
 
-   * How abductive reasoning plus mechanistic thinking drives **hypothesis generation** and **model building** (tying back to Magnani, Walton, and your Model Thinking course).
+   * How abductive reasoning plus mechanistic thinking drives **hypothesis generation** and **model building** (tying back to Magnani, Walton, and the Model Thinking course).
 
 4. **Different Kinds of Why-Questions**
 
@@ -233,7 +233,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 
 ## Unit 6 – Measurement, Validity, and Statistical Reasoning in Science
 
-*(This unit ties your Measurement/Data Literacy content explicitly to “scientific reasoning” and introduces a bit more on validity and metrology.)*
+*(This unit ties Measurement/Data Literacy content explicitly to “scientific reasoning” and introduces a bit more on validity and metrology.)*
 
 ### Guiding questions
 
@@ -250,12 +250,12 @@ This course is a **capstone**: it assumes students have completed your courses o
 2. **Statistical Validity in Science**
 
    * Types of validity: internal, external, construct, and **statistical conclusion validity**. ([Wikipedia][18])
-   * Link to false positives/negatives, power, and misinterpretation of p-values and intervals (from your Data Literacy course).
+   * Link to false positives/negatives, power, and misinterpretation of p-values and intervals (from Data Literacy course).
 
 3. **Sensitivity Analysis as Scientific Reasoning**
 
    * Not just a modeling trick: **sensitivity analysis** as a way to ask “which assumptions matter?” across experimental and modeling contexts. ([Wikipedia][19])
-   * Connect back to your Model Thinking unit on uncertainty and robustness.
+   * Connect back to Model Thinking unit on uncertainty and robustness.
 
 4. **Theory and Evidence Revisited**
 
@@ -296,9 +296,9 @@ This course is a **capstone**: it assumes students have completed your courses o
 
    * Brandt et al., “The Replication Recipe: What Makes for a Convincing Replication?” – criteria for high-quality replications (sampling, fidelity, statistical power, transparency). ([ScienceDirect][25])
 
-5. **Your Prior Courses, Revisited**
+5. **Prior Courses, Revisited**
 
-   * Tie to your **Data Literacy Unit 6** (reporting & evidence synthesis) and **Heuristics/Bias** (overconfidence, p-hacking, motivated reasoning).
+   * Tie to **Data Literacy Unit 6** (reporting & evidence synthesis) and **Heuristics/Bias** (overconfidence, p-hacking, motivated reasoning).
    * Scientific reasoning as not just *individual logic* but *institutional design* to counter error.
 
 ### Core readings
@@ -329,7 +329,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 
    * **Publication bias**: tendency to publish positive/novel results. ([Wikipedia][9])
    * **Reporting bias**: selective reporting of outcomes, analyses, or subgroups. ([Wikipedia][9])
-   * Connect to your Data Literacy course (CONSORT, PRISMA, GRADE).
+   * Connect to the Data Literacy course (CONSORT, PRISMA, GRADE).
 
 3. **Metascience and Evidence-Based Practices**
 
@@ -349,7 +349,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 ### Core readings
 
 * Wikipedia overviews on **Peer Review**, **Academic Publishing**, **Publication Bias**, **Reporting Bias**, **Metascience**, **Systematic Review**, and **Evidence-Based Practice**. ([Wikipedia][9])
-* Selected metascience/EBM readings already used in your Data Literacy course (Ioannidis, CONSORT, PRISMA, GRADE).
+* Selected metascience/EBM readings already used in Data Literacy course (Ioannidis, CONSORT, PRISMA, GRADE).
 
 ---
 
@@ -373,7 +373,7 @@ This course is a **capstone**: it assumes students have completed your courses o
 2. **Demarcation Revisited**
 
    * SEP’s **Pseudoscience** + **Scientific Method** entries used to revisit demarcation in light of all the previous units. ([Stanford Encyclopedia of Philosophy][4])
-   * Case exercises: classify borderline practices (certain alternative medicines, learning styles research, “grit” research, etc.) using your earlier causal & bias tools.
+   * Case exercises: classify borderline practices (certain alternative medicines, learning styles research, “grit” research, etc.) using earlier causal & bias tools.
 
 3. **Theoretical Virtues, Evidence, and “Science-ish” Rhetoric**
 
@@ -407,7 +407,7 @@ When you encounter a scientific claim or paper, ask:
 
 1. **Question & framing** – What is the precise question? How is it framed (causal, descriptive, mechanistic)?
 
-2. **Design & methods** – What study design or modeling approach is used? How does it support causal/ explanatory claims (drawing on your Causality and Data Literacy courses)?
+2. **Design & methods** – What study design or modeling approach is used? How does it support causal/ explanatory claims (drawing on Causality and Data Literacy courses)?
 
 3. **Evidence & analysis** – What data, measurements, and analyses support the claims? How are uncertainty and statistical validity handled?
 
@@ -423,7 +423,7 @@ When you encounter a scientific claim or paper, ask:
 
 9. **Capstone Project Ideas**
 
-You can mirror the structure from your Data Literacy and Model Thinking capstones:
+You can mirror the structure from Data Literacy and Model Thinking capstones:
 
 * **Paper Autopsy**
 
