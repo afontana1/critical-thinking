@@ -18,7 +18,7 @@
 3. [Suspicious Minds: Why We Believe Conspiracy Theories](https://www.amazon.com/Suspicious-Minds-Believe-Conspiracy-Theories/dp/1472915631)
 4. [Believing Bullshit: How Not to Get Sucked into an Intellectual Black Hole](https://www.amazon.com/Believing-Bullshit-Sucked-Intellectual-Black/dp/1616144114)
 5. [Conspiracy: Why the Rational Believe the Irrational](https://www.amazon.com/Conspiracy-Why-Rational-Believe-Irrational/dp/1421444453)
-6. [he Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
+6. [The Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
 7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
 
 
