@@ -10,6 +10,11 @@
 6. [Quassim Cassam](https://www.quassimcassam.com/)
 7. [Shane Littrell](https://shanelittrell.com/)
 8. [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
+9. [Joseph Uscinksi](https://www.joeuscinski.com/)
+10. [Shane Littrell](https://substack.com/@shanelittrell)
+11. [Antoine Marie](https://www.antoinemariesci.com/)
+12. [Paul Katsafanas](https://philpeople.org/profiles/paul-katsafanas)
+13. [M R. X. Dentith](https://philpeople.org/profiles/m-r-x-dentith)
 
 ## Relevant Books
 
@@ -65,6 +70,7 @@
 - [EU Disinfo Lab](https://www.disinfo.eu/)
 - [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
 - [Disinformation Tactics](https://www.disinformation.ch/)
+- [Extreme Beliefs](https://extremebeliefs.com/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
