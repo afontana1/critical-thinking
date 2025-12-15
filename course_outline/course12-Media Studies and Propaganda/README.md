@@ -75,6 +75,8 @@
 - [The SIFT Method](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)
 - [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
 - [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
+- [MIT OCW: CMS.701 Current Debates in Media (course home)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/)
+- [MIT OCW: “Propaganda Survival Guide” (PDF)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
