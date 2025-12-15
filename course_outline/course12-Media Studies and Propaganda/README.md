@@ -25,6 +25,7 @@
 5. [Conspiracy: Why the Rational Believe the Irrational](https://www.amazon.com/Conspiracy-Why-Rational-Believe-Irrational/dp/1421444453)
 6. [The Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
 7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
+8. [Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life](https://en.wikipedia.org/wiki/Truth_Decay_%28book%29)
 
 
 ## [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
@@ -54,10 +55,9 @@
 21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
 22. [Ur Fascism](https://en.wikipedia.org/wiki/Ur-Fascism)
 
-## Media Studies and [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
+## Media Studies
 
-- [Institute on Taxation and Economic Policy](https://itep.org/)
-- [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union)
+- [Media Studies 101](https://opentextbc.ca/mediastudies101/)
 - [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
 - [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
 - [Media Ecology](https://media-ecology.org/)
@@ -71,6 +71,10 @@
 - [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
 - [Disinformation Tactics](https://www.disinformation.ch/)
 - [Extreme Beliefs](https://extremebeliefs.com/)
+- [NATO: Strategic Communications of Centre of Excellence (Disinfromation)](https://stratcomcoe.org/publications?tid%5B%5D=30)
+- [The SIFT Method](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)
+- [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
+- [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
@@ -130,11 +134,13 @@
 12. [Social Heuristics](https://en.wikipedia.org/wiki/Social_heuristics)
 13. [Availability Cascade](https://en.wikipedia.org/wiki/Availability_cascade)
 
-## Government and Legal 
+## Government, Legal, and [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
 
 - [Influence Watch](https://www.influencewatch.org/)
 - [USA Spending Data Source](https://www.usaspending.gov/)
 - [Foreign Aid Spending](https://www.foreignassistance.gov/)
+- [Institute on Taxation and Economic Policy](https://itep.org/)
+- [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union)
 
 1. [List of American Thinktanks](https://economics.virginia.edu/think-tanks)
 2. [List of Think Tanks in the USA](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
