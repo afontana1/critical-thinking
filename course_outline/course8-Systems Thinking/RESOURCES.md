@@ -39,6 +39,7 @@
 13. [Systems Analysis](https://en.wikipedia.org/wiki/Category:Systems_analysis)
 14. [Systems Engineering](https://en.wikipedia.org/wiki/Category:Systems_engineering)
 15. [Systems Science](https://en.wikipedia.org/wiki/Portal:Systems_science)
+16. [Systems Thinking](https://en.wikipedia.org/wiki/Category:Systems_thinking)
 
 ## Videos
 
