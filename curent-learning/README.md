@@ -234,6 +234,7 @@
 5. [DataColada](https://datacolada.org/)
 6. [Simine Vazire's](https://www.simine.com/)  
 7. [badscience](https://www.badscience.net/)
+8. [Angela Potochnik](https://www.angelapotochnik.com/)
 
 ## Misc
 

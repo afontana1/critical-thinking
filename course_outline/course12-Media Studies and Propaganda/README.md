@@ -15,6 +15,8 @@
 11. [Antoine Marie](https://www.antoinemariesci.com/)
 12. [Paul Katsafanas](https://philpeople.org/profiles/paul-katsafanas)
 13. [M R. X. Dentith](https://philpeople.org/profiles/m-r-x-dentith)
+14. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
+15. [Matthew Boedy](https://www.matthewboedy.com/)
 
 ## Relevant Books
 
