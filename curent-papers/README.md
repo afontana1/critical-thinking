@@ -214,3 +214,4 @@
 3. Philosophy of Economics
     * [Erik Angner](https://www.erikangner.com/)
     * [Daniel Hausman](https://philpeople.org/profiles/daniel-hausman)
+    * [Alex Rosenberg](https://philpeople.org/profiles/alex-rosenberg)
