@@ -1,4 +1,36 @@
-# My Current Interests
+# My Current Interests & Learning
+
+## Courses & Lectures
+
+1. [Practical Electronics](https://www.youtube.com/playlist?list=PLNx89373hpKVb3tMPfRMUjmYNkkXohRv9)
+2. [Circuits and Electronics for Non-EEs](https://www.youtube.com/playlist?list=PLNx89373hpKVvhoQ3_z_t2KHn-YxgrOYi)
+3. [Probability Theory](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+4. [Modeling and Simulation of Dynamical Systems](https://www.youtube.com/playlist?list=PLSGws_74K01-4rcWuB5BEATHSsOrBd1ye)
+5. [Simulation Modeling Applications](https://www.youtube.com/playlist?list=PLKhY2buiByja5XjNv0uq2fdPh9cGjDJxF)
+6. [Modeling and Simulation of Discrete Systems](https://www.youtube.com/playlist?list=PLOcdvqD25x4P4XpSdILrQ9mKP9cAMQjBV)
+7. [Introduction to Game Theory and Mechanism Design](https://www.youtube.com/playlist?list=PLOzRYVm0a65dbzLZE-Y4Uh2QhVA7TBLXN)
+8. [Numerical Analysis](https://www.youtube.com/playlist?list=PLOzRYVm0a65d0WWST6wvOP6m7VRQyRgSa)
+9. [Engineering Statistics](https://www.youtube.com/playlist?list=PLOzRYVm0a65cKvhyATMdS9Q4lYbbnWHgn)
+10. [Distributed Optimization and Machine Learning](https://www.youtube.com/playlist?list=PLOzRYVm0a65fhKDS8cYIC7YCuVGJ4FOJx)
+11. [High Performance Scientific Computing](https://www.youtube.com/playlist?list=PLOzRYVm0a65fSrgx3kroerFJtFjGGIcXm)
+12. [Introduction to Evolutionary Dynamics](https://www.youtube.com/playlist?list=PLOzRYVm0a65ckpdcVe8KLbhdWxzwT6x55)
+13. [Gödel, Escher, Bach](https://www.youtube.com/playlist?list=PL6Ifuk-WcTji45Toc4vzT0wuRsqkqVmQ6)
+14. [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+15. [Industrial Safety Engineering](https://www.youtube.com/playlist?list=PLbRMhDVUMngdXebaRB59KdKwstzuAovua)
+16. [Collective Computation (C4) Public Lectures](https://www.youtube.com/playlist?list=PLZlVBTf7N6Gojp0vRGmTom0rwqFuoaT_d)
+
+## Online Curriculum 
+
+1. [On-Line Guide to Constraint Programming by Roman Bartak](https://ktiml.mff.cuni.cz/~bartak/constraints/index.html)
+2. [Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html#)
+3. [Data Driven Science and Engineering](https://databookuw.com/)
+4. [HSMA - the little book of DES](https://des.hsma.co.uk/)
+5. [HSMA - Machine Learning Notebooks](https://machinelearning.hsma.co.uk/)
+6. [Mojo🔥 GPU Puzzles](https://puzzles.modular.com/introduction.html)
+7. [CME 295: Large Language Models](https://cme295.stanford.edu/syllabus/)
+8. [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+9. [Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
+10. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
 ## Complexity
 
@@ -215,3 +247,5 @@
     * [Erik Angner](https://www.erikangner.com/)
     * [Daniel Hausman](https://philpeople.org/profiles/daniel-hausman)
     * [Alex Rosenberg](https://philpeople.org/profiles/alex-rosenberg)
+4. Mental Models
+    * [The Mental Models Global Laboratory](https://www.modeltheory.org/)
