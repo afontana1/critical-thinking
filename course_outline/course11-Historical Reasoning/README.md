@@ -8,6 +8,8 @@
 - [Historical Thinking Guidelines](https://iacp.berkeley.edu/historical-analysis/historical-thinking)
 - [The Historical Thinking Project](https://historicalthinking.ca/)
 - [American Historical Organization](https://www.historians.org/)
+- [UCLA Public History Initiative: History Standards](https://phi.history.ucla.edu/nchs/history-standards/)
+- [Philosophy of History](https://plato.stanford.edu/entries/history/)
 
 1. [Historiography](https://en.wikipedia.org/wiki/Category:Historiography)
 2. [Philosophy of History](https://en.wikipedia.org/wiki/Category:Philosophy_of_history)
