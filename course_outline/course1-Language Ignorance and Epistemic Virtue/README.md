@@ -13,6 +13,10 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * Connect cognitive science of reasoning (bias, relevance, vigilance) with everyday argument and persuasion.
 * Recognize social dimensions of knowledge: testimony, trust, epistemic injustice.
 * Practice metacognition and “actively open-minded thinking” as habits of intellectual character. ([PMC][1])
+* **Distinguish philosophical skepticism from scientific skepticism**, and explain what each is trying to accomplish (and what can go wrong). ([Stanford Encyclopedia of Philosophy][40]) ([Wikipedia][50]) ([Wikipedia][54])
+* **Use skeptical tools to diagnose weak justification**, including regress/circularity/dogmatism patterns (Agrippa’s Five Modes) and context/variation-based doubt (Aenesidemus’ Ten Modes). ([Wikipedia][44]) ([Wikipedia][43])
+* **Practice calibrated skepticism:** proportion confidence to evidence, separate “unproven” from “false,” and articulate what would change one’s mind (especially in public controversies and scientific claims). ([Wikipedia][50])
+* **Identify unhealthy skepticism and motivated skepticism**—selective doubt, identity-protective/reactionary “skepticism,” and cynicism-as-stance—and explain how these degrade inquiry and social trust. ([Wikipedia][41]) ([Cultural Cognition][48])
 
 ---
 
@@ -106,15 +110,15 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 5. Narratives as Frames in Time
 
-    * Jerome Bruner: narrative as a primary mode of thought; people understand their lives and social worlds through stories. ([Narrative Construction][38])
-    * Narratives as temporal frames: they select beginnings, middles, and ends; identify heroes, villains, victims; assign causes and moral meanings. ([Narrative Paradigm][39])
-    * Narrative coherence vs. factual accuracy: A story can “hang together” (internal coherence) yet be false. It can resonate with identity and values (“fidelity”) and thus be persuasive despite poor evidence (Walter Fisher’s narrative paradigm).
+   * Jerome Bruner: narrative as a primary mode of thought; people understand their lives and social worlds through stories. ([Narrative Construction][38])
+   * Narratives as temporal frames: they select beginnings, middles, and ends; identify heroes, villains, victims; assign causes and moral meanings. ([Narrative Paradigm][39])
+   * Narrative coherence vs. factual accuracy: A story can “hang together” (internal coherence) yet be false. It can resonate with identity and values (“fidelity”) and thus be persuasive despite poor evidence (Walter Fisher’s narrative paradigm).
 
 6. Narrative, Identity, and Moral Framing
 
-    * How political and ideological movements offer powerful identity narratives (“the oppressed who rise,” “the betrayed nation,” “the silent majority”).
-    * Epistemic vices like closed-mindedness and dogmatism can be embedded in a narrative that makes them feel virtuous.
-    * Bruner and MacIntyre on life as narrative: The idea that a human life has “narrative unity” and that virtues and values make sense within a story about what kind of life one is trying to live. 
+   * How political and ideological movements offer powerful identity narratives (“the oppressed who rise,” “the betrayed nation,” “the silent majority”).
+   * Epistemic vices like closed-mindedness and dogmatism can be embedded in a narrative that makes them feel virtuous.
+   * Bruner and MacIntyre on life as narrative: The idea that a human life has “narrative unity” and that virtues and values make sense within a story about what kind of life one is trying to live.
 
 **Core readings**
 
@@ -122,7 +126,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * George Lakoff, *Don’t Think of an Elephant! Know Your Values and Frame the Debate*. ([Google Books][12])
 * William Lutz, *Doublespeak* (or essay “The World of Doublespeak”). ([Wikipedia][13])
 * Steven Pinker, *The Stuff of Thought: Language as a Window into Human Nature*. ([Wikipedia][14])
-* Walter Fisher, selections from Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action (or his article on the narrative paradigm). 
+* Walter Fisher, selections from Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action (or his article on the narrative paradigm).
 
 ---
 
@@ -138,17 +142,17 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 1. **Types and functions of definitions**
 
-    * Lexical vs. stipulative vs. theoretical vs. persuasive/rhetorical definitions. ([OUP Academic][15])
-    * Their roles in clarifying disputes vs. smuggling in value judgments.
-    * The roles of definitions: Descriptive (recording existing usage), Reforming (tidying up messy usage), Normative (building value judgments into terms), Technical (creating precision for specialized inquiry).
-    * How good definitions reduce confusion and help us locate genuine disagreement.
+   * Lexical vs. stipulative vs. theoretical vs. persuasive/rhetorical definitions. ([OUP Academic][15])
+   * Their roles in clarifying disputes vs. smuggling in value judgments.
+   * The roles of definitions: Descriptive (recording existing usage), Reforming (tidying up messy usage), Normative (building value judgments into terms), Technical (creating precision for specialized inquiry).
+   * How good definitions reduce confusion and help us locate genuine disagreement.
 
-2. **Definitions, Classification, and Argument** 
+2. **Definitions, Classification, and Argument**
 
-    * Definitions as argumentative moves: “He’s not a real expert,” “That’s not violence,” “This doesn’t count as racism.” How re-defining a term can effectively win an argument by changing what “counts” as evidence.
-    * Persuasive definitions: Definitions that smuggle value judgments into apparently neutral language (e.g., “Abortion is the murder of an unborn child”; “Patriotism is unconditional love of country”). How persuasive definitions shift the emotional and moral terrain of a debate.
-    * Classification and social reality: How we carve the world at its joints (or fail to): Legal categories (“felony,” “terrorist”). Medical/psychological categories (“disorder,” “addiction”). Social labels (“gang,” “cult,” “refugee,” “illegal alien”). Classifications as gatekeepers for rights, resources, and stigma.
-    * Value-ladenness of definitions: Many key concepts (person, harm, freedom, gender, disability, citizenship) are thick concepts: simultaneously descriptive and evaluative. How changing a definition can change what is seen as a problem, who is blamed, and what solutions are considered.
+   * Definitions as argumentative moves: “He’s not a real expert,” “That’s not violence,” “This doesn’t count as racism.” How re-defining a term can effectively win an argument by changing what “counts” as evidence.
+   * Persuasive definitions: Definitions that smuggle value judgments into apparently neutral language (e.g., “Abortion is the murder of an unborn child”; “Patriotism is unconditional love of country”). How persuasive definitions shift the emotional and moral terrain of a debate.
+   * Classification and social reality: How we carve the world at its joints (or fail to): Legal categories (“felony,” “terrorist”). Medical/psychological categories (“disorder,” “addiction”). Social labels (“gang,” “cult,” “refugee,” “illegal alien”). Classifications as gatekeepers for rights, resources, and stigma.
+   * Value-ladenness of definitions: Many key concepts (person, harm, freedom, gender, disability, citizenship) are thick concepts: simultaneously descriptive and evaluative. How changing a definition can change what is seen as a problem, who is blamed, and what solutions are considered.
 
 3. **Equivocation and definitional fallacies**
 
@@ -242,14 +246,14 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 3. **Grice, Implicature, and the Cooperative Principle**
 
-    * From what is said to what is meant: Distinction between literal meaning (sentence semantics) and speaker meaning (pragmatics). Conversational implicature: what a speaker implies or suggests without explicitly stating it.
-    * The cooperative principle, Gices Maxims (quantity, quality, relation, manner)
-    * Understanding implicature helps students see how much of argument and persuasion happens between the lines. Ties to bullshit and doublespeak, Politicians and advertisers often rely on implicature for plausible deniability (“I never said that”).
+   * From what is said to what is meant: Distinction between literal meaning (sentence semantics) and speaker meaning (pragmatics). Conversational implicature: what a speaker implies or suggests without explicitly stating it.
+   * The cooperative principle, Gices Maxims (quantity, quality, relation, manner)
+   * Understanding implicature helps students see how much of argument and persuasion happens between the lines. Ties to bullshit and doublespeak, Politicians and advertisers often rely on implicature for plausible deniability (“I never said that”).
 
 4. **Relevance theory and pragmatics**
 
    * Sperber & Wilson’s *Relevance: Communication and Cognition*: communication as guided by expectations of optimal relevance. ([Monoskop][29])
-   * Hearers automatically search for an interpretation that yields enough cognitive effect for reasonable processing effort. Communicators produce stimuli that they expect to be optimally relevant. 
+   * Hearers automatically search for an interpretation that yields enough cognitive effect for reasonable processing effort. Communicators produce stimuli that they expect to be optimally relevant.
    * How “salient” or “emotionally charged” claims can dominate attention even if weaker evidentially.
    * Frames and metaphors steer what counts as relevant, what inferences feel natural.
 
@@ -259,7 +263,6 @@ How do our *character*, *language*, and *social environment* help or hinder our 
    * How to cultivate deliberate epistemic vigilance in a media-saturated environment.
    * Source-checking, triangulating information, seeking disconfirmation.
    * Problems in modern information environments: Overload, echo chambers, and low-cost communication. Ease of manufacturing apparent credibility (bots, fake experts, aesthetic of authority).
-
 
 **Core readings**
 
@@ -304,10 +307,10 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 5. **Trust as an Unquestioning Attitude (C. Thi Nguyen)**
 
-    * To trust something (a person, institution, technology) is to settle one’s mind about it, to suspend ongoing monitoring and questioning, and to rely on it “by default.” 
-    * Limited agents like us must adopt such unquestioning attitudes just to cope with the “cognitive onslaught” of the world. 
-    * When unquestioning trust is good vs. dangerous: Good when trusting basic infrastructure, calendars, competent experts, scientific institutions. Dangerous when trusting echo chambers that recruit and then exploit unquestioning trust in in-group authorities.
-    * How echo chambers weaponize trust: They lower the barrier to believing in-group testimony and raise the barrier to accepting out-group testimony. Critical thinking as learning when to re-open what we’ve “settled” and subject it to scrutiny.
+   * To trust something (a person, institution, technology) is to settle one’s mind about it, to suspend ongoing monitoring and questioning, and to rely on it “by default.”
+   * Limited agents like us must adopt such unquestioning attitudes just to cope with the “cognitive onslaught” of the world.
+   * When unquestioning trust is good vs. dangerous: Good when trusting basic infrastructure, calendars, competent experts, scientific institutions. Dangerous when trusting echo chambers that recruit and then exploit unquestioning trust in in-group authorities.
+   * How echo chambers weaponize trust: They lower the barrier to believing in-group testimony and raise the barrier to accepting out-group testimony. Critical thinking as learning when to re-open what we’ve “settled” and subject it to scrutiny.
 
 **Core readings**
 
@@ -315,9 +318,9 @@ This connects your themes of ignorance & virtue with explicitly social structure
 * Miranda Fricker, *Epistemic Injustice: Power and the Ethics of Knowing*. ([OUP Academic][32])
 * Selected papers from *Essays in Collective Epistemology* (ed. Jennifer Lackey). ([Notre Dame Philosophical Reviews][33])
 * C. Thi Nguyen, “Why it’s as hard to escape an echo chamber as it is to flee a cult,” Aeon (2018).
-* C. Thi Nguyen, Games: Agency as Art (esp. chapters on gamification, value capture, and social transformation). 
+* C. Thi Nguyen, Games: Agency as Art (esp. chapters on gamification, value capture, and social transformation).
 * Selections from Essays in Collective Epistemology (ed. Jennifer Lackey) on group belief, group testimony, and institutional knowledge.
-* C. Thi Nguyen, “Trust as an Unquestioning Attitude,” Oxford Studies in Epistemology 7 (2022). 
+* C. Thi Nguyen, “Trust as an Unquestioning Attitude,” Oxford Studies in Epistemology 7 (2022).
 
 ---
 
@@ -357,6 +360,125 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 ---
 
+## Unit 8 – Philosophical Skepticism: Doubt, Regress, and the Limits of Justification
+
+**Guiding questions**
+
+* What is philosophical skepticism, and why does it keep returning in epistemology? ([Stanford Encyclopedia of Philosophy][40]) ([Wikipedia][54])
+* What happens when we press “How do you know?” repeatedly—do we get knowledge, or an infinite regress?
+* How can skepticism be *virtuous* (intellectual humility, carefulness) without collapsing into cynicism or nihilism?
+* How do motivated forms of skepticism (selective doubt) distort inquiry and public life? ([Wikipedia][41])
+
+**Sub-units**
+
+1. **Skepticism as a philosophical problem (global vs. local)**
+
+   * Global skepticism (e.g., “Do we know anything at all?”) vs. local skepticism (e.g., skepticism about testimony, induction, perception, experts).
+   * Skeptical arguments as *stress-tests* for our norms of justification: closure, evidence thresholds, standards of certainty.
+   * How skepticism can function as an “epistemic immune system” *or* as an “epistemic acid” that dissolves trust indiscriminately.
+
+2. **Pyrrhonian skepticism and the therapy of suspension**
+
+   * Pyrrhonism: skepticism as a practice—equipollence of considerations, **epochē** (suspension), and tranquility as an aim. ([Wikipedia][42])
+   * Using Pyrrhonism pedagogically: “Suspend belief” ≠ “deny,” and “withhold” ≠ “don’t care.”
+
+3. **Aenesidemus: the Ten Modes (systematic doubt about appearances and judgments)**
+
+   * The **Ten Modes of Aenesidemus** as families of underdetermination arguments: variation across perceivers, circumstances, and conceptual schemes. ([Wikipedia][43])
+   * Classroom activity: students map a contentious claim (e.g., “This is harmful,” “This is unfair”) onto a few modes to see how context shifts what seems evident.
+
+4. **Agrippa: the Five Modes and the structure of justification**
+
+   * The **Five Modes of Agrippa** as a blueprint for the problem of justification: disagreement, regress, relativity, hypothesis, circularity. ([Wikipedia][44])
+   * How Agrippa generates the classic “trilemma” for justification (infinite regress / dogmatic stopping point / circularity). ([Wikipedia][45])
+   * Connecting to Unit 3: how definitional disputes can create “disagreement mode” traps.
+
+5. **Modern skeptical problems (and why they matter outside philosophy)**
+
+   * Cartesian-style doubt and skeptical scenarios (dreaming, deception). ([Wikipedia][46])
+   * The problem of induction and scientific generalization (linking forward to Unit 9). ([Wikipedia][47])
+   * Skepticism about testimony: when deference becomes gullibility vs. when doubt becomes conspiracism (linking back to Unit 6).
+
+6. **Healthy skepticism vs. unhealthy skepticism**
+
+   * **Healthy skepticism (fallibilism):** proportion belief to evidence; update; distinguish “not proven” from “false.”
+   * **Unhealthy skepticism:** reflexive contrarianism; “nothing can be known”; cynicism masquerading as rigor; selective doubt used as a social weapon.
+   * **Motivated skepticism:** applying hyper-critical standards to disliked claims and lax standards to favored claims (tie to Unit 5’s motivated reasoning). ([Wikipedia][41])
+   * **Identity-protective / reactionary skepticism:** skepticism deployed to defend group identity (e.g., “distrust anything ‘their side’ says”), and to convert evidential questions into loyalty tests. ([Cultural Cognition][48])
+
+**Core readings**
+
+* Stanford Encyclopedia of Philosophy, “Skepticism.” ([Stanford Encyclopedia of Philosophy][40])
+* Selections on Pyrrhonism and skeptical argument-forms (Aenesidemus and Agrippa). ([Wikipedia][42])
+* The Ten Modes of Aenesidemus. ([Wikipedia][43])
+* The Five Modes of Agrippa and Agrippa’s Trilemma. ([Wikipedia][44]) ([Wikipedia][45])
+* A short modern overview of skeptical scenarios (dreams, deception). ([Wikipedia][46])
+* (Optional application track) Religious skepticism as a case study in evidential standards, testimony, and interpretive frameworks. ([Wikipedia][49])
+
+---
+
+## Unit 9 – Scientific Skepticism: Evidence, Demarcation, and Responsible Doubt in Public Life
+
+**Guiding questions**
+
+* What distinguishes *scientific skepticism* from (a) philosophical skepticism and (b) blanket distrust? ([Wikipedia][50])
+* How do we decide what counts as good evidence, especially under uncertainty and social disagreement?
+* What is the difference between being “open-minded” and being “so open-minded your brain falls out”?
+* How do we teach skeptical thinking as a *skill + character trait*—not just a vibe?
+
+**Sub-units**
+
+1. **Scientific skepticism as a norm of inquiry (not a posture of rejection)**
+
+   * Scientific skepticism as disciplined doubt: demanding adequate evidence, replicable support, and plausible mechanisms. ([Wikipedia][50])
+   * The aim is not “debunking everything,” but *calibrated belief*.
+
+2. **Demarcation: science, pseudoscience, and the gray zones**
+
+   * The demarcation problem: why “looks scientific” isn’t enough.
+   * Warning signs: ad hoc rescues, unfalsifiability, cherry-picking, moving goalposts, “Galileo” gambits.
+   * Tie-in reading: *Philosophy of Pseudoscience* for the demarcation problem and case studies. ([Amazon][36])
+
+3. **Standards of evidence and inference**
+
+   * Correlation vs causation; confounds; base rates; “extraordinary claims” and proportional evidence.
+   * Updating under uncertainty: what it means to be rational without demanding certainty (links to Unit 7 calibration).
+   * Inference to best explanation vs. “just-so” narratives (links to Unit 2 narratives).
+
+4. **Core tools for teaching skeptical thinking (classroom routines)**
+
+   * “Claim triage” routine: **(a)** what exactly is claimed? **(b)** what would count as evidence? **(c)** what alternative explanations fit? **(d)** what would change your mind?
+   * “Mechanism check”: does the causal story cohere with background knowledge, or does it require multiple miracles?
+   * “Replication and robustness” habit: look for converging evidence across methods, not one dramatic study.
+   * “Source and incentive audit” (Unit 5 + Unit 6): credibility, conflicts, institutional checks, and epistemic vigilance. ([dan.sperber.fr][30])
+
+5. **Skepticism in the wild: misinformation, conspiracism, and pseudo-expertise**
+
+   * Conspiracy thinking as an “overactive skepticism” that rejects mainstream epistemic institutions while accepting low-quality in-group testimony (links to Unit 6 echo chambers).
+   * Pseudo-experts and the aesthetic of authority (links to Unit 5 epistemic vigilance). ([dan.sperber.fr][30])
+
+6. **Motivated skepticism and identity-protective skepticism (when “skepticism” is selective)**
+
+   * Motivated skepticism as selective scrutiny: opponents’ claims must be perfect; allies’ claims get a pass. ([Wikipedia][41])
+   * Identity-protective skepticism: skepticism used to protect belonging, status, or ideology (e.g., “distrust is our identity”). ([Cultural Cognition][48])
+   * Teaching intervention: “symmetry discipline”—students must apply the same evidential standards to claims they *like* and *dislike*.
+
+7. **Scientific skepticism communities and public epistemology**
+
+   * The skeptical movement as a social practice (norms, institutions, public education). ([Wikipedia][51])
+   * How skeptical institutions can be epistemically helpful *and* how they can drift into performative contrarianism if virtues aren’t cultivated (ties back to Unit 1 virtue/vice).
+
+**Core readings**
+
+* Overview of scientific skepticism and its norms. ([Wikipedia][50])
+* The skeptical movement and institutions (for public-facing skepticism). ([Wikipedia][51])
+* Carl Sagan, *The Demon-Haunted World* (esp. “baloney detection” ethos). ([Wikipedia][52])
+* Michael Shermer, *Why People Believe Weird Things* (optional, for psychology + public belief formation). ([Wikipedia][53])
+* Massimo Pigliucci & Maarten Boudry (eds.), *Philosophy of Pseudoscience* (demarcation + cases). ([Amazon][36])
+* “Motivated reasoning” as a bridge between Unit 5 and Unit 9 (optional short overview). ([Wikipedia][41])
+
+---
+
 ## Possible capstone activities
 
 * **Capstone project:**
@@ -370,7 +492,6 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 ---
 
-
 [1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9966223/ "Actively Open-Minded Thinking and Its Measurement - PMC"
 [2]: https://en.wikipedia.org/wiki/On_Bullshit "On Bullshit"
 [3]: https://plato.stanford.edu/entries/epistemology-virtue/ "Virtue Epistemology - Stanford Encyclopedia of Philosophy"
@@ -382,7 +503,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 [9]: https://global.oup.com/academic/product/the-inquiring-mind-9780199659296 "The Inquiring Mind - Jason Baehr"
 [10]: https://www.amazon.com/Virtue-Epistemology-Belief-Reflective-Knowledge/dp/0199568200 "VIRTUE EPISTEMOLOGY:APT BELIEF & REFLECTIVE ..."
 [11]: https://en.wikipedia.org/wiki/Metaphors_We_Live_By "Metaphors We Live By"
-[12]: https://books.google.com/books/about/Don_t_Think_of_an_Elephant.html?id=IcaafxA93U8C&utm_source=chatgpt.com "Don't Think of an Elephant!: Know Your Values and Frame ..."
+[12]: https://books.google.com/books/about/Don_t_Think_of_an_Elephant.html?id=IcaafxA93U8C& "Don't Think of an Elephant!: Know Your Values and Frame ..."
 [13]: https://en.wikipedia.org/wiki/William_D._Lutz "William D. Lutz"
 [14]: https://en.wikipedia.org/wiki/The_Stuff_of_Thought "The Stuff of Thought"
 [15]: https://academic.oup.com/book/9984/chapter/157352190 "Lexical Definition - Oxford Academic"
@@ -410,3 +531,18 @@ This connects your themes of ignorance & virtue with explicitly social structure
 [37]: https://www.cambridge.org/core/journals/language-and-cognition/article/metaphorical-framing-in-political-discourse-through-words-vs-concepts-a-metaanalysis/865DFAB51172998E1C9574D74E275AAE "Metaphorical framing in political discourse through words vs. concepts: a meta-analysis"
 [38]: https://web.english.upenn.edu/~cavitch/pdf-library/Bruner_Narrative.pdf "Narrative Construction of Reality"
 [39]: https://en.wikipedia.org/wiki/Narrative_paradigm "Narrative Paradigm"
+[40]: https://plato.stanford.edu/entries/skepticism/ "Skepticism - Stanford Encyclopedia of Philosophy"
+[41]: https://en.wikipedia.org/wiki/Motivated_reasoning "Motivated reasoning"
+[42]: https://en.wikipedia.org/wiki/Pyrrhonism "Pyrrhonism"
+[43]: https://en.wikipedia.org/wiki/Ten_modes "Ten modes (Aenesidemus)"
+[44]: https://en.wikipedia.org/wiki/Five_modes_of_Agrippa "Five modes of Agrippa"
+[45]: https://en.wikipedia.org/wiki/Agrippa%27s_trilemma "Agrippa's trilemma"
+[46]: https://en.wikipedia.org/wiki/Cartesian_skepticism "Cartesian skepticism"
+[47]: https://en.wikipedia.org/wiki/Problem_of_induction "Problem of induction"
+[48]: https://culturalcognition.net/ "Cultural Cognition Project (identity-protective cognition and related work)"
+[49]: https://en.wikipedia.org/wiki/Category:Religious_skepticism "Category: Religious skepticism"
+[50]: https://en.wikipedia.org/wiki/Category:Scientific_skepticism "Category: Scientific skepticism"
+[51]: https://en.wikipedia.org/wiki/Skeptical_movement "Skeptical movement"
+[52]: https://en.wikipedia.org/wiki/The_Demon-Haunted_World "The Demon-Haunted World"
+[53]: https://en.wikipedia.org/wiki/Why_People_Believe_Weird_Things "Why People Believe Weird Things"
+[54]: https://en.wikipedia.org/wiki/Category:Philosophical_skepticism "Category: Philosophical skepticism"
