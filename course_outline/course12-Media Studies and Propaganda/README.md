@@ -28,6 +28,7 @@
 6. [The Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
 7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
 8. [Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life](https://en.wikipedia.org/wiki/Truth_Decay_%28book%29)
+9. [Foxocracy: Inside the Network's Playbook of Tribal Warfare](https://www.amazon.com/Foxocracy-Inside-Networks-Playbook-Warfare/dp/1635766613)
 
 
 ## [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
