@@ -72,7 +72,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 2. **Classic frameworks**
 
-   * Manufacturing-consent style models, agenda setting, and “public relations as legitimacy-production.” (Pair with your curated Chomsky/Bernays video track.)
+   * Manufacturing-consent style models, agenda setting, and “public relations as legitimacy-production.” (Pair with curated Chomsky/Bernays video track.)
 
 3. **Black / gray / white propaganda**
 
@@ -255,7 +255,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 **Core readings / resources (additions)**
 
-* Use **MIT “Propaganda Survival Guide”** sections + your curated Hofstadter/Hirschman/Katsafanas readings as the unit spine. ([Propaganda Survival Guide—MIT OCW][12])
+* Use **MIT “Propaganda Survival Guide”** sections +  curated Hofstadter/Hirschman/Katsafanas readings as the unit spine. ([Propaganda Survival Guide—MIT OCW][12])
 
 ---
 
