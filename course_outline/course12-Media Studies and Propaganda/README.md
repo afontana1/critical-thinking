@@ -1,261 +1,418 @@
-# [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
+# Course overview: Media Studies & Propaganda
 
-## Relevant Researchers
+---
 
-1. [M R. X. Dentith](https://scholar.google.co.nz/citations?user=k_262rwAAAAJ&hl=en)
-2. [Robin McKenna](https://robinmckenna.weebly.com/)
-3. [Steven Hales](http://stevenhales.org/)
-4. [Dan Williams Philosophy](https://danwilliamsphilosophy.com/)
-5. [Cailin O'Connor](https://cailinoconnor.com/)
-6. [Quassim Cassam](https://www.quassimcassam.com/)
-7. [Shane Littrell](https://shanelittrell.com/)
-8. [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
-9. [Joseph Uscinksi](https://www.joeuscinski.com/)
-10. [Shane Littrell](https://substack.com/@shanelittrell)
-11. [Antoine Marie](https://www.antoinemariesci.com/)
-12. [Paul Katsafanas](https://philpeople.org/profiles/paul-katsafanas)
-13. [M R. X. Dentith](https://philpeople.org/profiles/m-r-x-dentith)
-14. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
-15. [Matthew Boedy](https://www.matthewboedy.com/)
+**Big question:**
+How do modern media ecosystems shape what people *notice*, *believe*, and *do*—and how can we build the skills and virtues needed to resist manipulation while still learning from testimony and expertise?
 
-## Relevant Books
+**By the end, students should be able to:**
 
-1. [Vices of the Mind, by Quassim Cassam](https://academic.oup.com/mind/article-abstract/129/515/959/5536335)
-2. [Conspiracy Theories - Quassim Cassam](https://philpapers.org/rec/CASCT-4)
-3. [Suspicious Minds: Why We Believe Conspiracy Theories](https://www.amazon.com/Suspicious-Minds-Believe-Conspiracy-Theories/dp/1472915631)
-4. [Believing Bullshit: How Not to Get Sucked into an Intellectual Black Hole](https://www.amazon.com/Believing-Bullshit-Sucked-Intellectual-Black/dp/1616144114)
-5. [Conspiracy: Why the Rational Believe the Irrational](https://www.amazon.com/Conspiracy-Why-Rational-Believe-Irrational/dp/1421444453)
-6. [The Reactionary Mind: Conservatism from Edmund Burke to Sarah Palin](https://www.amazon.com/Reactionary-Mind-Conservatism-Edmund-Burke/dp/0199959110)
-7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
-8. [Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life](https://en.wikipedia.org/wiki/Truth_Decay_%28book%29)
-9. [Foxocracy: Inside the Network's Playbook of Tribal Warfare](https://www.amazon.com/Foxocracy-Inside-Networks-Playbook-Warfare/dp/1635766613)
+* Map an information ecosystem (platforms, incentives, institutions, audiences) and explain how it shapes belief formation (attention, algorithms, business models). ([Media Manipulation & Disinformation—Data & Society][3])
+* Distinguish **misinformation, disinformation, propaganda, persuasion, spin, PR, and psychological manipulation** (and explain why the boundaries matter). ([Media Manipulation Casebook—Definitions][6]) ([NATO on “information threats” terminology][26])
+* Identify recurring propaganda patterns (e.g., **big lie**, **moral panic**, **DARVO**, **gaslighting**, **scapegoating**, **black propaganda**, **astroturfing**) and analyze how they work. ([Propaganda Survival Guide—MIT OCW][12])
+* Diagnose **media arguments** using tools from informal logic and argumentation theory (framing, ambiguity, expert authority, bias, fear appeals, ad hominem, straw man). ([MIT OCW lecture notes set][13])
+* Explain how conspiracy beliefs spread and stabilize (echo chambers, epistemic bunkers, evidential preemption, groupstrapping, hostile epistemology). ([HKS Misinformation Review][4])
+* Evaluate testimony and expertise under uncertainty (expert authority checks, conflicts of interest, peer disagreement, higher-order evidence). ([SIFT method][1])
+* Apply practical verification and “information triage” methods: **SIFT**, **lateral reading**, source tracing, triangulation, reverse-image basics, and “follow the claim to the primary.” ([SIFT method][1]) ([Civic Online Reasoning—lateral reading lessons][14])
+* Design countermeasures: **debunking** and **prebunking** strategies that reduce amplification and avoid common failure modes (salience traps, attention hijacking). ([HKS Misinformation Review][4])
+* Produce a principled stance toward media: neither gullible nor cynically “nothing is knowable,” but *calibrated, accountable, and context-sensitive*. ([RAND Truth Decay][8])
 
+---
 
-## [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
+## Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention
 
-1. [Propaganda Techniques](https://en.wikipedia.org/wiki/Category:Propaganda_techniques)
-2. [Psychological Manipulation](https://en.wikipedia.org/wiki/Category:Psychological_manipulation)
-3. [Psychological Warfare](https://en.wikipedia.org/wiki/Category:Psychological_warfare)
-4. [Deception](https://en.wikipedia.org/wiki/Category:Deception)
-5. [Manufacturing consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
-6. [Moral_panic](https://en.wikipedia.org/wiki/Moral_panic)
-7. [Demonizing_the_enemy](https://en.wikipedia.org/wiki/Demonizing_the_enemy)
-8. [Goebbels Propaganda Model](https://www.physics.smu.edu/pseudo/Propaganda/goebbels.html)
-9. [Propaganda_model](https://en.wikipedia.org/wiki/Propaganda_model)
-10. [Truthiness](https://en.wikipedia.org/wiki/Truthiness)
-11. [Big_lie](https://en.wikipedia.org/wiki/Big_lie)
-12. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
-13. [Distinction Without a Difference](https://en.wikipedia.org/wiki/Distinction_without_a_difference)
-14. [Manipulation](https://en.wikipedia.org/wiki/Manipulation)
-15. [DARVO](https://en.wikipedia.org/wiki/DARVO)
-16. [State Propaganda in the Russian Federation](https://en.wikipedia.org/wiki/State_propaganda_in_the_Russian_Federation)
-    * [GEC Special Report: Russia’s Pillars of Disinformation and Propaganda](https://www.state.gov/russias-pillars-of-disinformation-and-propaganda-report/)
-    * [Pro-Kremlin disinformation: Research papers](https://consilium-europa.libguides.com/Kremlin-Disinformation/Research-papers)
-17. [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
-18. [Black Propaganda](https://en.wikipedia.org/wiki/Category:Black_propaganda)
-19. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
-20. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
-21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
-22. [Ur Fascism](https://en.wikipedia.org/wiki/Ur-Fascism)
+**Guiding questions**
 
-## Media Studies
+* Why is “the media” best understood as an ecosystem (not just outlets)?
+* How do incentives (attention, ad revenue, status, ideology, career) shape content?
+* Why do some claims go viral even when they’re weak?
 
-- [Media Studies 101](https://opentextbc.ca/mediastudies101/)
-- [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
-- [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
-- [Media Ecology](https://media-ecology.org/)
-- [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
-- [Network Contagion Institute](https://networkcontagion.us/)
-- [Media Manipulaton Casebook](https://mediamanipulation.org/)
-- [Digital Forensic Research Lab](https://dfrlab.org/)
-- [Disinformation, Misinformation, and Fake News Teach-Out: Michigan Online](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/)
-- [Stanford Social Media Lab](https://sml.stanford.edu/)
-- [EU Disinfo Lab](https://www.disinfo.eu/)
-- [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
-- [Disinformation Tactics](https://www.disinformation.ch/)
-- [Extreme Beliefs](https://extremebeliefs.com/)
-- [NATO: Strategic Communications of Centre of Excellence (Disinfromation)](https://stratcomcoe.org/publications?tid%5B%5D=30)
-- [The SIFT Method](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)
-- [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
-- [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
-- [MIT OCW: CMS.701 Current Debates in Media (course home)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/)
-- [MIT OCW: “Propaganda Survival Guide” (PDF)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf)
+**Sub-units**
 
-1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
-    * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
-    * [Media Analysis](https://en.wikipedia.org/wiki/Category:Media_analysis)
-    * [Concentration of Media Ownership](https://en.wikipedia.org/wiki/Category:Concentration_of_media_ownership)
-    - [Outline of Public Relations](https://en.wikipedia.org/wiki/Outline_of_public_relations)
-2. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
-3. [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)
-4. [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
-5. [The_medium_is_the_message](https://en.wikipedia.org/wiki/The_medium_is_the_message)
-6. [Conflict_of_interest](https://en.wikipedia.org/wiki/Category:Conflict_of_interest)
-7. [Perverse_incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
-8. [Criticism of Journalism](https://en.wikipedia.org/wiki/Category:Criticism_of_journalism)
-9. [Journalistic_objectivity](https://en.wikipedia.org/wiki/Journalistic_objectivity)
-10. [Spin](https://en.wikipedia.org/wiki/Spin_(propaganda))
-11. [Attitude Change](https://en.wikipedia.org/wiki/Category:Attitude_change)
-12. [Reputation Management](https://en.wikipedia.org/wiki/Reputation_management)
-13. [Mass Media Monitoring](https://en.wikipedia.org/wiki/Category:Mass_media_monitoring)
-14. [Distinction without a Difference](https://en.wikipedia.org/wiki/Distinction_without_a_difference)
-15. [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
-16. [The 4D Model of Disinformation Campaigns](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/lessons/4d-model-disinformation-campaigns/)
+1. **From messages to systems**
 
-### Propaganda & Media Studies Related Videos
+   * Information problems vs. incentive problems; why “more facts” often fails.
+   * Media manipulation as coordinated practice, not just isolated falsehoods. ([Media Manipulation Casebook—About][5])
 
-1. [Luhmann’s Media Theory: The Specifics](https://youtu.be/9ZSOsaiQGD0?si=2gNLIk9JlIGgPC7G)
-2. [Noam Chomsky - The Political Economy of the Mass Media - Part 1](https://youtu.be/f6JqFtDWfxI?si=F5F3ok8tvRYw9BIT)
-3. [Noam Chomsky - The Political Economy of the Mass Media - Part 2](https://youtu.be/lobjJYXTJpQ?si=EAZaIgehSFa2OMbP)
-4. [Noam Chomsky Necessary Illusions](https://youtu.be/wi1WVEhlMh0?si=dkSdPUfQgHpwkCe-)
-5. [conspirituality](https://www.youtube.com/@Conspiritualitypodcast)
-6. [Fairness and Accuracy in Reporting- Noam Chomsky Manufacturing Consent](https://youtu.be/em-eljd5y64?si=zFb6azWle-cIQyJI)
-7. [Noam Chomsky Interview Used in Documentary "Manufacturing Consent", February 1, 1990](https://youtu.be/Qv-zIE_HxLA?si=_k5EQlNMyj_cZxrJ)
-8. [Edward Bernays: Social Engineering, Advertising and Marketing](https://youtu.be/XzutxRi9xVI?si=bg_Kq_Pw0Gxu6LQa)
-9. [Free Thought and Official Propaganda | Bertrand Russell | Human Narration](https://youtu.be/ZGQ7Fm-HggQ?si=xpu12Bd6TB7jQMDW)
-10. [The Right-Wing War on Education](https://youtu.be/bo0M3H1QsEQ?si=l6Q2QJOQ2nZc9VxO)
-11. [The Brainwashing of my Dad (with documentary filmmaker Jen Senko)](https://youtu.be/MW7Go6_sShI?si=B5MkhWrGUvOtd48k)
-12. [Steven Hassan on the Cult of Trump](https://youtu.be/f26NjZizg1A?si=gDMHwhINy6afM4Rs)
-13. [The Myth of a Free Press: Media Bias Explained](https://youtu.be/v-8t0EfLzQo?si=Tt29-SE8E_kyf7TW)
-14. [Think Tanks: How Fake Experts Shape the News](https://youtu.be/3n3Hq7XSBjA?si=2FfZBO0i_rnvlNX3)
-15. [Griftonomics: Why Scams are Everywhere Now](https://youtu.be/2bq3SdfzcA4?si=D12LtqZBjE46WJjz)
-16. [Episode 32: Naomi Oreskes on Climate Change and the Distortion of Scientific Facts](https://youtu.be/DhDujggi8DY?si=hO5mMAwCajZEYb99)
-17. [Naomi Oreskes on "Giant Power: Technology, Energy, and the Beginnings of Post-Truth America"](https://youtu.be/ZuEsVOIda9w?si=5LHLR4doQZghamkJ)
-18. [Exposing the Big “Free Market” Myth with Author Naomi Oreskes](https://youtu.be/kJV7_0BIbxo?si=BFP1dut1kO7XtNiI)
+2. **Attention engineering**
 
-## Marketing Tactics
+   * Ranking, virality, outrage, and “engagement as selection pressure.”
+   * Case method: trace a narrative’s spread across platforms. ([Media Manipulation Casebook—Case Studies][7])
 
-1. [Somatic Marketing](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis)
-2. [Choice Architecture](https://en.wikipedia.org/wiki/Choice_architecture)
-3. [Nudge Theory](https://en.wikipedia.org/wiki/Nudge_theory)
-4. [Reinforcement Theory](https://en.wikipedia.org/wiki/Reinforcement_theory)
-5. [In Group and Out Group](https://en.wikipedia.org/wiki/In-group_and_out-group)
-6. [Processing fluency](https://en.wikipedia.org/wiki/Processing_fluency)
-7. [Frequency illusion](https://en.wikipedia.org/wiki/Frequency_illusion)
-8. [Motivated Skepticism](https://ideas.repec.org/p/hal/wpaper/hal-03770685.html)
-9. [Neuromarketing](https://en.wikipedia.org/wiki/Neuromarketing)
-10. [Processing Fluency](https://en.wikipedia.org/wiki/Processing_fluency)
-11. [Attribute Substitution](https://en.wikipedia.org/wiki/Attribute_substitution)
-12. [Social Heuristics](https://en.wikipedia.org/wiki/Social_heuristics)
-13. [Availability Cascade](https://en.wikipedia.org/wiki/Availability_cascade)
+3. **Institutions, legitimacy, and trust**
 
-## Government, Legal, and [Public Relations](https://en.wikipedia.org/wiki/Category:Public_relations)
+   * Journalistic objectivity norms, criticism of journalism, and institutional trust.
+   * “Truth Decay” as a macro-pattern: diminished role of facts and analysis in public life. ([RAND Truth Decay][8])
 
-- [Influence Watch](https://www.influencewatch.org/)
-- [USA Spending Data Source](https://www.usaspending.gov/)
-- [Foreign Aid Spending](https://www.foreignassistance.gov/)
-- [Institute on Taxation and Economic Policy](https://itep.org/)
-- [American Civil Liberties Union](https://en.wikipedia.org/wiki/American_Civil_Liberties_Union)
+**Core readings / resources**
 
-1. [List of American Thinktanks](https://economics.virginia.edu/think-tanks)
-2. [List of Think Tanks in the USA](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
-3. [American Constitution Society](https://www.acslaw.org/)
-4. [The Federalist Society](https://fedsoc.org/)
-5. [Citizens United v. FEC](https://en.wikipedia.org/wiki/Citizens_United_v._FEC)
-6. [The House of Unamerican Activities Committee](https://www.trumanlibrary.gov/education/presidential-inquiries/house-un-american-activities-committee)
-7. [Lobbying](https://en.wikipedia.org/wiki/Category:Lobbying)
-    * [Organizations in the US](https://en.wikipedia.org/wiki/Category:Lobbying_organizations_in_the_United_States)
-8. [Freedom of Mind Resource Center](https://freedomofmind.com/) - [Steven Hassan](https://en.wikipedia.org/wiki/Steven_Hassan)
+* **Media Studies 101** (open textbook; use as a backbone for media theory basics). ([Media Studies 101][2])
+* **Data & Society: Media Manipulation & Disinformation** (research hub + reports). ([Media Manipulation & Disinformation—Data & Society][3])
+* **HKS Misinformation Review** (short, accessible peer-reviewed research articles/notes/commentary). ([HKS Misinformation Review][4])
+* **Media Manipulation Casebook** (theory + methods + coded cases). ([Media Manipulation Casebook—About][5])
 
-## Psychology and Sociology of Conspiracy Theory
+---
 
-1. [Conspiracy Beliefs between Secret Evidence and Delusion](https://imperfectcognitions.blogspot.com/2024/10/conspiracy-beliefs-between-secret.html?m=1)
-2. [On the Origin of Conspiracy Theories](https://imperfectcognitions.blogspot.com/2024/01/on-origin-of-conspiracy-theories.html?m=1)
-3. [Conspiracy Beliefs, Delusions, and Testimony](https://imperfectcognitions.blogspot.com/2023/07/conspiracy-beliefs-delusions-and.html?m=1)
-4. [Conspiracy Beliefs, Democracy, and Confabulation](https://imperfectcognitions.blogspot.com/2023/07/conspiracy-beliefs-democracy-and.html?m=1)
-5. [Conspiracy Theories](https://imperfectcognitions.blogspot.com/2019/11/conspiracy-theories.html?m=1)
-6. [Belief, Imagination, and Delusion](https://imperfectcognitions.blogspot.com/2019/01/belief-imagination-and-delusion.html?m=1)
-7. [Delusion-Like Beliefs: Epistemic and Forensic Innocence?](https://imperfectcognitions.blogspot.com/2020/08/delusion-like-beliefs-epistemic-and.html?m=1)
-8. [The relationship between conspiratorial beliefs and cognitive styles](https://imperfectcognitions.blogspot.com/2024/03/disentangling-relationship-between.html?m=1)
-9. [Extreme Beliefs: An Interview with Rik Peels](https://imperfectcognitions.blogspot.com/2021/11/extreme-beliefs-interview-with-rik-peels.html?m=1)
-10. [Developing a Model of Groupstrapping: A Response to Baumgaertner and Nguyen, Kenneth Boyd](https://social-epistemology.com/2019/08/14/developing-a-model-of-groupstrapping-a-response-to-baumgaertner-and-nguyen-kenneth-boyd/)
-11. [Groupstrapping, Bootstrapping, and Oops-strapping: A Reply to Boyd, Bert Baumgaertner](https://social-epistemology.com/2019/06/10/groupstrapping-bootstrapping-and-oops-strapping-a-reply-to-boyd-bert-baumgaertner/)
-12. [Conspiracy Theories are propaganda for deep beliefs](https://tomstafford.substack.com/p/conspiracy-theories-are-propaganda)
+## Unit 2 – What Is Propaganda? Definitions, Types, and Ethical Boundaries
 
-### Videos
+**Guiding questions**
 
-1. [The Psychology of Conspiracy Theorists](https://youtu.be/ByOHRqCP_kY?si=Vy4N5KvSe8XcQIxD)
-2. [#772 Joseph Uscinski: The Politics and Psychology of Conspiracy Theories](https://youtu.be/vQHpPco4laY?si=DfJxZkTcVN_kFMke)
-3. [#193 Paul Slovic: Risk Perception, GMOs, Vaccines, And Climate Change](https://youtu.be/AwEYI4P7BIo?si=riw5IftrXZwI0gDn)
-4. [#586 Marianna Ganapini: Beliefs, Confabulations, Rationalizations, and AI Systems](https://youtu.be/CooZlBJSS2c?si=FrW-kgElFu7V9EW1)
-5. [#1048 Mona Simion: Why Do People Resist Evidence?](https://youtu.be/P_Rw1U7GxzA?si=FGgj6ywuXjs9AMtq)
-6. [Ep. 3 Applying Asch's conformity studies to the pandemic: Are you in an epistemological nightmare?](https://youtu.be/DjjpE5xiR4s?si=XqjiYdF3qDoh6jBK)
+* When does persuasion become propaganda?
+* Can propaganda ever be “for good,” or is it inherently corruptive?
+* Why are definitional fights themselves strategic?
 
-## Philosophical Concepts
+**Sub-units**
 
-- [Philosophy of Conspiracy Theories](https://philpapers.org/browse/conspiracy-theories)
-- [Academic Papers on Debunking Arguments](https://danielzkorman.weebly.com/papers-and-books.html)
-- [genealogical-debunking](https://philpapers.org/browse/genealogical-debunking)
-- [global debunking](https://philpapers.org/s/global%20debunking)
-- [Rhetoric](https://en.wikipedia.org/wiki/Category:Rhetoric)
-- [Rhetorical Techniques](https://en.wikipedia.org/wiki/Category:Rhetorical_techniques)
+1owd:
 
-1. [Episode 124, ‘Narrative Critique’ with Rachel Fraser (Part I – Disrupting Ideology)](https://youtu.be/xLlrItiK4yA?si=Gofy-FAtOPJjzzfb)
-2. [Episode 124, ‘Narrative Critique’ with Rachel Fraser (Part II – Further Analysis and...](https://youtu.be/jRT0JdG8Oc8?si=NyKKKGuiNby-y5-x)
-3. [Episode 126, ‘Playfulness Versus Epistemic Traps’ with C. Thi Nguyen (Part I)](https://youtu.be/jmiDJvD5INs?si=vqFT8X3azGJ9QPTm)
-4. [Episode 126, ‘Playfulness Versus Epistemic Traps’ with C. Thi Nguyen (Part II)](https://youtu.be/4wCmxG3xDPM?si=EirJFcgTBgB4n2g5)
-5. [C. Thi Nguyen: Metrification](https://youtu.be/CEekJqgSo2g?si=LWNcrQkYxOE8h_UZ)
-6. [Mindscape 169 | C. Thi Nguyen on Games, Art, Values, and Agency](https://youtu.be/H0EhjQDHaAw?si=9JLg23sAC-NUql1c)
-7. [C. Thi Nguyen: Transparency is Surveillance](https://youtu.be/8JEzXL5OXPI?si=hHWs7IK6jIh45kC8)
-8. [C. Thi Nguyen: The Gamification of Public Discourse (Royal Institute of Philosophy)](https://youtu.be/1LpbGW3qLVg?si=0KK0OTcwcJ0aVUqF)
-9. [C. Thi Nguyen | Transparency is surveillance](https://youtu.be/ZcEJY61FKIc?si=fC0l1Kn60NdzjAYf)
-10. ["Trust and Hostile Epistemology": C. Thi Nguyen in conversation with Johnny Brennan](https://youtu.be/-LFd9YCpGvA?si=lWnNx10scMtOBCdE)
-11. [Keynote: Quantification and the Limits of Scale, C. Thi Nguyen](https://youtu.be/e94yY3AKh9Q?si=qds1Bsuf_UhtsUrp)
-12. [The Seductions of Clarity: Conspiracy Theories, Echo Chambers, and the Gamification of Social Media](https://youtu.be/Nkf8uGEN3zA?si=taRtpQpedQue1Yql)
-13. [Quassim Cassam (University of Warwick): Disinformation, Narratives and Radicalization](https://youtu.be/ko3dw-9tiVU?si=kFqyuBs-UgXqDwx-)
-14. [Extremism - A Philosophical Analysis by Professor Quassim Cassam](https://www.youtube.com/live/5mJXaaT3d0M?si=neZEGrLk4E4R0Id9)
-15. [Misinformation | With Lisa Bortolotti, Quassim Cassam, and Cailin O’Connor](https://youtu.be/4c3xcjlL5Yw?si=rbCrqYZdn5mCu_lk)
-16. [C. Thi Nguyen: The Seductions of Clarity](https://youtu.be/ioyr4X4A4C0?si=KXtl3axy5IBZ2hEp)
-17. [#38 C. Thi Nguyen - Value Capture by Gamification](https://youtu.be/b3IybuXi3DI?si=8yg_X77kMQ5I4MFS)
-18. [Debunking Arguments: Majesty of Reason](https://youtu.be/fz6cHG1lczU?si=0rZyvL0KavslBIEK)
-19. [The Art of Rhetoric: 10 Principles of Persuasive Speech](https://youtu.be/qAert4eHBRM?si=JKN1N5JwqmnLndKH)
-20. [#761 Paul Katsafanas - Philosophy of Devotion: The Longing for Invulnerable Ideals](https://youtu.be/is5snuaUUA0?si=rulpsuGZDH9Nody_)
-21. [#71 Massimo Pigliucci: The Philosophy of Pseudoscience](https://youtu.be/a9Fl63Ca9pE?si=nI3xmt7f-osCTett)
-22. [The Foundation of Propagandistic Speech | Jason Stanley](https://youtu.be/odUiEHdsgT8?si=Yfz1kkeqpfXlX4gp)
-23. [#618 Lee McIntyre - How to Talk to a Science Denier](https://youtu.be/paQWuuFKAS0?si=2wC7XqkLHQh5aQhj)
-24. [Sarah Fisher: Reading between the lines. Language-based inferences and (ir)rationality](https://youtu.be/wtQ6I0KnnwA?si=hNBkL5Gu96Fq50gV)
+1. **Conceptual distinctions**
 
-## Philosophy of Conspiracy Theory & Media Theory
+   * Propaganda vs. persuasion vs. education vs. PR vs. disinformation.
+   * Why taxonomy matters for accountability and regulation. ([Media Manipulation Casebook—Definitions][6])
 
-1. [In Defense of Conspiracy Theories pt 1](https://youtu.be/p0poRoE_kVk?si=QbhsIPmPAsfMv0r3)
-2. [In Defense of Conspiracy Theories pt 2](https://youtu.be/TRKYf49aMfU?si=C6bHVzE8CZbCxVTb)
-3. [How to Argue with conspiracy Theorists (And Win)](https://youtu.be/KLfL1Gm9QDM?si=falx1nMUUpYpvh-Y)
-4. [Why We're Living in the Age of Bulls**t (and what to do about it)](https://youtu.be/r3-dpUJOduE?si=h4wD1fd88d2Arah-)
-5. [Why Trust Experts?](https://youtu.be/TPq6zKf7RQQ?si=QLut7-FDf79XqO0c)
-6. [The Conspiracy Hypothesis](https://youtu.be/378KsaqmHOA?si=utPp9UATsR8ruj7j)
-7. [Dietary Nihilism](https://youtu.be/hTcbmxrrTn0?si=yxuXl2j5M3XSonq4)
-8. [Karl Popper's "The Conspiracy Theory of Society"](https://youtu.be/KumNAOH33VM?si=5EJFHZyUE7TfoPNB)
-9. [Episode 12, Dr M R. X. Dentith on Conspiracy Theories (audio fixed)](https://youtu.be/VgUdy01KZbY?si=yjAQXxMK0l00AguH)
-10. [You Are Lied to Every Day](https://youtu.be/ewXqB7g7t1A?si=NWMqbZ86-iIDE3LR)
-11. [Jesse Walker "The United States of Paranoia"](https://youtu.be/9ffxKN1hppc?si=gROzIqqcq5xrvxX2)
-12. [Debunking and Argumentation: Looking at Kenneth Burke's Debunking Essay](https://youtu.be/bD4ZcTrkjX8?si=Z-LhHiyEdtE8IIVg)
-13. [CARTA: Folklore, Conspiracy Theories, and Threat](https://youtu.be/UmUukTBAM98?si=1JQ1-gVmQcgcv5sm)
-14. [Episode 127: The United States of Paranoia: A Conspiracy Theory (with Jesse Walker)](https://youtu.be/2harUfkThMo?si=t-STvLG0MlevseOu)
-15. [The Paranoid Style in American Politics - Richard Hofstadter - 1964](https://youtu.be/zkVBgOc4Vbo?si=Dk61mhReDlZ2ejw7)
-16. [#474 Andrew Norman - Mental Immunity; Reason, Critical Thinking, Beliefs, and Morality](https://youtu.be/1zVl9nuYAjU?si=yZHBYKiXiefJ7jQ3)
-17. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=qLz5piSY464lNnMT)
-18. [#738 Antoine Marie: Moral Convictions, Politics, Misinformation, and Conspiracy Theories](https://youtu.be/1gMxfEZAThA?si=yH_ol7Ye1pJ99g3m)
-19. [#816 Gareth Leng - The Matter of Facts: Skepticism, Persuasion, and Evidence in Science](https://youtu.be/bqNT5xdAQyM?si=uVVRRi3Rcdu-K8Wp)
-20. [#874 Cecilie Traberg: Misinformation, Debunking, Prebunking, and Inoculation Approaches](https://youtu.be/RaRAEJ8IQEw?si=wFsrEEoY13bCdnxW)
-21. [#923 Nicholas Brown: How to Spot Bad Science](https://youtu.be/0ovxk0s3UT8?si=DG5zqw3mRxaQtN63)
-22. [#918 Antoine Marie: The Biases of People with Strong Political and Moral Convictions](https://youtu.be/QzvIfUZpELw?si=b3kMMDvKj2E7KX25)
-23. [#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups Lies, and Responsibility](https://youtu.be/OnW93tV_Ky8?si=PZJgaNNwkob9quOi)
-24. [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
-25. [Quassim Cassam - Misunderstanding Conspiracy Theories | PERITIA Lectures](https://www.youtube.com/live/DiDAsO0KPKQ?si=Tgf0dcVbXeWtbPwP)
-26. [Keynote 4 'How to take a person with extreme beliefs seriously?' Naomi Kloosterboer](https://youtu.be/jMe5SlLz3Ro?si=Vsux4ibkxWTLQPWA)
-27. [Episode 95, Conspiracy Theories (Part I - Origins)](https://youtu.be/4SuPmxa9tOw?si=BvKoKryqkfeqewBh)
-28. [Episode 95, Conspiracy Theories (Part II - Solutions)](https://youtu.be/v5a27JF93Fs?si=v10ZH6_6zW7O9X0l)
-29. [Episode 95, Conspiracy Theories (Part III - Further Analysis and Discussion)](https://youtu.be/iF-9pm__KTQ?si=RvVBs1Tk5uyuMg9Q)
-30. [Extreme Beliefs - Mapping the Terrain: Day 2 - Ruth Tietjen and Rik Peels & Quassim Cassam](https://youtu.be/fVedcjoM034?si=cL6Ni6dPzpr14oC2)
-31. [Quassim Cassam (University of Warwick): Disinformation, Narratives and Radicalization](https://youtu.be/ko3dw-9tiVU?si=rUrZkM8Kw79--P95)
-32. [Mona Simion: Politically Motivated Reasoning and Evidence Resistance](https://youtu.be/MyStmd7aBys?si=0nAlBMH6UBBTYP5s)
-33. [Cailin O'Connor: Multiple Mechanisms of Polarization](https://youtu.be/AkoQ-EI-5Bg?si=JZC_5pIXjVXhawkr)
-34. [Quassim Cassam (Warwick): 'Vaccine Hesitancy, Old and New'](https://youtu.be/79oFUztfiLM?si=31CxX3o_HHSlbFOz)
-35. [Expert guide to conspiracy theories part 1 – how to spot one](https://youtu.be/VJugRueL3A0?si=KRiryrrhSKa01XTI)
-36. [Expert guide to conspiracy theories part 2 – who believes them and why?](https://youtu.be/8Q3xLr0YpqA?si=slXxJ-geg8U_0Vuc)
-37. [Expert guide to conspiracy theories part 3 – their history](https://youtu.be/higNAGro7mg?si=EQSg2d3g7HAU78tS)
-38. [Expert guide to conspiracy theories part 4 – how they spread](https://youtu.be/ZLknUf7xWeU?si=dwMzKF30aiJgXEiL)
-39. [Expert guide to conspiracy theories part 5 – how dangerous are they?](https://youtu.be/8Mh8V4I0hKI?si=9IiBYcWBBIW0ccLl)
-40. [Expert guide to conspiracy theories part 6 – coronavirus](https://youtu.be/2crOiEog9mY?si=0iOWZw3WX7ca14cA)
-41. [Lecture 'Seeing Like an Extremist State' by Jonathan Maynard](https://youtu.be/l1S3lR9F6O8?si=78Ex0NF2yVes644u)
-42. [Group Fanaticism and Narratives of Resentment - Paul Katsafanes](https://youtu.be/1CWch9MarGo?si=zjImHXink0G8A2oC)
+2. **Classic frameworks**
+
+   * Manufacturing-consent style models, agenda setting, and “public relations as legitimacy-production.” (Pair with your curated Chomsky/Bernays video track.)
+
+3. **Black / gray / white propaganda**
+
+   * Source concealment, identity laundering, plausible deniability.
+
+4. **Ethical lenses**
+
+   * Autonomy, manipulation, consent, dignity, democratic deliberation.
+
+**Core readings / resources**
+
+* **MIT OCW “Propaganda Survival Guide”** (excellent compact primer + reading spine). ([Propaganda Survival Guide—MIT OCW][12])
+* **MIT OCW CMS.701 lecture notes list** (propaganda/censorship + adjacent themes). ([MIT OCW lecture notes set][13])
+* **EU DisinfoLab** (Europe-focused disinformation investigations + community). ([EU DisinfoLab][9])
+* **NATO StratCom COE publications (disinformation tag)** (resilience, tactics, campaign patterns). ([NATO StratCom COE—Disinformation publications][10])
+
+---
+
+## Unit 3 – Media Argumentation: How Mass Media “Makes the Case”
+
+**Guiding questions**
+
+* How do news and punditry argue without looking like argument?
+* What are the most common media fallacies and distortions?
+* How do quotation, clipping, and re-reporting change meaning?
+
+**Sub-units**
+
+1. **Media argumentation as a genre**
+
+   * Narrative packaging, rhetorical priming, framing-as-inference guidance.
+
+2. **Ambiguity and strategic vagueness**
+
+   * Equivocation, motte-and-bailey drift, “plausible deniability” via implicature.
+
+3. **One-sidedness and bias as argument-structure**
+
+   * Missing alternatives, selective standards of evidence, motivated skepticism.
+
+4. **Threat politics**
+
+   * Fear appeals, scapegoating, “folk devils,” moral panic amplification.
+
+**Core readings / resources (additions)**
+
+* **MIT OCW CMS.701: “Ideologies and Conceptual Maps,” “Stereotypes and Agency,” “Propaganda and Censorship”** (use as applied lecture modules). ([MIT OCW lecture notes set][13])
+* **Paul & Elder: How to Detect Media Bias & Propaganda (mini-guide PDF)** (quick classroom tool). ([Paul & Elder mini-guide PDF][11])
+* **Media Manipulation Casebook—Definitions** (use as a controlled vocabulary for analysis assignments). ([Media Manipulation Casebook—Definitions][6])
+
+---
+
+## Unit 4 – Authority, Expertise, and the Fragmentation of Intellectual Autonomy
+
+**Guiding questions**
+
+* When is it rational to defer to experts?
+* How do fake experts and “credential theater” work?
+* What happens when expertise becomes polarized?
+
+**Sub-units**
+
+1. **Expertise as a social technology**
+
+   * Deference, division of epistemic labor, and “outsourcing judgment” under overload.
+
+2. **Conflicts of interest and reputation management**
+
+   * Think tanks, PR pipelines, sponsored research, “policy-based evidence.”
+
+3. **Higher-order evidence & peer disagreement**
+
+   * How to update when smart people disagree; what counts as legitimate dissent.
+
+4. **Practical expert-check workflow (lab)**
+
+   * Identify domain; check consensus signals; audit conflicts; triangulate coverage; trace to primary.
+
+**Core readings / resources (additions)**
+
+* **SIFT method** as the default *skill routine* for evaluating unfamiliar sources. ([SIFT method][1])
+* **First Draft training archive** (practical verification, coordination, bots/inauthentic behavior—great lab prompts). ([First Draft—Training archive][15])
+* **Bellingcat** (verification + OSINT habits; use beginner verification guide + toolkit hub). ([Bellingcat—Beginner’s verification guide][18]) ([Bellingcat—Toolkit / guides hub][17])
+* **DFRLab training/research** (investigation methods + case-driven reports). ([DFRLab—About][19]) ([DFRLab—Training][20])
+
+---
+
+## Unit 5 – Moral Panics, Outrage, and the Social Psychology of Attention
+
+**Guiding questions**
+
+* How do “folk devils” get manufactured?
+* Why does outrage feel like insight?
+* How do media cycles convert uncertainty into certainty?
+
+**Sub-units**
+
+1. **The panic machine**
+
+   * Trigger events → amplification → entrepreneurs → policy backlash.
+
+2. **Outrage as an attention currency**
+
+   * Incentives for escalation, purity spirals, status games.
+
+3. **Risk perception and salience**
+
+   * Why vividness beats base rates; how repeated exposure shapes belief.
+
+4. **Designing “de-outrage” habits**
+
+   * Slowing down, triangulation, and structured doubt without cynicism.
+
+**Core readings / resources (additions)**
+
+* **Michigan Online Teach-Out: 4D Model of disinformation campaigns** (dismiss/distort/distract/dismay—great for moral panic classification). ([4D Model—Michigan Online Teach-Out][22])
+* **HKS Misinformation Review** (pick 2–3 pieces on interventions/polarization/outcomes per cohort). ([HKS Misinformation Review][4])
+
+---
+
+## Unit 6 – Conspiracy Theories: Suspicion, Insulation, and the Paranoid Style
+
+**Guiding questions**
+
+* What distinguishes healthy suspicion from conspiracism?
+* Why do conspiracy beliefs persist despite counterevidence?
+* How do conspiracies function as propaganda for deeper beliefs?
+
+**Sub-units**
+
+1. **Definitions and boundary cases**
+
+   * “Conspiracy theory” vs. real conspiracies; bad uses of the label.
+
+2. **Evidential insulation**
+
+   * Preemption, self-sealing explanations, motivated standards of evidence.
+
+3. **Social scaffolding**
+
+   * Echo chambers, epistemic bunkers, groupstrapping.
+
+4. **Conspiracy as identity narrative**
+
+   * Meaning-making, devotion, resentment, invulnerable ideals.
+
+**Core readings / resources (additions)**
+
+* **RAND Truth Decay** (macro context: trust erosion and susceptibility). ([RAND Truth Decay][8])
+* **ISD (Institute for Strategic Dialogue) disinformation research hub** (campaign patterns + election disinfo + case studies). ([ISD—Disinformation hub][24])
+* **EU DisinfoLab** (e.g., “Doppelganger” and other campaigns—use as case dossier inputs). ([EU DisinfoLab][9])
+
+---
+
+## Unit 7 – Reaction, Resentment, and Mass Persuasion in Public Life
+
+**Guiding questions**
+
+* What rhetorical patterns keep “reaction” stable across decades?
+* How do movements recruit through grievance and identity?
+* How do propaganda and ideology interact?
+
+**Sub-units**
+
+1. **Reactionary rhetoric as reusable argument forms**
+
+   * Perversity, futility, jeopardy patterns (and how to spot them in media talk).
+
+2. **Anti-intellectualism and epistemic style**
+
+   * Suspicion of expertise; romance of “common sense”; performative skepticism.
+
+3. **Devotion and invulnerable ideals**
+
+   * Why some beliefs become sacred, insulated, non-negotiable.
+
+4. **Narratives of resentment**
+
+   * Betrayal scripts, scapegoats, purity, and moralized epistemology.
+
+**Core readings / resources (additions)**
+
+* Use **MIT “Propaganda Survival Guide”** sections + your curated Hofstadter/Hirschman/Katsafanas readings as the unit spine. ([Propaganda Survival Guide—MIT OCW][12])
+
+---
+
+## Unit 8 – Influence Infrastructure: PR, Think Tanks, Lobbying, and Manufactured Legitimacy
+
+**Guiding questions**
+
+* How do institutions shape belief without straightforward lying?
+* What is astroturfing, and how does it differ from grassroots action?
+* How do money, networks, and legitimacy-production interact?
+
+**Sub-units**
+
+1. **PR, reputation management, agenda setting**
+
+   * “Soft power” via credibility engineering.
+
+2. **Think tanks and policy laundering**
+
+   * Expert placement, op-ed pipelines, selective evidence standards.
+
+3. **Campaign/tooling literacy**
+
+   * How investigations trace coordination and attribution (carefully, without overclaiming).
+
+4. **Dossier lab**
+
+   * Students build an influence map: actors, funding, intermediaries, message evolution, distribution channels.
+
+**Core readings / resources (additions)**
+
+* **NATO StratCom COE disinformation publications** (campaign tooling + resilience). ([NATO StratCom COE—Disinformation publications][10])
+* **GDI (Global Disinformation Index)** (risk, incentives, and disinfo business models—use selectively, alongside critique). ([GDI—What we do][25])
+* **DFRLab research** (investigations as exemplars). ([DFRLab—Research][21])
+
+---
+
+## Unit 9 – Countermeasures: Debunking, Prebunking, and “Talking Back” Without Feeding the Fire
+
+**Guiding questions**
+
+* What makes debunking effective—and what makes it backfire?
+* How do you respond without amplifying the manipulation?
+* How do we build “mental immunity” without paranoia?
+
+**Sub-units**
+
+1. **The epistemology of debunking**
+
+   * What counts as success: truth, justification, resilience, behavior change?
+
+2. **Debunking failure modes**
+
+   * “Salience traps,” attention hijacking, identity threat, defensive processing.
+
+3. **Prebunking / inoculation**
+
+   * Teaching tactics and pattern-recognition rather than litigating every claim.
+
+4. **Talking back**
+
+   * Dialogue discipline; steelmanning; boundary-setting; knowing when not to engage.
+
+**Core readings / resources (additions)**
+
+* **Civic Online Reasoning curriculum** (classroom-ready lessons + assessments). ([Civic Online Reasoning—site][16])
+* **Intro to lateral reading + collection** (use as weekly labs). ([Civic Online Reasoning—lateral reading collection][14])
+* **HKS Misinformation Review** (interventions and deterrence mechanisms; pick 2–3 per term). ([HKS Misinformation Review][4])
+
+---
+
+## Unit 10 – Agency in a Manipulated World: Indoctrination, Surveillance, and Epistemic Self-Defense
+
+**Guiding questions**
+
+* What is indoctrination (vs. persuasion vs. education)?
+* When does “transparency” become surveillance?
+* How do we cultivate resilience without drifting into conspiracism?
+
+**Sub-units**
+
+1. **Indoctrination and autonomy**
+
+   * Control of defeaters, social costs of doubt, identity capture.
+
+2. **Cultic dynamics as a diagnostic lens**
+
+   * Use carefully: as pattern-recognition, not as a labeling weapon.
+
+3. **Transparency and surveillance**
+
+   * Chilling effects; metric capture; coercive visibility.
+
+4. **Playfulness vs. epistemic traps**
+
+   * Rebuilding agency: curiosity, humor, reversible commitments, exit ramps.
+
+**Core readings / resources (additions)**
+
+* **BITE Model of Authoritarian Control (PDF)** (as a structured checklist, cautiously applied). ([BITE model PDF][23])
+* **NATO “approach to counter information threats”** (definitions, scope boundaries). ([NATO on “information threats” terminology][26])
+* (Optional meta-case) Research transparency constraints as part of the environment (e.g., loss of monitoring tools / research centers). ([CrowdTangle shutdown context][27]) ([Stanford Internet Observatory dismantling report][28])
+
+---
+
+## Skills labs running through the whole course (recommended)
+
+* **SIFT + lateral reading** as default verification reflex. ([SIFT method][1]) ([Civic Online Reasoning—Intro to lateral reading][14])
+* **Claim decomposition**: isolate claim → identify implied evidence → separate observation from interpretation → list plausible alternatives.
+* **Source & incentive audit**: who benefits, who pays, who risks?
+* **Argument reconstruction**: turn a clip/headline into premises/conclusion; test for ambiguity, bias, missing defeaters.
+* **Narrative tracing**: map how a narrative moves (influencer → blog → mainstream) and where “laundering” occurs. ([Media Manipulation Casebook—Case Studies][7])
+* **Response practice**: write (a) a correction, (b) a boundary-setting reply, (c) a de-escalating dialogue move, (d) a “don’t amplify” strategy.
+
+---
+
+## Possible capstone activities
+
+1. **Propaganda dossier (institutional case study)**
+   Choose a live controversy and build a dossier: messaging timeline, actors, funding/incentives, platform strategy, argument patterns (fear appeals, expert theater, ambiguity, preemption). Use Casebook coding vocabulary. ([Media Manipulation Casebook—Definitions][6])
+
+2. **Conspiracy ecology analysis**
+   Track one conspiracy narrative and explain stabilizers: evidential insulation, groupstrapping, hostile epistemology, recruitment pathways (plus recommended interventions).
+
+3. **Build a resilience toolkit**
+   Design a practical guide for a target audience (students, parents, journalists): verification habits, debunking templates, “when not to engage,” and ethical guardrails.
+
+4. **Red-team / blue-team simulation (ethical, classroom-bounded)**
+   Teams model an influence campaign’s likely tactics *without deploying them*, then design defenses: early detection, inoculation messaging, community norms, and platform-aware distribution constraints.
+
+---
+
+[1]: https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322& "The SIFT Method - Evaluating Resources and Misinformation"
+[2]: https://opentextbc.ca/mediastudies101/? "Media Studies 101"
+[3]: https://datasociety.net/research/media-manipulation/? "Media Manipulation & Disinformation"
+[4]: https://misinforeview.hks.harvard.edu/? "HKS Misinformation ReviewHKS Misinformation Review"
+[5]: https://mediamanipulation.org/? "Media Manipulation Casebook: Homepage"
+[6]: https://mediamanipulation.org/definitions/? "Definitions"
+[7]: https://mediamanipulation.org/case-studies/? "Case Studies"
+[8]: https://www.rand.org/research/projects/truth-decay.html? "Countering Truth Decay"
+[9]: https://www.disinfo.eu/? "EU DisinfoLab"
+[10]: https://stratcomcoe.org/publications?tid%5B%5D=30& "Disinformation"
+[11]: https://www.criticalthinking.org/TGS_files/SAM-MediaBias.pdf? "How to Detect Media Bias & Propaganda"
+[12]: https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/resources/mitcms_701s15_srvivalguid/? "CMS.701s15 Propaganda Survival Guide"
+[13]: https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/pages/lecture-notes/? "Lecture Notes | Current Debates in Media"
+[14]: https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/? "Teaching Lateral Reading - Civic Online Reasoning"
+[15]: https://firstdraftnews.org/bucket/our-training/? "Our Training Archives - First Draft"
+[16]: https://cor.inquirygroup.org/? "Civic Online Reasoning - Digital Inquiry Group"
+[17]: https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks? "Guides & Handbooks | Bellingcat's Online Investigation ..."
+[18]: https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/? "A Beginner's Guide to Social Media Verification"
+[19]: https://dfrlab.org/about/? "About"
+[20]: https://dfrlab.org/training/? "Training + Resources"
+[21]: https://dfrlab.org/research/? "Research and Analysis"
+[22]: https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/lessons/4d-model-disinformation-campaigns/? "Disinformation, Misinformation, and Fake News Teach-Out"
+[23]: https://freedomofmind.com/wp-content/uploads/2023/08/BITE-model.pdf? "BITE-model.pdf"
+[24]: https://www.isdglobal.org/disinformation/? "Disinformation - ISD - We identify and analyse online ..."
+[25]: https://www.disinformationindex.org/? "The Global Disinformation Index"
+[26]: https://www.nato.int/en/what-we-do/wider-activities/natos-approach-to-counter-information-threats? "NATO's approach to counter information threats"
+[27]: https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time? "Meta Kills a Crucial Transparency Tool At the Worst Possible Time"
+[28]: https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/? "The Stanford Internet Observatory is being dismantled"
