@@ -17,6 +17,7 @@
 13. [M R. X. Dentith](https://philpeople.org/profiles/m-r-x-dentith)
 14. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
 15. [Matthew Boedy](https://www.matthewboedy.com/)
+16. [Kate Starbird](https://faculty.washington.edu/kstarbi/)
 
 ## Relevant Books
 
@@ -29,6 +30,8 @@
 7. [Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories/dp/1510735801)
 8. [Truth Decay: An Initial Exploration of the Diminishing Role of Facts and Analysis in American Public Life](https://en.wikipedia.org/wiki/Truth_Decay_%28book%29)
 9. [Foxocracy: Inside the Network's Playbook of Tribal Warfare](https://www.amazon.com/Foxocracy-Inside-Networks-Playbook-Warfare/dp/1635766613)
+10. [Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media](https://www.amazon.com/Computational-Propaganda-Political-Politicians-Manipulation/dp/0190931418)
+11. [The Politics of Fear: What Right-Wing Populist Discourses Mean](https://www.amazon.com/Politics-Fear-Right-Wing-Populist-Discourses/dp/1446247007)
 
 
 ## [Propaganda](https://en.wikipedia.org/wiki/Category:Propaganda)
@@ -80,6 +83,9 @@
 - [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
 - [MIT OCW: CMS.701 Current Debates in Media (course home)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/)
 - [MIT OCW: “Propaganda Survival Guide” (PDF)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf)
+- [Center for an Informed Public - University of Washington](https://www.cip.uw.edu/)
+- [Observatory on Social Media - Indiana University](https://osome.iu.edu/)
+- [Programme on Democracy and Technology - Oxford](https://navigator.oii.ox.ac.uk/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
@@ -101,6 +107,7 @@
 14. [Distinction without a Difference](https://en.wikipedia.org/wiki/Distinction_without_a_difference)
 15. [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
 16. [The 4D Model of Disinformation Campaigns](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/lessons/4d-model-disinformation-campaigns/)
+17. [Computational Propaganda](https://en.wikipedia.org/wiki/Computational_propaganda)
 
 ### Propaganda & Media Studies Related Videos
 
