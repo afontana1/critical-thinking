@@ -1,5 +1,25 @@
 # [Communication of Falsehoods](https://en.wikipedia.org/wiki/Category:Communication_of_falsehoods)
 
+
+## Relevant Research Organizations and Projects
+
+- [Center for an Informed Public - University of Washington](https://www.cip.uw.edu/)
+- [Observatory on Social Media - Indiana University](https://osome.iu.edu/)
+- [Programme on Democracy and Technology - Oxford](https://navigator.oii.ox.ac.uk/)
+- [Stanford Social Media Lab](https://sml.stanford.edu/)
+- [EU Disinfo Lab](https://www.disinfo.eu/)
+- [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
+- [Digital Forensics Lab](https://dfrlab.org/)
+- [Extreme Beliefs](https://extremebeliefs.com/)
+- [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
+- [Media Ecology](https://media-ecology.org/)
+- [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
+- [Network Contagion Institute](https://networkcontagion.us/)
+- [Media Manipulaton Casebook](https://mediamanipulation.org/)
+- [Disinformation Tactics](https://www.disinformation.ch/)
+- [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
+
+
 ## Relevant Researchers
 
 1. [M R. X. Dentith](https://scholar.google.co.nz/citations?user=k_262rwAAAAJ&hl=en)
@@ -59,39 +79,14 @@
 19. [Necessary Illusions](https://en.wikipedia.org/wiki/Necessary_Illusions)
 20. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
 21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
-22. [Ur Fascism](https://en.wikipedia.org/wiki/Ur-Fascism)
 
 ## Media Studies
-
-- [Media Studies 101](https://opentextbc.ca/mediastudies101/)
-- [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
-- [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
-- [Media Ecology](https://media-ecology.org/)
-- [Misinformation Review: Harvard Kennedy School](https://misinforeview.hks.harvard.edu/)
-- [Network Contagion Institute](https://networkcontagion.us/)
-- [Media Manipulaton Casebook](https://mediamanipulation.org/)
-- [Digital Forensic Research Lab](https://dfrlab.org/)
-- [Disinformation, Misinformation, and Fake News Teach-Out: Michigan Online](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/)
-- [Stanford Social Media Lab](https://sml.stanford.edu/)
-- [EU Disinfo Lab](https://www.disinfo.eu/)
-- [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory)
-- [Disinformation Tactics](https://www.disinformation.ch/)
-- [Extreme Beliefs](https://extremebeliefs.com/)
-- [NATO: Strategic Communications of Centre of Excellence (Disinfromation)](https://stratcomcoe.org/publications?tid%5B%5D=30)
-- [The SIFT Method](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)
-- [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
-- [Countering Truth Decay](https://www.rand.org/research/projects/truth-decay.html)
-- [MIT OCW: CMS.701 Current Debates in Media (course home)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/)
-- [MIT OCW: “Propaganda Survival Guide” (PDF)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf)
-- [Center for an Informed Public - University of Washington](https://www.cip.uw.edu/)
-- [Observatory on Social Media - Indiana University](https://osome.iu.edu/)
-- [Programme on Democracy and Technology - Oxford](https://navigator.oii.ox.ac.uk/)
 
 1. [Media Studies](https://en.wikipedia.org/wiki/Category:Media_studies)
     * [Mass Media Theories](https://en.wikipedia.org/wiki/Category:Mass_media_theories)
     * [Media Analysis](https://en.wikipedia.org/wiki/Category:Media_analysis)
     * [Concentration of Media Ownership](https://en.wikipedia.org/wiki/Category:Concentration_of_media_ownership)
-    - [Outline of Public Relations](https://en.wikipedia.org/wiki/Outline_of_public_relations)
+    * [Outline of Public Relations](https://en.wikipedia.org/wiki/Outline_of_public_relations)
 2. [Elaboration_likelihood_model](https://en.wikipedia.org/wiki/Elaboration_likelihood_model)
 3. [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)
 4. [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
@@ -108,6 +103,15 @@
 15. [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
 16. [The 4D Model of Disinformation Campaigns](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/lessons/4d-model-disinformation-campaigns/)
 17. [Computational Propaganda](https://en.wikipedia.org/wiki/Computational_propaganda)
+18. [The SIFT Method](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)
+19. [Media Studies 101](https://opentextbc.ca/mediastudies101/)
+20. [News Literacy Guide](https://libguides.uww.edu/News-Literacy/conspiracy-theories)
+21. [Media Manipulation](https://en.wikipedia.org/wiki/Category:Media_manipulation)
+22. [Disinformation, Misinformation, and Fake News Teach-Out: Michigan Online](https://online.umich.edu/teach-outs/disinformation-misinformation-and-fake-news-teach-out/)
+23. [MIT OCW: CMS.701 Current Debates in Media (course home)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/)
+24. [MIT OCW: “Propaganda Survival Guide” (PDF)](https://ocw.mit.edu/courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf)
+25. [NATO: Strategic Communications of Centre of Excellence (Disinformation)](https://stratcomcoe.org/publications?tid%5B%5D=30)
+
 
 ### Propaganda & Media Studies Related Videos
 
