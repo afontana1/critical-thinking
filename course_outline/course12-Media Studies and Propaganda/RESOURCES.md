@@ -18,6 +18,7 @@
 - [Media Manipulaton Casebook](https://mediamanipulation.org/)
 - [Disinformation Tactics](https://www.disinformation.ch/)
 - [Data & Society: Media Manipulation and Disinformation](https://datasociety.net/research/media-manipulation/)
+- [Oxford Internet Institute - Programme on Democracy & Technology](https://demtech.oii.ox.ac.uk/)
 
 
 ## Relevant Researchers
@@ -38,6 +39,7 @@
 14. [Duncan Pritchard](https://philpeople.org/profiles/duncan-pritchard)
 15. [Matthew Boedy](https://www.matthewboedy.com/)
 16. [Kate Starbird](https://faculty.washington.edu/kstarbi/)
+17. [David Livingstone Smith](https://www.davidlivingstonesmith.com/)
 
 ## Relevant Books
 
