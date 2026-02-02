@@ -73,6 +73,7 @@
 26. [Deborah M. Gordon](https://web.stanford.edu/~dmgordon/)
 27. [Tina Eliassi-Rad](https://eliassi.org/)
 28. [Petter Tornberg](https://www.pettertornberg.com/)
+29. [César A. Hidalgo](https://cesarhidalgo.com/)
 
 ### Journals, Institutes, Research Labs
 
@@ -87,6 +88,20 @@
 9. [Complexity Hub](https://csh.ac.at/)
 10. [Cascade Institute](https://cascadeinstitute.org/)
 11. [The Computational Social Sciences Society of the Americas](https://computationalsocialscience.org/)
+12. [ASU - School of Complex Adaptive Systems](https://scas.asu.edu/research/)
+
+### [Complexity Economics](https://en.wikipedia.org/wiki/Category:Complexity_economics)
+
+1. [The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)
+2. [Complex Society Lab](https://complexsocietylab.cl/)
+3. [Center For Collective Learning](https://centerforcollectivelearning.org/)
+4. [Center for Complex Systems & Enterprises](https://www.stevens.edu/center-for-complex-systems-and-enterprises)
+5. [The Complexity Lab in Economics (CLE)](https://centridiricerca.unicatt.it/m/complexity-home)
+6. [ASU Complexity Economics Lab](https://globalfutures.asu.edu/cel/)
+7. [Columbia University - Economic Complexity Research Lab](https://kachanilab.ieor.columbia.edu/)
+8. [World Economics Association - Complexity Economics](https://www.worldeconomicsassociation.org/newsletterarticles/complexity-economics/)
+9. [Social Economics Lab](https://socialeconomicslab.org/)
+10. [Experimental Economics Center - Georgia State University](https://excenopen.gsu.edu/center/)
 
 ## Systems Science
 
