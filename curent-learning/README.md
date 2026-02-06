@@ -36,6 +36,8 @@
 
 ### Topics
 
+- [Complexity Economics Course](https://sites.google.com/site/matteorichiardi/teaching/complexity-economics)
+
 1. [Complexity Economics](https://www.oxfordmartin.ox.ac.uk/programmes/economics)
 2. [Complexity Studies](https://complexsystemsupenn.com/)
 3. [Network Science](https://www.networkscienceinstitute.org/)
