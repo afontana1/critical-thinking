@@ -140,6 +140,16 @@
 16. [Episode 32: Naomi Oreskes on Climate Change and the Distortion of Scientific Facts](https://youtu.be/DhDujggi8DY?si=hO5mMAwCajZEYb99)
 17. [Naomi Oreskes on "Giant Power: Technology, Energy, and the Beginnings of Post-Truth America"](https://youtu.be/ZuEsVOIda9w?si=5LHLR4doQZghamkJ)
 18. [Exposing the Big “Free Market” Myth with Author Naomi Oreskes](https://youtu.be/kJV7_0BIbxo?si=BFP1dut1kO7XtNiI)
+19. [Crowd Computation: Social Computing and Mass Disruption](https://youtu.be/SE6hdrugHT0?si=AvKA3hHBjKeGhpKS)
+20. [A Spotlight on Rumors](https://youtu.be/rjiGbgRAhJo?si=LjBDzknNtO8TV8n1)
+21. [Beyond “Bots and Trolls” — Understanding Disinformation as Collaborative Work](https://youtu.be/lF4M11FkEKY?si=MuDtx-0PQicAKGe0)
+22. [Unraveling the Big Lie: Participatory Disinformation and Its Threat to Democracy - Kate Starbird](https://youtu.be/WtQ1915kEBo?si=iycrWMQTUSGY__dC)
+23. [Paper Session 1: Platforms, DMRC Digital Publics Symposium - Nov 2021.](https://youtu.be/2sO5wUVMg7w?si=vR6Ce5Go4gzQJLKs)
+24. [Paper Session 2: Outlets, DMRC Digital Publics Symposium - Nov 2021](https://youtu.be/oUKIZ_ujp1Q?si=-yS-95pskcnQpOaX)
+25. [Paper Session 3: Methods, DMRC Digital Publics Symposium - Nov 2021](https://youtu.be/TGtRzkrL-mo?si=6Y5Atks0WyR1hciQ)
+26. [Paper Session 4: Discourses, DMRC Digital Publics Symposium - Nov 2021](https://youtu.be/pg5Wy7wfmFE?si=ISURb2U3T9Kqgpz2)
+27. [Paper Session 5: Networks, DMRC Digital Publics Symposium - Nov 2021.](https://youtu.be/oxhKfTPN_Xg?si=XlRCllmfGtNiU4Wp)
+28. [Paper Session 6: Governance, DMRC Digital Publics Symposium - Nov 2021](https://youtu.be/5n2Ge_JdSD4?si=fFsdinM1LxKyQFo_)
 
 ## Marketing Tactics
 
