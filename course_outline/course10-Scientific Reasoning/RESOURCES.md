@@ -1,6 +1,18 @@
 # Science Related Concepts
 
+## Improving research reliability
+
+1. [datacarpentry.org](https://datacarpentry.org/)
+2. [software-carpentry.org](https://software-carpentry.org/)
+3. [Data Provenance Research Group](https://www.eva.mpg.de/ecology/projects-and-research-groups/data-provenance/)
+4. [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/)
+5. [DataColada](https://datacolada.org/)
+6. [Simine Vazire's](https://www.simine.com/)  
+7. [badscience](https://www.badscience.net/)
+8. [Angela Potochnik](https://www.angelapotochnik.com/)
+
 ## [Scientific](https://en.wikipedia.org/wiki/Category:Scientific_method) [Method](https://plato.stanford.edu/entries/scientific-method/) and [Types of Sciences](https://en.wikipedia.org/wiki/Category:Formal_sciences)
+
 
 1. [Outline of Scientific Process](https://en.wikipedia.org/wiki/Outline_of_scientific_method)
 2. [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)

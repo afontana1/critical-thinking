@@ -1,5 +1,32 @@
 # Course Overview: Argumentation Fundamentals
 
+## [Computational Logic and Argumentation](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)
+
+### Concepts
+
+1. [Rationality](http://ai.stanford.edu/~epacuit/classes/rationality-fall2010.html)
+2. [Models of Strategic Reasoning](http://ai.stanford.edu/~epacuit/esslli2012/stratreas.html)
+
+### People
+
+1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
+2. [Eric Pacuit](https://pacuit.org/)
+3. [Floris Bex](https://www.florisbex.com/)
+4. [David Godden](https://www.davidgodden.ca/)
+5. [Trevor-Bench-Capon](https://www.researchgate.net/profile/Trevor-Bench-Capon)
+6. [Adam Wyner](https://www.researchgate.net/profile/Adam-Wyner)
+7. [Thomas Gordon](https://www.researchgate.net/profile/Thomas-Gordon-4)
+8. [John Pollock](https://johnpollock.us/ftp/publications.html)
+9. [Paul Thagard](https://paulthagard.com/)
+10. [Bart Verheij](https://www.ai.rug.nl/~verheij/)
+
+### Journals, Institutes, Research Labs
+
+1. [Ontario Society for the Study of Argumentation](https://scholar.uwindsor.ca/ossaarchive/)
+2. [Informal Logic](https://informallogic.ca/index.php/informal_logic/issue/archive)
+3. [Law Probability and Risk](https://academic.oup.com/lpr)
+
+
 **Big question:**
 How do *arguments* actually work in real life, and how can we *analyze, evaluate, and construct* them responsibly?
 
@@ -622,8 +649,6 @@ This course now **makes arguments the central object of study**: their structure
 *Optional: short in-class “mini-capstone” where groups analyze and repair a heavily flawed argumentative text, turning it into a more virtuous and transparent piece of reasoning.*
 
 ---
-
-If you’d like, next step could be: I take one unit (say, Unit 3 on abduction or Unit 7 on expert opinion) and flesh it out down to the **week-by-week / class session level** with activities, prompts, and specific passages from these readings.
 
 [1]: https://www.cambridge.org/core/books/uses-of-argument/26CF801BC12004587B66778297D5567C "The Uses of Argument"
 [2]: https://plato.stanford.edu/entries/logic-nonmonotonic/ "Non-monotonic Logic - Stanford Encyclopedia of Philosophy"
