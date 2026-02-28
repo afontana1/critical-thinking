@@ -42,6 +42,7 @@
 15. [Matthew Boedy](https://www.matthewboedy.com/)
 16. [Kate Starbird](https://faculty.washington.edu/kstarbi/)
 17. [David Livingstone Smith](https://www.davidlivingstonesmith.com/)
+18. [Elizabeth Dubois](https://scholar.google.com/citations?user=HiJIjl0AAAAJ&hl=en)
 
 ## Relevant Books
 
