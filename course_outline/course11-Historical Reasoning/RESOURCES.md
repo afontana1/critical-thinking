@@ -41,6 +41,8 @@
 
 ## [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
 
+- [The Search for a Meaningful Past—Dr. Darren Staloff](https://calgary.bibliocommons.com/v2/list/display/410132158/2298315519)
+
 1. [Dr. Darren Staloff, Philosophies, Theories, and Interpretations of Human History](https://www.youtube.com/watch?v=pIeOVuoANr4)
 2. [Dr. Darren Staloff, Mircea Eliade's Cosmos and History and Cyclical Time](https://www.youtube.com/watch?v=hTMboybiiHg)
 3. [Dr. Darren Staloff, Vico's New Science of History](https://www.youtube.com/watch?v=9wjadICSX7Q)
