@@ -15,14 +15,6 @@
 13. [Irreligion](https://commons.wikimedia.org/wiki/Category:Irreligion) [Category](https://en.wikipedia.org/wiki/Category:Irreligion)
 14. [Comparative Mythology](https://en.wikipedia.org/wiki/Category:Comparative_mythology)
 
-<details><summary><h1>Videos</h1></summary>
-
-1. [Lets Talk Religion](https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g)
-2. [Religious Epistemology Conference, Royal Institute of Philosophy 2015](https://www.youtube.com/playlist?list=PLqK-cZS_wviDbx7kn8kXG_02gk41wq-Rq)
-3. [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast)
-4. [Theological Epistemology](https://www.youtube.com/playlist?list=PLU6KVXxGpeZjEyVGY9M9A-F7gS61eu7O6)
-
-</details>
 
 ## [Belief](https://en.wikipedia.org/wiki/Category:Belief)
 

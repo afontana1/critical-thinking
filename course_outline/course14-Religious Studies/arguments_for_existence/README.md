@@ -1,4 +1,22 @@
-# [Various](https://en.wikipedia.org/wiki/Existence_of_God) [Arguments](https://en.wikipedia.org/wiki/Category:Arguments_against_the_existence_of_God) For [Existence](https://en.wikipedia.org/wiki/Category:Arguments_for_the_existence_of_God) of God
+# Arguments for and Against the Existence of God
+
+## Table of Contents
+
+- [Starting Points and Collections](#starting-points-and-collections)
+- [Reference Guides and Overviews](#reference-guides-and-overviews)
+- [Classical Metaphysical and Cosmological Arguments](#classical-metaphysical-and-cosmological-arguments)
+- [Design, Fine-Tuning, and Intelligent Design](#design-fine-tuning-and-intelligent-design)
+- [Mind, Consciousness, Reason, and Logic](#mind-consciousness-reason-and-logic)
+- [Moral, Value, and Practical Arguments](#moral-value-and-practical-arguments)
+- [Religious Experience, Revelation, and Miracle Claims](#religious-experience-revelation-and-miracle-claims)
+- [Problems for Theism: Evil, Suffering, Hiddenness, and Divine Attributes](#problems-for-theism-evil-suffering-hiddenness-and-divine-attributes)
+- [Epistemology, Language, and Skeptical Challenges](#epistemology-language-and-skeptical-challenges)
+- [Christianity-Specific Historical and Evidential Critiques](#christianity-specific-historical-and-evidential-critiques)
+- [Cultural, Scientific, and Broad Critiques of Religion](#cultural-scientific-and-broad-critiques-of-religion)
+
+## Starting Points and Collections
+
+These are broad collections, channels, and survey resources that cover many arguments at once.
 
 - [Over 100 Arguments for God ANSWERED](https://www.youtube.com/watch?v=iP0Mh42jvV4)
 - [500 Arguments Against Christianity](https://www.youtube.com/watch?v=Anc_puK9arE)
@@ -9,596 +27,725 @@
 - [Philosophical Failures of Christian Apologetics](https://www.youtube.com/playlist?list=PL3IOkNR8_9gpQa5teO1xQANB-3MiY17uk)
 - [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
 - [The Sci Phi Show](https://youtube.com/playlist?list=PLJ4zAUPI-qqprexGfnGwCpugHnUuSjPmG&si=Fs4Zz_fLAQBjpJQs)
-
-1. [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
-
-2. [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
-
-3. [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
-
-4. [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
-	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
-	* [Hume Criticism](https://www.youtube.com/watch?v=g39SOnVM1tw)
-	* [Can Design Point to God? | Episode 1404 | Closer To Truth](https://www.youtube.com/watch?v=8uQofwylkGs)
-	* [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
-	* [Watchmaker Analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy) and [Refutation](https://www.youtube.com/watch?v=PHmjHMbkOUM)
-
-5. [An atheological argument from evil natural laws](https://philpapers.org/rec/SMIAAA-3)
-
-6. [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
-	* [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
-	* [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
-
-7. [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
-
-8. [List](https://plato.stanford.edu/entries/ontological-arguments/) of [Ontological Arguments](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/)
-	* [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
-	* [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
-	* [Kants Criticism](http://www.scandalon.co.uk/philosophy/ontological_kant.htm)
-	* [Godels Ontological](https://www.youtube.com/watch?v=LS3S2FNqxV4) [Proof](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof) and [Objections to Godel's Ontological Argument](https://www.youtube.com/watch?v=XfXAs66GW70&t=136s)
-	* [Anselm's Ontological Argument](https://www.youtube.com/watch?v=CP5Lgj9_oj8) and [Gaunilo's Objection to the Ontological Argument](https://www.youtube.com/watch?v=20ZYq8ux0pw)
-	* [Debunking the Modal Ontological Argument](https://www.youtube.com/playlist?list=PLz0n_SjOttTeyc743UVu4cZ0eEPVPgT-A)
-	* [Betting on Necessity: The Modal Ontological Argument](https://www.youtube.com/watch?v=AFI9N768njk)
-	* [Memorializing the Modal Perfection Argument](https://www.youtube.com/watch?v=LoEaf9JSsSc)
-	* [The inconsistency in Gödel's ontological argument: a success story for AI in metaphysics](https://dl.acm.org/doi/10.5555/3060621.3060751)
-	* [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
-	* [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
-	* [A User's Guide to the Modal Ontological Argument](https://youtu.be/iKgJvGHYqs8?si=GQT6kQtqZoGOYIFc)
-	* [11 Ontological Arguments: An Analysis](https://youtu.be/YiK2W9jfpoU?si=Ud6A79HD6Qlz6R3l)
-	* [Symmetry Breakers for the Modal Ontological Argument](https://philpapers.org/rec/SCHSBF-2)
-
-9.  [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
-	* [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
-	* [The Argument from Hell](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7G8-No--9MAdNgJmAGiIXjh)
-
-10. [PZ Myers - The Evolution of Creationism](https://youtu.be/ruBjWkVKyRo?si=KQJjFo91xoNMH5bs)
-	* [The Definitive Guide to Debunking Creationists Part 1: Cosmology/Planetary Science](https://youtu.be/r7_HOZHOi1w?si=Wa41fdn8qRZp3mHF)
-	* [The Definitive Guide to Debunking Creationists Part 2: Abiogenesis](https://youtu.be/s2JjHDZDdRE?si=kNWlOjXYAAtGN5Pu)
-	* [The Definitive Guide to Debunking Creationists Part 3: Evolutionary Biology/Paleontology](https://youtu.be/pQOCybcSnug?si=RfiBYsKmdCK1A5VC)
-	* [The Definitive Guide to Debunking Creationists Part 4: Genetics/Molecular Biology](https://youtu.be/tfm9q4UoQBI?si=cLA7-3Rl7JzUarQi)
-	* [The Definitive Guide to Debunking Creationists Part 5: Philosophy/Theology](https://youtu.be/xU8H_Fh-TAE?si=T3ALlQSmCqvsFJCH)
-	* [Foundational Falsehood of Creationism](https://youtube.com/playlist?list=PL258CAE2F4546AA95&si=PKUHUwuKNVt1K_et)
-	* [Why Do People Laugh at Creationists?](https://youtube.com/playlist?list=PLAC3481305829426D&si=89036hCo3MAEfVrD)
-	* [Grayson & Professor Dave vs The World's "Smartest" Creationist](https://youtu.be/J2ELejeWZKA?si=yLLVfw28wdgErqv2)
-
-11. [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
-
-12. [Theological Non Cognitivism](https://en.wikipedia.org/wiki/Theological_noncognitivism)
-	* [Problem of Religious Language](https://en.wikipedia.org/wiki/Problem_of_religious_language)
-	* [Newtons Flaming Laser Sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton's_Flaming_Laser_Sword)
-	* [An Assessment of Religious Language in Philosophy of Religion](http://article.sapub.org/10.5923.j.ijas.20120201.01.html)
-	* [Religious Language](https://iep.utm.edu/rel-lang/)
-	* [Aquinas views on Religious Language](https://www.mytutor.co.uk/answers/20487/A-Level/Philosophy-and-Ethics/Explain-Aquinas-views-surrounding-religious-language-as-analogical/)
-
-13. [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
-	* [Anscombe Debate about Naturalism](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
-	* [DEBATE: The Argument for God From Reason • Cosmic Skeptic vs Max Baker-Hytch](https://www.youtube.com/watch?v=kI)
-	* [The Argument from Reason: C. S. Lewis’ Fundamental Mistakes](https://infidels.org/library/modern/david-kyle-johnson-lewis-mistakes/)
-	* [Richard Carrier: The Argument from Reason](https://www.richardcarrier.info/archives/20922)
-	* [A response to C. S. Lewis’s argument from reason](https://www.sciencesnail.com/philosophy/a-response-to-c-s-lewiss-argument-from-reason)
-
-14. [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief) and [Divine Hiddenness](https://plato.stanford.edu/entries/divine-hiddenness/)
-	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (1/5)](https://youtu.be/7hBpZ-ystOg?si=-3zsvoiE_QVjdJWt)
-	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (2/5)](https://youtu.be/sBiGfcCI7Zo?si=-ymOz-dxV2Ar_mZf)
-	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (3/5](https://youtu.be/3ce7WipX_Ek?si=476fWfvSivZS4KGT)
-	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (4/5)](https://youtu.be/se9HFUQ8piM?si=xBPGkMGCoI9qulz3)
-	* [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (5/5)](https://youtu.be/Dlx06BXsNxk?si=EVrznYrxqhNh4q7q)
-	* [Nonbelief Revisited: The Ghost of Veritas48](https://youtu.be/FCGCjLEJF_g?si=kZogBD9qy8z7HdEY)
-	* [Wrapping Up 'Nonbelief'](https://youtu.be/L54fUWIBKAY?si=4WDyoqngwDCHsvh-)
-	* [Divine Hiddenness: Mike Winger's Desperate Dance Around God's Disappearance](https://youtu.be/KO9IxzjnCIo?si=b97NDppSSQjG8IJf)
-	* [Divine Hiddenness Series: An Introduction to J.L. Schellenberg's Argument from Nonresistant Nonbelief](https://youtube.com/playlist?list=PL2ru4PSw7gsLuIEkwnyl0DWxdCgnYoFJj&si=DzVn7qLLJ45933Ir)
-
-15. [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
-	* [Why Anything at All? | Episode 1213 | Closer To Truth](https://www.youtube.com/watch?v=tgU49k1d7TE)
-	* [Why Anything At All II? | Episode 1907 | Closer To Truth](https://www.youtube.com/watch?v=jfrZqktvxQU)
-	* [What Exists? | Episode 1710 | Closer To Truth](https://www.youtube.com/watch?v=z5qtyOwsiEk)
-	* [What Exists II? | Episode 1906 | Closer To Truth](https://www.youtube.com/watch?v=ovvnt3FuhBo)
-	* [Why is There "Something" Rather than "Nothing"? | Episode 306 | Closer To Truth](https://www.youtube.com/watch?v=cfmewf2DoKU)
-
-16. [Inconsistent Revelations](https://en.wikipedia.org/wiki/Argument_from_inconsistent_revelations)
-	* [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
-
-17. [Pascals Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and [Atheist Wager](https://en.wikipedia.org/wiki/Atheist%27s_Wager)
-	* [Series Refuting the Argument](https://www.youtube.com/watch?v=M4Dm1HWJhoo&list=PLMd8xj-C1CsNqG4gRbUZqqlUuGH-QVS8B)
-	* [Practical Arguments for Belief](https://plato.stanford.edu/entries/pragmatic-belief-god/)
-	* [Pascal's Wager | Dr. Al Hájek and Dr. Liz Jackson](https://youtu.be/zeSICId7Yhw?si=XFy79bnSF1tt_qKC)
-
-18. [Phil Halper and Ken Williford, on Animal Suffering](https://youtu.be/OG_QOFLEizo?si=DPgmaVgbVAa77M7m)
-
-19. [Omnipotence Paradox](https://en.wikipedia.org/wiki/Omnipotence_paradox)
-	* [How Can God Not Be Free? | Episode 1413 | Closer To Truth](https://www.youtube.com/watch?v=jrHgHnrQLGw)
-	* [Inconsistent Triad](https://en.wikipedia.org/wiki/Inconsistent_triad)
-	* [Omniscience, Time, and Freedom](https://www.youtube.com/watch?v=HPajfhRLGVU)
-
-20. [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
-	* [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
-	* [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
-	* [Arguing God from Consciousness | Episode 804 | Closer To Truth](https://www.youtube.com/watch?v=GdDhssz94EI)
-	* [More Bad Theist Arguments about Consciousness - Buckle up!](https://www.youtube.com/live/JawWdYyP5tM?si=xFDjCEXsHvtn1e5E)
-
-21. [Lack of Empirical Proof Argument](http://christiancadre.blogspot.com/2019/03/why-there-is-no-empirical-proof-that.html)
-	* [Counterargument](https://theskepticzone.blogspot.com/2016/10/hinmans-argument-from-god-corrolate.html)
-
-22. [Edwards Response to Aquinas](https://bettystoneman.wordpress.com/2010/10/25/aquinas-cosmological-argument-and-edwards-responses/)
-	* [20 Cosmological Arguments: An Analysis](https://youtu.be/EysSbVCkJLo?si=4Yqq8y1CyeTCG4Q-)
-
-23. [Atheists of Silicon Valley](https://web.archive.org/web/20230225074059/https://www.godlessgeeks.com/LINKS/Debate.html)
-	* [Why Atheism?](https://web.archive.org/web/20230530214214/http://godlessgeeks.com/WhyAtheism.htm)
-	* [Hundreds of Proofs of God’s Existence](https://web.archive.org/web/20230611011201/https://www.godlessgeeks.com/LINKS/GodProof.htm)
-
-24. [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
-	* [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
-	* [Episode 11, Tyler McNabb, On Reformed Epistemology](https://youtu.be/LTBXYC_1x2o?si=JlKpdZTtewnJNDti)
-
-25. [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism) [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy))
-	- [Discussion](https://philosophy.stackexchange.com/questions/31401/what-are-the-problems-with-plantingas-evolutionary-argument-against-naturalism)
-	- [Critical Appraisal](https://www.jstor.org/stable/27749994)
-	- [Does it Work?](https://www.cambridge.org/core/journals/religious-studies/article/abs/does-plantingas-evolutionary-argument-against-naturalism-work/E38C04BC3D418AF634B2830797639E08)
-	- [What’s wrong with the evolutionary argument against naturalism?](https://philarchive.org/rec/CHIWWW)
-	- [The evolutionary argument against naturalism: a Wittgensteinian response](https://link.springer.com/article/10.1007/s11153-022-09832-3)
-	- [Does the Evolutionary Argument Against Naturalism Defeat God’s Beliefs?](https://philarchive.org/rec/HENDTE)
-	- [Darwin's doubt or Plantinga's conviction? Some failures in Plantinga's attempt to debunk naturalistic evolution](https://www.cambridge.org/core/journals/religious-studies/article/darwins-doubt-or-plantingas-conviction-some-failures-in-plantingas-attempt-to-debunk-naturalistic-evolution/A246AE63DFC922D439CF751045E3A7DD)
-	- [Plantinga's Evolutionary Argument Against Naturalism refuted](https://stephenlaw.blogspot.com/2012/12/plantingas-evolutionary-argument.html)
-	- [Does Plantinga's Evolutionary Argument against Naturalism Work?](https://www.jstor.org/stable/27749994)
-	- [Evolutionary Argument Against Naturalism (EAAN)](https://emersongreenblog.wordpress.com/2018/07/22/evolutionary-argument-against-naturalism-eaan/)
-	- [The troublesome explanandum in Plantinga’s argument against naturalism](https://link.springer.com/article/10.1007/s11153-010-9228-7)
-	- [Evolutionary Absurdity Against Naturalism](https://youtu.be/jffWAdaz3kQ?si=Wa0YdrSwbQR-Xqyo)
-	- [4 Genealogical Debunking Arguments](https://academic.oup.com/book/36593/chapter-abstract/321566472?redirectedFrom=fulltext)
-	- [Genealogical Debunking](https://philpapers.org/browse/genealogical-debunking)
-	- [In defense of sensible naturalism](https://philpapers.org/rec/DRAIDO-3)
-	- [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
-	- [Chatting about the Evolutionary Argument Against Naturalism](https://www.youtube.com/live/AW9oqcshkFA?si=Yj9CB_ajAkU6Pppp)
-	- [Debate on The Evolutionary argument against Naturalism | @JamesFodor vs @MaverickChristian](https://www.youtube.com/live/JAsd8knUh_w?si=qYe4TwN35Rx5JvPt)
-	- [Evolutionary Debunking, Metaphilosophy, & More on @PhilosophyVisualised](https://youtu.be/tXDkHef__04?si=oNZUGEFB2sApSaqN)
-
-26. [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
-	* [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
-	* [Rowe’s Arguments from Evil](https://philpapers.org/archive/OPPREA.pdf)
-	* [Logical Arguments from Evil and Free Will Defences](https://philpapers.org/archive/OPPLPO.pdf)
-	* [Epicurean_paradox](https://en.wikipedia.org/wiki/Epicurus#Epicurean_paradox)
-	* [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
-	* [Leibniz on the Problem of Evil](https://plato.stanford.edu/entries/leibniz-evil/)
-	* [Théodicée](https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e)
-	* [Is God Responsible for Evil? | Episode 1402 | Closer To Truth](https://www.youtube.com/watch?v=UDTwSiBlIhw)
-	* [Can God Face Up To Evil? | Episode 1009 | Closer To Truth](https://www.youtube.com/watch?v=16Fz42sFAcg)
-	* [Did God Create Evil? | Episode 408 | Closer To Truth](https://www.youtube.com/watch?v=gMoyHuUsKiY)
-	* [Logical Problem of Evil](https://iep.utm.edu/evil-log/)
-	* [Evidential Argument of Evil](https://iep.utm.edu/evil-evi/)
-	* [Suffering Evil](https://www.amazon.com/Suffering-Belief-Anglo-American-Defense-Religion/dp/0820439754)
-	* [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
-	* [Best of all Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
-	* [Skeptical Theism](https://plato.stanford.edu/entries/skeptical-theism/)
-	* [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
-	* [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
-	* [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
-	* [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
-	* [The ULTIMATE Guide to the Problem of Evil](https://youtu.be/Qr4JBRuRE20?si=sc2GpVoQohIKvltY)
-	* [This One Argument Against God Will Change How You See Religion!](https://youtu.be/LzVjA9cRhvQ?si=o-UV3fAiWEpdJHvx)
-	* [Why are theodicies so unconvincing?](https://youtu.be/A6uzqkCalQs?si=5zp32oHtPIx3N9wz)
-
-27. [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
-	* [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
-	* [Overview](https://www.qcc.cuny.edu/socialsciences/ppecorino/intro_text/Chapter%203%20Religion/Cosmological.htm)
-	* [Critiques](https://philosophicaldisquisitions.blogspot.com/2014/11/critiquing-kalam-cosmological-argument.html)
-	* [Paul Draper Critique](https://hettingern.people.cofc.edu/Philosophy_of_Religion/Draper_Critique_of_Kalam_Argument.htm)
-	* [More Problems](https://thegodlesstheist.com/2021/03/01/five-major-problems-with-william-lane-craigs-kalam-cosmological-argument/)
-	* [Composition Problem](https://www.patheos.com/blogs/tippling/2017/04/26/kalam-cosmological-argument-fallacy-composition/)
-	* [Circular Causality](https://www.patheos.com/blogs/tippling/2017/03/17/kalam-cosmological-argument-causality-circular-argument/)
-	* [11 More Problems](https://crossexamined.org/11-objections-kalam-cosmological-argument/)
-	* [Collection of Debates](https://www.youtube.com/watch?v=ZD92WaNjJF8&list=PL96Nl_XJhQEj6TzLq2gfRAOB3neFNe3Hm)
-	* [Collection of Discussions](https://www.youtube.com/watch?v=ZTDbUE83JyI&list=PLxRhaLyXxXkZzH2YffI32ViTZ73Tu8jSR)
-	* [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
-	* [Countering the Kalam](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7E17ejxJNyPxRM7Zki-nS6G)
-	* [‘Mere’ Causality: Arguments, Objections, and Good Principles](https://youtu.be/qTEKUowWoIE?si=B8fE5aWO72ARjGb1)
-	* [William Lane Craig and Metaphysical Cherry Picking](https://youtu.be/NpKGMq077-s?si=Bf0hZqJ3aI6cfHu9)
-	* [William Lane Craig & Scott Clifton Discuss the Kalam Cosmological Argument](https://www.youtube.com/live/TmYCwjU_5Wc?si=9nnnPSF6BQu1g0gJ)
-	* [Episode 21, Scott Clifton and Wes Morriston on the Clifton-Craig debate](https://youtu.be/fjajeG2QixM?si=-tmscdHRUlen4gOp)
-	* [Episode 4, Wes Morriston; On the Kalam Cosmological Argument](https://youtu.be/tsErbEt9MOQ?si=CYzJJHtGW1d8fkrA)
-	* [No, science doesn’t show the universe began to exist | Dr. Daniel Linford](https://youtu.be/35tICdYtHsQ?si=Z-YcW94rkRBsL9GL)
-	* [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://youtu.be/femxJFszbo8?si=lj8FG3Dabb3JsDQw)
-	* [The Kalam and Successive Addition | Dr. Wes Morriston](https://youtu.be/3bI4mvkR6D4?si=-fvoPw8gK7_sFe-B)
-	* [Hilbert’s Hotel and Craig’s Kalam | Dr. Alex Malpass](https://youtu.be/U6RQa-mPKV8?si=_7F-kc_jKqngKXrb)
-	* [Whatever begins to exist has a cause? | Dr. Daniel Linford](https://youtu.be/XN2_xd6xtUk?si=gE1l9GgoteRcKpOj)
-	* [Hilbert's Hotel: A Comprehensive Response](https://youtu.be/wt-rEeUIcR4?si=kM-RVjuZHfECjjY4)
-	* [The Kalam's Causal Principle: An Analysis](https://youtu.be/XslZE3luFq4?si=w49y1m2FQwQASYqg)
-	* [Exposing the Hidden Premises of the Kalam Cosmological Argument](https://youtu.be/im2I0nXPUak?si=L5uxQkv_NLQx8cMN)
-	* [Demolishing the Kalam Cosmological Argument](https://youtu.be/DIHNFL4nlWo?si=ic1Ooq1LxSSaTrE0)
-
-28. [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
-	* [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
-	* [Is God Totally Free? | Episode 1313 | Closer To Truth](https://www.youtube.com/watch?v=1-7t2cSvxTw)
-	* [Can Free Will Survive God's Foreknowledge? | Episode 1412 | Closer To Truth](https://www.youtube.com/watch?v=0bEBFdTfHbg)
-	* [If God Knows the Future, What is Free Will? | Episode 710 | Closer To Truth](https://www.youtube.com/watch?v=Z9EeVRD43qA)
-	* [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
-	* [The Problem of Hell: Raymond Bradley vs. William Lane Craig (Debate)](https://youtu.be/oJdlO6esWr8?si=Elk9BEMlh_PR29-E)
-	* [Can God Condemn One to an Afterlife in Hell?](https://philpapers.org/rec/BRACGC)
-	* [The Utter Failure of the Free Will Theodicy](https://counterapologist.blogspot.com/2022/10/the-utter-failure-of-free-will-theodicy.html)
-	* [God’s Prime Directive: Non-Interference and Why There Is No (Viable) Free Will Defense](https://philarchive.org/archive/JOHGPD)
-	* [Paradise Hell: The Theodicy Destroying Thought Experiment](https://youtu.be/Vy5tL4_EjiE?si=lCFvvPD_6SxwkpJm)
-
-29. [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
-	* [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)
-	* [Tim Maudlin: Fallacies of the Argument](https://www.youtube.com/watch?v=95rtxmvZsdc)
-	* [Luke Barnes: Fallacies in Fine-Tuning](https://www.youtube.com/watch?v=09XvwcjMWCg)
-	* [Debunking the "Fine Tuning" Argument (Sean Carroll)](https://www.youtube.com/watch?v=zR79HDEf9k8)
-	* [Debunking "Fine Tuning" Arguments for God](https://www.youtube.com/watch?v=z1xWikoa6Dc)
-	* [Discussing the Fine-Tuning Argument](https://www.youtube.com/watch?v=3WrBPCfg62M)
-	* [Leonard Susskind - Is the Universe Fine-Tuned for Life and Mind?](https://www.youtube.com/watch?v=2cT4zZIHR3s)
-	* [What's Fine-Tuning in Physics? | Episode 1903 | Closer To Truth](https://www.youtube.com/watch?v=UizIrcdSuuo)
-	* [12 Design Arguments: An Analysis](https://youtu.be/_hxuKMEzDLk?si=6stXQ7VN1Oa6K3iz)
-	* [YET MORE Apologetics Nonsense about Fine-Tuning](https://www.youtube.com/live/JQxCZrFJjso?si=-L4ZbiQbKC9Rb_CG)
-	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=z-nu46nyJubsyDdD)
-	* [Episode 9, Neil Sinhababu, On Fine Tuning](https://youtu.be/70EDGcAXOAE?si=9l010Mi7XMHKpOd1)
-	* [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=bjNsVQUFUeHnGKQn)
-	* [Physicists & Philosophers debunk The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M?si=THL3HA_9CXAf5JYu)
-	* [Is Cosmic Fine-Tuning a good argument for Theism?](https://youtu.be/HZuVYBzYi-8?si=wi34UtItTHBMPsi4)
-	* [The Case Against Theism - A Fine-Tuning Argument for Naturalism](https://youtu.be/TGGvRUglLSE?si=3OtK2iG-fvKpwtQc)
-
-30. [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
-	* [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
-	* [Empirical Critique](https://www.jstor.org/stable/1197397)
-	* [More Criticisms](https://rationalwiki.org/wiki/Argument_from_morality)
-	* [Moral Arguments for the Existence of God](https://plato.stanford.edu/entries/moral-arguments-god/)
-	* [Quick Counters to the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FMPvpIo5ReKW4pneBHzZdX)
-	* [Countering the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FAcDBQq-sMejB9jtbF1gSs)
-	* [Moral Arguments for God: An Analysis](https://youtu.be/cFEjSzfEQrU?si=UZuPSKaOJ7LtTF44)
-	* [Objective Morality Without God](https://youtu.be/50CQwa15R7A?si=oagU3PXsthSrjmFg)
-	* [Why I Don't Use The Moral Argument For Theism](https://youtu.be/wiVEU6yAVZk?si=DzDaOlZLaCyP7wcq)
-	* [Arguing God from Morality | Episode 202 | Closer To Truth](https://www.youtube.com/watch?v=h9F-CaquPTc)
-	* [Rewiewing McDowell and Shermer on Morality](https://www.youtube.com/live/GKktEA2T3Vw?si=9jkH88eOciRn3CGb)
-	* [Episode 20, Russ Shafer-Landau, on Moral Realism](https://youtu.be/zRQk9AaPbQY?si=V18Lelf9zQB3yjm0)
-	* [The Incoherence of Morality](https://youtu.be/w4tRgsHcXQU?si=PX4afduWfzbT-VTW)
-	* [Metaethics: The Evolutionary Debunking Argument](https://youtu.be/0x2v-ucrSGA?si=5I8xmiuJUs2bQdI9)
-	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=oEB8I9MGNvfR8EyG)
-	* [The moral argument for God isn't good (Part 1)](https://www.youtube.com/live/M1qo2qaJftI?si=aP_mF0qBIaP6N_Ar)
-	* [The moral argument for God isn't good (Part 2)](https://www.youtube.com/live/OT3obQ3yTAw?si=Spe9GwNXDMwwoiVF)
-	* [Is God Necessary for Morality? William Lane Craig vs Shelly Kagan Debate](https://youtu.be/SiJnCQuPiuo?si=MGZt3d0yE3BCFL83)
-	* [Why Natural Law Theory is FALSE](https://youtu.be/E8H_gUrPXL4?si=OWqKg_IhhwwnAJPK)
-
-31. [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
-
-32. [Near Death Experience](https://en.wikipedia.org/wiki/Near-death_experience)
-	* [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=VQgXsBrakxSukRmM)
-	* [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=i727Q8r7fsXcg9Pa)
-	* [Dogmatic Materialists DESTROYED by AMAZING EVIDENCE of Pam Reynolds Near Death Experience Case](https://www.youtube.com/live/WEDZ2LToSWM?si=qna6E8nGf6UjPE0n)
-	* [Bad Apologetics Ep 10 - Are Near Death Experiences Evidence of Life After Death?](https://www.youtube.com/live/2TdLoGpIu3Q?si=G8hb2yVO8uh3_WTP)
-	* [Near Death Experiences Explained - Truth About NDEs](https://youtu.be/Yz0C0JpVqnM?si=0YQaLiG7z-WO-WvH)
-	* [The Evidential Value of Near Death Experiences, Part 1](https://majestyofreason.wordpress.com/2018/12/25/the-evidential-value-of-near-death-experiences-part-1/)
-	* [Defeasible Reasoning, NDE Veridicality, and Hume: An Analysis, Part 2](https://majestyofreason.wordpress.com/2018/12/25/defeasible-reasoning-nde-veridicality-and-hume-an-analysis-part-2/)
-	* [A Novel Dilemma and Theoretical Comparison Concerning NDE’s, Part 3](https://majestyofreason.wordpress.com/2018/12/25/a-novel-dilemma-and-theoretical-comparison-concerning-ndes-part-3/)
-	* [Near-Death Experiences are Not Evidence for Either Atheism or Theism](https://philpapers.org/rec/AUGNEA-4)
-	* [Hallucinatory Near-Death Experiences](https://infidels.org/library/modern/keith-augustine-hndes/)
-	* [Lifeafterdeath Immortality](https://infidels.org/library/modern/lifeafterdeath-immortality/)
-
-33. [Transcendental_argument For God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
-	* [Transcendental_arguments In General](https://plato.stanford.edu/entries/transcendental-arguments/)
-	* [Critique of All of them](https://philpapers.org/rec/STRTA)
-	* [General Form](https://alexandergreenberg.github.io/pdfs/transcendental-arguments-lecture1.pdf)
-	* [Debate with Matt Slick](https://www.youtube.com/watch?v=0ynBtakYh_E)
-	* [Another Debate](https://www.youtube.com/watch?v=rb1mfKJU6bo)
-	* [Short Explanation](https://www.youtube.com/watch?v=OrwzuXrlnxs)
-
-34. [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
-	* [The Evil God Challenge - Extended and Defended](https://philarchive.org/archive/COLTEC-6)
-
-35. [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
-
-36. The Holy Ghost
-	* [Philosophical Failures of Christian Apologetics, Part 11: The Holy Spirit](https://youtu.be/RoyFdWYgz5I?si=C_Ci2syNbyfEI52B)
-	* [Craig on Faith and Doubt](https://youtu.be/Mh7JjeakfjI?si=TOVmDmShgt_LFBke)
-
-37. [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/)
-	* [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC)
-	* [Beyond the Control of God?: Six Views on the Problem of God and Abstract Objects](https://ndpr.nd.edu/reviews/beyond-the-control-of-god-six-views-on-the-problem-of-god-and-abstract-objects/)
-
-38. [Divine Command](https://en.wikipedia.org/wiki/Divine_command_theory) & [Resources](https://www.qcc.cuny.edu/socialsciences/ppecorino/ethics_text/chapter_7_deontological_theories_natural_law/divine_command_theory.htm)
-	* [Epistemological Objection](https://philosophicaldisquisitions.blogspot.com/2014/11/the-epistemological-objection-to-divine.html)
-	* [Critique of Grabers Divine Command Theory](https://www.jstor.org/stable/40017722)
-	* [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
-	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=dkhgJeDGa9nviJpd)
-	* [The Sci Phi Show1: Fine Tuning & Genocide, a reply to Craig](https://youtu.be/e8vB3ZyS3dY?si=jGKxqJM2ecy8GB8-)
-	* [When Rationality Becomes Horrific](https://youtu.be/vxqar1B_MpY?si=pzTD6Fx3Guvr8W76)
-
-39. [Unactualized Actualizer](https://lastedenblog.wordpress.com/2017/12/18/two-aristotelian-arguments-for-an-unactualized-actualizer/) and [Critique](https://www.richardcarrier.info/archives/13752)
-	* [Discussion](https://www.reddit.com/r/DebateAnAtheist/comments/avkc7b/can_anyone_point_out_the_flaws_in_fesers/)
-	* [Flawed Logic of Feser](http://theskepticalzone.com/wp/flawed-logic-and-bad-mereology-why-fesers-first-two-proofs-fail/)
-	* [Defense](http://edwardfeser.blogspot.com/2021/07/schmid-on-aristotelian-proof.html)
-	* [Graham Oppy vs. Ed Feser](https://www.youtube.com/watch?v=XoVDutpB4Cw)
-	* [Are There Any Good Arguments for God? Ed Feser vs Graham Oppy](https://www.youtube.com/watch?v=m-80lQOlNOs)
-	* [Stage One of the Aristotelian Proof: Critical Appraisal](https://philpapers.org/archive/SCHSOO-8.pdf)
-	* [On Stage One of Fesers "Aristotelian Proof"](https://www.researchgate.net/publication/336900890_On_stage_one_of_Feser's_'Aristotelian_proof')
-	* [Harrison Jennings on Act and Potency](https://realatheology.wordpress.com/2019/07/04/harrison-jennings-on-act-and-potency-pt-1/)
-	* [Feser on Schmid on the Aristotelian Proof](https://majestyofreason.wordpress.com/2021/07/04/feser-on-schmid-on-the-aristotelian-proof/)
-	* [Feser's Aristotelian Proof: An Analysis](https://youtu.be/O_DUgRWHv7U?si=4dq0Wm51OWK5_xaQ)
-	* Majesty of Reason Critiques:
-		- [Part 1](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-introduction-part-1/)
-		- [Part 2](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-formalization-part-2/)
-		- [Part 3](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-externalism-contra-act-and-potency-part-3/)
-		- [Part 4](https://majestyofreason.wordpress.com/2019/10/04/an-appraisal-of-aquinas-first-way-quantum-mechanics-contra-the-causal-principle-part-4/)
-		- [Part 5](https://majestyofreason.wordpress.com/2019/10/05/an-appraisal-of-aquinas-first-way-metaphysical-bootstrapping-part-5/)
-		- [Part 6](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-on-infinity-part-6/)
-		- [Part 7](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-quantifier-shifts-and-the-gap-problem-part-7/)
-
-40. [Arguments from DNA](https://www.biola.edu/blogs/biola-magazine/2010/can-dna-prove-the-existence-of-an-intelligent-desi) and [Critiques](https://www.youtube.com/watch?v=eJCmerK0DjQ)
-	* [Origin of the Genetic Code: What we do and do not know](https://www.youtube.com/watch?v=8T3bN2k28_E)
-	* [Signalling Systems](https://www.youtube.com/watch?v=bIO0lGYt5PY&list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o)
-	* [The Linguistics of DNA: Words, Sentences, Grammar, Phonetics, and Semantics](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1999.tb08916.x?fbclid=IwAR26nkd27TKhcb8XEoMIwDVofim5rKJ_QbAA9_rvFRip_nNrvDPf21ikIKU)
-
-41. [Argument from Miracles](https://plato.stanford.edu/entries/miracles/)
-	* [Humes](https://en.wikipedia.org/wiki/Of_Miracles) [Refutation](https://www3.nd.edu/~afreddos/courses/43811/hume-on-miracles.htm)
-	* [Wittgensteins Perspective](https://iep.utm.edu/miracles/#H11)
-	* [Epistemic Theory of Miracles](https://en.wikipedia.org/wiki/Epistemic_theory_of_miracles)
-	* [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
-	* [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
-	* [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=D70ZyE3TarmkYcTU)
-	* [Arguing God from Miracles & Revelations | Episode 704 | Closer To Truth](https://www.youtube.com/watch?v=dmButXMCrZ4)
-	* [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=VmPR7rfYpppXprwx)
-	* [1. Arif Ahmed, On Miracles](https://youtu.be/xQ9Z92ldW-U?si=B5UjQpwTALi5u6oc)
-	* [RA036: Ben Watkins on Hume Against the Believability of Miracles](https://youtu.be/dzJcujTbvpg?si=XY9PVUCOLeJb4-6J)
-	* [RA037: Bill Vanderburgh on Misinterpretations of Hume's Of Miracles](https://youtu.be/4eVqOT0ip0U?si=q21m1AAovUxYeOoD)
-	* [Why won't God heal amputees?](https://youtu.be/vQ1K_Pi-Pqw?si=dgsOm-NnKXdi96So)
-	* [What would make atheists accept a miracle claim? | C.M. Lorkowski & Real Atheology](https://youtu.be/NFMI3c_Iex4?si=ZYP1bJHsCYlp7Yy5)
-	* [The Argument from Miracles: Emerson Green](https://youtu.be/i0DUQbvQvBk?si=LRQcdL4r_BvU5r17)
-
-42. [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
-	* [Episode 13, Paul Draper, On Arguments for Atheism](https://youtu.be/Ur6gxT6bQZQ?si=XAHJiuZ7P-LAbfIV)
-
-43. [Cumulative_case_argument](https://religions.wiki/index.php/Cumulative_case_argument)
-	* [Criticism](http://stephenlaw.blogspot.com/2017/05/a-cumulative-case-for-existence-of-god.html)
-
-44. [Arguing God from Being | Episode 807 | Closer To Truth](https://www.youtube.com/watch?v=sP5KaFyem_Q)
-
-45. [Arguing God from Natural Theology? | Episode 601 | Closer To Truth](https://www.youtube.com/watch?v=VzJp-Y0WBYY)
-
-46. [Absence of Good](https://en.wikipedia.org/wiki/Absence_of_good)
-
-47. [Principle_of_sufficient_reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
-	* [On the Fourfold Root of the Principle of Sufficient Reason](https://en.wikipedia.org/wiki/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason)
-	* [Two Criticisms](https://www.jstor.org/stable/40021074)
-	* [How to Refute](http://cogprints.org/390/1/psrcogprt.htm)
-	* [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
-	* [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
-
-48. [Non Standard Arguments for Gods Existence](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
-	* [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
-
-49. [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
-	* [free-will-foreknowledge](https://plato.stanford.edu/entries/free-will-foreknowledge/)
-	* [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
-	* [Arguments for and against Molinism | Dr. Daniel Rubio](https://youtu.be/y92T1xEBJHk?si=1YTQEAxAn4NZI4lj)
-
-50. [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
-	* [Debunking Arguments against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
-
-51. [Debunking Arguments Against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
-
-52. [Goldstein: 36 ARGUMENTS FOR THE EXISTENCE OF GOD](https://www.edge.org/conversation/rebecca_newberger_goldstein-36-arguments-for-the-existence-of-god)
-
-53. [Salvation in Heaven](https://www.ajol.info/index.php/pp/article/view/29480)
-	* [Paradox of Free Will](https://sheseeksnonfiction.blog/2017/09/10/the-paradox-of-christian-free-will/)
-	* [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
-	* [Some Problems of Heavenly Freedom](https://philarchive.org/rec/KITSPO-2)
-	* [Paradox of Free Will in Heavan](https://www.reddit.com/r/DebateReligion/comments/23hwy9/the_paradox_of_free_will_in_heaven/)
-
-54. [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
-	- [Refutation of Behe](https://www.creative-wisdom.com/education/hps/behe.pdf)
-	- [Evidence for Intelligent Design](https://www.discovery.org/a/sixfold-evidence-for-intelligent-design/)
-	- [More Refutations](https://philosophicaldisquisitions.blogspot.com/2017/07/the-argument-from-irreducible-complexity.html)
-	- [More Problems](https://rationalwiki.org/wiki/Irreducible_complexity#:~:text=not%20irreducibly%20complex.-,In,-a%20nutshell)
-	- [Rejections of Informational Concepts](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
-	- [Rare Earth Hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
-	- [Complexity isn't that Complex of an Argument](https://www.youtube.com/watch?v=9jvv5lcs27U)
-	- [Mathematician Debunks Creationist Information Theory](https://youtu.be/iJe_y4yXM7s?si=1UiAYjKgk_EJSNKL)
-
-55. [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
-	- [Refutation](https://rationalwiki.org/wiki/Lewis_Trilemma)
-	- [Muslim Examination](https://www.call-to-monotheism.com/examining_c_s__lewis__trilemma)
-	- [Lord Liar or Lunatic](https://www.learnreligions.com/lord-liar-or-lunatic-c-s-lewis-249782)
-
-56. [Incinerating Presuppositionalism](http://bahnsenburner.blogspot.com/)
-	- [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
-	- [Is God Necessary? | Episode 607 | Closer To Truth](https://www.youtube.com/watch?v=yJ1nWKbtku8)
-	- [Presuppositionalism Destroyed Like You've Never Seen! | Dr. Alex Malpass](https://www.youtube.com/live/LyL7rMfJ7lA?si=CmCEpjp-yaECHblG)
-	- [presuppositionalism; Fallacy and Failure](https://youtu.be/w_n1cGgF3dw?si=MDW9GHlHeFZkJque)
-
-57. [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
-	- [Several Layers of Wrong | Wise Disciple Fails to Shatter Russell's Teapot](https://www.youtube.com/watch?v=wqYBlwHDxms)
-	- [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
-	- [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-	- [Flying_Spaghetti_Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
-	- [Hitchens Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
-	- [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
-	- [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-	- [Evidence of Absense](https://en.wikipedia.org/wiki/Evidence_of_absence)
-	- [The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
-
-58. [The Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/)
-	* [The Will to Believe](https://en.wikipedia.org/wiki/The_Will_to_Believe)
-
-59. [Jesus Resurrection Critically Examined](https://www.youtube.com/playlist?list=PLq3dh__o7S0oip-Xq7hSBe7oMUOE0SNyt)
-	- [The Evidence for Jesus Is Worse than You Think](https://www.youtube.com/watch?v=PGHOp-9yAbA)
-	- [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
-	- [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
-	- [The Case Against the Resurrection (Richard Carrier)](https://youtu.be/amtbhnGWvpQ?si=S7m1g0lCTT0uLtsr)
-
-60. [Attributes_of_God_in_Christian_theology](https://en.wikipedia.org/wiki/Category:Attributes_of_God_in_Christian_theology)
-	* [Divine](https://en.wikipedia.org/wiki/Divine_simplicity) [Simplicity](https://plato.stanford.edu/entries/divine-simplicity/)
-	* [The fruitful death of modal collapse arguments](https://philpapers.org/rec/SCHTFD-5)
-	* [The reverse ontological argument](https://philpapers.org/rec/COLTRO-54)
-	* [symmetry breaking](https://plato.stanford.edu/entries/symmetry-breaking/)
-	* [S5 Modal Logic](https://en.wikipedia.org/wiki/S5_(modal_logic))
-	* [a Response to The Modal Ontological Argument, an Explanatory Symmetry Breaker](https://praiseoflight.blogspot.com/2021/09/a-response-to-modal-ontological.html?m=1)
-	* [modal ontological arguments](https://1000wordphilosophy.com/2021/12/03/modal-ontological-arguments/)
-	* [Divine Simplicity, God’s Freedom, and the Supposed Problem of Modal Collapse](https://brill.com/view/journals/jrt/16/1-2/article-p127_8.xml?language=en)
-
-61. [Why Wont God Heal Amputees](https://www.whywontgodhealamputees.com/)
-	- [Response to Got Questions](https://www.youtube.com/watch?v=mKpFuPf4n6s)
-	- [WOTM: Why Won't God Heal Amputees?? Part I](https://www.youtube.com/watch?v=fy5OHAq5EHk)
-	- [WOTM: Why Won't God Heal Amputees?? Part II](https://www.youtube.com/watch?v=tseB2A9K1IU)
-	- [Why God Won't Heal Amputees Response](https://www.youtube.com/watch?v=BkA7IYuEdlY)
-
-62. [Efficacy of prayer](https://en.wikipedia.org/wiki/Efficacy_of_prayer)
-	- [Study of the Therapeutic Effects of Intercessory Prayer (STEP)](https://pubmed.ncbi.nlm.nih.gov/16569567/)
-	- [Prayer and healing: A medical and scientific perspective on randomized controlled trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802370/)
-	- [Prayers don’t help heart surgery patients](https://news.harvard.edu/gazette/story/2006/04/prayers-dont-help-heart-surgery-patients-2/)
-	- [The Harvard Prayer Experiment](https://davidmyers.org/psychology-faith/prayer-experiments)
-	- [Does God Answer Prayer? Researcher Says 'Yes'](https://www.sciencedaily.com/releases/2007/03/070314195638.htm)
-	- [Prayer as medicine: how much have we learned?](https://pubmed.ncbi.nlm.nih.gov/17516884/)
-	- [Effects of oxytocin administration on spirituality and emotional responses to meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5040919/)
-	- [Meditation, Prayer and Spiritual Healing: The Evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396089/)
-
-63. [Divine Revelation](https://plato.stanford.edu/entries/divine-revelation/)
-	- [Authenticity_of_divine_revelation](https://rationalwiki.org/wiki/Authenticity_of_divine_revelation)
-
-64. [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)
-	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=rICdBkezChlLhYrW)
-	* [Historicity Argument: Problem of Instruction](https://www.youtube.com/watch?v=w5aZXXx3E6U)
-
-65. [Argument_from_religious_experience](https://en.wikipedia.org/wiki/Argument_from_religious_experience)
-	* [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
-	* [Religious Epistemology](https://iep.utm.edu/relig-ep/)
-	* [The Argument from Religious Experience](https://philosophicaldisquisitions.blogspot.com/2021/01/the-argument-from-religious-experience.html)
-	* [An Argument Against The Argument from Religious Experience](https://onemorebrown.com/2007/10/03/an-argument-against-the-argument-from-religious-experience/)
-	* [Paul Draper, the Fallacy of Understated Evidence, Theism, and Naturalism](https://secularfrontier.infidels.org/2016/02/paul-draper-the-fallacy-of-understated-evidence-theism-and-naturalism/)
-	* [Understating the Evidence](https://www.youtube.com/watch?v=Gs9TT6QGk_U)
-	* [The fallacy of understated evidence](https://www.youtube.com/watch?v=M6WxeUaTUt0)
-	* [Direct Experiences](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Religious_Experiences.htm)
-	* [Miracles](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Miracles.htm)
-	* [Psychic Phenomena](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Psychic_phenomena.htm)
-	* [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
-	* [The Experience of God: Being, Consciousness, Bliss](https://whyevolutionistrue.com/2014/01/13/unequivocal-evidence-for-god-i-dont-think-so/)
-
-66. [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
-67. [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle)
-	* [Is The Anthropic Principle Significant?](https://youtu.be/NMV9t-3rFNs?si=clenObcP_V-qpDxa)
-	* [The Problem with the "Rare Earth Hypothesis"](https://youtu.be/-CsLmoiKugE?si=zlxMIcDJ4Jbwo2O2)
-	* [How Many "Earth-Like" Planets are there?](https://youtu.be/xEt941k2GAg?si=EpCDlRfiHGE-Do66)
-	* [The Drake Equation after 60 Years](https://youtu.be/dM_Pelfc92s?si=StvGF-Op5kWJj8hV)
-	* [The Birth Death Drake Equation](https://youtu.be/kliJ-CFVLeE?si=5Xs_4tdGOYxI6J_f)
-	* [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
-	* [Is the Anthropic Principle Significant? | Episode 1904 | Closer To Truth](https://www.youtube.com/watch?v=NMV9t-3rFNs)
-	* [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
-	* [The Anthropic Argument](https://youtu.be/mxl2iempj_w?si=ul4IGJwM5Q7Ea6gT)
-
-68. [psychophysical harmony](https://youtube.com/playlist?list=PLxRhaLyXxXkaxsGfwQc4yNqqeF-WOnRSx&si=meqANkAy3-5keNM-)
-
-69. [Theological Fatalism](https://en.wikipedia.org/wiki/Fatalism)
-	* [Divine Foreknowledge and Human Freedom | Dr. Taylor Cyr and Sean Clements](https://youtu.be/2eo6ZwZ0c5U?si=8SpbEDvA0fTX0tKI)
-	* [Is Omniscience Possible? | Dr. Josh Rasmussen](https://youtu.be/BqxR_Cs1LEg?si=grrKEVKBgxkiI7q6)
-	* [Omniscience, Time, and Freedom](https://youtu.be/HPajfhRLGVU?si=qBhnHM3ETqa-Ss-_)
-
-70. [The Argument for God from Logic](https://youtu.be/mX76lzXu_Jc?si=eTd7NJi-Koh6ofhb)
-	* [From Abstracta to Atheism? | Dr. Felipe Leon](https://youtu.be/8MeJAFsB8BA?si=0GysQIRC6l8iCnHA)
-	* [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
-	* [Logic Doesn't Need God - Responding to James Anderson](https://www.youtube.com/live/Om3cU9AGPdw?si=P0H_FhU3v6vqbLzb)
-	* [Does Maths Prove God? Alexey Burov vs James Fodor](https://youtu.be/Pw_bjw-NP14?si=52X-E8P_cmx283qD)
-	* [Episode 10, Penelope Rush, on the Metaphysics of Logic](https://youtu.be/xDM75-6B1fM?si=Dkri4OKpr1n7Mp8T)
-71. Ed Feser Rebuttals
-	* [Feser's Neo-Platonic Proof: An Analysis](https://youtu.be/BYhV5JAy48g?si=hl8ZB-aAaD-eHrPB)
-	* [Can We "Prove" that God Exists? | Graham Oppy vs Ed Feser](https://www.youtube.com/live/XoVDutpB4Cw?si=X2fSQZmseX5oDcvj)
-	* [Feser's Aristotelian Proof: An Analysis](https://youtu.be/O_DUgRWHv7U?si=gnC1ioWzhFiqqScN)
-72. [Addressing the New Christian Apologetics: The Embarrassing Follies of Conway and Ferrer](https://www.richardcarrier.info/archives/22947)
-	* [Christianity's Calculated Kindness: Unraveling The Manipulative Strategy!](https://youtu.be/zeHVJ-O9cYc?si=5UxMlDu2roXT6TN9)
-	* [The Manipulative Nature of the Gospel Message](https://youtu.be/Hc2zOqImjQE?si=qTsbn74GkS475_xP)
-	* [Common Manipulation Tactics Used in Christian Churches](https://youtu.be/gAiJey3d6tw?si=S4RgXztxlvWJzHA9)
-	* [Inside Christian Fundamentalism: 30 Wild Stories From My Personal Experience!](https://youtu.be/g2fU5O1iPkI?si=VrON4tSLRLyIjX1y)
-	* [Sean McDowell Overselling The Influence And Importance Of The Bible](https://youtu.be/8BTu-K4n4OI?si=C4rSE78_ooVXI1Pn)
-	* [Street Evangelism: Christian Manipulation And Predatory Tactics](https://youtu.be/sUQ4quv_NH0?si=soTF0juBhz1e5fxL)
-	* [Apologetics | An Empire of Manipulation!](https://www.youtube.com/live/UFQ0kdewUEc?si=Ex9AR6EpLhox6vPD)
-	* [Everything WRONG With Christian Apologetics](https://youtu.be/NSL4qua6AeA?si=WOKsCVKmoKkdCROr)
-	* [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
-	* [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
-	* [Let's review some more Capturing Christianity Cringe](https://www.youtube.com/live/v-srdpGP1DY?si=v757iiegzT5eQLIT)
-	* [Christian "SCHOLARSHIP" Collapses | The MELTDOWN of Michael Jones](https://youtu.be/-0xuG8wYLnU?si=eXZCeLW4WXw9laLt)
-	* [Inspiring Philosophy Gets Exposed](https://youtu.be/XNygmVlr6kc?si=dWReuGacWsJvhehF)
-	* [Top 15 Prophecies of Jesus DEBUNKED!!! | MythVision Documentary](https://youtu.be/puez1gWtcbE?si=ECDEr4CkNnlkBwB2)
-	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=eQocmAgZ2pR9pJ2K)
-	* [Christian "HISTORY" is an ABSOLUTE Trainwreck | The FAILURE of Inspiring Philosophy](https://youtu.be/GFhGznpzT7M?si=Ql8sib7SiBAt1OjZ)
-	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=RMgo-_jcc0AQLT9z)
-	* [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
-	* [Lee Strobel Misleads Millions of People](https://youtu.be/kQCX4p8HdbA?si=tofHSz5Onm8XsdAw)
-	* [5 Questions for Atheists ANSWERED (w/ @naturalismnext5861)](https://www.youtube.com/live/WadUfMPl_cA?si=_e80tRHxJsorZsuY)
-	* [How Wes Huff Got The Bible Wrong on Joe Rogan](https://youtu.be/I0qzvDSmKi4?si=RUDr3KCohhreGuU_)
-	* [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=6XW3ptGiBhTdUN0t)
-	* [Answering Braxton's Five Questions for Atheists in 2025](https://www.youtube.com/live/QsaxijHUlr4?si=akid24J-2KFU1NK3)
-	* [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
-	* [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
-	* [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
-	* [Have Christian Apologists Just Given Up? Religious Fan-Fiction Replaces Actual Argumentation](https://www.youtube.com/live/Begz8lLU3lE?si=_Nfzap4d-cMIn7hc)
-	* [Richard Carrier Destroys the Resurrection Argument – Must-See!](https://youtu.be/yEGH1DGMICQ?si=8aG2bCfKeJjvAfSF)
-	* [We've Been Destroyed By Apologists... Game Over!](https://youtu.be/HlG4lPsu12Q?si=1UyFRgeLMvDkWN19)
-	* [Apologist Wes Huff's Myths CRUSHED by Assyriologist & Dead Sea Scholar](https://www.youtube.com/live/vGhvUUzi3iE?si=_ORYNiOMaQU0n3eG)
-	* [How a NON-BELIEVER Became Christianity's Favorite Historian, Tom Holland](https://youtu.be/1o5K7JaEKb4?si=0ogiHUdJrRmDgitx)
-	* [He Says Bible Prophecy Is So Precise, Only God Explains It! (Mike Winger response)](https://youtu.be/BHTD9HJB20Y?si=nksVTvVhQ-y4Tj5-)
-	* [Why Atheists Reject Biblical Prophecies](https://youtu.be/QwuKfY-mfkY?si=avuRmU2j7aYw7wWf)
-	* [Did Rhett Just Break Christianity on Resurrection Sunday? (Responding to ALL the Responses)](https://youtu.be/2onIdSbqSRQ?si=91oUHQPs3jxN1BOn)
-	* [CHRISTIANS: Stop Making This Ridiculous Mistake!](https://youtu.be/CNox3kHW8hg?si=uVQNNKXpKsbWkfcq)
-73. Refuting Classical Theism
-	* [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
-	* [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
-	* [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=uHq2TWCBd5_5HOTq)
-	* [RA018: Scott Davison on Petitionary Prayer](https://youtu.be/F3wZEZ07Emk?si=E4Eieo7MWx--L7ny)
-	* [RA013: Quentin Smith on Natural Evils and Immaterial Minds](https://youtu.be/mvkghIrF7XY?si=fJzL9bJq1DLtu7tV)
-	* [RA012: Interview: Felipe Leon on Ex Nihilo Creation](https://youtu.be/C2lMs7NIuAI?si=5ASYP5kC5rAm9iib)
-	* [God and the Physical Dependency of Minds; An Interview with Ben Watkins](https://youtu.be/POUP99Nb-rE?si=TiDiHYI_JFpiUcxo)
-	* [What makes a good prophecy?: Responding to more Christian Apologetics nonense](https://www.youtube.com/live/B2NdxknK5V0?si=Bv3e6Ky8pTwfjJLp)
-	* [RA009: Interview: Wes Morriston on Moral Freedom and The Moral Argument](https://youtu.be/af7MYYwuA_c?si=edFiqn_Beu_GqUC7)
-	* [RA041: Joe Campbell on David Hume's Refutation of the Cosmological Argument](https://youtu.be/B6vnJNVh02Q?si=9ZEzUWsqJCyd9-2n)
-	* [RA35: Andrew Pavelich on the Moral Problem with the Free Will Defense](https://youtu.be/mZ3Mv7cgdnI?si=wVFdU2h-Ucb-T2xJ)
-	* [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
-	* [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
-	* [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
-	* [Why Theism can't Explain Anything - Reviewing another Capturing Christianity Video](https://www.youtube.com/live/7hA8hHgbI3w?si=rer18dxEO5qZpl4e)
-	* [A Critique of Substance Dualism - Responding to @faithbecauseofreason8381](https://www.youtube.com/live/9COVx5pwQUw?si=6opTMTW-TjSFMeZt)
-74. Mythological Origins of Monotheistic Religions
-	* [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
-	* [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
-	* [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=l_lugiSlmZRota0e)
-	* [What is Neoplatonism?](https://youtu.be/vZEUo_sHoBw?si=Lk60emY4KsdohntW)
-	* [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY?si=mDsSZnLfUg1czMrL)
-	* [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=lS7AnY3tC3iDIxbj)
-	* [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
-	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
-	* [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
-	* [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=0XzjkXGDjehgmQPR)
-	* [Ancient Historian David Miano Schools Pseudo-Archaeologists](https://youtu.be/WOAFhwTMXr8?si=WQGMrCbMP9ZLaqgZ)
-	* [Expert Historian PROVES Moses Was INVENTED 4th Century BCE](https://youtu.be/UjOW7vfPILA?si=qh9VQBRBu50s0CgQ)
-	* [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=jFLZDU6kXQN-Alfi)
-	* [Unveiling the Truth About Dying and Rising Deities!](https://youtu.be/uwgGg0Bl06k?si=EwzqGCtiSsHp-Tf3)
-	* [Christian "experts" HUMBLY educated by actual expert!](https://youtu.be/DSeLK5dPRzg?si=XUMw6K3YG-XggefR)
-	* [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=xTzp0eouZ0DOelvA)
-	* [The Goddess Who Died and Rose Again After 3 Days—BEFORE Jesus!](https://youtu.be/Dc330wSTShw?si=s9Lj2Ci2-N0MMALN)
-	* [Was Genesis Inspired by Older Creation Stories?](https://youtu.be/VHVplvvddnU?si=xAJoudMi6zRxUpKC)
-	* [Ancient Egyptian Mysteries Found In Christ](https://youtu.be/W6cizMfLIZM?si=8M32nheMRdKIAbnV)
-	* [The Ancient PAGAN Myths Behind the Bible That SHATTERED Scholarship!](https://youtu.be/vkq2vYuDYyE?si=_HuWk5lCdGEHDe3h)
-	* [The Great Big Pseudoarcheology Debunk (Graham Hancock, Dan Richards, Jimmy Corsetti)](https://youtu.be/JK4Fo6m9C9M?si=mQ6E6599iK3AJ41x)
-	* [Paul's Letters: Real History or Roman Fiction?](https://youtu.be/YYQKui_H3_E?si=LPkXb0qfmwI8v4dH)
-	* [Jesus' Dionysian ORIGINS WIll BLOW YOUR MIND! | Documentary](https://youtu.be/B9XDf1YrKqc?si=Bk36NZi7GcD8_1NO)
-	* [The Gospels Do Imitate Homer | Dr. Karl Olav Sandnes & Dr. Dennis R MacDonald Expose the Truth!](https://youtu.be/k10ko-D0Dwk?si=a5EoNdNKA9S0fdYz)
-	* [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
-	* [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
-	* [The Apostle Paul: A Fabricated Figure of Early Christianity?](https://www.youtube.com/live/sdor4nEVYSA?si=kvQTdrXh6PmDUF9k)
-	* [Richard Carrier: Acts as Historical Fiction](https://youtu.be/B5MUUP4l6l4?si=PgPbD-04W3lk0-FN)
-	* [Jesus & the Translation Fable: The TRUTH is right in front of your eyes](https://www.youtube.com/live/pZ2JnnS9Scw?si=Tyl9aKY4u0PGteec)
-75. Religious Language
-	* [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
-	* [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
-	* [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
-76. [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
-77. Science Based Explanations of Religion & Cultural / Pragmatic Arguments
-	* ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
-	* [Christianity's Dirty Secret - Why Conservatives Lose Their Faith In Seminary](https://youtu.be/3VV_Rj4P6jo?si=iRhSagpiqqr4uEYN)
-	* [Cultural Evolution Disproves the God of the Bible](https://youtu.be/EbzbqUKg4s4?si=UX1zIwf4bKX6PTtz)
-	* [Why Christianity Checks Every Box of a Death Cult | You Were Raised in This](https://youtu.be/NRZYlDFzGb8?si=v1gHGbix57I8xg03)
-	* [The Church is One Big Cosplay—And No One Wants to Admit It](https://youtu.be/XNGKjsy1QG4?si=XGcwlYycygC8voOx)
-	* [Is Religion Killing Your Brain?](https://youtu.be/4caG3evzv50?si=jJGzUPFAS0mcqjIW)
-	* [The God of Ignorance: Why Religion Doesn’t Want You to Grow Up](https://youtu.be/wVryuRd4fBE?si=KWNENVUrRpI2OLAL)
-	* [What Happened When Christianity Came to Power Last Time](https://youtu.be/d3ZTVaThZC8?si=7SyisfafUOiNryXi)
-	* [The Man Behind the Curtain: How We Created God](https://youtu.be/TBLf4LZTrsI?si=gg078UYxtgejZTKX)
-	* [The Co-Evolution of Religion and Humans](https://youtu.be/_IVnrdl-qno?si=SWb1akmTcqsS1zQv)
-	* [When Debate Becomes Disaster | Jordan Peterson vs. 20 Atheists](https://youtu.be/rfaAKgwA0qk?si=boGEQn0nSzht5OPr)
-	* [Jordan Peterson vs Danny, Danny reacts with the SciPhi Show, Episode 19](https://youtu.be/PnOqkaEXeNo?si=9Mea5jXPRAGrDpA_)
-	* [Jordan Peterson: What Went Wrong?](https://youtu.be/H16GBjvB3D4?si=Q15Kxb6sy7ZpAXkB)
-78. [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
-	* [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
-	* [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)
+- [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
+- [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
+- [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
+
+## Reference Guides and Overviews
+
+
+- [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
+- [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
+- [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
+- [Atheists of Silicon Valley](https://web.archive.org/web/20230225074059/https://www.godlessgeeks.com/LINKS/Debate.html)
+  - [Why Atheism?](https://web.archive.org/web/20230530214214/http://godlessgeeks.com/WhyAtheism.htm)
+  - [Hundreds of Proofs of God’s Existence](https://web.archive.org/web/20230611011201/https://www.godlessgeeks.com/LINKS/GodProof.htm)
+- [Arguments for Atheism? | Episode 211 | Closer To Truth](https://www.youtube.com/watch?v=eOi6xL93tBU)
+  - [Episode 13, Paul Draper, On Arguments for Atheism](https://youtu.be/Ur6gxT6bQZQ?si=XAHJiuZ7P-LAbfIV)
+- [Reasons not to Believe](https://press.rebus.community/intro-to-phil-of-religion/chapter/reasons-not-to-believe/)
+- [Debunking Arguments Against Theistic Belief](https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/)
+- [Goldstein: 36 ARGUMENTS FOR THE EXISTENCE OF GOD](https://www.edge.org/conversation/rebecca_newberger_goldstein-36-arguments-for-the-existence-of-god)
+- [The best argument for atheism you've NEVER heard](https://youtu.be/_ZLeDdz72J4?si=VBjxVFEmj1uF379x)
+
+## Classical Metaphysical and Cosmological Arguments
+
+### Five Ways
+
+- [Five Ways](https://en.wikipedia.org/wiki/Five_Ways_(Aquinas))
+  - [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
+  - [Argument from Degree](https://en.wikipedia.org/wiki/Argument_from_degree)
+
+### List of Ontological Arguments
+
+- [List](https://plato.stanford.edu/entries/ontological-arguments/) of [Ontological Arguments](https://divinityphilosophy.net/2020/09/29/st-anselm-succeeded-in-demonstrating-gods-existence-from-reason-alone-discuss-40/)
+  - [Ontological Argument](https://en.wikipedia.org/wiki/Ontological_argument)
+  - [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/ontological-argument-criticisms/)
+  - [Kants Criticism](http://www.scandalon.co.uk/philosophy/ontological_kant.htm)
+  - [Godels Ontological](https://www.youtube.com/watch?v=LS3S2FNqxV4) [Proof](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof) and [Objections to Godel's Ontological Argument](https://www.youtube.com/watch?v=XfXAs66GW70&t=136s)
+  - [Anselm's Ontological Argument](https://www.youtube.com/watch?v=CP5Lgj9_oj8) and [Gaunilo's Objection to the Ontological Argument](https://www.youtube.com/watch?v=20ZYq8ux0pw)
+  - [Debunking the Modal Ontological Argument](https://www.youtube.com/playlist?list=PLz0n_SjOttTeyc743UVu4cZ0eEPVPgT-A)
+  - [Betting on Necessity: The Modal Ontological Argument](https://www.youtube.com/watch?v=AFI9N768njk)
+  - [Memorializing the Modal Perfection Argument](https://www.youtube.com/watch?v=LoEaf9JSsSc)
+  - [The inconsistency in Gödel's ontological argument: a success story for AI in metaphysics](https://dl.acm.org/doi/10.5555/3060621.3060751)
+  - [Descartes Ontological Argument](https://plato.stanford.edu/entries/descartes-ontological/)
+  - [Refutation](https://www.youtube.com/watch?v=E6yH0QgwR6Q&list=PLMDve3WeC9qDVtghNJivv3iHvq-Lo-Mjq&index=6)
+  - [A User's Guide to the Modal Ontological Argument](https://youtu.be/iKgJvGHYqs8?si=GQT6kQtqZoGOYIFc)
+  - [11 Ontological Arguments: An Analysis](https://youtu.be/YiK2W9jfpoU?si=Ud6A79HD6Qlz6R3l)
+  - [Symmetry Breakers for the Modal Ontological Argument](https://philpapers.org/rec/SCHSBF-2)
+  - [20 Cosmological Arguments: An Analysis](https://youtu.be/EysSbVCkJLo?si=4Yqq8y1CyeTCG4Q-)
+
+### Why Is There Anything At All
+
+- [Why Is There Anything At All](https://en.wikipedia.org/wiki/Why_there_is_anything_at_all)
+  - [Why Anything at All? | Episode 1213 | Closer To Truth](https://www.youtube.com/watch?v=tgU49k1d7TE)
+  - [Why Anything At All II? | Episode 1907 | Closer To Truth](https://www.youtube.com/watch?v=jfrZqktvxQU)
+  - [What Exists? | Episode 1710 | Closer To Truth](https://www.youtube.com/watch?v=z5qtyOwsiEk)
+  - [What Exists II? | Episode 1906 | Closer To Truth](https://www.youtube.com/watch?v=ovvnt3FuhBo)
+  - [Why is There "Something" Rather than "Nothing"? | Episode 306 | Closer To Truth](https://www.youtube.com/watch?v=cfmewf2DoKU)
+
+### Kalam Cosmilogical Argument and Deep Analysis
+
+- [Kalam Cosmilogical Argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument) and [Deep Analysis](https://useofreason.wordpress.com/)
+  - [Cosmological](https://plato.stanford.edu/entries/cosmological-argument/) [Argument](https://en.wikipedia.org/wiki/Cosmological_argument)
+  - [Overview](https://www.qcc.cuny.edu/socialsciences/ppecorino/intro_text/Chapter%203%20Religion/Cosmological.htm)
+  - [Critiques](https://philosophicaldisquisitions.blogspot.com/2014/11/critiquing-kalam-cosmological-argument.html)
+  - [Paul Draper Critique](https://hettingern.people.cofc.edu/Philosophy_of_Religion/Draper_Critique_of_Kalam_Argument.htm)
+  - [More Problems](https://thegodlesstheist.com/2021/03/01/five-major-problems-with-william-lane-craigs-kalam-cosmological-argument/)
+  - [Composition Problem](https://www.patheos.com/blogs/tippling/2017/04/26/kalam-cosmological-argument-fallacy-composition/)
+  - [Circular Causality](https://www.patheos.com/blogs/tippling/2017/03/17/kalam-cosmological-argument-causality-circular-argument/)
+  - [11 More Problems](https://crossexamined.org/11-objections-kalam-cosmological-argument/)
+  - [Collection of Debates](https://www.youtube.com/watch?v=ZD92WaNjJF8&list=PL96Nl_XJhQEj6TzLq2gfRAOB3neFNe3Hm)
+  - [Collection of Discussions](https://www.youtube.com/watch?v=ZTDbUE83JyI&list=PLxRhaLyXxXkZzH2YffI32ViTZ73Tu8jSR)
+  - [5 Major Problems with William Lane Craig’s Kalam Cosmological Argument (feat. James Fodor)](https://www.youtube.com/watch?v=GC3o4GnKJFU)
+  - [Countering the Kalam](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7E17ejxJNyPxRM7Zki-nS6G)
+  - [‘Mere’ Causality: Arguments, Objections, and Good Principles](https://youtu.be/qTEKUowWoIE?si=B8fE5aWO72ARjGb1)
+  - [William Lane Craig and Metaphysical Cherry Picking](https://youtu.be/NpKGMq077-s?si=Bf0hZqJ3aI6cfHu9)
+  - [William Lane Craig & Scott Clifton Discuss the Kalam Cosmological Argument](https://www.youtube.com/live/TmYCwjU_5Wc?si=9nnnPSF6BQu1g0gJ)
+  - [Episode 21, Scott Clifton and Wes Morriston on the Clifton-Craig debate](https://youtu.be/fjajeG2QixM?si=-tmscdHRUlen4gOp)
+  - [Episode 4, Wes Morriston; On the Kalam Cosmological Argument](https://youtu.be/tsErbEt9MOQ?si=CYzJJHtGW1d8fkrA)
+  - [No, science doesn’t show the universe began to exist | Dr. Daniel Linford](https://youtu.be/35tICdYtHsQ?si=Z-YcW94rkRBsL9GL)
+  - [Kalam Cosmological Argument 2.Physicists and Philosophers strike back](https://youtu.be/femxJFszbo8?si=lj8FG3Dabb3JsDQw)
+  - [The Kalam and Successive Addition | Dr. Wes Morriston](https://youtu.be/3bI4mvkR6D4?si=-fvoPw8gK7_sFe-B)
+  - [Hilbert’s Hotel and Craig’s Kalam | Dr. Alex Malpass](https://youtu.be/U6RQa-mPKV8?si=_7F-kc_jKqngKXrb)
+  - [Whatever begins to exist has a cause? | Dr. Daniel Linford](https://youtu.be/XN2_xd6xtUk?si=gE1l9GgoteRcKpOj)
+  - [Hilbert's Hotel: A Comprehensive Response](https://youtu.be/wt-rEeUIcR4?si=kM-RVjuZHfECjjY4)
+  - [The Kalam's Causal Principle: An Analysis](https://youtu.be/XslZE3luFq4?si=w49y1m2FQwQASYqg)
+  - [Exposing the Hidden Premises of the Kalam Cosmological Argument](https://youtu.be/im2I0nXPUak?si=L5uxQkv_NLQx8cMN)
+  - [Demolishing the Kalam Cosmological Argument](https://youtu.be/DIHNFL4nlWo?si=ic1Ooq1LxSSaTrE0)
+
+### Transcendental argument For God
+
+- [Transcendental_argument For God](https://en.wikipedia.org/wiki/Transcendental_argument_for_the_existence_of_God)
+  - [Transcendental_arguments In General](https://plato.stanford.edu/entries/transcendental-arguments/)
+  - [Critique of All of them](https://philpapers.org/rec/STRTA)
+  - [General Form](https://alexandergreenberg.github.io/pdfs/transcendental-arguments-lecture1.pdf)
+  - [Debate with Matt Slick](https://www.youtube.com/watch?v=0ynBtakYh_E)
+  - [Another Debate](https://www.youtube.com/watch?v=rb1mfKJU6bo)
+  - [Short Explanation](https://www.youtube.com/watch?v=OrwzuXrlnxs)
+
+### A Divine Conceptualist Argument for God’s Existence
+
+- [A Divine Conceptualist Argument for God’s Existence](https://philosophicaleggs.com/185-a-divine-conceptualist-argument-for-gods-existence/)
+  - [Do Divine Conceptualist Accounts Fail?](https://philpapers.org/rec/WELDDC)
+  - [Beyond the Control of God?: Six Views on the Problem of God and Abstract Objects](https://ndpr.nd.edu/reviews/beyond-the-control-of-god-six-views-on-the-problem-of-god-and-abstract-objects/)
+
+### Unactualized Actualizer and Critique
+
+- [Unactualized Actualizer](https://lastedenblog.wordpress.com/2017/12/18/two-aristotelian-arguments-for-an-unactualized-actualizer/) and [Critique](https://www.richardcarrier.info/archives/13752)
+  - [Discussion](https://www.reddit.com/r/DebateAnAtheist/comments/avkc7b/can_anyone_point_out_the_flaws_in_fesers/)
+  - [Flawed Logic of Feser](http://theskepticalzone.com/wp/flawed-logic-and-bad-mereology-why-fesers-first-two-proofs-fail/)
+  - [Defense](http://edwardfeser.blogspot.com/2021/07/schmid-on-aristotelian-proof.html)
+  - [Graham Oppy vs. Ed Feser](https://www.youtube.com/watch?v=XoVDutpB4Cw)
+  - [Are There Any Good Arguments for God? Ed Feser vs Graham Oppy](https://www.youtube.com/watch?v=m-80lQOlNOs)
+  - [Stage One of the Aristotelian Proof: Critical Appraisal](https://philpapers.org/archive/SCHSOO-8.pdf)
+  - [On Stage One of Fesers "Aristotelian Proof"](https://www.researchgate.net/publication/336900890_On_stage_one_of_Feser's_'Aristotelian_proof')
+  - [Harrison Jennings on Act and Potency](https://realatheology.wordpress.com/2019/07/04/harrison-jennings-on-act-and-potency-pt-1/)
+  - [Feser on Schmid on the Aristotelian Proof](https://majestyofreason.wordpress.com/2021/07/04/feser-on-schmid-on-the-aristotelian-proof/)
+  - [Feser's Aristotelian Proof: An Analysis](https://youtu.be/O_DUgRWHv7U?si=4dq0Wm51OWK5_xaQ)
+  - Majesty of Reason Critiques:
+  - [Part 1](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-introduction-part-1/)
+  - [Part 2](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-formalization-part-2/)
+  - [Part 3](https://majestyofreason.wordpress.com/2019/09/28/an-appraisal-of-aquinas-first-way-externalism-contra-act-and-potency-part-3/)
+  - [Part 4](https://majestyofreason.wordpress.com/2019/10/04/an-appraisal-of-aquinas-first-way-quantum-mechanics-contra-the-causal-principle-part-4/)
+  - [Part 5](https://majestyofreason.wordpress.com/2019/10/05/an-appraisal-of-aquinas-first-way-metaphysical-bootstrapping-part-5/)
+  - [Part 6](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-on-infinity-part-6/)
+  - [Part 7](https://majestyofreason.wordpress.com/2019/10/17/an-appraisal-of-aquinas-first-way-quantifier-shifts-and-the-gap-problem-part-7/)
+
+
+### Principle of sufficient reason
+
+- [Principle_of_sufficient_reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+  - [On the Fourfold Root of the Principle of Sufficient Reason](https://en.wikipedia.org/wiki/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason)
+  - [Two Criticisms](https://www.jstor.org/stable/40021074)
+  - [How to Refute](http://cogprints.org/390/1/psrcogprt.htm)
+  - [Discussion](https://philosophy.stackexchange.com/questions/1701/is-there-a-cogent-argument-against-the-principle-of-sufficient-reason)
+  - [Hume Critique](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
+
+### Non Standard Arguments for Gods Existence
+
+- [Non Standard Arguments for Gods Existence](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
+  - [Non Standard Arguments for Existence and Critical Questions](https://press.rebus.community/intro-to-phil-of-religion/chapter/non-standard-arguments-for-gods-existence/)
+- [Arguing God from Natural Theology? | Episode 601 | Closer To Truth](https://www.youtube.com/watch?v=VzJp-Y0WBYY)
+- [Cumulative_case_argument](https://religions.wiki/index.php/Cumulative_case_argument)
+  - [Criticism](http://stephenlaw.blogspot.com/2017/05/a-cumulative-case-for-existence-of-god.html)
+
+### Attributes of God in Christian theology
+
+- [Attributes_of_God_in_Christian_theology](https://en.wikipedia.org/wiki/Category:Attributes_of_God_in_Christian_theology)
+  - [Divine](https://en.wikipedia.org/wiki/Divine_simplicity) [Simplicity](https://plato.stanford.edu/entries/divine-simplicity/)
+  - [The fruitful death of modal collapse arguments](https://philpapers.org/rec/SCHTFD-5)
+  - [The reverse ontological argument](https://philpapers.org/rec/COLTRO-54)
+  - [symmetry breaking](https://plato.stanford.edu/entries/symmetry-breaking/)
+  - [S5 Modal Logic](https://en.wikipedia.org/wiki/S5_(modal_logic))
+  - [a Response to The Modal Ontological Argument, an Explanatory Symmetry Breaker](https://praiseoflight.blogspot.com/2021/09/a-response-to-modal-ontological.html?m=1)
+  - [modal ontological arguments](https://1000wordphilosophy.com/2021/12/03/modal-ontological-arguments/)
+  - [Divine Simplicity, God’s Freedom, and the Supposed Problem of Modal Collapse](https://brill.com/view/journals/jrt/16/1-2/article-p127_8.xml?language=en)
+  - [Arguing God from Being | Episode 807 | Closer To Truth](https://www.youtube.com/watch?v=sP5KaFyem_Q)
+
+### The Argument for God from Logic
+
+- [The Argument for God from Logic](https://youtu.be/mX76lzXu_Jc?si=eTd7NJi-Koh6ofhb)
+  - [From Abstracta to Atheism? | Dr. Felipe Leon](https://youtu.be/8MeJAFsB8BA?si=0GysQIRC6l8iCnHA)
+  - [Why the “Existence” of Logic Can’t Prove God](http://brianhuffling.com/2018/05/01/from-whence-does-logic-come-and-why-you-cant-use-it-to-prove-god/)
+  - [Logic Doesn't Need God - Responding to James Anderson](https://www.youtube.com/live/Om3cU9AGPdw?si=P0H_FhU3v6vqbLzb)
+  - [Does Maths Prove God? Alexey Burov vs James Fodor](https://youtu.be/Pw_bjw-NP14?si=52X-E8P_cmx283qD)
+  - [Episode 10, Penelope Rush, on the Metaphysics of Logic](https://youtu.be/xDM75-6B1fM?si=Dkri4OKpr1n7Mp8T)
+
+### Ed Feser Rebuttals
+
+- Ed Feser Rebuttals
+  - [Feser's Neo-Platonic Proof: An Analysis](https://youtu.be/BYhV5JAy48g?si=hl8ZB-aAaD-eHrPB)
+  - [Can We "Prove" that God Exists? | Graham Oppy vs Ed Feser](https://www.youtube.com/live/XoVDutpB4Cw?si=X2fSQZmseX5oDcvj)
+  - [Feser's Aristotelian Proof: An Analysis](https://youtu.be/O_DUgRWHv7U?si=gnC1ioWzhFiqqScN)
+
+## Design, Fine-Tuning, and Intelligent Design
+
+- [God of the Gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
+
+### Telological Argument
+
+- [Telological](https://plato.stanford.edu/entries/teleological-arguments/) [Argument](https://en.wikipedia.org/wiki/Teleological_argument)
+  - [Criticisms](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/teleological-argument-criticisms/)
+  - [Hume Criticism](https://www.youtube.com/watch?v=g39SOnVM1tw)
+  - [Can Design Point to God? | Episode 1404 | Closer To Truth](https://www.youtube.com/watch?v=8uQofwylkGs)
+  - [Arguing God from Design | Episode 109 | Closer To Truth](https://www.youtube.com/watch?v=gTuIoiDm7Rw)
+  - [Watchmaker Analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy) and [Refutation](https://www.youtube.com/watch?v=PHmjHMbkOUM)
+
+### PZ Myers - The Evolution of Creationism
+
+- [PZ Myers - The Evolution of Creationism](https://youtu.be/ruBjWkVKyRo?si=KQJjFo91xoNMH5bs)
+  - [The Definitive Guide to Debunking Creationists Part 1: Cosmology/Planetary Science](https://youtu.be/r7_HOZHOi1w?si=Wa41fdn8qRZp3mHF)
+  - [The Definitive Guide to Debunking Creationists Part 2: Abiogenesis](https://youtu.be/s2JjHDZDdRE?si=kNWlOjXYAAtGN5Pu)
+  - [The Definitive Guide to Debunking Creationists Part 3: Evolutionary Biology/Paleontology](https://youtu.be/pQOCybcSnug?si=RfiBYsKmdCK1A5VC)
+  - [The Definitive Guide to Debunking Creationists Part 4: Genetics/Molecular Biology](https://youtu.be/tfm9q4UoQBI?si=cLA7-3Rl7JzUarQi)
+  - [The Definitive Guide to Debunking Creationists Part 5: Philosophy/Theology](https://youtu.be/xU8H_Fh-TAE?si=T3ALlQSmCqvsFJCH)
+  - [Foundational Falsehood of Creationism](https://youtube.com/playlist?list=PL258CAE2F4546AA95&si=PKUHUwuKNVt1K_et)
+  - [Why Do People Laugh at Creationists?](https://youtube.com/playlist?list=PLAC3481305829426D&si=89036hCo3MAEfVrD)
+  - [Grayson & Professor Dave vs The World's "Smartest" Creationist](https://youtu.be/J2ELejeWZKA?si=yLLVfw28wdgErqv2)
+
+
+### Fine Tuned Universe
+
+- [Fine Tuned](https://en.wikipedia.org/wiki/Fine-tuned_universe) [Universe](https://plato.stanford.edu/entries/fine-tuning/)
+  - [Fred Adams: Fallacies of the Argument](https://www.youtube.com/watch?v=ccM0lB1qtOI&t=70s)
+  - [Tim Maudlin: Fallacies of the Argument](https://www.youtube.com/watch?v=95rtxmvZsdc)
+  - [Luke Barnes: Fallacies in Fine-Tuning](https://www.youtube.com/watch?v=09XvwcjMWCg)
+  - [Debunking the "Fine Tuning" Argument (Sean Carroll)](https://www.youtube.com/watch?v=zR79HDEf9k8)
+  - [Debunking "Fine Tuning" Arguments for God](https://www.youtube.com/watch?v=z1xWikoa6Dc)
+  - [Discussing the Fine-Tuning Argument](https://www.youtube.com/watch?v=3WrBPCfg62M)
+  - [Leonard Susskind - Is the Universe Fine-Tuned for Life and Mind?](https://www.youtube.com/watch?v=2cT4zZIHR3s)
+  - [What's Fine-Tuning in Physics? | Episode 1903 | Closer To Truth](https://www.youtube.com/watch?v=UizIrcdSuuo)
+  - [12 Design Arguments: An Analysis](https://youtu.be/_hxuKMEzDLk?si=6stXQ7VN1Oa6K3iz)
+  - [YET MORE Apologetics Nonsense about Fine-Tuning](https://www.youtube.com/live/JQxCZrFJjso?si=-L4ZbiQbKC9Rb_CG)
+  - [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=z-nu46nyJubsyDdD)
+  - [Episode 9, Neil Sinhababu, On Fine Tuning](https://youtu.be/70EDGcAXOAE?si=9l010Mi7XMHKpOd1)
+  - [The Case Against Theism - Refuting the Fine-Tuning Argument](https://youtu.be/QJBNtnRywK0?si=bjNsVQUFUeHnGKQn)
+  - [Physicists & Philosophers debunk The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M?si=THL3HA_9CXAf5JYu)
+  - [Is Cosmic Fine-Tuning a good argument for Theism?](https://youtu.be/HZuVYBzYi-8?si=wi34UtItTHBMPsi4)
+  - [The Case Against Theism - A Fine-Tuning Argument for Naturalism](https://youtu.be/TGGvRUglLSE?si=3OtK2iG-fvKpwtQc)
+- [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
+
+
+### Arguments from DNA and Critiques
+
+- [Arguments from DNA](https://www.biola.edu/blogs/biola-magazine/2010/can-dna-prove-the-existence-of-an-intelligent-desi) and [Critiques](https://www.youtube.com/watch?v=eJCmerK0DjQ)
+  - [Origin of the Genetic Code: What we do and do not know](https://www.youtube.com/watch?v=8T3bN2k28_E)
+  - [Signalling Systems](https://www.youtube.com/watch?v=bIO0lGYt5PY&list=PLbxzvFuujtptfx5GAw19gUM4FI19oEf0o)
+  - [The Linguistics of DNA: Words, Sentences, Grammar, Phonetics, and Semantics](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1999.tb08916.x?fbclid=IwAR26nkd27TKhcb8XEoMIwDVofim5rKJ_QbAA9_rvFRip_nNrvDPf21ikIKU)
+
+### Irreducible Complexity
+
+- [Irreducible Complexity](https://en.wikipedia.org/wiki/Irreducible_complexity)
+  - [Refutation of Behe](https://www.creative-wisdom.com/education/hps/behe.pdf)
+  - [Evidence for Intelligent Design](https://www.discovery.org/a/sixfold-evidence-for-intelligent-design/)
+  - [More Refutations](https://philosophicaldisquisitions.blogspot.com/2017/07/the-argument-from-irreducible-complexity.html)
+  - [More Problems](https://rationalwiki.org/wiki/Irreducible_complexity#:~:text=not%20irreducibly%20complex.-,In,-a%20nutshell)
+  - [Rejections of Informational Concepts](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
+  - [Rare Earth Hypothesis](https://en.wikipedia.org/wiki/Rare_Earth_hypothesis)
+  - [Complexity isn't that Complex of an Argument](https://www.youtube.com/watch?v=9jvv5lcs27U)
+  - [Mathematician Debunks Creationist Information Theory](https://youtu.be/iJe_y4yXM7s?si=1UiAYjKgk_EJSNKL)
+
+### Anthropic principle
+
+- [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+  - [Is The Anthropic Principle Significant?](https://youtu.be/NMV9t-3rFNs?si=clenObcP_V-qpDxa)
+  - [The Problem with the "Rare Earth Hypothesis"](https://youtu.be/-CsLmoiKugE?si=zlxMIcDJ4Jbwo2O2)
+  - [How Many "Earth-Like" Planets are there?](https://youtu.be/xEt941k2GAg?si=EpCDlRfiHGE-Do66)
+  - [The Drake Equation after 60 Years](https://youtu.be/dM_Pelfc92s?si=StvGF-Op5kWJj8hV)
+  - [The Birth Death Drake Equation](https://youtu.be/kliJ-CFVLeE?si=5Xs_4tdGOYxI6J_f)
+  - [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+  - [Is the Anthropic Principle Significant? | Episode 1904 | Closer To Truth](https://www.youtube.com/watch?v=NMV9t-3rFNs)
+  - [Anthropic Principle](https://simple.wikipedia.org/wiki/Anthropic_principle) and [Refutation](https://www.str.org/w/why-the-puddle-analogy-fails-against-fine-tuning)
+  - [The Anthropic Argument](https://youtu.be/mxl2iempj_w?si=ul4IGJwM5Q7Ea6gT)
+
+## Mind, Consciousness, Reason, and Logic
+
+### Argument from Reason
+
+- [Argument from Reason](https://en.wikipedia.org/wiki/Argument_from_reason)
+  - [Anscombe Debate about Naturalism](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
+  - [DEBATE: The Argument for God From Reason • Cosmic Skeptic vs Max Baker-Hytch](https://www.youtube.com/watch?v=kI)
+  - [The Argument from Reason: C. S. Lewis’ Fundamental Mistakes](https://infidels.org/library/modern/david-kyle-johnson-lewis-mistakes/)
+  - [Richard Carrier: The Argument from Reason](https://www.richardcarrier.info/archives/20922)
+  - [A response to C. S. Lewis’s argument from reason](https://www.sciencesnail.com/philosophy/a-response-to-c-s-lewiss-argument-from-reason)
+
+### Argument from consciousness
+
+- [Argument_from_consciousness](https://en.wikipedia.org/wiki/Argument_from_consciousness)
+  - [Philosophical Zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
+  - [Consciousness regained? Philosophical arguments for and against reductive physicalism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3341650/)
+  - [Arguing God from Consciousness | Episode 804 | Closer To Truth](https://www.youtube.com/watch?v=GdDhssz94EI)
+  - [More Bad Theist Arguments about Consciousness - Buckle up!](https://www.youtube.com/live/JawWdYyP5tM?si=xFDjCEXsHvtn1e5E)
+- [psychophysical harmony](https://youtube.com/playlist?list=PLxRhaLyXxXkaxsGfwQc4yNqqeF-WOnRSx&si=meqANkAy3-5keNM-)
+
+## Moral, Value, and Practical Arguments
+
+### Argument from Desire
+
+- [Argument from Desire](https://en.wikipedia.org/wiki/Argument_from_desire)
+- [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
+
+### Pascals Wager and Atheist Wager
+
+- [Pascals Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and [Atheist Wager](https://en.wikipedia.org/wiki/Atheist%27s_Wager)
+  - [Series Refuting the Argument](https://www.youtube.com/watch?v=M4Dm1HWJhoo&list=PLMd8xj-C1CsNqG4gRbUZqqlUuGH-QVS8B)
+  - [Practical Arguments for Belief](https://plato.stanford.edu/entries/pragmatic-belief-god/)
+  - [Pascal's Wager | Dr. Al Hájek and Dr. Liz Jackson](https://youtu.be/zeSICId7Yhw?si=XFy79bnSF1tt_qKC)
+
+### Argument from a Proper Basis
+
+- [Argument from a Proper Basis](https://en.wikipedia.org/wiki/Argument_from_a_proper_basis)
+  - [Sensus_divinitatis](https://en.wikipedia.org/wiki/Sensus_divinitatis)
+  - [Episode 11, Tyler McNabb, On Reformed Epistemology](https://youtu.be/LTBXYC_1x2o?si=JlKpdZTtewnJNDti)
+
+### Argument From Morality
+
+- [Argument From Morality](https://en.wikipedia.org/wiki/Argument_from_morality)
+  - [Moral Arguments](https://plato.stanford.edu/entries/moral-arguments-god/)
+  - [Empirical Critique](https://www.jstor.org/stable/1197397)
+  - [More Criticisms](https://rationalwiki.org/wiki/Argument_from_morality)
+  - [Moral Arguments for the Existence of God](https://plato.stanford.edu/entries/moral-arguments-god/)
+  - [Quick Counters to the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FMPvpIo5ReKW4pneBHzZdX)
+  - [Countering the Moral Argument](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7FAcDBQq-sMejB9jtbF1gSs)
+  - [Moral Arguments for God: An Analysis](https://youtu.be/cFEjSzfEQrU?si=UZuPSKaOJ7LtTF44)
+  - [Objective Morality Without God](https://youtu.be/50CQwa15R7A?si=oagU3PXsthSrjmFg)
+  - [Why I Don't Use The Moral Argument For Theism](https://youtu.be/wiVEU6yAVZk?si=DzDaOlZLaCyP7wcq)
+  - [Arguing God from Morality | Episode 202 | Closer To Truth](https://www.youtube.com/watch?v=h9F-CaquPTc)
+  - [Rewiewing McDowell and Shermer on Morality](https://www.youtube.com/live/GKktEA2T3Vw?si=9jkH88eOciRn3CGb)
+  - [Episode 20, Russ Shafer-Landau, on Moral Realism](https://youtu.be/zRQk9AaPbQY?si=V18Lelf9zQB3yjm0)
+  - [The Incoherence of Morality](https://youtu.be/w4tRgsHcXQU?si=PX4afduWfzbT-VTW)
+  - [Metaethics: The Evolutionary Debunking Argument](https://youtu.be/0x2v-ucrSGA?si=5I8xmiuJUs2bQdI9)
+  - [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=oEB8I9MGNvfR8EyG)
+  - [The moral argument for God isn't good (Part 1)](https://www.youtube.com/live/M1qo2qaJftI?si=aP_mF0qBIaP6N_Ar)
+  - [The moral argument for God isn't good (Part 2)](https://www.youtube.com/live/OT3obQ3yTAw?si=Spe9GwNXDMwwoiVF)
+  - [Is God Necessary for Morality? William Lane Craig vs Shelly Kagan Debate](https://youtu.be/SiJnCQuPiuo?si=MGZt3d0yE3BCFL83)
+  - [Why Natural Law Theory is FALSE](https://youtu.be/E8H_gUrPXL4?si=OWqKg_IhhwwnAJPK)
+
+### Divine Command and Resources
+
+- [Divine Command](https://en.wikipedia.org/wiki/Divine_command_theory) & [Resources](https://www.qcc.cuny.edu/socialsciences/ppecorino/ethics_text/chapter_7_deontological_theories_natural_law/divine_command_theory.htm)
+  - [Epistemological Objection](https://philosophicaldisquisitions.blogspot.com/2014/11/the-epistemological-objection-to-divine.html)
+  - [Critique of Grabers Divine Command Theory](https://www.jstor.org/stable/40017722)
+  - [Euthyphro_dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
+  - [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=dkhgJeDGa9nviJpd)
+  - [The Sci Phi Show1: Fine Tuning & Genocide, a reply to Craig](https://youtu.be/e8vB3ZyS3dY?si=jGKxqJM2ecy8GB8-)
+  - [When Rationality Becomes Horrific](https://youtu.be/vxqar1B_MpY?si=pzTD6Fx3Guvr8W76)
+
+### Argument from Free Will
+
+- [Argument from Free Will](https://en.wikipedia.org/wiki/Argument_from_free_will)
+  - [free-will-foreknowledge](https://plato.stanford.edu/entries/free-will-foreknowledge/)
+  - [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
+  - [Arguments for and against Molinism | Dr. Daniel Rubio](https://youtu.be/y92T1xEBJHk?si=1YTQEAxAn4NZI4lj)
+
+### The Ethics of Belief
+
+- [The Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/)
+  - [The Will to Believe](https://en.wikipedia.org/wiki/The_Will_to_Believe)
+
+
+## Religious Experience, Revelation, and Miracle Claims
+
+### Inconsistent Revelations
+
+- [Inconsistent Revelations](https://en.wikipedia.org/wiki/Argument_from_inconsistent_revelations)
+  - [Argument from Locality](https://religions.wiki/index.php/Argument_from_locality)
+
+### Near Death Experience
+
+- [Near Death Experience](https://en.wikipedia.org/wiki/Near-death_experience)
+  - [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=VQgXsBrakxSukRmM)
+  - [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=i727Q8r7fsXcg9Pa)
+  - [Dogmatic Materialists DESTROYED by AMAZING EVIDENCE of Pam Reynolds Near Death Experience Case](https://www.youtube.com/live/WEDZ2LToSWM?si=qna6E8nGf6UjPE0n)
+  - [Bad Apologetics Ep 10 - Are Near Death Experiences Evidence of Life After Death?](https://www.youtube.com/live/2TdLoGpIu3Q?si=G8hb2yVO8uh3_WTP)
+  - [Near Death Experiences Explained - Truth About NDEs](https://youtu.be/Yz0C0JpVqnM?si=0YQaLiG7z-WO-WvH)
+  - [The Evidential Value of Near Death Experiences, Part 1](https://majestyofreason.wordpress.com/2018/12/25/the-evidential-value-of-near-death-experiences-part-1/)
+  - [Defeasible Reasoning, NDE Veridicality, and Hume: An Analysis, Part 2](https://majestyofreason.wordpress.com/2018/12/25/defeasible-reasoning-nde-veridicality-and-hume-an-analysis-part-2/)
+  - [A Novel Dilemma and Theoretical Comparison Concerning NDE’s, Part 3](https://majestyofreason.wordpress.com/2018/12/25/a-novel-dilemma-and-theoretical-comparison-concerning-ndes-part-3/)
+  - [Near-Death Experiences are Not Evidence for Either Atheism or Theism](https://philpapers.org/rec/AUGNEA-4)
+  - [Hallucinatory Near-Death Experiences](https://infidels.org/library/modern/keith-augustine-hndes/)
+  - [Lifeafterdeath Immortality](https://infidels.org/library/modern/lifeafterdeath-immortality/)
+
+### The Holy Ghost
+
+- The Holy Ghost
+  - [Philosophical Failures of Christian Apologetics, Part 11: The Holy Spirit](https://youtu.be/RoyFdWYgz5I?si=C_Ci2syNbyfEI52B)
+  - [Craig on Faith and Doubt](https://youtu.be/Mh7JjeakfjI?si=TOVmDmShgt_LFBke)
+
+### Argument from Miracles
+
+- [Argument from Miracles](https://plato.stanford.edu/entries/miracles/)
+  - [Humes](https://en.wikipedia.org/wiki/Of_Miracles) [Refutation](https://www3.nd.edu/~afreddos/courses/43811/hume-on-miracles.htm)
+  - [Wittgensteins Perspective](https://iep.utm.edu/miracles/#H11)
+  - [Epistemic Theory of Miracles](https://en.wikipedia.org/wiki/Epistemic_theory_of_miracles)
+  - [Miracles and Anomalies: Or, Your Religion is False](https://entirelyuseless.com/2018/07/30/miracles-and-anomalies-or-your-religion-is-false/)
+  - [Hume on religious self-deception](https://www.youtube.com/watch?v=Q_h0ah_WDho)
+  - [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=D70ZyE3TarmkYcTU)
+  - [Arguing God from Miracles & Revelations | Episode 704 | Closer To Truth](https://www.youtube.com/watch?v=dmButXMCrZ4)
+  - [Cameron asked about miracle claims. I answered.](https://www.youtube.com/live/bkJO8H3Unuc?si=VmPR7rfYpppXprwx)
+  - [1. Arif Ahmed, On Miracles](https://youtu.be/xQ9Z92ldW-U?si=B5UjQpwTALi5u6oc)
+  - [RA036: Ben Watkins on Hume Against the Believability of Miracles](https://youtu.be/dzJcujTbvpg?si=XY9PVUCOLeJb4-6J)
+  - [RA037: Bill Vanderburgh on Misinterpretations of Hume's Of Miracles](https://youtu.be/4eVqOT0ip0U?si=q21m1AAovUxYeOoD)
+  - [Why won't God heal amputees?](https://youtu.be/vQ1K_Pi-Pqw?si=dgsOm-NnKXdi96So)
+  - [What would make atheists accept a miracle claim? | C.M. Lorkowski & Real Atheology](https://youtu.be/NFMI3c_Iex4?si=ZYP1bJHsCYlp7Yy5)
+  - [The Argument from Miracles: Emerson Green](https://youtu.be/i0DUQbvQvBk?si=LRQcdL4r_BvU5r17)
+
+### Efficacy of prayer
+
+- [Efficacy of prayer](https://en.wikipedia.org/wiki/Efficacy_of_prayer)
+  - [Study of the Therapeutic Effects of Intercessory Prayer (STEP)](https://pubmed.ncbi.nlm.nih.gov/16569567/)
+  - [Prayer and healing: A medical and scientific perspective on randomized controlled trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802370/)
+  - [Prayers don’t help heart surgery patients](https://news.harvard.edu/gazette/story/2006/04/prayers-dont-help-heart-surgery-patients-2/)
+  - [The Harvard Prayer Experiment](https://davidmyers.org/psychology-faith/prayer-experiments)
+  - [Does God Answer Prayer? Researcher Says 'Yes'](https://www.sciencedaily.com/releases/2007/03/070314195638.htm)
+  - [Prayer as medicine: how much have we learned?](https://pubmed.ncbi.nlm.nih.gov/17516884/)
+  - [Effects of oxytocin administration on spirituality and emotional responses to meditation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5040919/)
+  - [Meditation, Prayer and Spiritual Healing: The Evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3396089/)
+
+### Divine Revelation
+
+- [Divine Revelation](https://plato.stanford.edu/entries/divine-revelation/)
+  - [Authenticity_of_divine_revelation](https://rationalwiki.org/wiki/Authenticity_of_divine_revelation)
+
+### Argument from religious experience
+
+- [Argument_from_religious_experience](https://en.wikipedia.org/wiki/Argument_from_religious_experience)
+  - [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
+  - [Religious Epistemology](https://iep.utm.edu/relig-ep/)
+  - [The Argument from Religious Experience](https://philosophicaldisquisitions.blogspot.com/2021/01/the-argument-from-religious-experience.html)
+  - [An Argument Against The Argument from Religious Experience](https://onemorebrown.com/2007/10/03/an-argument-against-the-argument-from-religious-experience/)
+  - [Paul Draper, the Fallacy of Understated Evidence, Theism, and Naturalism](https://secularfrontier.infidels.org/2016/02/paul-draper-the-fallacy-of-understated-evidence-theism-and-naturalism/)
+  - [Understating the Evidence](https://www.youtube.com/watch?v=Gs9TT6QGk_U)
+  - [The fallacy of understated evidence](https://www.youtube.com/watch?v=M6WxeUaTUt0)
+  - [Direct Experiences](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Religious_Experiences.htm)
+  - [Miracles](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Miracles.htm)
+  - [Psychic Phenomena](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Psychic_phenomena.htm)
+  - [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
+  - [The Experience of God: Being, Consciousness, Bliss](https://whyevolutionistrue.com/2014/01/13/unequivocal-evidence-for-god-i-dont-think-so/)
+
+## Problems for Theism: Evil, Suffering, Hiddenness, and Divine Attributes
+
+- [An atheological argument from evil natural laws](https://philpapers.org/rec/SMIAAA-3)
+- [Phil Halper and Ken Williford, on Animal Suffering](https://youtu.be/OG_QOFLEizo?si=DPgmaVgbVAa77M7m)
+- [Best of All Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
+- [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
+  - [The Evil God Challenge - Extended and Defended](https://philarchive.org/archive/COLTEC-6)
+- [Absence of Good](https://en.wikipedia.org/wiki/Absence_of_good)
+
+### Problem of Hell
+
+- [Problem of Hell](https://en.wikipedia.org/wiki/Problem_of_Hell)
+  - [One Hell of a Problem w/ @Real Atheology & @Counter Apologist](https://www.youtube.com/watch?v=nCBD7q5FNe0&t=247s)
+  - [The Argument from Hell](https://www.youtube.com/playlist?list=PL6M9lJ0vrA7G8-No--9MAdNgJmAGiIXjh)
+
+### Argument from Non-Belief and Divine Hiddenness
+
+- [Argument from Non-Belief](https://en.wikipedia.org/wiki/Argument_from_nonbelief) and [Divine Hiddenness](https://plato.stanford.edu/entries/divine-hiddenness/)
+  - [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (1/5)](https://youtu.be/7hBpZ-ystOg?si=-3zsvoiE_QVjdJWt)
+  - [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (2/5)](https://youtu.be/sBiGfcCI7Zo?si=-ymOz-dxV2Ar_mZf)
+  - [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (3/5](https://youtu.be/3ce7WipX_Ek?si=476fWfvSivZS4KGT)
+  - [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (4/5)](https://youtu.be/se9HFUQ8piM?si=xBPGkMGCoI9qulz3)
+  - [John Schellenberg: The Hiddenness Argument and the Contribution of Philosophy (5/5)](https://youtu.be/Dlx06BXsNxk?si=EVrznYrxqhNh4q7q)
+  - [Nonbelief Revisited: The Ghost of Veritas48](https://youtu.be/FCGCjLEJF_g?si=kZogBD9qy8z7HdEY)
+  - [Wrapping Up 'Nonbelief'](https://youtu.be/L54fUWIBKAY?si=4WDyoqngwDCHsvh-)
+  - [Divine Hiddenness: Mike Winger's Desperate Dance Around God's Disappearance](https://youtu.be/KO9IxzjnCIo?si=b97NDppSSQjG8IJf)
+  - [Divine Hiddenness Series: An Introduction to J.L. Schellenberg's Argument from Nonresistant Nonbelief](https://youtube.com/playlist?list=PL2ru4PSw7gsLuIEkwnyl0DWxdCgnYoFJj&si=DzVn7qLLJ45933Ir)
+
+
+### Omnipotence Paradox
+
+- [Omnipotence Paradox](https://en.wikipedia.org/wiki/Omnipotence_paradox)
+  - [How Can God Not Be Free? | Episode 1413 | Closer To Truth](https://www.youtube.com/watch?v=jrHgHnrQLGw)
+  - [Inconsistent Triad](https://en.wikipedia.org/wiki/Inconsistent_triad)
+  - [Omniscience, Time, and Freedom](https://www.youtube.com/watch?v=HPajfhRLGVU)
+
+### Evolutionary Argument Against Naturalism
+
+- [Evolutionary Argument Against](https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism) [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy))
+  - [Discussion](https://philosophy.stackexchange.com/questions/31401/what-are-the-problems-with-plantingas-evolutionary-argument-against-naturalism)
+  - [Critical Appraisal](https://www.jstor.org/stable/27749994)
+  - [Does it Work?](https://www.cambridge.org/core/journals/religious-studies/article/abs/does-plantingas-evolutionary-argument-against-naturalism-work/E38C04BC3D418AF634B2830797639E08)
+  - [What’s wrong with the evolutionary argument against naturalism?](https://philarchive.org/rec/CHIWWW)
+  - [The evolutionary argument against naturalism: a Wittgensteinian response](https://link.springer.com/article/10.1007/s11153-022-09832-3)
+  - [Does the Evolutionary Argument Against Naturalism Defeat God’s Beliefs?](https://philarchive.org/rec/HENDTE)
+  - [Darwin's doubt or Plantinga's conviction? Some failures in Plantinga's attempt to debunk naturalistic evolution](https://www.cambridge.org/core/journals/religious-studies/article/darwins-doubt-or-plantingas-conviction-some-failures-in-plantingas-attempt-to-debunk-naturalistic-evolution/A246AE63DFC922D439CF751045E3A7DD)
+  - [Plantinga's Evolutionary Argument Against Naturalism refuted](https://stephenlaw.blogspot.com/2012/12/plantingas-evolutionary-argument.html)
+  - [Does Plantinga's Evolutionary Argument against Naturalism Work?](https://www.jstor.org/stable/27749994)
+  - [Evolutionary Argument Against Naturalism (EAAN)](https://emersongreenblog.wordpress.com/2018/07/22/evolutionary-argument-against-naturalism-eaan/)
+  - [The troublesome explanandum in Plantinga’s argument against naturalism](https://link.springer.com/article/10.1007/s11153-010-9228-7)
+  - [Evolutionary Absurdity Against Naturalism](https://youtu.be/jffWAdaz3kQ?si=Wa0YdrSwbQR-Xqyo)
+  - [4 Genealogical Debunking Arguments](https://academic.oup.com/book/36593/chapter-abstract/321566472?redirectedFrom=fulltext)
+  - [Genealogical Debunking](https://philpapers.org/browse/genealogical-debunking)
+  - [In defense of sensible naturalism](https://philpapers.org/rec/DRAIDO-3)
+  - [The Evolutionary Argument Against Naturalism - James Fodor vs Maverick Christian](https://youtu.be/NW-FQ3kzV30?si=rhxbRDxT8KSEgOMM)
+  - [Chatting about the Evolutionary Argument Against Naturalism](https://www.youtube.com/live/AW9oqcshkFA?si=Yj9CB_ajAkU6Pppp)
+  - [Debate on The Evolutionary argument against Naturalism | @JamesFodor vs @MaverickChristian](https://www.youtube.com/live/JAsd8knUh_w?si=qYe4TwN35Rx5JvPt)
+  - [Evolutionary Debunking, Metaphilosophy, & More on @PhilosophyVisualised](https://youtu.be/tXDkHef__04?si=oNZUGEFB2sApSaqN)
+
+### Problem of Evil
+
+- [Problem](https://plato.stanford.edu/entries/evil/) of [Evil](https://en.wikipedia.org/wiki/Problem_of_evil)
+  - [Objections: Arguments from Moral Evil](https://philpapers.org/archive/OPPAFM.pdf)
+  - [Rowe’s Arguments from Evil](https://philpapers.org/archive/OPPREA.pdf)
+  - [Logical Arguments from Evil and Free Will Defences](https://philpapers.org/archive/OPPLPO.pdf)
+  - [Epicurean_paradox](https://en.wikipedia.org/wiki/Epicurus#Epicurean_paradox)
+  - [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge)
+  - [Leibniz on the Problem of Evil](https://plato.stanford.edu/entries/leibniz-evil/)
+  - [Théodicée](https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e)
+  - [Is God Responsible for Evil? | Episode 1402 | Closer To Truth](https://www.youtube.com/watch?v=UDTwSiBlIhw)
+  - [Can God Face Up To Evil? | Episode 1009 | Closer To Truth](https://www.youtube.com/watch?v=16Fz42sFAcg)
+  - [Did God Create Evil? | Episode 408 | Closer To Truth](https://www.youtube.com/watch?v=gMoyHuUsKiY)
+  - [Logical Problem of Evil](https://iep.utm.edu/evil-log/)
+  - [Evidential Argument of Evil](https://iep.utm.edu/evil-evi/)
+  - [Suffering Evil](https://www.amazon.com/Suffering-Belief-Anglo-American-Defense-Religion/dp/0820439754)
+  - [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
+  - [Best of all Possible Worlds](https://en.wikipedia.org/wiki/Best_of_all_possible_worlds)
+  - [Skeptical Theism](https://plato.stanford.edu/entries/skeptical-theism/)
+  - [Irenaean_theodicy](https://en.wikipedia.org/wiki/Irenaean_theodicy)
+  - [3. Graham Oppy, On Logical Problems of Evil](https://youtu.be/szPAw_R6RGA?si=Y8K6xs7jldNWyETI)
+  - [Matt McCormick Problem of Evil](https://youtube.com/playlist?list=PLUJ-vlKYyqzDTEvCVstkzh1RgKfa9K_7K&si=jImiVsTs0Os44KCH)
+  - [If God exists, is everything permitted? | Dr. Justin Mooney & Dr. Luis Oliveira](https://youtu.be/1i3Yk6qod3A?si=sARyQVCPMwRZoOYL)
+  - [The ULTIMATE Guide to the Problem of Evil](https://youtu.be/Qr4JBRuRE20?si=sc2GpVoQohIKvltY)
+  - [This One Argument Against God Will Change How You See Religion!](https://youtu.be/LzVjA9cRhvQ?si=o-UV3fAiWEpdJHvx)
+  - [Why are theodicies so unconvincing?](https://youtu.be/A6uzqkCalQs?si=5zp32oHtPIx3N9wz)
+
+### Alvin Plantingas Free Will Defense
+
+- [Alvin Plantingas Free Will Defense](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense)
+  - [Does God's Knowledge Ruin Free Will? | Episode 1312 | Closer To Truth](https://www.youtube.com/watch?v=m246uxD_9Sw)
+  - [Is God Totally Free? | Episode 1313 | Closer To Truth](https://www.youtube.com/watch?v=1-7t2cSvxTw)
+  - [Can Free Will Survive God's Foreknowledge? | Episode 1412 | Closer To Truth](https://www.youtube.com/watch?v=0bEBFdTfHbg)
+  - [If God Knows the Future, What is Free Will? | Episode 710 | Closer To Truth](https://www.youtube.com/watch?v=Z9EeVRD43qA)
+  - [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
+  - [The Problem of Hell: Raymond Bradley vs. William Lane Craig (Debate)](https://youtu.be/oJdlO6esWr8?si=Elk9BEMlh_PR29-E)
+  - [Can God Condemn One to an Afterlife in Hell?](https://philpapers.org/rec/BRACGC)
+  - [The Utter Failure of the Free Will Theodicy](https://counterapologist.blogspot.com/2022/10/the-utter-failure-of-free-will-theodicy.html)
+  - [God’s Prime Directive: Non-Interference and Why There Is No (Viable) Free Will Defense](https://philarchive.org/archive/JOHGPD)
+  - [Paradise Hell: The Theodicy Destroying Thought Experiment](https://youtu.be/Vy5tL4_EjiE?si=lCFvvPD_6SxwkpJm)
+
+### Salvation in Heaven
+
+- [Salvation in Heaven](https://www.ajol.info/index.php/pp/article/view/29480)
+  - [Paradox of Free Will](https://sheseeksnonfiction.blog/2017/09/10/the-paradox-of-christian-free-will/)
+  - [The Free Will Defense Refuted and God’s Existence Disproved](https://infidels.org/library/modern/raymond-bradley-fwd-refuted/)
+  - [Some Problems of Heavenly Freedom](https://philarchive.org/rec/KITSPO-2)
+  - [Paradox of Free Will in Heavan](https://www.reddit.com/r/DebateReligion/comments/23hwy9/the_paradox_of_free_will_in_heaven/)
+
+### Why Wont God Heal Amputees
+
+- [Why Wont God Heal Amputees](https://www.whywontgodhealamputees.com/)
+  - [Response to Got Questions](https://www.youtube.com/watch?v=mKpFuPf4n6s)
+  - [WOTM: Why Won't God Heal Amputees?? Part I](https://www.youtube.com/watch?v=fy5OHAq5EHk)
+  - [WOTM: Why Won't God Heal Amputees?? Part II](https://www.youtube.com/watch?v=tseB2A9K1IU)
+  - [Why God Won't Heal Amputees Response](https://www.youtube.com/watch?v=BkA7IYuEdlY)
+
+### Theological Fatalism
+
+- [Theological Fatalism](https://en.wikipedia.org/wiki/Fatalism)
+  - [Divine Foreknowledge and Human Freedom | Dr. Taylor Cyr and Sean Clements](https://youtu.be/2eo6ZwZ0c5U?si=8SpbEDvA0fTX0tKI)
+  - [Is Omniscience Possible? | Dr. Josh Rasmussen](https://youtu.be/BqxR_Cs1LEg?si=grrKEVKBgxkiI7q6)
+  - [Omniscience, Time, and Freedom](https://youtu.be/HPajfhRLGVU?si=qBhnHM3ETqa-Ss-_)
+
+## Epistemology, Language, and Skeptical Challenges
+
+### Theological Non Cognitivism
+
+- [Theological Non Cognitivism](https://en.wikipedia.org/wiki/Theological_noncognitivism)
+  - [Problem of Religious Language](https://en.wikipedia.org/wiki/Problem_of_religious_language)
+  - [Newtons Flaming Laser Sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton's_Flaming_Laser_Sword)
+  - [An Assessment of Religious Language in Philosophy of Religion](http://article.sapub.org/10.5923.j.ijas.20120201.01.html)
+  - [Religious Language](https://iep.utm.edu/rel-lang/)
+  - [Aquinas views on Religious Language](https://www.mytutor.co.uk/answers/20487/A-Level/Philosophy-and-Ethics/Explain-Aquinas-views-surrounding-religious-language-as-analogical/)
+
+### Lack of Empirical Proof Argument
+
+- [Lack of Empirical Proof Argument](http://christiancadre.blogspot.com/2019/03/why-there-is-no-empirical-proof-that.html)
+  - [Counterargument](https://theskepticzone.blogspot.com/2016/10/hinmans-argument-from-god-corrolate.html)
+
+### Lewis Trilemma
+
+- [Lewis Trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma)
+  - [Refutation](https://rationalwiki.org/wiki/Lewis_Trilemma)
+  - [Muslim Examination](https://www.call-to-monotheism.com/examining_c_s__lewis__trilemma)
+  - [Lord Liar or Lunatic](https://www.learnreligions.com/lord-liar-or-lunatic-c-s-lewis-249782)
+
+### Incinerating Presuppositionalism
+
+- [Incinerating Presuppositionalism](http://bahnsenburner.blogspot.com/)
+  - [Presuppositional_apologetics](https://en.wikipedia.org/wiki/Presuppositional_apologetics)
+  - [Is God Necessary? | Episode 607 | Closer To Truth](https://www.youtube.com/watch?v=yJ1nWKbtku8)
+  - [Presuppositionalism Destroyed Like You've Never Seen! | Dr. Alex Malpass](https://www.youtube.com/live/LyL7rMfJ7lA?si=CmCEpjp-yaECHblG)
+  - [presuppositionalism; Fallacy and Failure](https://youtu.be/w_n1cGgF3dw?si=MDW9GHlHeFZkJque)
+
+### Russells Teapot
+
+- [Russells Teapot](https://en.wikipedia.org/wiki/Russell%27s_teapot)
+  - [Several Layers of Wrong | Wise Disciple Fails to Shatter Russell's Teapot](https://www.youtube.com/watch?v=wqYBlwHDxms)
+  - [Ad Hoc Hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
+  - [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+  - [Flying_Spaghetti_Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
+  - [Hitchens Razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor)
+  - [Burden of Proof](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy))
+  - [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
+  - [Evidence of Absense](https://en.wikipedia.org/wiki/Evidence_of_absence)
+  - [The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
+
+### Religious Language
+
+- Religious Language
+  - [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
+  - [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
+  - [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
+
+## Christianity-Specific Historical and Evidential Critiques
+
+### Jesus Resurrection Critically Examined
+
+- [Jesus Resurrection Critically Examined](https://www.youtube.com/playlist?list=PLq3dh__o7S0oip-Xq7hSBe7oMUOE0SNyt)
+  - [The Evidence for Jesus Is Worse than You Think](https://www.youtube.com/watch?v=PGHOp-9yAbA)
+  - [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
+  - [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
+  - [The Case Against the Resurrection (Richard Carrier)](https://youtu.be/amtbhnGWvpQ?si=S7m1g0lCTT0uLtsr)
+
+### The Jury Is In: The Ruling on McDowell’s “Evidence”
+
+- [The Jury Is In: The Ruling on McDowell’s “Evidence”](https://infidels.org/library/modern/jeff-lowder-jury/)
+  - [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=rICdBkezChlLhYrW)
+  - [Historicity Argument: Problem of Instruction](https://www.youtube.com/watch?v=w5aZXXx3E6U)
+
+### Addressing the New Christian Apologetics: The Embarrassing Follies of Conway and Ferrer
+
+- [Addressing the New Christian Apologetics: The Embarrassing Follies of Conway and Ferrer](https://www.richardcarrier.info/archives/22947)
+  - [Christianity's Calculated Kindness: Unraveling The Manipulative Strategy!](https://youtu.be/zeHVJ-O9cYc?si=5UxMlDu2roXT6TN9)
+  - [The Manipulative Nature of the Gospel Message](https://youtu.be/Hc2zOqImjQE?si=qTsbn74GkS475_xP)
+  - [Common Manipulation Tactics Used in Christian Churches](https://youtu.be/gAiJey3d6tw?si=S4RgXztxlvWJzHA9)
+  - [Inside Christian Fundamentalism: 30 Wild Stories From My Personal Experience!](https://youtu.be/g2fU5O1iPkI?si=VrON4tSLRLyIjX1y)
+  - [Sean McDowell Overselling The Influence And Importance Of The Bible](https://youtu.be/8BTu-K4n4OI?si=C4rSE78_ooVXI1Pn)
+  - [Street Evangelism: Christian Manipulation And Predatory Tactics](https://youtu.be/sUQ4quv_NH0?si=soTF0juBhz1e5fxL)
+  - [Apologetics | An Empire of Manipulation!](https://www.youtube.com/live/UFQ0kdewUEc?si=Ex9AR6EpLhox6vPD)
+  - [Everything WRONG With Christian Apologetics](https://youtu.be/NSL4qua6AeA?si=WOKsCVKmoKkdCROr)
+  - [Apologist HUMILIATES Himself](https://youtu.be/8A-akW8pezU?si=6x2p8f1cPEStjLGg)
+  - [DANIEL: PSYCHOLOGY OF APOLOGETICS](https://gracefulatheist.com/2023/07/16/daniel-psychology-of-apologetics/)
+  - [Let's review some more Capturing Christianity Cringe](https://www.youtube.com/live/v-srdpGP1DY?si=v757iiegzT5eQLIT)
+  - [Christian "SCHOLARSHIP" Collapses | The MELTDOWN of Michael Jones](https://youtu.be/-0xuG8wYLnU?si=eXZCeLW4WXw9laLt)
+  - [Inspiring Philosophy Gets Exposed](https://youtu.be/XNygmVlr6kc?si=dWReuGacWsJvhehF)
+  - [Top 15 Prophecies of Jesus DEBUNKED!!! | MythVision Documentary](https://youtu.be/puez1gWtcbE?si=ECDEr4CkNnlkBwB2)
+  - [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=eQocmAgZ2pR9pJ2K)
+  - [Christian "HISTORY" is an ABSOLUTE Trainwreck | The FAILURE of Inspiring Philosophy](https://youtu.be/GFhGznpzT7M?si=Ql8sib7SiBAt1OjZ)
+  - [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=RMgo-_jcc0AQLT9z)
+  - [Your Pastor is TERRIFIED to tell you what they learned at Seminary...I'm NOT!](https://www.youtube.com/live/SqEPIapoQgQ?si=mX0255b9qhZk4djs)
+  - [Lee Strobel Misleads Millions of People](https://youtu.be/kQCX4p8HdbA?si=tofHSz5Onm8XsdAw)
+  - [5 Questions for Atheists ANSWERED (w/ @naturalismnext5861)](https://www.youtube.com/live/WadUfMPl_cA?si=_e80tRHxJsorZsuY)
+  - [How Wes Huff Got The Bible Wrong on Joe Rogan](https://youtu.be/I0qzvDSmKi4?si=RUDr3KCohhreGuU_)
+  - [Why Cameron Bertuzzi MUST take atheism seriously](https://youtu.be/U-rnX2iWh7s?si=6XW3ptGiBhTdUN0t)
+  - [Answering Braxton's Five Questions for Atheists in 2025](https://www.youtube.com/live/QsaxijHUlr4?si=akid24J-2KFU1NK3)
+  - [Was Jesus Resurrected? Robert Martin vs James Fodor Debate](https://youtu.be/K2JNoRdyaek?si=-myewjd837Ct80yT)
+  - [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=IGS_SRhm3aLrxhlH)
+  - [Exposing the Discovery Institute](https://youtube.com/playlist?list=PLybg94GvOJ9HD-GlBnTYutk8D1e71y__q&si=SDUO5wtpjZT1AklV)
+  - [Have Christian Apologists Just Given Up? Religious Fan-Fiction Replaces Actual Argumentation](https://www.youtube.com/live/Begz8lLU3lE?si=_Nfzap4d-cMIn7hc)
+  - [Richard Carrier Destroys the Resurrection Argument – Must-See!](https://youtu.be/yEGH1DGMICQ?si=8aG2bCfKeJjvAfSF)
+  - [We've Been Destroyed By Apologists... Game Over!](https://youtu.be/HlG4lPsu12Q?si=1UyFRgeLMvDkWN19)
+  - [Apologist Wes Huff's Myths CRUSHED by Assyriologist & Dead Sea Scholar](https://www.youtube.com/live/vGhvUUzi3iE?si=_ORYNiOMaQU0n3eG)
+  - [How a NON-BELIEVER Became Christianity's Favorite Historian, Tom Holland](https://youtu.be/1o5K7JaEKb4?si=0ogiHUdJrRmDgitx)
+  - [He Says Bible Prophecy Is So Precise, Only God Explains It! (Mike Winger response)](https://youtu.be/BHTD9HJB20Y?si=nksVTvVhQ-y4Tj5-)
+  - [Why Atheists Reject Biblical Prophecies](https://youtu.be/QwuKfY-mfkY?si=avuRmU2j7aYw7wWf)
+  - [Did Rhett Just Break Christianity on Resurrection Sunday? (Responding to ALL the Responses)](https://youtu.be/2onIdSbqSRQ?si=91oUHQPs3jxN1BOn)
+  - [CHRISTIANS: Stop Making This Ridiculous Mistake!](https://youtu.be/CNox3kHW8hg?si=uVQNNKXpKsbWkfcq)
+
+### Mythological Origins of Monotheistic Religions
+
+- Mythological Origins of Monotheistic Religions
+  - [Egyptian Myths EXPOSE the Hidden Roots of Christianity!](https://www.youtube.com/live/qaGz4eDqIUA?si=wcw0mOSdrgb3vLsU)
+  - [Roman Philosopher Celsus EXPOSES Early Christians as Weird and Dangerous (177 AD)](https://youtu.be/ZTNYtJ0Pl9Y?si=GIcrnGCJDRzZnr9U)
+  - [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=l_lugiSlmZRota0e)
+  - [What is Neoplatonism?](https://youtu.be/vZEUo_sHoBw?si=Lk60emY4KsdohntW)
+  - [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY?si=mDsSZnLfUg1czMrL)
+  - [Jesus, The TRUE Myth?](https://www.youtube.com/live/wcSHfYUUVWY?si=lS7AnY3tC3iDIxbj)
+  - [12 Reasons Jesus' Nativity is FICTION!](https://youtu.be/6QDZJHw33p0?si=l0t_xC3bq-1jWJ8x)
+  - [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=W2dJsYWLfGDkMZdY)
+  - [When Was Moses REALLY Invented?](https://youtu.be/jE0-uNFR7ys?si=2FX4B1jjFF1zLexg)
+  - [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=0XzjkXGDjehgmQPR)
+  - [Ancient Historian David Miano Schools Pseudo-Archaeologists](https://youtu.be/WOAFhwTMXr8?si=WQGMrCbMP9ZLaqgZ)
+  - [Expert Historian PROVES Moses Was INVENTED 4th Century BCE](https://youtu.be/UjOW7vfPILA?si=qh9VQBRBu50s0CgQ)
+  - [We NEED To Know About The Ancient Greek Myths! | Dr. Sarah Iles Johnston](https://youtu.be/DpipnvC4GFk?si=jFLZDU6kXQN-Alfi)
+  - [Unveiling the Truth About Dying and Rising Deities!](https://youtu.be/uwgGg0Bl06k?si=EwzqGCtiSsHp-Tf3)
+  - [Christian "experts" HUMBLY educated by actual expert!](https://youtu.be/DSeLK5dPRzg?si=XUMw6K3YG-XggefR)
+  - [The Gospels AREN’T What You Think – Their True Origins Exposed!](https://youtu.be/DqPHIZwlSx4?si=xTzp0eouZ0DOelvA)
+  - [The Goddess Who Died and Rose Again After 3 Days—BEFORE Jesus!](https://youtu.be/Dc330wSTShw?si=s9Lj2Ci2-N0MMALN)
+  - [Was Genesis Inspired by Older Creation Stories?](https://youtu.be/VHVplvvddnU?si=xAJoudMi6zRxUpKC)
+  - [Ancient Egyptian Mysteries Found In Christ](https://youtu.be/W6cizMfLIZM?si=8M32nheMRdKIAbnV)
+  - [The Ancient PAGAN Myths Behind the Bible That SHATTERED Scholarship!](https://youtu.be/vkq2vYuDYyE?si=_HuWk5lCdGEHDe3h)
+  - [The Great Big Pseudoarcheology Debunk (Graham Hancock, Dan Richards, Jimmy Corsetti)](https://youtu.be/JK4Fo6m9C9M?si=mQ6E6599iK3AJ41x)
+  - [Paul's Letters: Real History or Roman Fiction?](https://youtu.be/YYQKui_H3_E?si=LPkXb0qfmwI8v4dH)
+  - [Jesus' Dionysian ORIGINS WIll BLOW YOUR MIND! | Documentary](https://youtu.be/B9XDf1YrKqc?si=Bk36NZi7GcD8_1NO)
+  - [The Gospels Do Imitate Homer | Dr. Karl Olav Sandnes & Dr. Dennis R MacDonald Expose the Truth!](https://youtu.be/k10ko-D0Dwk?si=a5EoNdNKA9S0fdYz)
+  - [James F. McGrath FACT-CHECKS William Lane Craig & Sean McDowell – And It’s NOT Looking Good!](https://youtu.be/0M22fva7BGA?si=IObwo_uEOh-YnM-L)
+  - [Dead Sea Scrolls: What Apologists Hope You'll Never Find Out (feat. Dr James Tabor)](https://youtu.be/FK9a8TPFYdQ?si=bD6DVbUZ3thi7-Af)
+  - [The Apostle Paul: A Fabricated Figure of Early Christianity?](https://www.youtube.com/live/sdor4nEVYSA?si=kvQTdrXh6PmDUF9k)
+  - [Richard Carrier: Acts as Historical Fiction](https://youtu.be/B5MUUP4l6l4?si=PgPbD-04W3lk0-FN)
+  - [Jesus & the Translation Fable: The TRUTH is right in front of your eyes](https://www.youtube.com/live/pZ2JnnS9Scw?si=Tyl9aKY4u0PGteec)
+
+### The Argument from Biblical Confusion
+
+- [The Argument from Biblical Confusion](https://youtu.be/kOKXv28GdD0?si=xDACiJzfOQFDOPXQ)
+  - [The Arguments from Confusion and Biblical Defects](https://infidels.org/library/modern/the-arguments-from-confusion-and-biblical-defects/)
+  - [Opening Statement: The Arguments from Nonbelief and Confusion for the Nonexistence of God](https://infidels.org/library/modern/opening-statement-the-arguments-from-nonbelief-and-confusion-for-the-nonexistence-of-god/)
+
+## Cultural, Scientific, and Broad Critiques of Religion
+
+### Refuting Classical Theism
+
+- Refuting Classical Theism
+  - [Why the moral argument for God's existence fails](https://youtu.be/KDoH0yJAffA?si=NACr3hdjfdYiHAsJ)
+  - [Reviewing the William Lane Craig & Scott Clifton on Discussion the Kalam](https://www.youtube.com/live/BBH4ukqx2vA?si=czxR2llFuAackwAD)
+  - [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=uHq2TWCBd5_5HOTq)
+  - [RA018: Scott Davison on Petitionary Prayer](https://youtu.be/F3wZEZ07Emk?si=E4Eieo7MWx--L7ny)
+  - [RA013: Quentin Smith on Natural Evils and Immaterial Minds](https://youtu.be/mvkghIrF7XY?si=fJzL9bJq1DLtu7tV)
+  - [RA012: Interview: Felipe Leon on Ex Nihilo Creation](https://youtu.be/C2lMs7NIuAI?si=5ASYP5kC5rAm9iib)
+  - [God and the Physical Dependency of Minds; An Interview with Ben Watkins](https://youtu.be/POUP99Nb-rE?si=TiDiHYI_JFpiUcxo)
+  - [What makes a good prophecy?: Responding to more Christian Apologetics nonense](https://www.youtube.com/live/B2NdxknK5V0?si=Bv3e6Ky8pTwfjJLp)
+  - [RA009: Interview: Wes Morriston on Moral Freedom and The Moral Argument](https://youtu.be/af7MYYwuA_c?si=edFiqn_Beu_GqUC7)
+  - [RA041: Joe Campbell on David Hume's Refutation of the Cosmological Argument](https://youtu.be/B6vnJNVh02Q?si=9ZEzUWsqJCyd9-2n)
+  - [RA35: Andrew Pavelich on the Moral Problem with the Free Will Defense](https://youtu.be/mZ3Mv7cgdnI?si=wVFdU2h-Ucb-T2xJ)
+  - [An Argument from Religious Disagreement. (Justin Schieber on Apologetics Academy)](https://youtu.be/q4vCTAI-H28?si=_9m4WAFgVBEcWzrU)
+  - [William Lane Craig responds to me (and makes even more mistakes)](https://youtu.be/CZJVe-cadr4?si=RsBqidxaOpknWe3S)
+  - [Copleston Russell Debate](https://en.wikipedia.org/wiki/Copleston%E2%80%93Russell_debate)
+  - [Why Theism can't Explain Anything - Reviewing another Capturing Christianity Video](https://www.youtube.com/live/7hA8hHgbI3w?si=rer18dxEO5qZpl4e)
+  - [A Critique of Substance Dualism - Responding to @faithbecauseofreason8381](https://www.youtube.com/live/9COVx5pwQUw?si=6opTMTW-TjSFMeZt)
+
+### Science Based Explanations of Religion and Cultural / Pragmatic Arguments
+
+- Science Based Explanations of Religion & Cultural / Pragmatic Arguments
+  - ["Western Values Are Based On Judeo-Christian Values"](https://youtu.be/1GjFH8vZjyw?si=B0eZXieii8FgnDUo)
+  - [Christianity's Dirty Secret - Why Conservatives Lose Their Faith In Seminary](https://youtu.be/3VV_Rj4P6jo?si=iRhSagpiqqr4uEYN)
+  - [Cultural Evolution Disproves the God of the Bible](https://youtu.be/EbzbqUKg4s4?si=UX1zIwf4bKX6PTtz)
+  - [Why Christianity Checks Every Box of a Death Cult | You Were Raised in This](https://youtu.be/NRZYlDFzGb8?si=v1gHGbix57I8xg03)
+  - [The Church is One Big Cosplay—And No One Wants to Admit It](https://youtu.be/XNGKjsy1QG4?si=XGcwlYycygC8voOx)
+  - [Is Religion Killing Your Brain?](https://youtu.be/4caG3evzv50?si=jJGzUPFAS0mcqjIW)
+  - [The God of Ignorance: Why Religion Doesn’t Want You to Grow Up](https://youtu.be/wVryuRd4fBE?si=KWNENVUrRpI2OLAL)
+  - [What Happened When Christianity Came to Power Last Time](https://youtu.be/d3ZTVaThZC8?si=7SyisfafUOiNryXi)
+  - [The Man Behind the Curtain: How We Created God](https://youtu.be/TBLf4LZTrsI?si=gg078UYxtgejZTKX)
+  - [The Co-Evolution of Religion and Humans](https://youtu.be/_IVnrdl-qno?si=SWb1akmTcqsS1zQv)
+  - [When Debate Becomes Disaster | Jordan Peterson vs. 20 Atheists](https://youtu.be/rfaAKgwA0qk?si=boGEQn0nSzht5OPr)
+  - [Jordan Peterson vs Danny, Danny reacts with the SciPhi Show, Episode 19](https://youtu.be/PnOqkaEXeNo?si=9Mea5jXPRAGrDpA_)
+  - [Jordan Peterson: What Went Wrong?](https://youtu.be/H16GBjvB3D4?si=Q15Kxb6sy7ZpAXkB)
