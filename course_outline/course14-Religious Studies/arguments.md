@@ -13,6 +13,8 @@
 - [Epistemology, Language, and Skeptical Challenges](#epistemology-language-and-skeptical-challenges)
 - [Christianity-Specific Historical and Evidential Critiques](#christianity-specific-historical-and-evidential-critiques)
 - [Cultural, Scientific, and Broad Critiques of Religion](#cultural-scientific-and-broad-critiques-of-religion)
+- [Video and Media Resources](#video-and-media-resources)
+
 
 ## Starting Points and Collections
 
@@ -442,6 +444,7 @@ These are broad collections, channels, and survey resources that cover many argu
   - [Psychic Phenomena](https://www.qcc.cuny.edu/socialsciences/ppecorino/phil_of_religion_text/CHAPTER_5_ARGUMENTS_EXPERIENCE/Psychic_phenomena.htm)
   - [Strengths and Weaknesses](https://philosophydungeon.weebly.com/strengths--weaknesses.html)
   - [The Experience of God: Being, Consciousness, Bliss](https://whyevolutionistrue.com/2014/01/13/unequivocal-evidence-for-god-i-dont-think-so/)
+- [10 Experiential Arguments for God: An Analysis](https://youtu.be/WpbX0hMBxl8)
 
 ## Problems for Theism: Evil, Suffering, Hiddenness, and Divine Attributes
 
@@ -616,6 +619,9 @@ These are broad collections, channels, and survey resources that cover many argu
   - [Episode 37, Religious Language (Part I – The Via Negativa)](https://youtu.be/iwxZtayn1v0?si=DMwCftlXImv4oojB)
   - [Episode 37, Religious Language (Part II – Thomas Aquinas and Ludwig Wittgenstein)](https://youtu.be/_aZjn9Ua5Pw?si=PQ22N8VyieofWLmX)
   - [Episode 37, Religious Language (Part III - The Verification and Falsification Principles)](https://youtu.be/ZDR6DFj68ms?si=eEiGY3cMy1UAUX93)
+  - [Episode 37, Religious Language (Part IV – Further Analysis and Discussion)](https://youtu.be/XyEejHUIZec?si=qmh9bnx3CDyR_Bdr)
+- [The Incoherence of God (pt. II & III)](https://youtu.be/sOhVvkj7caw)
+- [The Incoherence of God (pt. I)](https://youtu.be/ma19odyoDsM)
 
 ## Christianity-Specific Historical and Evidential Critiques
 
@@ -749,3 +755,165 @@ These are broad collections, channels, and survey resources that cover many argu
   - [When Debate Becomes Disaster | Jordan Peterson vs. 20 Atheists](https://youtu.be/rfaAKgwA0qk?si=boGEQn0nSzht5OPr)
   - [Jordan Peterson vs Danny, Danny reacts with the SciPhi Show, Episode 19](https://youtu.be/PnOqkaEXeNo?si=9Mea5jXPRAGrDpA_)
   - [Jordan Peterson: What Went Wrong?](https://youtu.be/H16GBjvB3D4?si=Q15Kxb6sy7ZpAXkB)
+
+## Video and Media Resources
+
+### Philosophy of Religion, God, and Metaphysics
+
+- [Graham Oppy Defending Naturalism](https://youtu.be/mkp1QABbXnI)
+- [Dr. Graham Oppy on Defending Naturalism](https://youtu.be/mkp1QABbXnI?si=fbD6v8JYt9AH7dYZ)
+- [WLC vs Sean Carroll](https://youtu.be/-y-IbL-yLkk)
+- [Richard Rorty: Is Religion Compatible with Science?](https://youtu.be/fn2F2BWLZ0Q)
+- [No, science doesn’t show the universe began to exist | Dr. Daniel Linford](https://youtu.be/35tICdYtHsQ)
+- [Physicists & Philosophers reply to the Kalam Cosmological Argument featuring Penrose, Hawking, Guth](https://youtu.be/pGKe6YzHiME)
+- [Kalam Cosmological Argument 2. Physicists and Philosophers strike back](https://youtu.be/femxJFszbo8)
+- [Physicists & Philosophers critique The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M)
+- [The Fine Tuning Argument: the critics strike back](https://youtu.be/zNH-ZgSpBuQ)
+- [Existential Inertia vs. Feser’s 5 Proofs for God’s Existence - w/Joe Schmid - ep. 216](https://youtu.be/k3Q074g6xSc)
+- [Divine Foreknowledge and Human Freedom | Dr. Taylor Cyr and Sean Clements](https://youtu.be/2eo6ZwZ0c5U)
+- [Moral Arguments for God: An Analysis](https://youtu.be/cFEjSzfEQrU)
+- [5 Mistakes Atheists Make About Epistemology](https://youtu.be/4dalQu-vdMU)
+- [Properly Basic Beliefs: a discussion between theists & atheists](https://youtu.be/ya9DReyiNrs)
+- [Reformed Epistemology - Is belief in God properly basic?](https://youtu.be/owxgh-GcYIA)
+- [Non-theism, classical theism, common theism and atheism w/ Paul Vanderklay - Voices with Vervaeke](https://youtu.be/KWfpFov_AGU)
+- [No God but Spinoza’s: Spiritual and Philosophical Influences on Einstein’s Thought](https://youtu.be/5aNodVyDHYU)
+- [Episode 13, Paul Draper, On Arguments for Atheism](https://youtu.be/Ur6gxT6bQZQ)
+- [Paul Draper’s Case for Naturalism](https://youtu.be/m7kKLp131BY?si=YvjmSUXaXQvCRJQT)
+- [Do We Need God to Explain Reality? | Dr. Graham Oppy](https://youtu.be/9IrJQt46BtA?si=hnDRwo_EpRW8lk9-)
+- [Is There Evidence for God? | William Lane Craig & Kevin Scharp at Ohio State University](https://youtu.be/8KMd_eS2J7o)
+- [Iain McGilchrist & John Vervaeke: God, Being, Meaning](https://youtu.be/XzT4tcC-aag)
+- [PROF AC GRAYLING "PROVING ATHEISM"](https://youtu.be/vsWJ-evms4s)
+- [Does Hell Make Any Sense?](https://youtu.be/ujZU0EwsPVw)
+- [Closer To Truth - Big Questions in Free Will](https://youtu.be/9uRTjfhIf4M)
+- [Can Free Will Survive God’s Foreknowledge?](https://youtu.be/0bEBFdTfHbg)
+- [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=nMXcBo60F3oTARKp)
+
+### Ancient Philosophy, Neoplatonism, and Related Traditions
+
+- [What is Neoplatonism?](https://youtu.be/vZEUo_sHoBw)
+- [Neoplatonism and Christianity](https://youtu.be/wA5Vnoa2GuY)
+- [Plato and Christianity](https://www.youtube.com/live/VLk6sdjAoAo?feature=share)
+- [Neoplatonism and the Transition to Christianity by Leonard Peikoff, part 24 of 50](https://youtu.be/TWy0DsIHnWI)
+- [Neoplatonism in Islamic Thought](https://youtu.be/VDfJSbPtAEI)
+- [Kierkegaard's Christian Existentialism](https://youtu.be/SMJc9UMzFSE)
+- [Episode 8, Jay Garfield On Nāgārjuna and Emptiness](https://youtu.be/W6mgjmouZ7I)
+- [What is Hermeticism?](https://youtu.be/COYJi9CKrGI?si=QM0f9ldKUoDUVZkB)
+
+### Biblical Criticism, Hebrew Bible, and Ancient Israel
+
+- [Meet The Real God of The Bible | Francesca Stavrakopoulou PhD](https://www.youtube.com/live/dMQciYeDHU0?feature=share)
+- [Judaism In Jesus' Day | Prof Yonatan Adler](https://www.youtube.com/live/KGMXVRjfPW8?feature=share)
+- [Who Wrote Genesis?](https://www.youtube.com/live/M5JNJIrfI4w?feature=share)
+- [Before God Was God](https://www.youtube.com/live/2kaauBP9_Dg?feature=share)
+- [Who Wrote the Bible? The Documentary Hypothesis](https://youtu.be/tpUhXfSToFA)
+- [Paganism in the Bible](https://www.youtube.com/live/o6DDnAjWEsc?feature=share)
+- [The Monumental Impact of Ancient Egypt on the Bible](https://youtu.be/5K5-HYGyPpQ)
+- [How YAHWEH Became GOD | FULL DOCUMENTARY](https://youtu.be/qXx632Pb5lc?si=A9HNTvWa2zOklIDf)
+- [The Historical EVIDENCE of The EXODUS | Critical Scholarship REVEALED | MythVision Documentary](https://youtu.be/t6LAxhAI8Jc?si=3_DuyapoCqN4zFPC)
+- [Why The Bible Began | SHOCKING Evidence](https://youtu.be/60mDWLRIAU4?si=xoIpBbZGeVIOJ7rx)
+- [What Does the Bible Say about Abortion?](https://youtu.be/Agy88gCk1K0?si=dsGYTPCz2VnGLRzX)
+
+### New Testament, Gospels, and Early Christianity
+
+- [Is New Testament Greek Literature?](https://youtu.be/PMsvMKsDt4s)
+- [Bart Ehrman debates Peter J Williams, are the Gospels Historically Reliable?](https://youtu.be/foLI3KGbMnk)
+- [Bart Ehrman vs. Mike Licona 2009 Debate](https://youtu.be/-iE6YX9O5tE)
+- [What is Christianity? Ehrman-Harris Podcast](https://youtu.be/03Aiqz0xA1I)
+- [Is Jesus A Man, Myth or Legend? (Discussion with Dr. Robert M. Price)](https://youtu.be/cyBBrj_XfjU)
+- [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://youtu.be/WRHjZCKRIu4)
+- [Bart Ehrman & Justin Bass • Did Jesus of Nazareth rise from the dead?](https://youtu.be/LVUQAVQS1-U)
+- [Did Jesus Even Claim to be God? Bart Ehrman Says No...](https://youtu.be/2STiabRV8TE)
+- [Jesus and the Cynics](https://www.youtube.com/live/55GLIlkp0f4?feature=share)
+- [How the New Testament Was CREATED | Bart Ehrman and James Tabor](https://youtu.be/XS4UrErMGBQ?si=dfphDwb_3Wta1PdD)
+- [The Gospels Are Not Histories | Dr. Richard C Miller](https://youtu.be/BQm08MZS5Rs?si=lTljw8Q67xfdgVdS)
+- [Fancy Fiction: Comparing the Bible to the Great Works of Literature!](https://youtu.be/XWGaS3m1He0?si=fiYlsD_mI-Etqgwj)
+- [GROUNDBREAKING Discovery on the REAL Dates of the Gospels](https://youtu.be/dOznZncdlCY?si=3Zd65BLnl6igfVOo)
+- [Early Christianity Was NOTHING Like You Were Taught!](https://youtu.be/MsBz9ZrVK6E?si=ocKDUVv00FDJKq7x)
+
+### Resurrection, Jesus, and Pagan Parallels
+
+- [Jesus is Dead: Failure of Resurrection Apologetics](https://www.youtube.com/live/MXvTVbQHhBI?feature=share)
+- [Did Christianity Steal the Resurrection Story from Ancient Egypt? | Osiris vs Jesus](https://www.youtube.com/live/NjFntgLe92I?feature=share)
+- [The Resurrection in its Ancient Mythic Context](https://www.youtube.com/live/_vP9JfZsexQ?feature=share)
+- [Apollonius of Tyana](https://youtu.be/TSkla4EsvwA)
+- [Are There Pagan Parallels To Jesus? YES CHRISTIAN APOLOGISTS | Dr. Richard C. Miller](https://www.youtube.com/live/yhhsObl8fsQ?feature=share)
+- [Debate: Did Jesus Rise Bodily from the Dead? (Arif Ahmed vs Gary Habermas)](https://youtu.be/Mg7rYJxHA4Y?si=meFx8xl4tjnuymPx)
+- [Christianity DISPROVED in Somewhat More than 5 minutes - Responding to Habermas on the Resurrection](https://www.youtube.com/live/51the05KMik?si=GBpH3GHjrhSYnZZw)
+- [Somehow, the Minimal Facts Argument Got Worse](https://www.youtube.com/live/DHIGMOYJscU?si=6ISZbsIGXUBUSdUk)
+- [The Jesus Hoax with Dr. David Skrbina](https://youtu.be/XMqvP2m1Dqs?si=8yBMhusdkCPnYYjW)
+- [Ancient Resurrections LONG BEFORE Christ | 4k Documentary](https://youtu.be/LUCm1AqnQVw?si=8VkKbCavnvkrwdYX)
+
+### Myth, Ancient Religion, and Comparative Context
+
+- [Creation Myths in the Ancient World](https://youtu.be/sBlRhfxrFZk)
+- [Mars, Romulus, & The Founding of Rome (Roman Mythology Explained)](https://youtu.be/t5818NkeFd0)
+- [The STRANGE Origins of the Apocalypse](https://youtu.be/JCgePdjCthM)
+- [How God Becomes Real | Anthropology of Faith](https://youtu.be/MpXOEmqbRYs)
+
+### Religion, Science, Psychology, and Anthropology
+
+- [Paul Bloom - There Is Nothing Special About Religion](https://youtu.be/ttSULfIoWHU)
+- [Jared Diamond in conversation with Richard Dawkins - The Use of Religion](https://youtu.be/8rAY5P03EdU)
+- [Sam Harris — The Moral Landscape: How Science Can Determine Human Values](https://youtu.be/nU0FeV3wj44)
+- [The Believing Brain: Evolution, Neuroscience, and the Spiritual Instinct](https://youtu.be/p0_-7FmrDq8)
+- [Why We Believe in Gods - Andy Thomson - American Atheists 09](https://youtu.be/1iMmvu9eMrg?si=_M67aojogtAEQBri)
+- [How religion evolved and why it endures, with Robin Dunbar | Humanists UK Convention 2023](https://youtu.be/dfAXx6CELPg?si=5f8f9cSP2UedBxfj)
+- [Wild and Domesticated Religions: How the Machinery of Religion Evolved](https://youtu.be/Qo4V7PsX4qU?si=hd-bdfE45iA2ESyG)
+
+### Cognitive Science of Religion and Related Research
+
+- [#28 Edward Slingerland: The Cognitive Science of Religion, And What Science Offers the Humanities](https://youtu.be/zZ3h00-huR4?si=6a2M-d1CHgpQsxsq)
+- [#154 Robert McCauley: Cognitive Science of Religion, Culture, Cognition, Evolution, and Ritual](https://youtu.be/MPkj12JxxcY?si=X41cKLocLp-mlODE)
+- [#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars](https://youtu.be/mjWveAPPoSk?si=XO8e11Z7tw_4hWsC)
+- [#180 Joseph Bulbulia: Religion, Cognition, Ritual, Morality, And Meaning](https://youtu.be/Wy0baOach30?si=OWSVfQ4kIZfb5XBT)
+- [#435 Christopher Kavanagh: Religion, Rituals, Belief in Japanese Society, and WEIRD Psychology](https://youtu.be/NZezY2aYAZo?si=zdPsIV-Tef-OShBm)
+- [#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music](https://youtu.be/Ijf8cNBgztA?si=JggK5dmX30Tt-Qac)
+- [#472 Aiyana Koka Willard: Religion, Cognition, Culture, and Human Universals](https://youtu.be/ppcQ4bAerjg?si=3QUWb5ABK4jb5XSy)
+- [#722 Martin Lang: Rituals, Synchrony, Moralizing Gods, and the Study of Religion](https://youtu.be/oy3iYNtlNDc?si=9YU4AEPTzPOHrucA)
+- [#179 Justin Barrett: Cognition And Development In Religion](https://youtu.be/GaFeBTv37ag?si=RCziTfNpA1SHfLG1)
+- [#1045 Will Gervais - Disbelief: The Origins of Atheism in a Religious Species](https://youtu.be/9ApKqrvjx68?si=aitVAhyHN5xQDM2b)
+- [#1012 Lance Grande - The Evolution of Religions: A History of Related Traditions](https://youtu.be/6WgbS4yo0vA?si=FPwULh1586FCVZ4l)
+- [#1010 Michael Price: The Biocultural Evolution of Religion, and Universal Darwinism](https://youtu.be/xfF_axuekjI?si=PKrUO6Saz67ESIQ_)
+- [#865 Neil Van Leeuwen - Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity](https://youtu.be/2c17EHUaIBk?si=Y46IHkdpnvQ5xANo)
+- [#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience: Decentering and the Self](https://youtu.be/Iwj4KOYH954?si=x37lIqMyvlwYqDFL)
+- [#989 Robert Vinten: Wittgenstein and the Cognitive Science of Religion](https://youtu.be/nodv3cQO-os?si=pTX9cU6zrSIneG_2)
+- [#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories](https://youtu.be/4i5S4Lnm1qs?si=-2M1oOEfnSEmxJsD)
+- [#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion](https://youtu.be/SnBRgXMHXtg?si=qfKd2POwJY21JgZm)
+- [#1103 Paul Seabright - The Divine Economy: How Religions Compete for Wealth, Power, and People](https://youtu.be/BxWdO7V37H0?si=OcEPH2N1q_M8xlVJ)
+- [#140 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists](https://youtu.be/gDfSMv2BHzg?si=nT6tC4gRvGhd9KTq)
+
+### Morality, Cognition, and Psychology
+
+- [#795 Owen Flanagan - The Geography of Morals: Varieties of Moral Possibility](https://youtu.be/1jEyXTmzdzM)
+- [#794 Oriel FeldmanHall: The Social Neuroscience of Moral Decision-Making](https://youtu.be/-QkULG7EEFw)
+- [#471 Darcia Narvaez: Moral Development, and Flourishing](https://youtu.be/2KdwnOMCYN0)
+- [#395 Lisa Bortolotti: The Epistemic Innocence of Irrational Beliefs](https://youtu.be/v13m30R_xbY)
+- [#798 Onurcan Yilmaz: Cognitive Styles, Politics, Morality, and Religion](https://youtu.be/43mXDBXLNYw)
+- [#786 Vassilis Saroglou: The Psychological Traits of Religious People](https://youtu.be/m9_zwC7pdTo)
+
+### Miracles, Religious Experience, and Afterlife Claims
+
+- [1. Arif Ahmed, On Miracles](https://youtu.be/xQ9Z92ldW-U)
+- [72. Arif Ahmed | Religion, Decision Theory](https://youtu.be/EKtm_kb8PkU?si=I1b-npwbJ0hBVtAd)
+- [RELIGIOUS EXPERIENCES (A LEVEL RELIGIOUS STUDIES)](https://youtu.be/CEPXRxszswA?si=UOokO_nC3dgdaJk4)
+- [Dead as a Doornail: Can Near Death or Out of Body Experiences Prove the Existence of an Afterlife?](https://youtu.be/RaJBiRlBOKY?si=3jpQqjebPLbRvYDd)
+- [More Near-Death Delusions and Christian Nonsense](https://www.youtube.com/live/6g6BqbAQyT0?si=SRGW2jrqKMRLf17p)
+
+### Atheism, Agnosticism, and Public Critique
+
+- [Satanic Child Abuse Claims are based on False Memories](https://youtu.be/zSbcb3_QgsQ)
+- [Yaron Brook Show: Being an Atheist](https://www.youtube.com/live/NJ6kG8OStbs?feature=share)
+- [Why Am I Agnostic?](https://youtu.be/YTsSW7UeZpY)
+- [Deconstructing Jordan Peterson on Religion](https://youtu.be/5-yQVlHo4JA)
+- ['Morality: From the Heavens or From Nature?' by Dr. Andy Thomson, AAI 2009](https://youtu.be/jnXmDaI8IEo?si=HSr9yYUFTXPEh-52)
+
+### Christianity, Ethics, and Society
+
+- [Living Well in the Light of Death | N.T. Wright and Shelly Kagan at Yale](https://youtu.be/c4uEEpd3vEc)
+- [Is God Necessary for Morality? | William Lane Craig & Shelly Kagan at Columbia University](https://youtu.be/Rm2wShHJ2iA)
+- [Paranoid Protestants | Seventh-day Adventists](https://youtu.be/hEEIyg_J2g0?si=XF3S0WqVRKwk02v9)
+
+### Literary and Mythic Criticism of Christian Texts
+
+- [Solid Evidence The New Testament Is Imitating Homers Odyssey!](https://youtu.be/pMf40mX9w_k?si=uqi_NFoZ-CuT50IZ)
+- [How We KNOW The Gospels Are LOADED With Fable, Myth, Legend!](https://www.youtube.com/live/a5UWjV1TMzc?si=qsLOzNmvfsY-gs1o)
