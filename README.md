@@ -1,45 +1,57 @@
 # Become a [Critical Thinker](https://en.wikipedia.org/wiki/Category:Critical_thinking)
 
-```
-|Traits
-| - Analyzing
-| - Conceptualizing
-| - Defining
-| - examining
-| - Inferring
-| - listening
-| - Questioning
-| - Reasoning
-| - Synthesizing
-| - Interpreting
-| - Validating & Verifying
-| - explores options & tradeoffs
-| - Evaluating Information
-| - Seeks to widen perspective
-| - Doubts or suspends judgment
-| - identifies assumptions
-| - Tolerance of ambiguity
-| - Assessing criteria and methods
-| - Preferring to be aware of ones own ignorance
-|
-| -- These Traits Help Us
-| --- Refine our thought processes
-| --- To Think and Assess our own thoughts comprehensively
-| --- To help us think about our thinking
-| --- while identifying flaws and biases in the processes generating our conclusions
-| --- To help us identify & reject false ideas/ideologies
-| --- So that if a belief is unfounded, we can appropriately change our position
-| --- preferring answers that are evidence based
-|
-|Traits to Avoid
-| - Lack of respect for reason
-| - Intellectual Arrogance
-| - Unwillingness to listen
-| - Intellectual Laziness
-| - Lack of respect for Evidence
-| - Black and White thinking
-| - intolerance of ambiguity (leaping to flawed conclusions because you cant tolerate indefinite answers)
-```
+## Traits of Critical Thinkers
+
+Critical thinking is more than skepticism or intelligence. It is a disciplined way of approaching ideas, evidence, assumptions, and conclusions. It asks us not only *what* we think, but *how* we came to think it.
+
+Critical thinkers tend to practice:
+
+- Analyzing ideas and arguments carefully
+- Conceptualizing and organizing complex information
+- Defining terms clearly
+- Examining claims, evidence, and reasoning
+- Inferring cautiously from available facts
+- Listening closely and charitably
+- Asking thoughtful questions
+- Reasoning in a structured way
+- Synthesizing information from multiple sources
+- Interpreting meaning in context
+- Validating and verifying conclusions
+- Exploring alternatives, options, and tradeoffs
+- Evaluating the quality of information
+- Widening perspective rather than narrowing it too early
+- Suspending judgment when the evidence is incomplete
+- Identifying hidden assumptions
+- Tolerating ambiguity and uncertainty
+- Assessing the criteria and methods used to reach conclusions
+- Remaining aware of the limits of one’s own knowledge
+
+## What These Traits Help Us Do
+
+These habits strengthen our ability to think well and examine our own thinking honestly. They help us:
+
+- Refine our thought processes
+- Assess our own beliefs and conclusions more carefully
+- Think about our thinking in a deliberate way
+- Notice flaws, blind spots, and biases in our reasoning
+- Recognize and reject weak, misleading, or false ideas
+- Revise our views when a belief is unsupported
+- Prefer conclusions grounded in evidence over convenience, loyalty, or impulse
+
+## Traits to Guard Against
+
+Critical thinking also requires resisting habits that distort judgment. These include:
+
+- Disrespect for reason
+- Intellectual arrogance
+- Unwillingness to listen
+- Intellectual laziness
+- Disregard for evidence
+- Black-and-white thinking
+- Intolerance of ambiguity
+- Jumping to conclusions because uncertainty feels uncomfortable
+
+At its core, critical thinking is a commitment to clarity, honesty, humility, and evidence. It is the practice of pursuing better understanding, even when doing so challenges our assumptions or changes our minds.
 
 ## Great Introductory Explorations
 
