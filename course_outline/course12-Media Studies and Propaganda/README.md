@@ -1,4 +1,4 @@
-# Course overview: Media Studies, Propaganda & Critical Thinking (with Computational + Participatory Disinformation)
+# Course overview: Media Studies, Propaganda & Critical Thinking
 
 ---
 
