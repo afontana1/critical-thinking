@@ -1,609 +1,504 @@
-# Systems Thinking Unit  
-This unit sits **after Analytical Thinking** and **before Model Thinking**.  
-It is **conceptual**, not math-heavy, and is meant to help learners **see the world through a systems lens**.
+# Course Overview: Systems Thinking – From Parts to Wholes, Feedback, and Emergence
+
+**Big question:**
+How do systems produce patterns of behavior over time, why do interventions so often generate unintended consequences, and how can a systems lens help us understand, analyze, and redesign complex situations more intelligently?
+
+**By the end, students should be able to:**
+
+* Explain why **systems thinking** is needed in addition to analytical thinking, especially when reductionist approaches miss interaction effects, delays, and unintended consequences.
+* Define a **system** in terms of elements, interconnections, and patterns of behavior over time.
+* Distinguish between **reductionist** and **holistic** approaches to understanding real-world problems.
+* Use core systems concepts such as **stocks, flows, feedback loops, delays, boundaries, and leverage points** in qualitative analysis.
+* Recognize major ideas from **systems science** and **general systems theory**, including homeostasis, emergence, self-organization, and open vs. closed systems.
+* Analyze situations as systems using conceptual tools such as **causal loop diagrams**, **behavior-over-time graphs**, and structural rather than blame-based explanations.
+* Think about **system design and redesign** in terms of goals, incentives, information flows, rules, norms, and ethics.
+* Identify common **system archetypes** and use them as diagnostic hypotheses rather than rigid labels.
+* Understand the basic intuition behind **system dynamics**, especially how feedback and delays generate growth, oscillation, overshoot, and collapse.
+* Distinguish **complicated** systems from **complex** systems and explain concepts such as adaptation, coevolution, networks, and cascades.
+* Recognize how **systems engineering** applies systems thinking in disciplined, mission-oriented, socio-technical settings.
+* Integrate a systems lens into everyday reasoning and prepare for the transition from qualitative systems stories to more explicit **model thinking**.
 
 ---
 
-## Overall Flow of the Unit
+## Unit 1 – From Parts to Wholes: Why Systems?
 
-1. **From Parts to Wholes** – What systems are, why reductionism breaks down.  
-2. **Systems Thinking** – Feedback, stocks/flows, boundaries, leverage.  
-3. **Systems Science / Theory** – General principles across domains.  
-4. **Systems Analysis** – Looking at situations as systems (without heavy math).  
-5. **System Design** – Designing and redesigning systems intentionally.  
-6. **System Archetypes** – Recurring patterns of failure/success.  
-7. **System Dynamics (Conceptual)** – Behavior over time, feedback, delays.  
-8. **Complex Systems** – Emergence, adaptation, networks.  
-9. **Systems Engineering** – Systems thinking as disciplined practice.  
-10. **Integrating the Systems Lens** – Wrap-up, bridge to model thinking.
+**Guiding questions**
 
----
+* Why does reductionism often fail in complex real-world situations?
+* What makes a system more than just a collection of parts?
+* How does seeing wholes and interactions change the way we understand problems?
 
-## 1. From Parts to Wholes: Why Systems?
+**Sub-units**
 
-### Goals
+1. **Reductionism vs. holism**
 
-- Bridge from analytical thinking (“take apart”) to systems thinking (“see interactions”).
-- Show when reductionism fails: unintended consequences, policy resistance, “whack-a-mole” problems.
-- Give memorable examples (traffic, healthcare, social media, climate, personal habits).
+   * Analytical thinking often isolates variables and breaks problems into parts.
+   * Systems thinking asks what those parts are embedded in, and how their interactions shape outcomes.
+   * This unit creates the bridge from “take apart” reasoning to “see interactions” reasoning.
 
-### Subsections
+2. **What a system is**
 
-#### 1.1 Reductionism vs. Holism
+   * A system can be understood as a set of elements, connected in such a way that they produce a pattern of behavior over time.
+   * Emphasize elements, interconnections, and purpose or behavior.
+   * Stress that the actual purpose of a system is often revealed by what it does, not what it claims to do.
 
-- Core idea: Analytical thinking isolates variables; systems thinking asks, *“What is this part embedded in?”*
-- Example: treating symptoms vs. addressing root causes in health or organizations.
-- Link to later topics: motivates the need for **feedback**, **archetypes**, and **design**.
+3. **Why reductionism breaks down**
 
-#### 1.2 What is a System?
+   * Many important problems involve unintended consequences, policy resistance, and “whack-a-mole” dynamics.
+   * Local fixes can worsen broader system behavior.
+   * This motivates later work on feedback, leverage, and archetypes.
 
-- Working definition: *A system is a set of elements, connected in such a way that they produce a pattern of behavior over time.*
-- Highlight:
-  - **Elements** (people, parts, resources)
-  - **Interconnections** (relationships, flows, rules)
-  - **Purpose/behavior** (what the system actually does over time)
-- Emphasize: “The purpose of a system is what it *does*,” not what it says on the box.
+4. **Seeing systems in everyday life**
 
-#### 1.3 Seeing Systems in Everyday Life
+   * Systems can be identified at multiple scales:
 
-- Micro: morning routines, personal finance, productivity.
-- Meso: teams, departments, product launches.
-- Macro: economies, ecosystems, platforms.
-- Possible activity: ask learners to list **3 systems** they are part of daily and how those systems shape their behavior.
+     * personal routines and habits
+     * teams and organizations
+     * economies, ecosystems, and digital platforms
+   * Learners begin to practice seeing systems as part of ordinary life rather than as an abstract theory.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Donella H. Meadows – *Thinking in Systems: A Primer* (Introduction + Chapter 1: “The Systems Lens”).
-- **Supplement**
-  - Peter Senge – *The Fifth Discipline: The Art & Practice of the Learning Organization* (intro + sections on systems thinking as the “fifth discipline”).
-- **More resources**
-  - Jamshid Gharajedaghi – *Systems Thinking: Managing Chaos and Complexity* (broad, conceptual overview of systemic thinking in organizations).
+* Donella H. Meadows, *Thinking in Systems: A Primer* (Introduction + Chapter 1: “The Systems Lens”).
+* Peter Senge, *The Fifth Discipline* (intro + sections on systems thinking as the “fifth discipline”).
+* Jamshid Gharajedaghi, *Systems Thinking: Managing Chaos and Complexity*.
 
 ---
 
-## 2. Systems Thinking (as a Habit of Mind)
+## Unit 2 – Systems Thinking as a Habit of Mind
 
-### Goals
+**Guiding questions**
 
-- Build a **conceptual toolbox**: stocks, flows, feedback loops, delays, boundaries, leverage.
-- Emphasize **mental models and framing**: how you draw the system changes what you see.
-- Prepare learners for **archetypes** and **system dynamics**.
+* What conceptual tools make up the basic systems-thinking toolbox?
+* How do stocks, flows, feedback, and delays shape behavior over time?
+* How does the way we draw system boundaries change what we see?
 
-### Subsections
+**Sub-units**
 
-#### 2.1 Stocks and Flows
+1. **Stocks and flows**
 
-- **Stock** = accumulation (water in a bathtub, customers, reputation, skills).
-- **Flow** = rate of change (faucet/drain, new users per day, practice hours).
-- Key insight: behavior is often driven by **accumulation over time**, not isolated events.  
+   * Stocks are accumulations, such as water in a bathtub, customers, trust, or skill.
+   * Flows are rates of change that increase or decrease stocks.
+   * A central systems insight is that many important behaviors are driven by accumulation over time rather than isolated events.
 
-#### 2.2 Feedback Loops (Reinforcing & Balancing)
+2. **Feedback loops**
 
-- **Reinforcing loops** (R):
-  - “The rich get richer,” compounding interest, product virality.
-  - Self-reinforcing growth or decline.
-- **Balancing loops** (B):
-  - Homeostasis: thermostats, regulation, habit patterns that keep things steady.
-- Multiple loops act simultaneously and often in tension.
+   * Reinforcing loops amplify growth or decline.
+   * Balancing loops stabilize, regulate, or counteract change.
+   * Most real systems involve multiple loops operating at once, often in tension.
 
-#### 2.3 Delays and Nonlinearity
+3. **Delays and nonlinearity**
 
-- **Delays**: actions now → results much later (skills building, trust, climate).
-- **Nonlinearity**:
-  - Thresholds: nothing happens, nothing happens… then suddenly a big change.
-  - Diminishing returns and saturation.
-- Many problematic patterns (overshoot, oscillations) arise from **feedback + delays**.
+   * Actions and outcomes are often separated by long delays.
+   * Nonlinearity means effects are not proportional to causes: thresholds, saturation, and sudden shifts matter.
+   * Feedback plus delays often generate overshoot, oscillation, and surprise.
 
-#### 2.4 Boundaries and Levels of System
+4. **Boundaries and levels of system**
 
-- The boundary you draw defines what “counts” in your system.
-- Example: obesity as:
-  - An individual willpower problem,
-  - A food environment problem,
-  - A socioeconomic and policy system problem.
-- Exercise: redraw a simple problem (e.g., “meetings are unproductive”) with a wider boundary.
+   * The boundary chosen for a system determines what counts as relevant.
+   * A problem can often be framed at multiple levels, from individual behavior to environmental and policy structure.
+   * Redrawing boundaries is a key systems-thinking move.
 
-#### 2.5 Leverage Points
+5. **Leverage points**
 
-- Places where a small, well-chosen change can shift overall behavior:
-  - Parameters (subsidies, taxes),
-  - Information flows (what gets measured or seen),
-  - Rules (who can decide what),
-  - Goals & paradigms (what the system is “for”).
-- Preview: will return in **system design** and **policy** discussions.
+   * Some parts of a system are more influential than others.
+   * Leverage may lie in parameters, information flows, rules, goals, or paradigms.
+   * This idea prepares learners for later discussion of design and intervention.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Donella H. Meadows – *Thinking in Systems*, Chapters 2–3 (stocks/flows, feedback, system traps)
-- **Supplement**
-  - Peter Senge – *The Fifth Discipline*, sections on feedback, learning disabilities, and “11 laws of the fifth discipline.”
-- **More resources**
-  - Linda Booth Sweeney & Dennis Meadows – *The Systems Thinking Playbook* (hands-on activities to illustrate feedback and delays). 
+* Donella H. Meadows, *Thinking in Systems*, Chapters 2–3.
+* Peter Senge, *The Fifth Discipline* (sections on feedback, learning disabilities, and “11 laws of the fifth discipline”).
+* Linda Booth Sweeney & Dennis Meadows, *The Systems Thinking Playbook*.
 
 ---
 
-## 3. Systems Science / General Systems Theory
+## Unit 3 – Systems Science and General Systems Theory
 
-### Goals
+**Guiding questions**
 
-- Situate systems thinking in a broader intellectual tradition.
-- Emphasize **general principles** that cut across disciplines: feedback, homeostasis, emergence.
-- Provide just enough history to give conceptual depth, without turning into an academic survey.
+* What is the broader intellectual tradition behind systems thinking?
+* Which principles recur across physical, biological, social, and organizational systems?
+* Why do ideas like emergence, homeostasis, and openness matter across domains?
 
-### Subsections
+**Sub-units**
 
-#### 3.1 A Very Short History of Systems Science
+1. **A short history of systems science**
 
-- General Systems Theory (Ludwig von Bertalanffy) – systems as wholes, not just parts.  
-- Cybernetics (Norbert Wiener, W. Ross Ashby) – control and communication in animals, machines, and organizations.  
-- System dynamics (Jay Forrester, later Sterman and others at MIT).
+   * Introduce General Systems Theory, cybernetics, and system dynamics as major strands.
+   * Situate systems thinking within a broader intellectual movement concerned with wholes, control, communication, and dynamic behavior.
+   * Keep the history brief but conceptually useful.
 
-#### 3.2 Core Principles Across Domains
+2. **General principles across domains**
 
-- **Equifinality** – different paths can lead to similar outcomes.
-- **Homeostasis** – stability through balancing feedback (e.g., body temperature, budgets).
-- **Emergent behavior** – patterns at the whole-system level that can’t be seen by looking only at parts.
-- **Self-organization** – structures/patterns arising without central control.
+   * Equifinality: different paths can produce similar outcomes.
+   * Homeostasis: balancing processes can stabilize systems.
+   * Emergence and self-organization: whole-system patterns cannot always be reduced to the properties of isolated parts.
 
-#### 3.3 Open vs. Closed Systems
+3. **Open vs. closed systems**
 
-- **Closed**: no exchange of matter/energy/information (mostly idealized).
-- **Open**: real-world systems that exchange all three (economies, ecosystems, organizations).
-- Many failures come from treating open systems as if they were closed.
+   * Closed systems are largely idealized.
+   * Real-world systems are open, exchanging matter, energy, and information.
+   * Many analytic failures come from treating open systems as if they were closed and isolated.
 
-#### 3.4 Information and Control
+4. **Information and control**
 
-- Negative feedback as control mechanism (thermostats, autopilot, homeostatic regulation).
-- Information delays, distortion, and missing feedback → oscillations, instability, and policy failure.
-- Sets up **system dynamics** and **complex systems**.
+   * Feedback is a central mechanism of regulation and adaptation.
+   * Distorted, delayed, or missing information can destabilize systems.
+   * These ideas prepare the way for system dynamics and complex systems.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - A general introduction to systems thinking/systems theory, e.g.:
-    - Donella H. Meadows – relevant conceptual sections of *Thinking in Systems* (history + general principles).
-- **More resources**
-  - Ludwig von Bertalanffy – *General System Theory* (classic but more academic).
-  - Norbert Wiener – *Cybernetics: Or Control and Communication in the Animal and the Machine* (selected conceptual chapters).
+* Donella H. Meadows, relevant conceptual sections of *Thinking in Systems*.
+* Ludwig von Bertalanffy, *General System Theory*.
+* Norbert Wiener, *Cybernetics: Or Control and Communication in the Animal and the Machine* (selected conceptual chapters).
 
 ---
 
-## 4. Systems Analysis (without heavy math)
+## Unit 4 – Systems Analysis
 
-### Goals
+**Guiding questions**
 
-- Show learners how to **analyze** situations as systems using simple tools.
-- Provide practical methods: mapping, asking better questions, identifying feedback and delays.
-- Keep it conceptual and visual, not equation-driven.
+* How do we analyze a situation as a system without turning immediately to formal mathematics?
+* What simple visual and conceptual tools help reveal structure?
+* How can systems analysis move us from blame to structural understanding?
 
-### Subsections
+**Sub-units**
 
-#### 4.1 Framing a Problem as a System
+1. **Framing a problem as a system**
 
-- Ask: “What **behavior over time** are we trying to understand or change?”
-- Identify:
-  - Stakeholders,
-  - Key **stocks** (what accumulates),
-  - **Flows** (what changes those stocks),
-  - Existing **goals** and implicit incentives.
+   * Begin with behavior over time rather than isolated events.
+   * Identify stakeholders, key stocks, flows, goals, and incentives.
+   * Systems analysis starts by clarifying what pattern needs explanation.
 
-#### 4.2 Causal Loop Diagrams (CLDs) – Light Version
+2. **Causal loop diagrams**
 
-- Simple symbols: cause → effect, with **R** (reinforcing) and **B** (balancing) labels.
-- Examples:
-  - Procrastination loop (short-term relief vs. long-term stress).
-  - Startup growth vs. burnout (hiring, workload, quality).
-- Emphasize conceptual clarity over diagram aesthetics.
+   * Use simple causal arrows and reinforcing/balancing labels to map relationships.
+   * Treat CLDs as tools for conceptual clarity rather than diagramming virtuosity.
+   * These diagrams help learners make system stories explicit.
 
-#### 4.3 Behavior Over Time Graphs (BOTGs)
+3. **Behavior-over-time graphs**
 
-- Qualitative sketches of trends:
-  - Rising, falling, S-shaped growth, oscillation, overshoot and collapse.
-- Question: “What system structure could produce this pattern?”
-- Bridges directly to **archetypes** and **system dynamics**.
+   * Sketch rising, falling, oscillating, S-shaped, or overshooting patterns.
+   * Ask what structure might produce the observed pattern.
+   * This links visible outcomes to deeper systemic causes.
 
-#### 4.4 Finding Structural Causes vs. Blame
+4. **Structural causes vs. blame**
 
-- Key mindset: “**Structure produces behavior**” more than individual heroics or villainy.  
-- Helps move from blame narratives toward structural interventions.
+   * A systems mindset asks how structure generates behavior.
+   * This shifts analysis away from hero/villain stories and toward recurring conditions and incentives.
+   * It encourages interventions aimed at structures rather than personalities alone.
 
-#### 4.5 Limits of Systems Analysis
+5. **Limits of systems analysis**
 
-- Uncertainty and incomplete data.
-- Risk of overcomplicating (drawing a huge diagram instead of focusing on key loops).
-- Danger of believing your diagram **is** reality.
-- Sets up the idea that **formal models** (next unit) are just **more explicit system stories**, not reality itself.
+   * Systems analysis always involves uncertainty, omission, and simplification.
+   * Overcomplication can become a trap if everything is mapped and nothing is prioritized.
+   * Learners are reminded that a diagram is a representation, not reality itself.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Donella H. Meadows – *Thinking in Systems*, sections on “Why Systems Surprise Us” and “System Traps.” 
-- **Supplement**
-  - Michael Goodman – materials on applying systems thinking and archetypes to organizational issues (e.g., Pegasus/Systems Thinker resources).  
-- **More resources**
-  - Virginia Anderson & Lauren Johnson – *Systems Thinking Basics: From Concepts to Causal Loops* (great for CLDs + BOTGs).
+* Donella H. Meadows, *Thinking in Systems* (sections on “Why Systems Surprise Us” and “System Traps”).
+* Michael Goodman, materials on applying systems thinking and archetypes to organizational issues.
+* Virginia Anderson & Lauren Johnson, *Systems Thinking Basics: From Concepts to Causal Loops*.
 
 ---
 
-## 5. System Design (and Redesign)
+## Unit 5 – System Design and Redesign
 
-### Goals
+**Guiding questions**
 
-- Help learners think about **changing** systems, not just diagnosing them.
-- Introduce design principles: alignment of goals, incentives, feedback, and information flows.
-- Bring in the ethics and unintended consequences of interventions.
+* How do we move from diagnosing systems to changing them?
+* What kinds of structural changes alter system behavior most effectively?
+* What ethical questions arise when we redesign systems?
 
-### Subsections
+**Sub-units**
 
-#### 5.1 From Analysis to Design
+1. **From analysis to design**
 
-- Once you see “structure → behavior,” ask:
-  - “What structure would produce the behavior we want?”
-- Emphasize:
-  - Small, testable changes,
-  - Iterative interventions over grand one-shot reforms.
+   * Once structure is understood, the next question is what structure would produce the behavior we want instead.
+   * Emphasize small, iterative, testable interventions over grand one-shot reforms.
+   * Design begins with structural imagination informed by analysis.
 
-#### 5.2 Designing Incentives and Feedback
+2. **Designing incentives and feedback**
 
-- Align incentives with system goals:
-  - E.g., measure **quality and long-term outcomes**, not just short-term output.
-- Make feedback timely and visible:
-  - Dashboards, retrospectives, customer feedback loops.
+   * Incentives should be aligned with actual system goals.
+   * Feedback should be timely, visible, and connected to action.
+   * Poorly designed incentives and missing feedback often drive recurring dysfunction.
 
-#### 5.3 Designing Information Flows
+3. **Designing information flows**
 
-- Many leverage points involve **changing who knows what and when**:
-  - Error reporting systems,
-  - Transparent performance metrics,
-  - Cross-functional reviews.
-- Example: aviation safety culture vs. blame culture.
+   * Many powerful leverage points involve changing who knows what, when, and in what form.
+   * Transparency, reporting systems, dashboards, and review structures can all change system behavior.
+   * Information design is often more powerful than exhortation.
 
-#### 5.4 Rules, Constraints, and Norms
+4. **Rules, constraints, and norms**
 
-- Distinguish:
-  - Formal rules (laws, policies),
-  - Informal norms (culture, unwritten rules).
-- Changing rules or norms can be higher leverage than “pushing people harder.”  
+   * Formal rules and informal norms both shape system behavior.
+   * Sometimes changing culture or unwritten expectations matters more than changing explicit policy.
+   * This helps learners see design as broader than technical adjustment.
 
-#### 5.5 Ethics of System Design
+5. **Ethics of system design**
 
-- Interventions redistribute power, risk, and benefits.
-- Key questions:
-  - “Who gains, who loses, and who decides?”
-  - “Are we designing for **resilience** or just **efficiency**?”
+   * Every intervention redistributes burdens, benefits, visibility, and control.
+   * Systems design raises questions of power, legitimacy, resilience, and fairness.
+   * Learners are asked to consider who gains, who loses, and who decides.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Donella H. Meadows – *Thinking in Systems*, “Leverage Points” and “Living in a World of Systems.” 
-- **More resources**
-  - Leyla Acaroglu – essays on systems thinking, systems mapping, and circular design (e.g., “Tools for Systems Thinkers: Systems Mapping”). 
-  - Richard H. Thaler & Cass Sunstein – *Nudge* (not “systems thinking” per se, but good illustration of design of choice architectures and feedback).
+* Donella H. Meadows, *Thinking in Systems* (“Leverage Points” and “Living in a World of Systems”).
+* Leyla Acaroglu, essays on systems thinking, systems mapping, and circular design.
+* Richard H. Thaler & Cass Sunstein, *Nudge*.
 
 ---
 
-## 6. System Archetypes
+## Unit 6 – System Archetypes
 
-### Goals
+**Guiding questions**
 
-- Give learners a **pattern library** of recurring systemic behaviors.
-- Train pattern recognition: “Oh, this looks like ‘Fixes that Fail’ rather than a one-off blunder.”
-- Link archetypes back to CLDs and BOTGs.
+* What recurring patterns appear across many different systems?
+* How can archetypes help diagnose structural problems?
+* Why should archetypes be treated as hypotheses rather than labels?
 
-### Subsections
+**Sub-units**
 
-#### 6.1 What Are Archetypes?
+1. **What archetypes are**
 
-- **System archetypes** = recurring patterns of structure + behavior across different domains.
-- Similar idea to:
-  - Design patterns (software),
-  - Logical fallacies (argumentation),
-  - Narrative tropes (storytelling).
+   * System archetypes are recurring patterns of structure and behavior found across domains.
+   * They function like a pattern library for diagnosing systemic problems.
+   * This helps learners recognize familiar dynamics in new contexts.
 
-#### 6.2 Core Archetypes to Cover
+2. **Core archetypes**
 
-For each archetype, cover:
-- Typical structure,  
-- Behavior over time,  
-- Everyday example,  
-- One or two leverage ideas.
+   * Cover major examples such as:
 
-Examples:
+     * Fixes that Fail
+     * Shifting the Burden
+     * Limits to Growth
+     * Drifting Goals
+     * Tragedy of the Commons
+     * Success to the Successful
+   * For each, emphasize structure, behavior over time, examples, and leverage ideas.
 
-- **Fixes that Fail**
-  - Quick fix solves symptom → side effects worsen the underlying problem.
-  - Example: price discounts to boost sales that erode brand value.
-- **Shifting the Burden**
-  - Reliance on symptomatic solutions prevents investment in fundamental solutions.
-  - Example: overuse of painkillers instead of addressing underlying lifestyle causes.
-- **Limits to Growth / Success**
-  - Early growth eventually hits internal constraints (capacity, trust, attention).  
-- **Drifting (Eroding) Goals**
-  - Lowering standards rather than improving performance when targets are missed.
-- **Tragedy of the Commons**
-  - Shared resource overuse due to uncoordinated self-interest.
-- **Success to the Successful**
-  - Small initial advantages are reinforced structurally, leading to inequality.  
+3. **Archetypes as diagnostic tools**
 
-#### 6.3 Using Archetypes as Diagnostic Tools
+   * Learners use trends, symptoms, and stakeholder narratives to ask which archetype a situation resembles.
+   * Archetypes are most useful when combined with CLDs and behavior-over-time graphs.
+   * They help move from description to structured interpretation.
 
-- Given a few data points (trend + symptoms), ask:
-  - “Which archetype does this resemble?”
-- Combine with:
-  - CLDs (structure),
-  - BOTGs (behavior),
-  - Stories from stakeholders.
+4. **Archetypes and critical thinking**
 
-#### 6.4 Archetypes and Critical Thinking
+   * Archetypes should not become rigid templates.
+   * They are hypotheses that should be tested against evidence rather than imposed on every case.
+   * This guards against oversimplification and pattern-hunting bias.
 
-- Treat archetypes as **hypotheses**, not labels:
-  - “This might be ‘Shifting the Burden’; what evidence would confirm or falsify that?”
-- Avoid forcing every situation into a favorite pattern.
+**Core readings**
 
-### Readings
-
-- **Core**
-  - Daniel H. Kim – *Systems Archetype Basics: From Story to Structure*
-  - “Systems Archetypes I” (Pegasus/Systems Thinker series).
-- **Supplement**
-  - Leyla Acaroglu – “Tools for Systems Thinkers: The 12 Recurring Systems Archetypes.” 
-- **More resources**
-  - Peter Senge – *The Fifth Discipline*, chapters on system archetypes and “The Eleven Laws.” 
+* Daniel H. Kim, *Systems Archetype Basics: From Story to Structure*.
+* “Systems Archetypes I” (Pegasus / Systems Thinker series).
+* Leyla Acaroglu, “Tools for Systems Thinkers: The 12 Recurring Systems Archetypes.”
+* Peter Senge, *The Fifth Discipline* (chapters on system archetypes and “The Eleven Laws”).
 
 ---
 
-## 7. System Dynamics (Conceptual, Not Math-Heavy)
+## Unit 7 – System Dynamics
 
-### Goals
+**Guiding questions**
 
-- Explain why systems produce particular **behavior over time**:
-  - growth, decay, oscillation, overshoot & collapse.
-- Give intuitive system-dynamics insight without equations or software.
-- Prepare learners for the idea of **formal models** in the upcoming “Model Thinking” section.
+* Why do systems generate characteristic patterns of behavior over time?
+* How do feedback and delays produce growth, oscillation, overshoot, and collapse?
+* What is the relationship between informal systems stories and formal dynamic models?
 
-### Subsections
+**Sub-units**
 
-#### 7.1 What is System Dynamics?
+1. **What system dynamics is**
 
-- Field pioneered by **Jay Forrester** at MIT; later expanded by John Sterman and others. 
-- Focus: feedback-driven behavior of systems over time.
-- Distinguish:
-  - **System dynamics thinking** (mental models, CLDs, stock–flow diagrams),
-  - **Formal modeling** (simulation).
+   * Introduce system dynamics as the study of feedback-driven behavior over time.
+   * Distinguish system-dynamics thinking from full simulation modeling.
+   * Keep the focus conceptual rather than mathematical.
 
-#### 7.2 Canonical Dynamic Behaviors
+2. **Canonical dynamic behaviors**
 
-- **Exponential growth / decay**
-  - Compounding interest, viral spread, forgetting curves.
-- **Goal-seeking**
-  - System moves toward a target (thermostats, homeostasis).
-- **Oscillation**
-  - Boom–bust cycles, mood swings, inventory swings (e.g., the Beer Game).
-- **Overshoot & collapse**
-  - Resource depletion, burnout, unsustainable growth.
+   * Exponential growth and decay.
+   * Goal-seeking behavior.
+   * Oscillation.
+   * Overshoot and collapse.
+   * These recurring patterns become easier to recognize once linked to underlying structures.
 
-#### 7.3 How Feedback and Delays Generate Patterns
+3. **How feedback and delays generate patterns**
 
-- Narratives:
-  - **Beer distribution game** – delays and limited visibility cause oscillations and overreactions.{index=32}  
-  - Project management: delays in hiring/training create cycles of overwork and quality issues.
-- Key lesson: many “crazy” behaviors come from **sane people in poorly designed feedback structures**.
+   * Many apparently irrational patterns are generated by sane actors embedded in badly designed feedback structures.
+   * Delays, limited visibility, and overreaction are common drivers of instability.
+   * Everyday and organizational examples help keep this intuitive.
 
-#### 7.4 From Mental Models to Formal Models
+4. **From mental models to formal models**
 
-- Why build formal models?
-  - To test assumptions,
-  - To explore “what if” scenarios safely,
-  - To communicate structures and trade-offs clearly.
-- System dynamics software (Vensim, Stella, iThink, etc.) can translate diagrams into simulations, but the core is still the **system story**.  
-- Bridge to **Model Thinking**:
-  - Models are explicit, testable versions of our implicit systems narratives.
+   * Formal models make assumptions explicit and testable.
+   * Simulations are extensions of system stories, not replacements for them.
+   * This unit serves as a bridge to later work in model thinking.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - John Sterman – *Business Dynamics: Systems Thinking and Modeling for a Complex World* (intro + chapters on dynamic behaviors).
-- **More resources**
-  - Short online intros to system dynamics and Beer Game videos (e.g., material from the System Dynamics Society / MIT).
-  - Barry Richmond – *An Introduction to Systems Thinking with STELLA* (conceptual sections).
+* John Sterman, *Business Dynamics: Systems Thinking and Modeling for a Complex World* (intro + chapters on dynamic behaviors).
+* Short online introductions to system dynamics and Beer Game materials from the System Dynamics Society / MIT.
+* Barry Richmond, *An Introduction to Systems Thinking with STELLA* (conceptual sections).
 
 ---
 
-## 8. Complex Systems
+## Unit 8 – Complex Systems
 
-### Goals
+**Guiding questions**
 
-- Introduce **complexity**: highly interconnected, adaptive, and emergent systems.
-- Contrast **complicated** vs **complex**.
-- Give language for emergent phenomena learners already experience.
+* What makes a system complex rather than merely complicated?
+* How do emergence, adaptation, and networks shape outcomes?
+* Why do complex systems limit prediction and elevate robustness?
 
-### Subsections
+**Sub-units**
 
-#### 8.1 Complicated vs. Complex
+1. **Complicated vs. complex**
 
-- **Complicated**:
-  - Many parts, but predictable if you understand them (jet engine).
-- **Complex**:
-  - Many interacting agents, learning and adapting (ecosystems, cities, online platforms).
-- Complex systems often exhibit:
-  - Emergence,
-  - Path dependence,
-  - Unintended consequences.
+   * Complicated systems may have many parts but remain predictable with enough analysis.
+   * Complex systems involve interacting, adapting agents and evolving structures.
+   * This distinction is essential for knowing what kind of reasoning is appropriate.
 
-#### 8.2 Emergence and Self-Organization
+2. **Emergence and self-organization**
 
-- Simple rules → rich patterns:
-  - Flocking birds, traffic jams, market prices.
-- Visualization examples:
-  - Cellular automata, “Game of Life” as concept story.
+   * Simple local interactions can generate large-scale patterns without central control.
+   * Emergence helps explain why whole-system behavior cannot be read directly off isolated parts.
+   * Familiar examples make this intuitive.
 
-#### 8.3 Adaptation and Coevolution
+3. **Adaptation and coevolution**
 
-- Agents learn and change strategies:
-  - Markets, tech ecosystems, social media.
-- Coevolution:
-  - Products, regulations, user behavior change together.
-- “You are changing the game as you play it.”
+   * Agents respond to one another and change strategies over time.
+   * Environments and participants evolve together.
+   * This means the system changes as we intervene in it.
 
-#### 8.4 Networks and Cascades
+4. **Networks and cascades**
 
-- Basic network concepts:
-  - Nodes, links, hubs, clustering.
-- Cascades:
-  - Epidemics, information spread, bank runs, viral trends.
-- Structural properties (e.g., hubs) can make systems robust or fragile.
+   * Nodes, links, hubs, and clustering affect spread, resilience, and fragility.
+   * Cascades help explain epidemics, viral trends, bank runs, and information shocks.
+   * Structural properties matter as much as individual behavior.
 
-#### 8.5 Limits of Prediction, Role of Heuristics
+5. **Limits of prediction and the role of heuristics**
 
-- In complex systems:
-  - Detailed prediction is often impossible.
-  - Scenario thinking, stress testing, and **robustness** matter more than forecasts.
-- Ties back to critical thinking:
-  - Embrace uncertainty,
-  - Use models as **probes** rather than crystal balls.
+   * Complex systems resist precise forecasting.
+   * Scenario thinking, stress testing, and robustness often matter more than exact prediction.
+   * This reinforces intellectual humility and prepares learners for later work in models and risk.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Melanie Mitchell – *Complexity: A Guided Tour*. 
-- **More resources**
-  - Santa Fe Institute – *Introduction to Complexity* (free online course).
-  - John H. Holland – *Hidden Order: How Adaptation Builds Complexity*. 
+* Melanie Mitchell, *Complexity: A Guided Tour*.
+* Santa Fe Institute, *Introduction to Complexity*.
+* John H. Holland, *Hidden Order: How Adaptation Builds Complexity*.
 
 ---
 
-## 9. Systems Engineering
+## Unit 9 – Systems Engineering
 
-### Goals
+**Guiding questions**
 
-- Show how systems thinking becomes a **disciplined engineering practice**.
-- Provide conceptual literacy for terms like “requirements,” “interfaces,” and “lifecycle.”
-- Emphasize socio-technical systems.
+* How does systems thinking become a disciplined engineering practice?
+* What are requirements, interfaces, life cycles, and trade spaces in system design?
+* Why are real engineered systems always socio-technical rather than purely technical?
 
-### Subsections
+**Sub-units**
 
-#### 9.1 What is Systems Engineering?
+1. **What systems engineering is**
 
-- Coordinating many interacting subsystems to achieve a mission:
-  - Spacecraft, large software systems, transportation, infrastructure.
-- Emphasis on:
-  - Requirements, interfaces, verification/validation, lifecycle, risk.
+   * Systems engineering coordinates interacting subsystems toward an overall mission.
+   * It emphasizes requirements, interfaces, verification, validation, and lifecycle thinking.
+   * This unit shows a more formal and disciplined application of systems reasoning.
 
-#### 9.2 Lifecycle Thinking
+2. **Lifecycle thinking**
 
-- Concept → design → implementation → operation → decommissioning.
-- Feedback from later phases informs earlier ones:
-  - Post-mortems → better requirements next time.
+   * Systems move from concept to design, implementation, operation, and eventual retirement.
+   * Later phases generate feedback that should reshape earlier assumptions in future projects.
+   * This creates a practical link between systems thinking and iterative learning.
 
-#### 9.3 Trade-offs and Constraints
+3. **Trade-offs and constraints**
 
-- Classic trade space: performance vs. cost vs. reliability vs. usability vs. schedule.
-- Systems engineering as structured negotiation of trade-offs.
+   * Performance, cost, reliability, usability, and schedule often pull in different directions.
+   * Systems engineering is partly the disciplined negotiation of such trade-offs.
+   * This echoes themes from analytical thinking and decision analysis.
 
-#### 9.4 Socio-Technical Systems
+4. **Socio-technical systems**
 
-- Systems include:
-  - People, processes, technology, and environment.
-- Ignoring the human component (training, incentives, culture) undermines technical design.
+   * Real systems include people, institutions, technologies, environments, and norms.
+   * Ignoring training, incentives, and culture undermines otherwise strong technical design.
+   * This keeps engineering from becoming artificially mechanistic.
 
-#### 9.5 Systems Engineering as Structured Critical Thinking
+5. **Systems engineering as structured critical thinking**
 
-- Documented assumptions and traceability:
-  - “Where did this requirement come from?”
-- Early identification and mitigation of risks.
-- Strong overlap with disciplined critical thinking.
+   * Traceability, documented assumptions, and risk identification support disciplined reasoning.
+   * Systems engineering overlaps strongly with critical thinking and analytic rigor.
+   * Learners see how systems ideas become operational practice.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - INCOSE – *Systems Engineering Handbook* (overview chapters on life cycle and concepts).
-  - NASA – *NASA Systems Engineering Handbook* (intro + fundamentals + life cycle overview).
-- **More resources**
-  - Case-study style readings on successful/failed large systems (e.g., space missions, large software projects) analyzed from a systems engineering perspective.
+* INCOSE, *Systems Engineering Handbook* (overview chapters on life cycle and concepts).
+* NASA, *NASA Systems Engineering Handbook* (intro + fundamentals + life cycle overview).
+* Case-study readings on successful and failed large systems from a systems engineering perspective.
 
 ---
 
-## 10. Integrating the Systems Lens (Bridge to Model Thinking)
+## Unit 10 – Integrating the Systems Lens
 
-### Goals
+**Guiding questions**
 
-- Pull everything together into a **practical mental toolkit**.
-- Make a smooth handoff from “systems thinking” to “model thinking.”
-- Emphasize habits more than terminology.
+* How can systems thinking become a practical mental toolkit rather than a set of isolated terms?
+* How does systems thinking connect to model thinking?
+* What common pitfalls should learners avoid when applying a systems lens?
 
-### Subsections
+**Sub-units**
 
-#### 10.1 Checklist: Thinking in Systems in Everyday Decisions
+1. **A practical checklist for thinking in systems**
 
-When facing a problem, learners can ask:
+   * Learners are given a compact set of recurring questions:
 
-- What is the **behavior over time** I’m seeing?  
-- What are the key **stocks** and **flows**?  
-- What **feedback loops** might be at work (reinforcing or balancing)?  
-- Where are the **delays**?  
-- Am I dealing with a **known archetype**?  
-- What **boundary** am I drawing – what am I leaving out?  
-- Where might **leverage points** be?  
-- Is this system **complex** (adaptive, emergent) or just complicated?
+     * What behavior over time am I seeing?
+     * What are the key stocks and flows?
+     * What feedback loops and delays matter?
+     * What boundary am I drawing?
+     * Where might leverage points be?
+   * This turns concepts into reusable habits.
 
-#### 10.2 Connecting Systems Thinking and Model Thinking
+2. **Connecting systems thinking and model thinking**
 
-- **Systems thinking**:
-  - Mental stories and qualitative diagrams (CLDs, BOTGs, archetypes).
-- **Model thinking**:
-  - Choosing formal representations (equations, simulations, agent-based models, etc.).
-- Key message: **good modeling starts with a clear systems story**.
+   * Systems thinking begins with qualitative stories, diagrams, and patterns.
+   * Model thinking moves toward more explicit and formal representations.
+   * The key lesson is that good models begin with a clear systems story.
 
-#### 10.3 Common Pitfalls & Meta-Critical Thinking
+3. **Pitfalls and meta-critical thinking**
 
-- Treating a diagram or model as reality.
-- Using archetypes as labels rather than hypotheses.
-- Overconfidence in elegant models in messy worlds.
-- Neglecting power, values, and ethics in system design and interventions.
+   * Common mistakes include mistaking diagrams for reality, using archetypes as labels, and becoming overconfident in elegant simplifications.
+   * Learners are reminded to attend to power, values, and ethics in analysis and intervention.
+   * This closes the course with a reflective and critical stance.
 
-#### 10.4 Practice Project / Capstone (if used as a course)
+4. **Capstone or integrative practice**
 
-- Learners choose a real-world issue (personal, organizational, societal).
-- Tasks:
-  - Frame it as a system (define stocks, flows, boundaries, goals).
-  - Draw a simple CLD and BOTGs.
-  - Identify possible archetypes.
-  - Propose leverage points and design changes.
-  - (Optional) Sketch how one might formalize this in a model (preparing for the next **Model Thinking** unit).
+   * Learners can frame a personal, organizational, or societal issue as a system.
+   * They identify stocks, flows, boundaries, archetypes, leverage points, and possible redesigns.
+   * This provides a direct bridge into later work on model thinking.
 
-### Readings
+**Core readings**
 
-- **Core**
-  - Donella H. Meadows – revisit key chapters of *Thinking in Systems* as synthesis.  
-  - Melanie Mitchell – revisit key chapters of *Complexity: A Guided Tour* (on emergence and limits of prediction).
-- **More resources**
-  - Peter Senge – *The Fifth Discipline* (for integration of systems thinking with organizational learning and mental models).
+* Donella H. Meadows, revisit key chapters of *Thinking in Systems* as synthesis.
+* Melanie Mitchell, revisit key chapters of *Complexity: A Guided Tour*.
+* Peter Senge, *The Fifth Discipline*.
 
 ---
 
-## Optional Extra Sections / Sidebars
+## Optional sidebars or mini-sections
 
-These can be short sidebars or mini-sections rather than full chapters.
+### Mental Models and Systems
 
-### A. Mental Models and Systems
+* All diagrams, stories, and models are mental models of reality rather than reality itself.
+* Systems thinking helps make mental models explicit, revisable, and discussable.
+* This serves as a clean bridge to model thinking, where models are treated as tools rather than truths.
 
-- All diagrams, stories, and models are **mental models** of reality, not reality itself.
-- Systems thinking helps:
-  - Make mental models explicit,
-  - Test and revise them.
-- Perfect bridge to your **Model Thinking** unit:
-  - Models as tools, not truths.
+### Resilience vs. Efficiency
 
-### B. Resilience vs. Efficiency
-
-- Efficient systems often have little slack and can be **brittle**.
-- Resilient systems:
-  - Have buffers, redundancy, and diversity.
-  - Can absorb shocks and adapt.
-- Great tie-in to:
-  - Risk, robustness,
-  - Scenario thinking and long-term critical thinking.
+* Efficient systems often minimize slack and become brittle.
+* Resilient systems preserve buffers, redundancy, and diversity.
+* This theme connects systems thinking to risk, robustness, and long-term design judgment.
 
 ---

@@ -452,4 +452,4 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 [22]: https://www.gradeworkinggroup.org/ "GRADE home"
 [23]: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2008.156224 "Understanding Evidence-Based Public Health Policy"
 [24]: https://www.bmj.com/content/372/bmj.n71 "The PRISMA 2020 statement: an updated guideline for ..."
-[25]: https://books.google.com/books?id=4ZctAAAAQBAJ&printsec=frontcover&utm_source=chatgpt.com "Data Science for Business: What You Need to Know about ..."
+[25]: https://books.google.com/books?id=4ZctAAAAQBAJ&printsec=frontcover& "Data Science for Business: What You Need to Know about ..."
