@@ -1,717 +1,749 @@
-<details><summary><h1><a href="https://plato.stanford.edu/index.html">Philosophical Concepts</a></h1></summary>
+# Course overview: Philosophy for Critical Thinking — Concepts, Distinctions, and Worldview Analysis
 
-- [Philosophical Concepts](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Twa6jGRRBYsrqsLodJYfG7)
+---
 
-1. [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
-2. [Conceptual Systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
-3. [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
-4. [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology)
-5. [Concepts in Metaphysics](https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics)
-6. [Principles](https://en.wikipedia.org/wiki/Category:Principles)
+## Big question
 
-</details>
+What are the deepest concepts, distinctions, arguments, and worldviews that structure human thought—and how can philosophical inquiry help us reason more clearly about knowledge, reality, language, mind, value, and society?
 
+## By the end, students should be able to
 
-<details><summary><h2> Traditions, Movements, and Theories </h2></summary>
+* Explain philosophy as a discipline of **conceptual clarification, argument analysis, worldview examination, and reflective judgment**, not just the study of famous thinkers.
+* Identify and use foundational philosophical distinctions such as **fact/value, is/ought, a priori/a posteriori, analytic/synthetic, appearance/reality, necessary/sufficient, abstract/concrete, realism/anti-realism, objective/intersubjective/subjective**.
+* Reconstruct and evaluate philosophical arguments using tools such as **reductio ad absurdum, thought experiments, conceptual analysis, principle testing, and charity**.
+* Explain major approaches to knowledge and justification, including **foundationalism, coherentism, evidentialism, reliabilism, Bayesian epistemology, social epistemology, fallibilism, and skepticism**.
+* Explain major debates about truth, including **correspondence, deflationary, and verificationist approaches**, and connect them to public reasoning.
+* Analyze metaphysical and ontological questions about **objects, properties, categories, universals, causation, identity, essence, natural kinds, and possible worlds**.
+* Explain and assess major debates in **philosophy of mind** such as **dualism, physicalism, functionalism, panpsychism, qualia, other minds, mental causation, and consciousness**.
+* Explain and assess major debates in **free will and agency**, including **determinism, compatibilism, incompatibilism, libertarianism, responsibility, and moral luck**.
+* Explain how **language, meaning, interpretation, pragmatics, and framing** shape thought and disagreement.
+* Distinguish **normative ethics, metaethics, moral psychology, and applied ethics**, and explain why those levels must not be collapsed.
+* Explain and compare major ethical positions such as **virtue ethics, deontology, consequentialism, contractualism, sentimentalism, egoism, naturalism, realism, anti-realism, relativism, and constructivism**.
+* Use philosophy to analyze **social norms, rules, conventions, principles, justice, political legitimacy, ideology, and collective responsibility**.
+* Compare philosophical traditions and schools—ancient, modern, analytic, pragmatic, continental, Asian, and religiously inflected—without reducing philosophy to one canon.
+* Identify how philosophical assumptions shape debates in **science, history, media, politics, religion, economics, and AI**.
+* Develop philosophical virtues essential to critical thinking: **precision, patience, intellectual humility, interpretive charity, conceptual discipline, and principled fallibilism**.
 
-1. [Information Philosophy](https://www.informationphilosopher.com/)
-2. [Rationalism vs Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
-3. [Analytical Philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
-4. [Logical_positivism](https://en.wikipedia.org/wiki/Logical_positivism)
-5. [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
-6. [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
-7. [Theories of Meaning](https://plato.stanford.edu/entries/meaning/)
-8. [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
-9. [Computational Philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
-10. [Philosophy of Mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
-11. [Philosophical Interpretation](https://en.wikipedia.org/wiki/Category:Interpretation_(philosophy))
-12. [Thought Experiments](https://en.wikipedia.org/wiki/Category:Thought_experiments) and [Thought Experiments in Philosophy](https://en.wikipedia.org/wiki/Category:Thought_experiments_in_philosophy)
-13. [Philosophical Schools of Thought](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
-14. [Philosophical Traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions)
-15. [Philosophical Movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements)
-16. [Philosophical Theories](https://en.wikipedia.org/wiki/Category:Philosophical_theories)
-17. [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
-18. [List_of_schools_of_philosophy](https://en.wikipedia.org/wiki/List_of_schools_of_philosophy)
+---
 
-</details>
+## Unit 1 – What Philosophy Contributes to Critical Thinking
 
-<details><summary><h2> Categories of Philosophy </h2></summary>
+**Guiding questions**
 
-1. [Epistemology](https://en.wikipedia.org/wiki/Category:Epistemology)
-	- [Epistemological_theories](https://en.wikipedia.org/wiki/Category:Epistemological_theories)
-	- [Justification](https://en.wikipedia.org/wiki/Category:Justification_(epistemology))
-	- [Concepts_in_epistemology](https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology)
-	- [Foundationalism](https://en.wikipedia.org/wiki/Foundationalism)
-	- [Epistemology_of_science](https://en.wikipedia.org/wiki/Category:Epistemology_of_science)
-	- [Empiricism](https://en.wikipedia.org/wiki/Category:Empiricism)
-	- [Rationalism](https://en.wikipedia.org/wiki/Category:Rationalism)
-	- [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
-	- [Coherentism](https://en.wikipedia.org/wiki/Coherentism) [Theories](https://plato.stanford.edu/entries/justep-coherence/)
-	- [Epistemic Closure](https://plato.stanford.edu/entries/closure-epistemic/)
-	- [Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
-	- [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
-	- [Formal](https://plato.stanford.edu/entries/formal-epistemology/)
-	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
-	- [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
-	- [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
-	- [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
-	- [Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)
-	- [Epistemic Paradoxes](https://plato.stanford.edu/entries/epistemic-paradoxes/)
-	- [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
-	- [Theories of Truth](https://en.wikipedia.org/wiki/Category:Theories_of_truth)
-	- [Truth Values](https://plato.stanford.edu/entries/truth-values/)
-	- [Reliabalism](https://plato.stanford.edu/entries/reliabilism/)
-	- [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
-	- [Disquotational Principle](https://en.wikipedia.org/wiki/Disquotational_principle)
-	- [Computational Epistemology](http://cogsci.uwaterloo.ca/Index.html)
-	- [Defeasibility Theories of Knowledge](https://philpapers.org/browse/defeasibility-theory-of-knowledge) & [Defeaters in Epistemology](https://iep.utm.edu/defeaters-in-epistemology/)
-	- [Hinge Epistemology](https://philpapers.org/rec/COLWHE)
-	- [Truth Correspondence](https://plato.stanford.edu/entries/truth-correspondence/)
-	- [Knowledge and Truth Tracking](https://academic.oup.com/book/5808/chapter-abstract/149017155?redirectedFrom=fulltext)
-	- [Infinitism](https://iep.utm.edu/inf-epis/)
-	- [Coherentism](https://plato.stanford.edu/entries/justep-coherence/)
-	- [Internalism and Externalism](https://plato.stanford.edu/entries/justep-intext/)
-	- [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
-2. [Ontology](https://en.wikipedia.org/wiki/Ontology)
-	- [Applied Ontology](http://ontology.buffalo.edu/smith/)
-	- [Mereology](https://en.wikipedia.org/wiki/Category:Mereology)
-3. [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
-	- [The Metaphysics Project](https://mally.stanford.edu/index.html)
-4. [Philosophy of Language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
-	- [Meaning](https://en.wikipedia.org/wiki/Category:Meaning_(philosophy_of_language))
-	- [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
-	- [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
-	- [Linguistic Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
-	- [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
-5. [Philosophy of Science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
-6. [Philosophy_of_social_science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
-7. [Philology](https://en.wikipedia.org/wiki/Philology)
-8. [Formal Semantics](https://en.wikipedia.org/wiki/Category:Formal_semantics_(natural_language))
+* What makes a question philosophical?
+* Why do conceptual confusions create bad reasoning?
+* How does philosophy differ from science, history, religion, and rhetoric while still interacting with all of them?
 
-</details>
+**Sub-units**
 
-<details><summary><h2> List of Concepts </h2></summary>
+1. **Philosophy as second-order inquiry**
 
-1. [Events](https://plato.stanford.edu/entries/events/)
-2. [Properties](https://plato.stanford.edu/entries/properties/)
-3. [Platonism](https://en.wikipedia.org/wiki/Platonism)
-4. [Teleology](https://en.wikipedia.org/wiki/Category:Teleology)
-5. [Argumentation & Reasoning](https://philpeople.org/profiles/41605/publication_attributions?app=&order=added&page=6)
-6. [Types & Tokens](https://plato.stanford.edu/entries/types-tokens/)
-7. [Occams Razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
-8. [Argument From Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)
-9. [Reductio Ad Absurdum](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
-10. [Fact-Value](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
-11. [Is-Ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
-12. [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity)
-13. [Map-Territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
-14. [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
-15. [Statistical Syllogism](https://en.wikipedia.org/wiki/Statistical_syllogism)
-16. [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
-17. [A priori A Posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
-18. [Humes Fork](https://en.wikipedia.org/wiki/Hume%27s_fork)
-19. [Analytic - Synthetic](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
-20. [Potentiality vs Actuality](https://en.wikipedia.org/wiki/Potentiality_and_actuality)
-21. [Essence](https://en.wikipedia.org/wiki/Essence)
-22. [Monotonicity of Entailment](https://en.wikipedia.org/wiki/Monotonicity_of_entailment)
-23. [Difference](https://en.wikipedia.org/wiki/Category:Difference)
-24. [Abstract vs Concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
-25. [Kantian Categories](https://en.wikipedia.org/wiki/Category_(Kant)#The_table_of_judgments)
-26. [Dualism](https://plato.stanford.edu/entries/dualism/)
-27. [Kantian Metaphysics](https://plato.stanford.edu/entries/kant-metaphysics/)
-28. [State of Affairs](https://plato.stanford.edu/entries/states-of-affairs/)
-29. [Facts & Knowledge](https://plato.stanford.edu/entries/facts/)
-30. [Vacuous Truth](https://en.wikipedia.org/wiki/Vacuous_truth)
-31. [Necessity and Sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
-32. [Dichotomies](https://en.wikipedia.org/wiki/Category:Dichotomies)
-33. [Principle of Sufficient Reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
-34. [Belief](https://en.wikipedia.org/wiki/Belief_revision) [Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
-35. [transcendental arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
-36. [Objectivity](https://en.wikipedia.org/wiki/Objectivity_(philosophy))
-37. [Philosophical Razors](https://en.wikipedia.org/wiki/Category:Razors_(philosophy))
-38. [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
-39. [Genus - Differentia](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
-40. [Abstract Objects](https://plato.stanford.edu/entries/abstract-objects/)
-41. [Existence_precedes_essence](https://en.wikipedia.org/wiki/Existence_precedes_essence)
-42. [Conceptualism vs Non-Conceptualism](https://plato.stanford.edu/entries/kant-conceptualism/)
-43. [Concepts](https://en.wikipedia.org/wiki/Category:Concepts)
-44. [Realist](https://iep.utm.edu/sci-real/) vs [Anti-Realist](http://people.loyno.edu/~folse/Realism1.html)
-	- [Realism](https://plato.stanford.edu/entries/realism/)
-	- [Philosophical Realism](https://en.wikipedia.org/wiki/Category:Philosophical_realism)
-45. [Mediaval Problem of Universals](https://plato.stanford.edu/entries/universals-medieval/)
-46. [Dispositions](https://plato.stanford.edu/entries/dispositions/)
-47. [Intrinsic vs Extrinsic](https://plato.stanford.edu/entries/intrinsic-extrinsic/)
-48. [Determinate and Determinables](https://plato.stanford.edu/entries/determinate-determinables/)
-49. [Vagueness](https://plato.stanford.edu/entries/vagueness/)
-50. [Monism](https://en.wikipedia.org/wiki/Category:Monism)
-	- [Materialism](https://en.wikipedia.org/wiki/Materialism)
-51. [Nominalism](https://en.wikipedia.org/wiki/Nominalism)
-52. [Naturalism](https://plato.stanford.edu/entries/naturalism/)
-53. [Idealism](https://en.wikipedia.org/wiki/Category:Idealism)
-54. [Tropes](https://plato.stanford.edu/entries/tropes/)
-55. [Particulars](https://en.wikipedia.org/wiki/Particular)
-56. [Objects](https://plato.stanford.edu/entries/object/): [Category of Objects](https://en.wikipedia.org/wiki/Category:Objects) and [Fictional Entities](https://plato.stanford.edu/entries/fictional-entities/)
-57. [Substance](https://plato.stanford.edu/entries/substance/)
-58. [Categories](https://plato.stanford.edu/entries/categories/)
-59. [Essential vs Accidental](https://plato.stanford.edu/entries/essential-accidental/)
-60. [Relations](https://plato.stanford.edu/entries/relations/)
-61. [Process Philosophy](https://plato.stanford.edu/entries/process-philosophy/)
-62. [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
-63. [Temporal Parts](https://plato.stanford.edu/entries/temporal-parts/)
-64. [Problem of the Many](https://plato.stanford.edu/entries/problem-of-many/)
-65. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
-66. [Gettier Problem](https://en.wikipedia.org/wiki/Gettier_problem)
-67. [Meaning](https://en.wikipedia.org/wiki/Meaning_(philosophy))
-68. [Aristotle Causality](https://plato.stanford.edu/entries/aristotle-causality/)
-69. [Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/)
-70. [Ghost in the Machine](https://en.wikipedia.org/wiki/Ghost_in_the_machine)
-71. [Ontological Commitment](https://plato.stanford.edu/entries/ontological-commitment/)
-72. [Supervenience](https://plato.stanford.edu/entries/supervenience/)
-73. [Philosophical Zombies](https://plato.stanford.edu/entries/zombies/)
-74. [Quantifiers](https://en.wikipedia.org/wiki/Quantifier_(logic))
-75. [Mathematical Mapping](https://en.wikipedia.org/wiki/Map_(mathematics))
-76. [Logical Connective](https://en.wikipedia.org/wiki/Category:Logical_connectives)
-77. [Kripke Semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
-78. [Aristotle on Non Contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
-79. [Symbol Grounding Problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
-80. [Descartes Rejection of Aristotelianism](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199570430.001.0001/acprof-9780199570430-chapter-6)
-81. [Action Theory](https://plato.stanford.edu/entries/action/)
-82. [Thought Experiment](https://en.wikipedia.org/wiki/Thought_experiment)
-83. [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/)
-84. [Free](https://en.wikipedia.org/wiki/Category:Free_will) [Will](https://plato.stanford.edu/entries/freewill/)
-	- [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism)
-	- [Randomness](https://en.wikipedia.org/wiki/Category:Randomness)
-	- [Determinism](https://en.wikipedia.org/wiki/Category:Determinism)
-	- [Incompatibilism Theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
-	- [Compatibalism](https://plato.stanford.edu/entries/compatibilism/)
-	- [Uncertainty](https://en.wikipedia.org/wiki/Uncertainty)
-	- [Agency](https://plato.stanford.edu/entries/agency/)
-	- [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism_(metaphysics))
-	- [Philosophy](https://plato.stanford.edu/entries/action/) of [Action](https://en.wikipedia.org/wiki/Category:Action_(philosophy))
-85. [Hypothetical Impertive](https://en.wikipedia.org/wiki/Hypothetical_imperative)
-86. [Categorical Imperitive](https://en.wikipedia.org/wiki/Categorical_imperative)
-87. [Sophisttry](https://en.wikipedia.org/wiki/Sophist)
-88. [Critique_of_the_Kantian_Philosophy](https://en.wikipedia.org/wiki/Critique_of_the_Kantian_Philosophy)
-89. [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)
-90. [Instrumental_and_value_rationality](https://en.wikipedia.org/wiki/Instrumental_and_value_rationality)
-91. [Information](https://plato.stanford.edu/entries/information/)
-92. [Philosophy of Information](https://en.wikipedia.org/wiki/Philosophy_of_information)
-93. [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
-94. [Anti Realism](https://en.wikipedia.org/wiki/Anti-realism)
-95. [Qualia: The Knowledge Argument](https://plato.stanford.edu/entries/qualia-knowledge/)
-96. [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)
-97. [Other Minds](https://plato.stanford.edu/entries/other-minds/)
-98. [Sorites Paradox](https://plato.stanford.edu/entries/sorites-paradox/)
-99. [Descartes Method](https://plato.stanford.edu/entries/descartes-method/)
-100. [Kantian Category](https://en.wikipedia.org/wiki/Category_(Kant)) and [Aristotelian Categories](https://en.wikipedia.org/wiki/Categories_(Aristotle))
-101. [Deconstruction](https://en.wikipedia.org/wiki/Deconstruction)
-102. [Implicature](https://plato.stanford.edu/entries/implicature/)
-103. [Mental Causation](https://plato.stanford.edu/entries/mental-causation/)
-104. [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/)
-105. [Rationalism](https://en.wikipedia.org/wiki/Rationalism)
-106. [Bounded Rationality](https://en.wikipedia.org/wiki/Bounded_rationality)
-107. [Chinese Room](https://en.wikipedia.org/wiki/Chinese_room)
-108. [Propositional](https://iep.utm.edu/prop-ati/) [Attitude](https://en.wikipedia.org/wiki/Propositional_attitude)
-109. [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
-110. [Sense and Reference](https://en.wikipedia.org/wiki/Sense_and_reference)
-111. [Essentialism](https://en.wikipedia.org/wiki/Essentialism)
-112. [Hegelian Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) and [Dialectical Forms](https://en.wikipedia.org/wiki/Dialectic)
-113. [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
-114. [Quine–Putnam indispensability argument](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument)
-115. [Benacerrafs Identification Problem](https://en.wikipedia.org/wiki/Benacerraf%27s_identification_problem)
-116. [Underdetermination](https://en.wikipedia.org/wiki/Underdetermination)
-117. [Raven Paradox](https://en.wikipedia.org/wiki/Raven_paradox)
-118. [De Dicto - De Re](https://plato.stanford.edu/entries/prop-attitude-reports/dere.html)
-119. [Problem of the Criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
-120. [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-121. [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
-122. [Underdetermination](https://plato.stanford.edu/entries/scientific-underdetermination/)
-123. [Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/)
-124. [Universal Constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
-125. [Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
-126. [Self Reference](https://plato.stanford.edu/entries/self-reference/)
-127. [Self Referential Paradoxes](https://en.wikipedia.org/wiki/Category:Self-referential_paradoxes)
-128. [Deflationary Theory of Truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
-129. [Conways Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-130. [Computational Irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
-131. [Church Turing Thesis](https://plato.stanford.edu/entries/church-turing/)
-132. [Self Replicating Machine](https://en.wikipedia.org/wiki/Self-replicating_machine)
-133. [Self Organization](https://en.wikipedia.org/wiki/Self-organization)
-134. [Felicity Conditions](https://en.wikipedia.org/wiki/Felicity_(pragmatics))
-135. [Mills Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
-136. [Pragmatic_maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim)
-137. [Truthmakers](https://plato.stanford.edu/entries/truthmakers/) and [Truthmaker_theory](https://en.wikipedia.org/wiki/Truthmaker_theory)
-138. [Basic Belief](https://en.wikipedia.org/wiki/Basic_belief)
-139. [Collective Consciousness](https://en.wikipedia.org/wiki/Collective_consciousness)
-140. [Aberrant_decoding](https://en.wikipedia.org/wiki/Aberrant_decoding)
-141. [Context_principle](https://en.wikipedia.org/wiki/Context_principle)
-142. [Deixis](https://en.wikipedia.org/wiki/Deixis)
-143. [Principle_of_humanity](https://en.wikipedia.org/wiki/Principle_of_humanity)
-144. [Precautionary_principle](https://en.wikipedia.org/wiki/Precautionary_principle)
-145. [Cooperative_principle](https://en.wikipedia.org/wiki/Cooperative_principle)
-146. [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
-147. [Meme](https://en.wikipedia.org/wiki/Meme)
-148. [Metanarrative](https://en.wikipedia.org/wiki/Metanarrative)
-149. [Social Norm](https://en.wikipedia.org/wiki/Social_norm)
-150. [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
-151. [Theory of Everything](https://en.wikipedia.org/wiki/Theory_of_everything)
-152. [Worldview](https://en.wikipedia.org/wiki/Worldview)
-153. [Qualia](https://en.wikipedia.org/wiki/Qualia)
-154. [Harm Principle](https://en.wikipedia.org/wiki/Harm_principle)
-155. [Gettier Problem](https://iep.utm.edu/gettier/)
-156. [Contextualism](https://en.wikipedia.org/wiki/Contextualism)
-157. [Problem_of_the_criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
-158. [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
-159. [Moravecs Paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
-160. [Mental Causation](https://plato.stanford.edu/entries/mental-causation/)
-161. [The pairing problem](https://www3.nd.edu/~jspeaks/courses/2006-7/20208/against-dualism.html)
-162. [Qualia: Knowledge Argument against Physicalism](https://plato.stanford.edu/entries/qualia-knowledge/)
-163. [Prototype Theory](https://en.wikipedia.org/wiki/Prototype_theory)
-164. [Archetype](https://en.wikipedia.org/wiki/Archetype)
-165. [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
-	- [The Postmodern condition](https://en.wikipedia.org/wiki/The_Postmodern_Condition)
-	- [Postmodernity](https://en.wikipedia.org/wiki/Postmodernity)
-166. [Causation in Physics](https://plato.stanford.edu/entries/causation-physics/)
-167. [Natural Philosophy](https://en.wikipedia.org/wiki/Natural_philosophy)
-168. [Luthers Inluence on Philosophy](https://plato.stanford.edu/entries/luther-influence/)
-169. [Relevance Theory](https://en.wikipedia.org/wiki/Relevance_theory)
-170. [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia) and [Apatheia](https://en.wikipedia.org/wiki/Apatheia) and [Euthymia](https://en.wikipedia.org/wiki/Euthymia_(philosophy))
-171. [Social Contract](https://en.wikipedia.org/wiki/Social_contract)
-172. [Quietism](https://en.wikipedia.org/wiki/Quietism_(philosophy))
-173. [Hypothetico-Deductive Model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
-174. [Romanticism_in_philosophy](https://en.wikipedia.org/wiki/Romanticism_in_philosophy)
-175. [Critical_rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
-176. [Positivism](https://en.wikipedia.org/wiki/Positivism), [Positivism_dispute](https://en.wikipedia.org/wiki/Positivism_dispute), and [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
-177. [Historicism](https://en.wikipedia.org/wiki/Historicism)
-188. [Dogma](https://en.wikipedia.org/wiki/Dogma)
-	- [Disconfirming Evidence](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
-	- [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
-	- [Ad_hoc_hypothesis](https://en.wikipedia.org/wiki/Ad_hoc_hypothesis)
-	- [Raven_paradox](https://en.wikipedia.org/wiki/Raven_paradox)
-	- [Selective_perception](https://en.wikipedia.org/wiki/Selective_perception)
-189. [Neo Kantianism](https://plato.stanford.edu/entries/neo-kantianism/)
-190. [World_disclosure](https://en.wikipedia.org/wiki/World_disclosure)
-191. [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
-192. [Duhem Quine Thesis](https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
-193. [Linguistic_modality](https://en.wikipedia.org/wiki/Category:Linguistic_modality)
-194. [Language Game](https://en.wikipedia.org/wiki/Language_game_(philosophy))
-195. [Will to Power](https://en.wikipedia.org/wiki/Will_to_power)
-196. [Condorcet_paradox](https://en.wikipedia.org/wiki/Condorcet_paradox)
-197. [The Economic Analysis of Law](https://plato.stanford.edu/entries/legal-econanalysis/)
-198. [Fitch's Paradox of Knowability](https://en.wikipedia.org/wiki/Fitch%27s_paradox_of_knowability)
-199. [Philosophy of AI](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
-	- [Reasoning_system](https://en.wikipedia.org/wiki/Reasoning_system)
-	- [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
-	- [turing test](https://plato.stanford.edu/entries/turing-test/)
-	- [Knowledge_representation_and_reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
-	- [Church Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
-	- [Computability](https://en.wikipedia.org/wiki/Computability)
-	- [Computable Function](https://en.wikipedia.org/wiki/Computable_function)
-	- [Model of Computation](https://en.wikipedia.org/wiki/Model_of_computation)
-200. [Thought Experiment](https://plato.stanford.edu/entries/thought-experiment/)
-201. [Wu Wei](https://en.wikipedia.org/wiki/Wu_wei)
-202. [Observational_equivalence](https://en.wikipedia.org/wiki/Observational_equivalence)
-203. [Overdetermination](https://en.wikipedia.org/wiki/Overdetermination)
-204. [Confirmation_holism](https://en.wikipedia.org/wiki/Confirmation_holism)
-205. [Instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism)
-206. [Computational_theory_of_mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
-207. [Functionalism](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind))
-208. [Expert System](https://en.wikipedia.org/wiki/Expert_system)
+   * Reflection on assumptions, concepts, categories, methods, and standards.
+   * Philosophy as clarification, not mere opinion-expression.
 
-</details>
+2. **Philosophical method**
 
-<details><summary><h2><a href="https://leiterreports.typepad.com/blog/2009/03/so-who-is-the-most-important-philosopher-of-the-past-200-years.html">Philosophers</a></h2></summary>
+   * Conceptual analysis, thought experiments, reductio, distinction-making, interpretation, reflective equilibrium.
 
-- [Timeline of Western Philosophy](https://en.wikipedia.org/wiki/Timeline_of_Western_philosophers)
-- [Pupils of Socrates](https://en.wikipedia.org/wiki/Category:Pupils_of_Socrates)
+3. **Why philosophy matters for critical thinking**
 
-<details><summary><h3> Ancient Greece and Rome </h3></summary>
+   * Philosophy as the discipline that asks what knowledge, truth, evidence, cause, person, justice, and meaning actually are.
 
-1. [Ancient_Greek_philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
-2. [Presocratic_philosophy](https://en.wikipedia.org/wiki/Category:Presocratic_philosophy)
-3. [Hellenistic_philosophy](https://en.wikipedia.org/wiki/Category:Hellenistic_philosophy)
-4. [Pyrrhonism](https://en.wikipedia.org/wiki/Category:Pyrrhonism)
-5. [Hellenistic_period](https://en.wikipedia.org/wiki/Hellenistic_period)
-6. [Gorgias](https://en.wikipedia.org/wiki/Gorgias_(dialogue))
-7. [Epilogism](https://en.wikipedia.org/wiki/Epilogism)
-8. [Milesian School](https://en.wikipedia.org/wiki/Milesian_school)
-9. [Eleatic School](https://en.wikipedia.org/wiki/Category:Eleatic_school)
-10. [Atomism](https://en.wikipedia.org/wiki/Atomism)
-11. [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
-	- [Epicurean Philosophers](https://en.wikipedia.org/wiki/Category:Epicurean_philosophers)
-12. [Stoicism](https://en.m.wikipedia.org/wiki/Category:Stoicism)
-13. [Ancient_Roman_philosophy](https://en.wikipedia.org/wiki/Ancient_Roman_philosophy)
-14. [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
-15. [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+4. **Map of the field**
 
-</details>
+   * Epistemology, metaphysics, ontology, ethics, philosophy of language, philosophy of mind, philosophy of science, social philosophy.
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Classical_Greek_philosophers">Classical and </a><a href="https://en.wikipedia.org/wiki/Category:Presocratic_philosophers">Presocratic Philosophers</a></h3></summary>
+**Core resources**
 
-1. [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus)
-2. [Zeno Elea](https://plato.stanford.edu/entries/zeno-elea/)
-3. [PreSocratics](https://plato.stanford.edu/entries/presocratics/)
-4. [Democritus](https://en.wikipedia.org/wiki/Democritus)
-5. [Epicurus](https://plato.stanford.edu/entries/epicurus/)
-	- [epicurus website](https://epicurus.net/)
-	- [epicurism](https://epicurism.info/)
-	- [epicurusphilosophy](https://epicurusphilosophy.com/)
-	- [newepicurean](https://newepicurean.com/)
-6. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
-7. [parmenides](https://plato.stanford.edu/entries/parmenides/)
-8. [Protagoras](https://en.wikipedia.org/wiki/Protagoras)
-9. [Socrates](https://en.wikipedia.org/wiki/Category:Socrates)
-10. [Plato](https://en.wikipedia.org/wiki/Category:Plato)
-11. [Aristotle](https://en.wikipedia.org/wiki/Category:Aristotle)
-12. [Carneades](https://en.wikipedia.org/wiki/Carneades)
-13. [Cicero](https://en.wikipedia.org/wiki/Cicero)
-14. [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
-15. [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)
-16. [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho)
-17. [Thucydides](https://en.wikipedia.org/wiki/Thucydides)
-18. [Plutarch](https://en.wikipedia.org/wiki/Plutarch)
-19. [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
-20. [Pre Socratic Philosophy](https://en.wikipedia.org/wiki/Pre-Socratic_philosophy)
-21. [Cyrenaics](https://en.wikipedia.org/wiki/Cyrenaics)
-22. [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus)
-23. [Xenophanes](https://plato.stanford.edu/entries/xenophanes/)
-24. [Lucretius](https://plato.stanford.edu/entries/lucretius/)
-25. [Leucippus](https://en.wikipedia.org/wiki/Leucippus)
-26. [Euhemerus](https://en.wikipedia.org/wiki/Euhemerus)
-27. [Anaxagoras](https://plato.stanford.edu/entries/anaxagoras/)
-28. [Aristippus](https://en.wikipedia.org/wiki/Aristippus)
-29. [Hypatia](https://en.wikipedia.org/wiki/Hypatia)
-30. [Marcus_Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
-31. [Diagoras of Melos](https://en.wikipedia.org/wiki/Diagoras_of_Melos)
-32. [Theodorus of Cyrene](https://en.wikipedia.org/wiki/Theodorus_of_Cyrene)
-33. [Archytas](https://en.wikipedia.org/wiki/Archytas)
-34. [Anaxagoras](https://en.wikipedia.org/wiki/Anaxagoras)
-35. [Archelaus](https://en.wikipedia.org/wiki/Archelaus_(philosopher))
-36. [Xenophon](https://en.wikipedia.org/wiki/Xenophon)
-37. [Polybius](https://en.wikipedia.org/wiki/Polybius)
-38. [Epictetus](https://en.wikipedia.org/wiki/Epictetus)
-39. [Seneca_the_Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-40. [Diogenes](https://en.wikipedia.org/wiki/Diogenes)
-41. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
-42. [Seneca The Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-43. [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes)
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)
+* [Philosophical Concepts (playlist)](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Twa6jGRRBYsrqsLodJYfG7)
+* [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
+* [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
+* [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology)
+* [Thought Experiment](https://plato.stanford.edu/entries/thought-experiment/)
 
-#### Historical Information
+---
 
-1. [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
-2. [Greece in Roman Era](https://en.wikipedia.org/wiki/Greece_in_the_Roman_era)
-3. [Ancient Rome](https://en.wikipedia.org/wiki/Ancient_Rome)
-4. [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic)
-5. [Roman Kingdom](https://en.wikipedia.org/wiki/Roman_Kingdom)
+## Unit 2 – Conceptual Distinctions: The Grammar of Clear Thinking
 
-</details>
+**Guiding questions**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy">Ancient Chinese Philosophy</a></h3></summary>
+* Which distinctions prevent us from thinking sloppily?
+* Why do many arguments fail because categories get mixed?
+* How can conceptual distinctions discipline inquiry without becoming sterile?
 
-1. [Confucius](https://en.wikipedia.org/wiki/Confucius)
-	- [Neo Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
-	- [Four_Books_and_Five_Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
-	- [Confucian Thought](https://en.wikipedia.org/wiki/Category:Confucian_thought)
-	- [Confucianism](https://en.m.wikipedia.org/wiki/Category:Confucianism)
-2. [Chinese_logicians](https://en.wikipedia.org/wiki/Category:Chinese_logicians)
-	- [School of Names](https://en.wikipedia.org/wiki/Category:School_of_Names)
-3. [Mohism](https://en.wikipedia.org/wiki/Category:Mohism)
-	- [Mozi](https://en.wikipedia.org/wiki/Mozi)
-4. [Legalism](https://en.wikipedia.org/wiki/Category:Legalism_(Chinese_philosophy))
-	- [Shen Buhai](https://en.wikipedia.org/wiki/Shen_Buhai)
-5. [Yangism](https://en.wikipedia.org/wiki/Yangism)
-6. [Taoist Schools](https://en.wikipedia.org/wiki/Category:Taoist_schools)
-	- [Laozi](https://en.wikipedia.org/wiki/Laozi)
-7. [School of Diplomacy](https://en.wikipedia.org/wiki/School_of_Diplomacy)
-8. [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu)
-9. [Xunzi](https://plato.stanford.edu/entries/xunzi/)
-10. [Hundred_Schools_of_Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought)
-11. [Classical Thought](https://en.wikipedia.org/wiki/Category:Classical_Chinese_philosophy)
-12. [Philosophers by Century](https://en.wikipedia.org/wiki/Category:Chinese_philosophers_by_century)
+**Sub-units**
 
-</details>
+1. **Basic distinctions**
 
-<details><summary><h3> Ancient Indian Philosophy </h3></summary>
+   * Fact/value, is/ought, analytic/synthetic, a priori/a posteriori, appearance/reality.
 
-1. [Ajita Kesakambali](https://en.wikipedia.org/wiki/Ajita_Kesakambali)
-2. [Sanjaya Belatthiputta](https://en.wikipedia.org/wiki/Sanjaya_Belatthiputta)
-3. [Ajñana](https://en.wikipedia.org/wiki/Aj%C3%B1ana)
-4. [Upanishads](https://en.wikipedia.org/wiki/Upanishads)
-5. [Charvaka](https://en.wikipedia.org/wiki/Charvaka)
-6. [Pakudha Kaccayana](https://en.wikipedia.org/wiki/Pakudha_Kaccayana)
-7. [Makkhali Gosala](https://en.wikipedia.org/wiki/Makkhali_Gosala)
-8. [Purana Kassapa](https://en.wikipedia.org/wiki/Purana_Kassapa)
-9. [Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/)
-10. [Jayarāśi](https://plato.stanford.edu/entries/jayaraasi/)
-11. [Śrīharṣa](https://plato.stanford.edu/entries/sriharsa/)
+2. **Structure and classification**
 
-</details>
+   * Necessary/sufficient, genus/differentia, types/tokens, abstract/concrete, essential/accidental.
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Classical_antiquity#Late_antiquity_(4th_to_6th_centuries_AD)"> Late Antiquity </a> </h3></summary>
+3. **Reasoning and interpretation**
 
-1. [Plotinus](https://plato.stanford.edu/entries/plotinus/)
-2. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
-3. [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers)
-4. [Porphyry](https://en.wikipedia.org/wiki/Porphyry_(philosopher))
-5. [Proclus](https://plato.stanford.edu/entries/proclus/)
-6. [iamblichus](https://plato.stanford.edu/entries/iamblichus/)
-7. [Ammonius Saccas](https://en.wikipedia.org/wiki/Ammonius_Saccas)
-8. [Augustine](https://plato.stanford.edu/entries/augustine/)
-9. [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/)
-10. [Simplicius of Cilicia](https://en.wikipedia.org/wiki/Simplicius_of_Cilicia)
-11. [Damascius](https://en.wikipedia.org/wiki/Damascius)
+   * Map/territory, charity, implication vs implicature, context dependence, vagueness.
 
-</details>
+4. **Category mistakes and pseudo-disputes**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Medieval_philosophy">Medieval and </a><a href="https://en.wikipedia.org/wiki/Scholasticism">Scholasticism</a></h3></summary>
+   * When disagreement is verbal, when it is substantive, and when both are mixed.
 
-1. [Ockham](https://en.wikipedia.org/wiki/William_of_Ockham)
-2. [Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
-3. [Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
-4. [Duns Scotus](https://en.wikipedia.org/wiki/Duns_Scotus)
-5. [Christian Philosophy](https://en.wikipedia.org/wiki/Category:Christian_philosophy)
-6. [Aristotelianism](https://en.wikipedia.org/wiki/Category:Aristotelianism)
-7. [Neoplatonism](https://en.wikipedia.org/wiki/Neoplatonism)
-8. [Platonism](https://en.wikipedia.org/wiki/Platonism)
-9. [Islamic Philosophy](https://en.wikipedia.org/wiki/Category:Islamic_philosophy)
+**Core resources**
 
-- **Movements**
-	* [Thomism](https://en.wikipedia.org/wiki/Thomism)
-	* [Augustinianism](https://en.wikipedia.org/wiki/Augustinianism)
-	* [Cartesianism](https://en.wikipedia.org/wiki/Cartesianism)
-	* [Molinism](https://en.wikipedia.org/wiki/Molinism)
-	* [Occamism](https://en.wikipedia.org/wiki/Occamism)
-	* [School_of_Salamanca](https://en.wikipedia.org/wiki/School_of_Salamanca)
-	* [Scotism](https://en.wikipedia.org/wiki/Scotism)
-	* [Neo Scholasticism](https://en.wikipedia.org/wiki/Neo-scholasticism)
+* [Fact–value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
+* [Is–ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+* [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
+* [Analytic–synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
+* [Necessity and sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
+* [Types and tokens](https://plato.stanford.edu/entries/types-tokens/)
+* [Abstract and concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
+* [Principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity)
+* [Map–territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+* [Vagueness](https://plato.stanford.edu/entries/vagueness/)
+* [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/)
+* [Genus–differentia definition](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
 
-</details>
+---
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_18th_century">Enlightenment and </a><a href="https://en.wikipedia.org/wiki/Renaissance_philosophy">Renaissance</a></h3></summary>
+## Unit 3 – Knowledge, Justification, and the Problem of Error
 
-1. [Mill](https://plato.stanford.edu/entries/mill/)
-2. [Locke](https://plato.stanford.edu/entries/locke/)
-3. [Bentham](https://plato.stanford.edu/entries/bentham/)
-4. [Adam Smith](https://plato.stanford.edu/entries/smith-moral-political/)
-5. [Bacon](https://plato.stanford.edu/entries/francis-bacon/)
-6. [Berkeley](https://plato.stanford.edu/entries/berkeley/)
-7. [Libertarian Thinkers](https://principledlibertarian.com/2019/04/10/libertarian-thinkers/)
-8. [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
-9. [Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)
-10. [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
-11. [David Hume](https://en.wikipedia.org/wiki/Category:David_Hume)
-12. [Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
-13. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
-14. [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)
-15. [Jean Charles Léonard de Sismondi](https://en.wikipedia.org/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi)
-16. [Gottfried_Wilhelm_Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
-17. [Pierre Bayle](https://plato.stanford.edu/entries/bayle/)
-18. [Jean Baptiste Say](https://en.wikipedia.org/wiki/Jean-Baptiste_Say)
-19. [Giordano Bruno](https://en.wikipedia.org/wiki/Giordano_Bruno)
-20. [Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
-21. [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
-22. [Juana Inés de la Cruz](https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz)
-23. [Giambattista_Vico](https://en.wikipedia.org/wiki/Giambattista_Vico)
-24. [Thomas Browne](https://en.wikipedia.org/wiki/Thomas_Browne)
-25. [Pierre_Gassendi](https://en.wikipedia.org/wiki/Pierre_Gassendi)
-26. [Marsilio Ficino](https://en.wikipedia.org/wiki/Marsilio_Ficino)
-27. [Gemistos_Plethon](https://en.wikipedia.org/wiki/Gemistos_Plethon)
-28. [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo)
-29. [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
-30. [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
-31. [Friedrich_Wilhelm_Joseph_Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling)
+**Guiding questions**
 
-- **Counter Enlightenment**
-	* [Counter-Enlightenment](https://en.wikipedia.org/wiki/Category:Counter-Enlightenment)
-	* [Age_of_Enlightenment](https://en.wikipedia.org/wiki/Category:Age_of_Enlightenment)
-	* [Anti Intellectualism](https://en.wikipedia.org/wiki/Category:Anti-intellectualism)
-	* [Dialectic_of_Enlightenment](https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment)
+* What is knowledge?
+* What justifies belief?
+* How should critical thinkers relate to skepticism?
 
-</details>
+**Sub-units**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/19th-century_philosophy">18th-19th Century</h3></summary>
+1. **Knowledge and justification**
 
-1. [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
-2. [Arthur_Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
-3. [Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl)
-4. [Marx](https://en.wikipedia.org/wiki/Karl_Marx)
-5. [Friedrich_Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
-6. [Frege](https://en.wikipedia.org/wiki/Gottlob_Frege)
-7. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-8. [Ludwig Feuerbach](https://en.wikipedia.org/wiki/Ludwig_Feuerbach)
-9. [Schutz](https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)
-10. [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-11. [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)
-12. [Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
-13. [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid)
-14. [Mary_Wollstonecraft](https://en.wikipedia.org/wiki/Mary_Wollstonecraft)
-15. [Comte](https://plato.stanford.edu/entries/comte/)
-16. [Henry Sidgwick](https://en.wikipedia.org/wiki/Henry_Sidgwick)
-17. [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall)
-18. [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)
-19. [George Boole](https://en.wikipedia.org/wiki/George_Boole)
-20. [Augustus De Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan)
-21. [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
-22. [Leon Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras)
-23. [Joseph_Schumpeter](https://en.wikipedia.org/wiki/Joseph_Schumpeter)
-24. [Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)
-25. [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
-26. [Herbert Spencer](https://en.wikipedia.org/wiki/Herbert_Spencer)
-27. [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
-28. [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
-29. [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto)
-30. [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung)
-31. [Mikhail_Bakunin](https://en.wikipedia.org/wiki/Mikhail_Bakunin)
+   * Analysis of knowledge, Gettier problems, defeasibility, truth-tracking.
 
-</details>
+2. **Major epistemological approaches**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/List_of_philosophers_born_in_the_19th_century">19th-20th Century</h3></summary>
+   * Foundationalism, coherentism, evidentialism, reliabilism, infinitism.
 
-1. [Peirce](https://en.wikipedia.org/wiki/Category:Charles_Sanders_Peirce)
-2. [William James](https://en.wikipedia.org/wiki/William_James)
-3. [Ludwig_Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
-4. [feyerabend](https://plato.stanford.edu/entries/feyerabend/)
-5. [Imre_Lakatos](https://en.wikipedia.org/wiki/Imre_Lakatos)
-6. [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
-7. [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand)
-8. [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle)
-9. [AJ Ayer](https://en.wikipedia.org/wiki/A._J._Ayer)
-10. [Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
-11. [Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
-12. [Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)
-13. [Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
-14. [Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski)
-15. [Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
-16. [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn)
-17. [C.I. Lewis](https://en.wikipedia.org/wiki/C._I._Lewis)
-18. [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle)
-19. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
-20. [F.P. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
-21. [Thomas Nagel](https://en.wikipedia.org/wiki/Thomas_Nagel)
-22. [Paul Grice](https://plato.stanford.edu/entries/grice/)
-23. [Popper](https://en.wikipedia.org/wiki/Karl_Popper)
-24. [William James](https://en.wikipedia.org/wiki/William_James)
-25. [Wilfrid Sellars](https://en.wikipedia.org/wiki/Wilfrid_Sellars)
-26. [Frank Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))
-27. [Irving Fisher](https://en.wikipedia.org/wiki/Irving_Fisher)
-28. [Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
-29. [Wassily_Leontief](https://en.wikipedia.org/wiki/Wassily_Leontief)
-30. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
+3. **Fallibilism and skepticism**
 
-</details>
+   * Münchhausen trilemma, closure problems, epistemic paradoxes, problem of the criterion.
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:20th-century_philosophy">20th Century-Present</h3></summary>
+4. **Formal and social epistemology**
 
-1. [Douglas Walton](https://www.researchgate.net/profile/Douglas-Walton)
-	- [papers](https://scholar.google.ca/citations?user=iRzoJwcAAAAJ&hl=en)
-2. [Bernard Williams](https://en.wikipedia.org/wiki/Bernard_Williams)
-3. [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss)
-4. [Stephen Toulmin](https://en.wikipedia.org/wiki/Stephen_Toulmin)
-5. [John Pollock](https://johnpollock.us/)
-6. [Rawls](https://en.wikipedia.org/wiki/John_Rawls)
-7. [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
-8. [Gilbert_Harman](https://en.wikipedia.org/wiki/Gilbert_Harman)
-9. [Paul Thagard](https://en.wikipedia.org/wiki/Paul_Thagard)
-10. [Wilfred Sellers](https://plato.stanford.edu/entries/sellars/)
-11. [Hilary Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
-12. [Brian Skyrms](https://en.wikipedia.org/wiki/Brian_Skyrms)
-13. [Arthur Fine](https://en.wikipedia.org/wiki/Arthur_Fine)
-14. [Ian Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
-15. [Kripke](https://en.wikipedia.org/wiki/Saul_Kripke)
-16. [J. L. Austin](https://plato.stanford.edu/entries/austin-jl/)
-17. [Donald Davidson](https://plato.stanford.edu/entries/davidson/)
-18. [Bas C. van Fraassen](http://www.princeton.edu/~fraassen/)
-19. [Nancy_Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
-20. [reichenbach](https://plato.stanford.edu/entries/reichenbach/)
-21. [P. F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson)
-22. [John Searle](https://en.wikipedia.org/wiki/John_Searle)
-23. [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)
-24. [Anthony Kenny](https://en.wikipedia.org/wiki/Anthony_Kenny)
-25. [G.E.M Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
-26. [David Chalmers](http://consc.net/)
-27. [Emmanuel Levinas](https://plato.stanford.edu/entries/levinas/)
-28. [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
-29. [Hannah Arendt](https://plato.stanford.edu/entries/arendt/)
-30. [Kenneth Burke](https://en.wikipedia.org/wiki/Kenneth_Burke)
-31. [Rebecca Goldstein](https://en.wikipedia.org/wiki/Rebecca_Goldstein)
-32. [Hilary_Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam)
-33. [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanislaw_Ulam)
-34. [Andrey_Markov](https://en.wikipedia.org/wiki/Andrey_Markov)
-35. [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
-36. [Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
-37. [Christopher Hitchcock](https://philpeople.org/profiles/christopher-hitchcock) [research](https://scholar.google.com/citations?user=YSCfVlkAAAAJ&hl=en)
-38. [Bas_van_Fraassen](https://en.wikipedia.org/wiki/Bas_van_Fraassen)
-39. [Kevin Scharp](http://kevinscharp.com/)
-40. [George Santayana](https://en.wikipedia.org/wiki/George_Santayana)
-41. [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco)
-42. [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
-43. [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
-44. [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin)
-45. [Nancy Cartwright](https://en.wikipedia.org/wiki/Nancy_Cartwright_(philosopher))
-46. [Ian_Hacking](https://en.wikipedia.org/wiki/Ian_Hacking)
-47. [Ray_Jackendoff](https://en.wikipedia.org/wiki/Ray_Jackendoff)
-48. [George_Lakoff](https://en.wikipedia.org/wiki/George_Lakoff)
-49. [Luciano Floridi](https://en.wikipedia.org/wiki/Luciano_Floridi)
-50. [Arif Ahmed](https://en.wikipedia.org/wiki/Arif_Ahmed_(philosopher))
+   * Bayesian reasoning, social epistemology, testimony, collective inquiry.
 
-</details>
+5. **Epistemology across the curriculum**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Category:Marxism">Understanding Marxism</h3></summary>
+   * Ties to evidence, data literacy, scientific reasoning, and media literacy.
 
-- [Marxist Internet Archive](https://www.marxists.org/english-mobiles.htm)
+**Core resources**
 
-1. [Marxist Theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
-2. [Marxist Schools of Thought](https://en.wikipedia.org/wiki/Category:Marxist_schools_of_thought)
-3. [Influences on Karl Marx](https://en.wikipedia.org/wiki/Influences_on_Karl_Marx)
-4. [Western Marxism](https://en.wikipedia.org/wiki/Western_Marxism)
-5. [Marxist Philosophy](https://en.wikipedia.org/wiki/Marxist_philosophy)
-6. [Marxist Historiography](https://en.wikipedia.org/wiki/Marxist_historiography)
-7. [Historical](https://en.wikipedia.org/wiki/Historical_materialism) and [Dialectical](https://en.wikipedia.org/wiki/Dialectical_materialism) Materialism
-	- [Base and Superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure)
-8. [Prison Notebooks](https://en.wikipedia.org/wiki/Prison_Notebooks)
-9. [Reification](https://en.wikipedia.org/wiki/Reification_(Marxism))
+* [Epistemology](https://en.wikipedia.org/wiki/Category:Epistemology)
+* [Analysis of knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
+* [Gettier problem](https://iep.utm.edu/gettier/)
+* [Foundationalism](https://en.wikipedia.org/wiki/Foundationalism)
+* [Coherentism](https://plato.stanford.edu/entries/justep-coherence/)
+* [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
+* [Reliabilism](https://plato.stanford.edu/entries/reliabilism/)
+* [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+* [Social epistemology](https://plato.stanford.edu/entries/epistemology-social/)
+* [Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)
+* [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
+* [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
+* [Defeaters in epistemology](https://iep.utm.edu/defeaters-in-epistemology/)
+* [Problem of the criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
 
-#### Key People
+---
 
-- [Henri De Saint Simon](https://en.wikipedia.org/wiki/Henri_de_Saint-Simon)
-- [Charles Fourier](https://en.wikipedia.org/wiki/Charles_Fourier)
-- [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci)
-- [Louis Althusser](https://en.wikipedia.org/wiki/Louis_Althusser)
-- [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School) and [Critical Theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
-- [Gyorgy Lukacs](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs)
-- [Georges Sorel](https://en.wikipedia.org/wiki/Georges_Sorel)
-- [Herbert_Marcuse](https://en.wikipedia.org/wiki/Herbert_Marcuse)
-- [Georg_Simmel](https://en.wikipedia.org/wiki/Georg_Simmel)
-- [Max_Horkheimer](https://en.wikipedia.org/wiki/Max_Horkheimer)
-- [Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno)
-- [Robert Owen](https://en.wikipedia.org/wiki/Robert_Owen)
+## Unit 4 – Truth, Objectivity, and Intersubjectivity
 
-#### Descendent Intellectuals
+**Guiding questions**
 
-- [Derrick Bell](https://en.wikipedia.org/wiki/Derrick_Bell)
-- [Robin DiAngelo](https://en.wikipedia.org/wiki/Robin_DiAngelo)
-- [Ibram X Kendi](https://en.wikipedia.org/wiki/Ibram_X._Kendi)
-- [Nikole Hannah Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)
-- [Ta Nehisi Coates](https://en.wikipedia.org/wiki/Ta-Nehisi_Coates)
-- [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
-- [Kimberle Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Crenshaw)
-- [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
-- [Richard Delgado](https://en.wikipedia.org/wiki/Richard_Delgado)
+* What is truth?
+* Is objectivity possible?
+* How do objectivity and intersubjectivity differ?
+* What does this change in public reasoning?
 
-</details>
+**Sub-units**
 
-<details><summary><h3><a href="https://en.wikipedia.org/wiki/Continental_philosophy">French Continental Philosophy</h3></summary>
+1. **Theories of truth**
 
-#### Key People
+   * Correspondence, deflationary, verificationist, and truthmaker approaches.
 
-- [Jacques_Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)
-- [Jean_Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard)
-- [Jacques_Derrida](https://en.wikipedia.org/wiki/Jacques_Derrida)
-- [Michel_Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
-- [Jean-François Lyotard](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
-- [Simone_de_Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
-- [Felix Guattari](https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari)
-- [Gilles_Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
-- [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
+2. **Truth and representation**
 
-</details>
+   * Facts, states of affairs, representation, map/territory relations.
+
+3. **Objectivity and perspective**
+
+   * Subjectivity, objectivity, perspectivism, intersubjectivity.
+
+4. **Truth in contested domains**
+
+   * Science, morality, politics, testimony, and public discourse.
+
+**Core resources**
+
+* [Theories of truth](https://en.wikipedia.org/wiki/Category:Theories_of_truth)
+* [Correspondence theory of truth](https://plato.stanford.edu/entries/truth-correspondence/)
+* [Deflationary theory of truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
+* [Truthmakers](https://plato.stanford.edu/entries/truthmakers/)
+* [Facts](https://plato.stanford.edu/entries/facts/)
+* [Objectivity](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29)
+* [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)
+* [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
+* [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
+
+---
+
+## Unit 5 – Metaphysics and Ontology: What Exists and How We Classify It
+
+**Guiding questions**
+
+* What kinds of things exist?
+* Are our categories discovered or imposed?
+* What is the difference between ontology and ordinary naming?
+
+**Sub-units**
+
+1. **Ontology and ontological commitment**
+
+   * Objects, properties, events, relations, states of affairs.
+
+2. **Universals and particulars**
+
+   * Realism, nominalism, tropes, kinds, essence.
+
+3. **Categories and structure**
+
+   * Aristotelian and Kantian categories; fundamentality; substance; process.
+
+4. **Modality and worlds**
+
+   * Possible worlds, contingency, necessity, identity across change.
+
+5. **Critical thinking payoff**
+
+   * Many public disputes depend on hidden ontological assumptions.
+
+**Core resources**
+
+* [Ontology](https://en.wikipedia.org/wiki/Ontology)
+* [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
+* [The Metaphysics Project](https://mally.stanford.edu/index.html)
+* [Events](https://plato.stanford.edu/entries/events/)
+* [Properties](https://plato.stanford.edu/entries/properties/)
+* [States of affairs](https://plato.stanford.edu/entries/states-of-affairs/)
+* [Abstract objects](https://plato.stanford.edu/entries/abstract-objects/)
+* [Substance](https://plato.stanford.edu/entries/substance/)
+* [Relations](https://plato.stanford.edu/entries/relations/)
+* [Realism](https://plato.stanford.edu/entries/realism/)
+* [Nominalism](https://en.wikipedia.org/wiki/Nominalism)
+* [Essential vs accidental properties](https://plato.stanford.edu/entries/essential-accidental/)
+* [Possible worlds](https://plato.stanford.edu/entries/possible-worlds/)
+* [Ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/)
+* [Process philosophy](https://plato.stanford.edu/entries/process-philosophy/)
+* [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+
+---
+
+## Unit 6 – Meaning, Language, and Interpretation
+
+**Guiding questions**
+
+* How do words connect to the world?
+* Why do disputes over meaning become disputes over reality and value?
+* How does interpretation shape what counts as understanding?
+
+**Sub-units**
+
+1. **Meaning and reference**
+
+   * Sense/reference, symbol grounding, naming, semantics.
+
+2. **Pragmatics and communication**
+
+   * Implicature, deixis, felicity conditions, cooperative principle, relevance.
+
+3. **Interpretation and hermeneutics**
+
+   * Philosophical interpretation, forms of life, language games, deconstruction.
+
+4. **Language and critical thinking**
+
+   * Framing, ambiguity, category drift, persuasive language, public discourse.
+
+**Core resources**
+
+* [Theories of meaning](https://plato.stanford.edu/entries/meaning/)
+* [Philosophy of language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
+* [Sense and reference](https://en.wikipedia.org/wiki/Sense_and_reference)
+* [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
+* [Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
+* [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
+* [Implicature](https://plato.stanford.edu/entries/implicature/)
+* [Deixis](https://en.wikipedia.org/wiki/Deixis)
+* [Felicity conditions](https://en.wikipedia.org/wiki/Felicity_%28pragmatics%29)
+* [Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
+* [Relevance theory](https://en.wikipedia.org/wiki/Relevance_theory)
+* [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/)
+* [Language game](https://en.wikipedia.org/wiki/Language_game_%28philosophy%29)
+* [Deconstruction](https://en.wikipedia.org/wiki/Deconstruction)
+
+---
+
+## Unit 7 – Mind, Consciousness, and the Problem of the Self
+
+**Guiding questions**
+
+* What is a mind?
+* Can consciousness be explained physically?
+* What makes a person the same person over time?
+
+**Sub-units**
+
+1. **Mind-body theories**
+
+   * Dualism, materialism, physicalism, functionalism, computational theories of mind.
+
+2. **Consciousness**
+
+   * Qualia, zombies, the knowledge argument, panpsychism, other minds.
+
+3. **Mental causation and agency**
+
+   * How mental states relate to actions and physical events.
+
+4. **Self and identity**
+
+   * Personal identity, continuity, embodiment, self-reference.
+
+5. **Why this matters for critical thinking**
+
+   * Assumptions about persons, agency, responsibility, and cognition.
+
+**Core resources**
+
+* [Philosophy of mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
+* [Dualism](https://plato.stanford.edu/entries/dualism/)
+* [Ghost in the machine](https://en.wikipedia.org/wiki/Ghost_in_the_machine)
+* [Functionalism](https://en.wikipedia.org/wiki/Functionalism_%28philosophy_of_mind%29)
+* [Computational theory of mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
+* [Qualia and the knowledge argument](https://plato.stanford.edu/entries/qualia-knowledge/)
+* [Philosophical zombies](https://plato.stanford.edu/entries/zombies/)
+* [Other minds](https://plato.stanford.edu/entries/other-minds/)
+* [Mental causation](https://plato.stanford.edu/entries/mental-causation/)
+* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
+* [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
+* [Propositional attitudes](https://iep.utm.edu/prop-ati/)
+
+---
+
+## Unit 8 – Freedom, Determinism, Responsibility, and Moral Luck
+
+**Guiding questions**
+
+* Are human beings free?
+* What kind of control is needed for responsibility?
+* How should critical thinkers reason about agency under causal explanation?
+
+**Sub-units**
+
+1. **Determinism and indeterminism**
+
+   * Metaphysical and scientific versions.
+
+2. **The free will debate**
+
+   * Compatibilism, incompatibilism, libertarianism.
+
+3. **Agency and action**
+
+   * Action theory, intention, reasons, control.
+
+4. **Responsibility and luck**
+
+   * Moral responsibility, moral luck, blame, excuse.
+
+5. **Cross-course integration**
+
+   * Links to psychology, causality, law, ethics, and religion.
+
+**Core resources**
+
+* [Free will](https://plato.stanford.edu/entries/freewill/)
+* [Determinism](https://en.wikipedia.org/wiki/Category:Determinism)
+* [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism)
+* [Compatibilism](https://plato.stanford.edu/entries/compatibilism/)
+* [Incompatibilist theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
+* [Agency](https://plato.stanford.edu/entries/agency/)
+* [Action theory](https://plato.stanford.edu/entries/action/)
+* [Moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
+* [Moral luck](https://plato.stanford.edu/entries/moral-luck/)
+* [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
+
+---
+
+## Unit 9 – Ethics: Norms, Rules, Virtues, and the Shape of Moral Judgment
+
+**Guiding questions**
+
+* What makes an action right, wrong, admirable, or blameworthy?
+* Are morality and convention the same thing?
+* How should students reason through moral disagreement?
+
+**Sub-units**
+
+1. **Normative ethics**
+
+   * Virtue ethics, deontology, consequentialism, principlism, casuistry.
+
+2. **Moral concepts**
+
+   * Rules, norms, principles, standards, convention, phronesis, harm.
+
+3. **Moral psychology**
+
+   * Desire, sentiment, egoism, development, moral imagination, just-world thinking.
+
+4. **Dilemmas and judgment**
+
+   * Heinz dilemma, sheriff case, famine and affluence, supererogation, self-obligations.
+
+5. **Cross-cultural ethics**
+
+   * Confucian, Buddhist, Taoist, secular, and religious ethics.
+
+**Core resources**
+
+* [Outline of ethics](https://en.wikipedia.org/wiki/Outline_of_ethics)
+* [Ethics glossary](https://ethicsunwrapped.utexas.edu/glossary)
+* [Normative ethics](https://en.wikipedia.org/wiki/Normative_ethics)
+* [Virtue ethics](https://en.wikipedia.org/wiki/Category:Virtue_ethics)
+* [Deontological ethics](https://en.wikipedia.org/wiki/Category:Deontological_ethics)
+* [Consequentialism](https://en.wikipedia.org/wiki/Category:Consequentialism)
+* [Utilitarianism](https://en.wikipedia.org/wiki/Category:Utilitarianism)
+* [Phronesis](https://en.wikipedia.org/wiki/Phronesis)
+* [Convention](https://en.wikipedia.org/wiki/Convention_%28norm%29)
+* [David Lewis on convention](https://plato.stanford.edu/entries/convention/)
+* [Social norm](https://en.wikipedia.org/wiki/Social_norm)
+* [Rules](https://en.wikipedia.org/wiki/Category:Rules)
+* [Principles](https://en.wikipedia.org/wiki/Category:Principles)
+* [Moral psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
+* [Moral imagination](https://ethicsunwrapped.utexas.edu/glossary/moral-imagination)
+* [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
+* [Heinz dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma)
+* [Famine, Affluence, and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
+* [Supererogation](https://plato.stanford.edu/entries/supererogation/)
+* [Self-obligations](https://plato.stanford.edu/entries/self-obligations/)
+* [Confucian ethics](https://en.wikipedia.org/wiki/Category:Confucian_ethics)
+* [Buddhist ethics](https://en.wikipedia.org/wiki/Category:Buddhist_ethics)
+* [Taoist ethics](https://en.wikipedia.org/wiki/Category:Taoist_ethics)
+
+---
+
+## Unit 10 – Metaethics: Moral Truth, Relativism, and Reasons
+
+**Guiding questions**
+
+* Are moral claims true or false?
+* Are values objective, subjective, intersubjective, or constructed?
+* What are moral reasons, and where do they come from?
+
+**Sub-units**
+
+1. **Realism and anti-realism**
+
+   * Moral realism, anti-realism, naturalism, non-naturalism, Cornell realism.
+
+2. **Cognitivism and non-cognitivism**
+
+   * Emotivism, subjectivism, relativism, and related expressivist tendencies.
+
+3. **Constructivism and contractualism**
+
+   * Reasons, obligations, and the construction of normativity.
+
+4. **Sentimentalism, intuitionism, and practical reason**
+
+   * Hume, Smith, Moore, intuitionist and sentimentalist traditions.
+
+5. **Objectivity and intersubjectivity in morality**
+
+   * A major bridge between ethics, social life, and worldview analysis.
+
+**Core resources**
+
+* [Moral realism](https://plato.stanford.edu/entries/moral-realism/)
+* [Moral anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/)
+* [Moral cognitivism](https://plato.stanford.edu/entries/moral-cognitivism/)
+* [Constructivist metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/)
+* [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/)
+* [Moral skepticism](https://plato.stanford.edu/entries/skepticism-moral/)
+* [Moral relativism](https://plato.stanford.edu/entries/moral-relativism/)
+* [Ethical subjectivism](https://en.wikipedia.org/wiki/Ethical_subjectivism)
+* [Emotivism](https://en.wikipedia.org/wiki/Emotivism)
+* [Moral naturalism](https://plato.stanford.edu/entries/naturalism-moral/)
+* [Ideal observer theory](https://en.wikipedia.org/wiki/Ideal_observer_theory)
+* [Moral reasoning](https://plato.stanford.edu/entries/reasoning-moral/)
+* [Moral epistemology](https://plato.stanford.edu/entries/moral-epistemology/)
+* [The intersubjective basis of morality](https://journals.sagepub.com/doi/abs/10.1177/019145379602200605?journalCode=pscb)
+* [Objectivity and intersubjectivity in moral philosophy](https://dash.harvard.edu/bitstream/handle/1/40046415/JULIAN-DISSERTATION-2017.pdf?sequence=4)
+* [The Sources of Normativity](https://www.amazon.com/Sources-Normativity-Christine-M-Korsgaard/dp/052155960X)
+* [What We Owe to Each Other](https://www.jstor.org/stable/j.ctv134vmrn)
+* [Being Realistic about Reasons](https://www.amazon.com/Being-Realistic-about-Reasons-Scanlon/dp/0198748108)
+
+---
+
+## Unit 11 – Traditions, Schools, and Worldviews
+
+**Guiding questions**
+
+* How do traditions shape what questions seem natural or important?
+* What is gained and lost by different philosophical styles?
+* How should students approach rival schools without sectarianism?
+
+**Sub-units**
+
+1. **Ancient foundations**
+
+   * Greek, Roman, Chinese, and Indian traditions.
+
+2. **Modern turning points**
+
+   * Rationalism vs empiricism, Enlightenment, and post-Kantian shifts.
+
+3. **Major modern styles**
+
+   * Analytic philosophy, pragmatism, existentialism, continental philosophy, positivism, critical rationalism.
+
+4. **Worldviews and schools**
+
+   * Nihilism, naturalism, idealism, pragmatism, Marxism, postmodernism.
+
+5. **How traditions shape inquiry**
+
+   * Different standards of rigor, interpretation, and explanation.
+
+**Core resources**
+
+* [Rationalism vs empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
+* [Analytic philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
+* [Logical positivism](https://en.wikipedia.org/wiki/Logical_positivism)
+* [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
+* [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
+* [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
+* [Philosophical schools and traditions](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
+* [Philosophical traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions)
+* [Philosophical movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements)
+* [Ancient Greek philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
+* [Ancient Chinese philosophy](https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy)
+* [Ancient Indian philosophy](https://en.wikipedia.org/wiki/Charvaka)
+* [Medieval philosophy](https://en.wikipedia.org/wiki/Medieval_philosophy)
+* [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
+* [Age of Enlightenment](https://en.wikipedia.org/wiki/Category:Age_of_Enlightenment)
+* [Counter-Enlightenment](https://en.wikipedia.org/wiki/Category:Counter-Enlightenment)
+* [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
+* [French continental philosophy](https://en.wikipedia.org/wiki/Continental_philosophy)
+
+---
+
+## Unit 12 – Philosophy of Science, Social Science, and Models of Inquiry
+
+**Guiding questions**
+
+* What distinguishes scientific explanation from other forms of explanation?
+* What are models, paradigms, and theories doing?
+* Why do philosophical disputes matter for scientific reasoning?
+
+**Sub-units**
+
+1. **Science and explanation**
+
+   * Hypothetico-deductive reasoning, realism vs instrumentalism, unobservables.
+
+2. **Theory choice and underdetermination**
+
+   * Duhem–Quine, observational equivalence, confirmation holism.
+
+3. **Paradigms and scientific change**
+
+   * Kuhn, Lakatos, Popper, critical rationalism.
+
+4. **Philosophy of social science**
+
+   * Interpretation, historical explanation, social ontology, institutions.
+
+5. **Bridge to the rest of the curriculum**
+
+   * Data, models, causality, historical reasoning, systems thinking.
+
+**Core resources**
+
+* [Philosophy of science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
+* [Philosophy of social science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
+* [Scientific realism](https://plato.stanford.edu/entries/scientific-realism/)
+* [Constructive empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
+* [Underdetermination](https://plato.stanford.edu/entries/scientific-underdetermination/)
+* [Duhem–Quine thesis](https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
+* [Observational equivalence](https://en.wikipedia.org/wiki/Observational_equivalence)
+* [Confirmation holism](https://en.wikipedia.org/wiki/Confirmation_holism)
+* [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
+* [Mill’s methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
+* [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
+* [Instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism)
+* [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
+* [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+* [Positivism](https://en.wikipedia.org/wiki/Positivism)
+* [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
+
+---
+
+## Unit 13 – Social and Political Philosophy: Norms, Justice, Ideology, and Collective Life
+
+**Guiding questions**
+
+* What holds societies together?
+* What makes institutions legitimate or illegitimate?
+* How do norms, conventions, ideologies, and power shape reasoning?
+
+**Sub-units**
+
+1. **Norms and institutions**
+
+   * Convention, social norms, standards, and de facto orders.
+
+2. **Justice and legitimacy**
+
+   * Social contract, original position, equality, liberty, authority.
+
+3. **Collective responsibility and social ethics**
+
+   * Collective responsibility, social movements, cosmopolitanism, effective altruism.
+
+4. **Ideology and critique**
+
+   * Marxist frameworks, critical theory, reification, base/superstructure.
+
+5. **Cross-course integration**
+
+   * Links to propaganda, media studies, historical reasoning, and religion.
+
+**Core resources**
+
+* [Social contract](https://en.wikipedia.org/wiki/Social_contract)
+* [Original position](https://plato.stanford.edu/entries/original-position/)
+* [Collective moral responsibility](https://iep.utm.edu/collective-moral-responsibility/)
+* [Social ethics](https://en.wikipedia.org/wiki/Category:Social_ethics)
+* [Concepts in social philosophy](https://en.wikipedia.org/wiki/Category:Concepts_in_social_philosophy)
+* [Social movements](https://en.wikipedia.org/wiki/Category:Social_movements)
+* [Cosmopolitanism](https://en.wikipedia.org/wiki/Category:Cosmopolitanism)
+* [Effective altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
+* [Harm principle](https://en.wikipedia.org/wiki/Harm_principle)
+* [Authority and the Individual (Russell)](https://ia601400.us.archive.org/3/items/AuthorityAndTheIndividual_656/BertrandRussell-authorityAndTheIndividual-routledge1985.pdf)
+* [Marxist theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
+* [Historical materialism](https://en.wikipedia.org/wiki/Historical_materialism)
+* [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
+* [Reification (Marxism)](https://en.wikipedia.org/wiki/Reification_%28Marxism%29)
+* [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School)
+* [Critical theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
+
+---
+
+## Unit 14 – Philosophy Today: Information, Computation, AI, and the Future of Reason
+
+**Guiding questions**
+
+* How do information and computation reshape philosophy?
+* Can machines think, understand, or reason?
+* What happens to knowledge, agency, and responsibility in a technological world?
+
+**Sub-units**
+
+1. **Philosophy of information**
+
+   * Information as a philosophical category; representation and structure.
+
+2. **Computation and mind**
+
+   * Computational philosophy, computational theory of mind, symbol grounding.
+
+3. **AI and intelligence**
+
+   * Turing test, Chinese room, reasoning systems, expert systems, AGI debates.
+
+4. **Limits of formal systems**
+
+   * Incompleteness, no free lunch, computational irreducibility.
+
+5. **Critical thinking in the age of AI**
+
+   * What philosophy contributes that mere technical literacy cannot.
+
+**Core resources**
+
+* [Information philosophy](https://www.informationphilosopher.com/)
+* [Philosophy of information](https://en.wikipedia.org/wiki/Philosophy_of_information)
+* [Computational philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
+* [Computational epistemology](http://cogsci.uwaterloo.ca/Index.html)
+* [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
+* [Turing test](https://plato.stanford.edu/entries/turing-test/)
+* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
+* [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
+* [Church–Turing thesis](https://plato.stanford.edu/entries/church-turing/)
+* [Gödel’s incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+* [No free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+* [Computational irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
+* [Luciano Floridi](https://en.wikipedia.org/wiki/Luciano_Floridi)
+* [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
+* [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
+* [John Searle](https://en.wikipedia.org/wiki/John_Searle)
+
+---
+
+# Skills labs running through the whole course (recommended)
+
+* **Distinction drills:** identify which distinction a confused argument is failing to respect—fact/value, is/ought, objectivity/intersubjectivity, descriptive/normative, ontology/epistemology.
+* **Concept analysis:** define a concept such as truth, justice, meaning, personhood, freedom, knowledge, norm, or objectivity using necessary/sufficient conditions, counterexamples, and edge cases.
+* **Argument reconstruction:** translate philosophical prose into explicit arguments with premises, assumptions, and conclusions.
+* **Thought experiment analysis:** explain what a thought experiment is testing, what intuition it relies on, and whether that intuition is trustworthy.
+* **Framework comparison grids:** compare rival positions—realism vs anti-realism, dualism vs physicalism, compatibilism vs libertarianism, deontology vs consequentialism, rationalism vs empiricism.
+* **Worldview mapping:** identify a worldview’s commitments about reality, knowledge, personhood, morality, society, and purpose.
+* **Interpretation labs:** compare how different philosophical traditions or schools frame the same problem.
+* **Cross-course bridge labs:** connect a philosophical issue to another course—epistemology to evidence, philosophy of science to scientific reasoning, social philosophy to propaganda, ethics to religion, mind/agency to cognitive bias.
+
+---
+
+# Possible capstone activities
+
+1. **Concept atlas**
+   Build a structured guide to 20–30 core philosophical distinctions and explain why each matters for critical thinking.
+
+2. **Worldview comparison dossier**
+   Compare two or three philosophical worldviews or traditions across knowledge, reality, ethics, language, mind, politics, and meaning.
+
+3. **Deep debate portfolio**
+   Reconstruct a major philosophical dispute—free will, realism vs anti-realism, moral realism, objectivity, consciousness, justice, or meaning—and present the strongest arguments on each side.
+
+4. **Philosophy across the curriculum project**
+   Show how one philosophical problem runs through several courses: objectivity in science, media, and history; causation in metaphysics and science; moral responsibility in psychology, law, and religion; worldview in philosophy, propaganda, and religion.
+
+5. **AI, mind, and reason project**
+   Use the philosophy of information / AI materials to ask what reasoning, understanding, intelligence, and agency actually are.
+
+---
+
+## Recommended emphasis
+
+This course is strongest when taught not as a generic history survey, but as **philosophy for critical thinking**:
+
+* conceptual distinctions and philosophical method
+* epistemology and truth
+* metaphysics / ontology / categories
+* language, meaning, and interpretation
+* ethics and metaethics
+* mind, consciousness, agency, and responsibility
+* worldview analysis across traditions
+
+Historical philosophers and schools should appear throughout, but mostly as **ways into problems**, not as the sole organizing principle.
