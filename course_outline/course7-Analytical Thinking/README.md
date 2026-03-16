@@ -1,12 +1,3 @@
-You’re right. I flattened the units into **Goal / Guiding questions / Core / Resources** instead of the structure you established:
-
-* **Unit title**
-* **Guiding questions**
-* **Sub-units**
-* **Core readings**
-
-Here is the corrected version in that format.
-
 # Course Overview: Analytical Thinking – From Problem Framing to Judgment Under Uncertainty
 
 **Big question:**
