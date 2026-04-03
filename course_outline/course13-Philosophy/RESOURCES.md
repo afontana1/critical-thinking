@@ -940,3 +940,54 @@
 - [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
 
 </details>
+
+<details><summary><h3>Philosophy Videos</h3></summary>
+
+1. [Barry Smith](https://www.youtube.com/@BarrySmithOntology)
+2. [Essential Salts](https://www.youtube.com/@untimelyreflections)
+3. [Daniel Bonevac](https://www.youtube.com/@PhiloofAlexandria)
+4. [Fiction Beast](https://www.youtube.com/@Fiction_Beast)
+5. [GregoryBSadler](https://www.youtube.com/@GregoryBSadler)
+6. [Jerffery Kaplan](https://www.youtube.com/@profjeffreykaplan)
+7. [CCK Philosophy](https://www.youtube.com/@jonasceikaCCK)
+8. [KaneB](https://www.youtube.com/@KaneB)
+9. [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue)
+10. [Philosophize This!](https://www.youtube.com/@philosophizethispodcast)
+11. [Philosophy Overdose](https://www.youtube.com/@Philosophy_Overdose)
+12. [Theory and Philosophy](https://www.youtube.com/@TheoryPhilosophy)
+13. [Victor Gijsbers](https://www.youtube.com/@VictorGijsbers/featured)
+14. [Mind-Body Solution](https://www.youtube.com/@drtevinnaidu)
+15. [Philosophical Trials](https://www.youtube.com/@PhilosophicalTrials)
+16. [Artificiality](https://www.youtube.com/@Artificiality)
+17. [Red Star](https://www.youtube.com/@TaimurRahman-English)
+18. [Free Will Show](https://www.youtube.com/@thefreewillshow2132)
+19. [The Dissenter](https://www.youtube.com/@TheDissenterRL)
+20. [The Partially Examined Life](https://www.youtube.com/@ThePartiallyExaminedLife)
+21. [The Royal Institution](https://www.youtube.com/TheRoyalInstitution)
+22. [The Panpsycast](https://www.youtube.com/@ThePanpsycast)
+
+### Playlists 
+
+1. [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+2. [Philosophy of Biology](https://www.youtube.com/playlist?list=PLXKKIUdnOESEqbW19hPJ_VjiG0RHsUThi)
+3. [Philosophy of Science](https://www.youtube.com/playlist?list=PLXKKIUdnOESGJ2Gjea3vAlsYwNNzXJwP9)
+4. [Scientific Realism](https://www.youtube.com/playlist?list=PLXKKIUdnOESHcJwaBL2--vHSR5tWwjn-h)
+5. [History of Philosophy](https://www.youtube.com/playlist?list=PLqsoWxJ-qmMuYO4AKp7NZ_qBy6gaj3cUv)
+6. [History of Western Philosophy](https://www.youtube.com/playlist?list=PLseq-Fwpb2K2FQj9WI7lMgPGX3r8Ahev3)
+7. [Foundations of Modern Social Theory](https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE)
+8. [Dr. Darren Staloff, Philosophy of History series](https://www.youtube.com/playlist?list=PLMT3Fi0FoRfq7Jf-guDbz5x-rHCcXVjZ7)
+9. [Bayesian Epistemology](https://www.youtube.com/playlist?list=PLz0n_SjOttTdIqlgDjdNFfLUFVrl5j1J4)
+10. [Ethics](https://www.youtube.com/playlist?list=PLXKKIUdnOESEiJRXtGTcHHycfaXGeFjOp)
+11. [MetaEthics](https://www.youtube.com/playlist?list=PLXKKIUdnOESH7mWijTiv4tTFAcQnEkFDJ)
+12. [Philosophy of Astrobiology](https://www.youtube.com/playlist?list=PLXKKIUdnOESHa62D4GglumFPipvP86Xp6)
+13. [Epistemology](https://www.youtube.com/playlist?list=PLXKKIUdnOESFdCPf8ZTwVTb4Z4aSCQu3C)
+14. [John Searle Lectures](https://www.youtube.com/playlist?list=PL553DCA4DB88B0408)
+15. [Beyond Networks: The Evolution of Living Systems](https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W)
+16. [The Nietzsche Podcast](https://youtube.com/playlist?list=PLjnhfrJcWicBPaG0YnghbCgBRV-YP6rT2&si=DRhUnOL8HCW1xlEc)
+17. [Ontology of Language](https://youtube.com/playlist?list=PLyngZgIl3WTjK-D7L1pdtpqzxIBhjBsb_&si=l5cQabFJNld88dxO)
+18. [Social Ontology](https://youtube.com/playlist?list=PLyngZgIl3WTht-ilt-WpUhCv7rbB1Crd9&si=CqdFwiUJuMwnEwbJ)
+19. [Philosophy of Economics 2022](https://youtube.com/playlist?list=PLHwUrKo7SDpTRZ5mAQaMsuYJor1kakKMr&si=lbYj0wrQ_5wHIGX9)
+20. [Marxism](https://youtube.com/playlist?list=PLq-kUiXssVioxBWwToyN3Apqd8f_a7mCC&si=iB5cTgAgJ6d90Rua)
+21. [MAVERICK THINKERS, VOL. 1: CHARLES S. PEIRCE](https://youtube.com/playlist?list=PLOGsWqsfK6qSuuNrcstFdSbig2DaS1mM5&si=e9MGFefgtVRdMq4A)
+
+</details>

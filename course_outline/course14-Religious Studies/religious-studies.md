@@ -482,6 +482,57 @@ A curated research map of religion, philosophy of religion, biblical criticism, 
 - [Bill Vanderburgh](https://scholar.google.ca/citations?user=EQPxElgAAAAJ&hl=en)
 - [Jason Rosenhouse](https://en.wikipedia.org/wiki/Jason_Rosenhouse)
 
+### Organizations
+
+- [Iowa Atheists & Freethinkers](https://www.iowaatheists.org/)
+- [Humanists UK](https://humanists.uk/)
+- [Ex-Muslims of North America](https://exmuslims.org/)
+- [Military Religious Freedom Foundation](https://www.militaryreligiousfreedom.org/)
+- [Recovering from Religion](https://www.recoveringfromreligion.org/)
+- [Center for Inquiry](https://centerforinquiry.org/)
+- [ACLU](https://www.aclu.org/)
+- [Secular Coalition for America](https://secular.org/)
+- [Secular Student Alliance](https://secularstudents.org/)
+- [Atheists United](https://www.atheistsunited.org/)
+- [Americans United for the Separation of Church and State](https://www.au.org/)
+- [Atheist Alliance International](https://atheistalliance.org/)
+- [American Atheists](https://www.atheists.org/)
+- [Freedom from Religion Foundation](https://ffrf.org/)
+- [Center for the Study of Religion and Conflict](https://csrc.asu.edu/)
+- [Explaining Atheism](https://www.explainingatheism.org/)
+
+### Irreligion Blogs
+
+- [Philosophical Disquisitions](https://philosophicaldisquisitions.blogspot.com/p/about.html?m=1)
+- [Philosophy: Engineered](https://philosophyengineered.blogspot.com/p/helloworld.html)
+- [The Ethical Skeptic](https://theethicalskeptic.com/)
+- [Use of Reason](https://useofreason.wordpress.com/)
+- [Real Atheology](https://realatheology.wordpress.com/)
+- [Majesty of Reason](https://majestyofreason.wordpress.com/)
+- [Ex-Apologist](http://exapologist.blogspot.com/)
+- [Emerson Green](https://emersongreen.substack.com/)
+- [The Disproof Atheism Society](http://www.disproofatheism.org/)
+- [Why Evolution is True](https://whyevolutionistrue.com/)
+- [Center for Applied Rationality](https://www.rationality.org/)
+- [Skeptical Science](https://skepticalscience.com/)
+- [Skeptical Science - Promoting Science and Critical Thinking](https://skeptical-science.com/)
+- [Science or Not?](https://scienceornot.net/)
+- [29 Evidences for Macroevolution](https://www.talkorigins.org/faqs/comdesc/)
+- [Secularlism & Non-Religion](https://secularismandnonreligion.org/)
+- [Developing Belief Network](https://www.developingbelief.com/)
+- [Culture and Religion Lab](https://cultureandreligionlab.weebly.com/)
+- [Bible & Archaeology](https://bam.sites.uiowa.edu/)
+- [Taking Off the Tinfoil Hat](https://takingoffthetinfoilhat.com/)
+- [Debunking Christianity](https://www.debunking-christianity.com/?m=1)
+- [What is so Bad about Christianity?](https://www.badnewsaboutchristianity.com/)
+- [Bible Fails](https://biblefails.wordpress.com/)
+- [Evil Bible](https://www.evilbible.com/)
+- [The Cure-For-Christianity Library](https://www.cureforchristianity.com/)
+- [Resurrection Review](https://mlhartke.wordpress.com/)
+- [God is Imaginary](https://www.godisimaginary.com/)
+- [Philosophy of Religion](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/TABLE_of_CONTENTS.htm)
+- [Human Religions](https://www.humanreligions.info/)
+
 ---
 
 ## 16. Ethics and Moral Philosophy in Religious Context
