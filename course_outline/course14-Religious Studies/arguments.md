@@ -29,6 +29,7 @@ These are broad collections, channels, and survey resources that cover many argu
 - [Philosophical Failures of Christian Apologetics](https://www.youtube.com/playlist?list=PL3IOkNR8_9gpQa5teO1xQANB-3MiY17uk)
 - [200 (or so) Arguments for Atheism](https://exapologist.blogspot.com/2023/03/200-or-so-arguments-for-atheism.html)
 - [The Sci Phi Show](https://youtube.com/playlist?list=PLJ4zAUPI-qqprexGfnGwCpugHnUuSjPmG&si=Fs4Zz_fLAQBjpJQs)
+- [Thoughtology](https://www.youtube.com/@thoughtology7732)
 - [List of Arguments](https://religions.wiki/index.php/Category:Arguments_for_the_existence_of_God) for [Existence](https://rationalwiki.org/wiki/Category:Existence_of_gods)
 - [Introduction to Argument Styles](https://courses.lumenlearning.com/sanjacinto-philosophy/chapter/arguments-for-the-existence-of-god-overview/)
 - [Outline of Common Arguments](https://www.newworldencyclopedia.org/entry/God,_Arguments_for_the_Existence_of)
@@ -245,6 +246,7 @@ These are broad collections, channels, and survey resources that cover many argu
   - [Physicists & Philosophers debunk The Fine Tuning Argument](https://youtu.be/jJ-fj3lqJ6M?si=THL3HA_9CXAf5JYu)
   - [Is Cosmic Fine-Tuning a good argument for Theism?](https://youtu.be/HZuVYBzYi-8?si=wi34UtItTHBMPsi4)
   - [The Case Against Theism - A Fine-Tuning Argument for Naturalism](https://youtu.be/TGGvRUglLSE?si=3OtK2iG-fvKpwtQc)
+  - [Is Fine-Tuning Actually a Good Argument for God? James Fodor](https://www.youtube.com/live/hkT6k_K_g38?si=EQj5RBtWZRS0NLSv)
 - [Argument from Poor Design](https://en.wikipedia.org/wiki/Argument_from_poor_design)
 
 
@@ -631,7 +633,13 @@ These are broad collections, channels, and survey resources that cover many argu
   - [The Evidence for Jesus Is Worse than You Think](https://www.youtube.com/watch?v=PGHOp-9yAbA)
   - [Ehrman vs Wallace - Can We Trust the Text of the NT?](https://www.youtube.com/watch?v=WRHjZCKRIu4)
   - [DEBATE: Bart Ehrman vs Mike Licona (Are the Gospels Historically Reliable? 2018)](https://www.youtube.com/watch?v=qP7RrCfDkO4)
-  - [The Case Against the Resurrection (Richard Carrier)](https://youtu.be/amtbhnGWvpQ?si=S7m1g0lCTT0uLtsr)
+- [The Case Against the Resurrection (Richard Carrier)](https://youtu.be/amtbhnGWvpQ?si=S7m1g0lCTT0uLtsr)
+- [The Salem Witchcraft Argument Against the Resurrection of Jesus](https://youtu.be/VL5phbQpVEg?si=ycZETJLrS8Jxpogf)
+- [James Fodor Explains the RHBS Model for the Resurrection - with @JamesFodor](https://youtu.be/e0a9PWffqps?si=IjLluueRtJ61JPgd)
+- [The Case Against Theism - Refuting the Resurrection Argument](https://youtu.be/aMt5PVERi8c?si=nUu-1xmt3-ocgbgG)
+- [The Resurrection Is A Myth | Dr. Richard C Miller](https://youtu.be/S6TO3rm3-e8?si=8iNKG3T_puJjsp-R)
+- [The Resurrection of Jesus and Other Fables?](https://youtu.be/wlHBm_CqvYo?si=c-0r4l-s9KiHoPQm)
+- [Debate: Did Jesus Rise Bodily from the Dead? (Arif Ahmed vs Gary Habermas)](https://youtu.be/Mg7rYJxHA4Y?si=dtSmImzFDslpHRUJ)
 
 ### The Jury Is In: The Ruling on McDowell’s “Evidence”
 
@@ -787,6 +795,8 @@ These are broad collections, channels, and survey resources that cover many argu
 - [Closer To Truth - Big Questions in Free Will](https://youtu.be/9uRTjfhIf4M)
 - [Can Free Will Survive God’s Foreknowledge?](https://youtu.be/0bEBFdTfHbg)
 - [Episode 18, Jeremy Koons, On the Euthyphro Dilemma](https://youtu.be/sPMrIlxN0A4?si=nMXcBo60F3oTARKp)
+- [Is Belief in God Reasonable? Arif Ahmed vs William Lane Craig Debate](https://youtu.be/W-NF-LlVFHM?si=YyNdbTAag3QBy9QF)
+- [72. Arif Ahmed | Religion, Decision Theory](https://youtu.be/EKtm_kb8PkU?si=A4atFQ-cek85mYsf)
 
 ### Ancient Philosophy, Neoplatonism, and Related Traditions
 
