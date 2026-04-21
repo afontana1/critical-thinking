@@ -85,6 +85,7 @@
 20. [BITE Model](https://freedomofmind.com/cult-mind-control/bite-model-pdf-download/)
 21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
 22. [Protest Paradigm](https://en.wikipedia.org/wiki/Protest_paradigm)
+23. [Cognitive Warfare](https://en.wikipedia.org/wiki/Cognitive_warfare)
 
 ## Media Studies
 
