@@ -40,3 +40,4 @@
 38. [The Divine Economy: How Religions Compete for Wealth, Power, and People](https://www.amazon.com/Divine-Economy-Religions-Compete-Wealth-ebook/dp/B0CNJ9WRKP)
 39. [Resurrection and Reception in Early Christianity (Routledge Studies in Religion) ](https://www.amazon.com/Resurrection-Reception-Christianity-Routledge-Religion/dp/1138048275)
 40. [Atheism And The Case Against Christ ](https://www.amazon.com/Atheism-Against-Christ-Matthew-Mccormick/dp/1616145811/ref=sr_1_1?ie=UTF8&qid=1341626958&sr=8-1&keywords=atheism+and+the+case+against+christ)
+41. [Ministers of Propaganda: Truth, Power, and the Ideology of the Religious Right](https://www.amazon.com/Ministers-Propaganda-Truth-Ideology-Religious/dp/0802882811)
