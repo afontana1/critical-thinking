@@ -41,3 +41,4 @@
 39. [Resurrection and Reception in Early Christianity (Routledge Studies in Religion) ](https://www.amazon.com/Resurrection-Reception-Christianity-Routledge-Religion/dp/1138048275)
 40. [Atheism And The Case Against Christ ](https://www.amazon.com/Atheism-Against-Christ-Matthew-Mccormick/dp/1616145811/ref=sr_1_1?ie=UTF8&qid=1341626958&sr=8-1&keywords=atheism+and+the+case+against+christ)
 41. [Ministers of Propaganda: Truth, Power, and the Ideology of the Religious Right](https://www.amazon.com/Ministers-Propaganda-Truth-Ideology-Religious/dp/0802882811)
+42. [God's Propaganda: Pulling Back the Curtain on What the Bible Wants You to See](https://www.amazon.com/Gods-Propaganda-Pulling-Curtain-Bible/dp/1069638501)

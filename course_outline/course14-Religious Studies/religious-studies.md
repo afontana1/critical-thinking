@@ -500,6 +500,7 @@ A curated research map of religion, philosophy of religion, biblical criticism, 
 - [Freedom from Religion Foundation](https://ffrf.org/)
 - [Center for the Study of Religion and Conflict](https://csrc.asu.edu/)
 - [Explaining Atheism](https://www.explainingatheism.org/)
+- [Military Religious Freedom Foundation](https://en.wikipedia.org/wiki/Military_Religious_Freedom_Foundation)
 
 ### Irreligion Blogs
 
