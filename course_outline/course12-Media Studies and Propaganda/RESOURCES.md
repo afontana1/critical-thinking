@@ -86,6 +86,7 @@
 21. [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
 22. [Protest Paradigm](https://en.wikipedia.org/wiki/Protest_paradigm)
 23. [Cognitive Warfare](https://en.wikipedia.org/wiki/Cognitive_warfare)
+24. [Politics of Resentment](https://en.wikipedia.org/wiki/Politics_of_resentment)
 
 ## Media Studies
 
