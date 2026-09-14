@@ -22,6 +22,26 @@ How should we think well about religion—its claims, texts, experiences, instit
 * Distinguish historical questions about what communities believed about God or ultimate reality from philosophical questions about which models are most coherent, plausible, or defensible.
 * Develop a disciplined stance that is neither credulous nor glibly debunking: methodologically pluralist, evidentially calibrated, historically sensitive, and argumentatively fair-minded.
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Is Religion? Categories, Boundary Cases, and the Aims of Religious Studies](#unit-1-what-is-religion-categories-boundary-cases-and-the-aims-of-religious-studies)
+- [Unit 2 – How Religion Is Studied: Methods, Explanations, and Levels of Analysis](#unit-2-how-religion-is-studied-methods-explanations-and-levels-of-analysis)
+- [Unit 3 – Religious Belief, Faith, and Epistemic Responsibility](#unit-3-religious-belief-faith-and-epistemic-responsibility)
+- [Unit 4 – Arguments About God: Reconstruction, Comparison, and Evaluation](#unit-4-arguments-about-god-reconstruction-comparison-and-evaluation)
+- [Unit 5 – Religious Experience, Revelation, Miracle, and Testimony](#unit-5-religious-experience-revelation-miracle-and-testimony)
+- [Unit 6 – Religious Language, Myth, Narrative, and Hermeneutics](#unit-6-religious-language-myth-narrative-and-hermeneutics)
+- [Unit 7 – Texts as Historical Evidence: Source Criticism, Dating, and Transmission](#unit-7-texts-as-historical-evidence-source-criticism-dating-and-transmission)
+- [Unit 8 – Origins and Development of Traditions: Ancient Religion, Syncretism, and Change Over Time](#unit-8-origins-and-development-of-traditions-ancient-religion-syncretism-and-change-over-time)
+- [Unit 9 – Comparing Religions Without Flattening Them](#unit-9-comparing-religions-without-flattening-them)
+- [Unit 10 – Concepts of God, Ultimate Reality, and the Historical Evolution of the Divine](#unit-10-concepts-of-god-ultimate-reality-and-the-historical-evolution-of-the-divine)
+- [Unit 11 – Religion, Mind, Ritual, and the Cognitive Study of Belief](#unit-11-religion-mind-ritual-and-the-cognitive-study-of-belief)
+- [Unit 12 – Religion, Society, Power, and Cultural Conflict](#unit-12-religion-society-power-and-cultural-conflict)
+- [Unit 13 – Irreligion, Secularism, and Critique](#unit-13-irreligion-secularism-and-critique)
+- [Unit 14 – Case Study in Critical Religious Reasoning: Early Christianity, Resurrection, and Historical Dispute](#unit-14-case-study-in-critical-religious-reasoning-early-christianity-resurrection-and-historical-dispute)
+- [Unit 15 – Living With Disagreement: Dialogue, Fairness, and Intellectual Character in Religion](#unit-15-living-with-disagreement-dialogue-fairness-and-intellectual-character-in-religion)
+<!-- UNIT_TOC_END -->
+
 ---
 
 ## Unit 1 – What Is Religion? Categories, Boundary Cases, and the Aims of Religious Studies

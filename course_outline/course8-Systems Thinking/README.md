@@ -1,5 +1,20 @@
 # Course Overview: Systems Thinking – From Parts to Wholes, Feedback, and Emergence
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – From Parts to Wholes: Why Systems?](#unit-1-from-parts-to-wholes-why-systems)
+- [Unit 2 – Systems Thinking as a Habit of Mind](#unit-2-systems-thinking-as-a-habit-of-mind)
+- [Unit 3 – Systems Science and General Systems Theory](#unit-3-systems-science-and-general-systems-theory)
+- [Unit 4 – Systems Analysis](#unit-4-systems-analysis)
+- [Unit 5 – System Design and Redesign](#unit-5-system-design-and-redesign)
+- [Unit 6 – System Archetypes](#unit-6-system-archetypes)
+- [Unit 7 – System Dynamics](#unit-7-system-dynamics)
+- [Unit 8 – Complex Systems](#unit-8-complex-systems)
+- [Unit 9 – Systems Engineering](#unit-9-systems-engineering)
+- [Unit 10 – Integrating the Systems Lens](#unit-10-integrating-the-systems-lens)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How do systems produce patterns of behavior over time, why do interventions so often generate unintended consequences, and how can a systems lens help us understand, analyze, and redesign complex situations more intelligently?
 

@@ -24,6 +24,25 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 * Design countermeasures: **debunking** and **prebunking** strategies that reduce amplification and avoid common failure modes (salience traps, attention hijacking). ([HKS Misinformation Review][4])
 * Produce a principled stance toward media: neither gullible nor cynically “nothing is knowable,” but *calibrated, accountable, and context-sensitive*. ([RAND Truth Decay][8])
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention](#unit-1-media-ecosystems-incentives-institutions-and-attention)
+- [Unit 2 – Political Communication Foundations: Agenda-Setting, Framing, Priming](#unit-2-political-communication-foundations-agenda-setting-framing-priming)
+- [Unit 3 – What Is Propaganda? Definitions, Types, and Ethical Boundaries](#unit-3-what-is-propaganda-definitions-types-and-ethical-boundaries)
+- [Unit 4 – Media Argumentation: How Mass Media “Makes the Case”](#unit-4-media-argumentation-how-mass-media-makes-the-case)
+- [Unit 5 – Computational Propaganda & Platform Manipulation](#unit-5-computational-propaganda-platform-manipulation)
+- [Unit 6 – Crisis Informatics & Rumor-Making in Catastrophe Situations](#unit-6-crisis-informatics-rumor-making-in-catastrophe-situations)
+- [Unit 7 – Participatory Disinformation: Disinformation as Collaborative Work](#unit-7-participatory-disinformation-disinformation-as-collaborative-work)
+- [Unit 8 – Reaction, Resentment, and Dehumanization: The Moral Psychology of Propaganda](#unit-8-reaction-resentment-and-dehumanization-the-moral-psychology-of-propaganda)
+- [Unit 9 – Authority, Expertise, and the Fragmentation of Intellectual Autonomy](#unit-9-authority-expertise-and-the-fragmentation-of-intellectual-autonomy)
+- [Unit 10 – Moral Panics, Outrage, and the Social Psychology of Attention](#unit-10-moral-panics-outrage-and-the-social-psychology-of-attention)
+- [Unit 11 – Conspiracy Theories: Suspicion, Insulation, and the Paranoid Style](#unit-11-conspiracy-theories-suspicion-insulation-and-the-paranoid-style)
+- [Unit 12 – Influence Infrastructure: PR, Think Tanks, Lobbying, and Manufactured Legitimacy](#unit-12-influence-infrastructure-pr-think-tanks-lobbying-and-manufactured-legitimacy)
+- [Unit 13 – Countermeasures: Debunking, Prebunking, and “Talking Back” Without Feeding the Fire](#unit-13-countermeasures-debunking-prebunking-and-talking-back-without-feeding-the-fire)
+- [Unit 14 – Agency in a Manipulated World: Indoctrination, Surveillance, and Epistemic Self-Defense](#unit-14-agency-in-a-manipulated-world-indoctrination-surveillance-and-epistemic-self-defense)
+<!-- UNIT_TOC_END -->
+
 ---
 
 ## Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention

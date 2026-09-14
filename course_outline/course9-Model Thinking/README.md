@@ -8,6 +8,21 @@ This unit sits **after Systems Thinking** and **builds on it**.
 
 The unit is **not math-heavy**. Equations are treated as *examples* rather than prerequisites.
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Is a Model? Why Model?](#unit-1-what-is-a-model-why-model)
+- [Unit 2 – Purposes and Limits of Models (“Model Land”)](#unit-2-purposes-and-limits-of-models-model-land)
+- [Unit 3 – Types of Models and Multi-Model Thinking](#unit-3-types-of-models-and-multi-model-thinking)
+- [Unit 4 – From System Stories to Formal Models](#unit-4-from-system-stories-to-formal-models)
+- [Unit 5 – Data, Calibration, and Validation (Conceptual)](#unit-5-data-calibration-and-validation-conceptual)
+- [Unit 6 – Uncertainty, Sensitivity, and Robustness](#unit-6-uncertainty-sensitivity-and-robustness)
+- [Unit 7 – Simulation and Agent-Based Modeling](#unit-7-simulation-and-agent-based-modeling)
+- [Unit 8 – Optimization and Decision Models (Light OR)](#unit-8-optimization-and-decision-models-light-or)
+- [Unit 9 – Models in Policy, Ethics, and Power](#unit-9-models-in-policy-ethics-and-power)
+- [Unit 10 – Integrating the Model Lens](#unit-10-integrating-the-model-lens)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How can we build, combine, critique, and use models as explicit tools for understanding, exploring, and acting in the world without mistaking those models for reality itself?
 

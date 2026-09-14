@@ -1,5 +1,17 @@
 # Course Overview: Data Literacy – From Measurement to Data Ecosystems
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – From Measurement to Data: Units, Variables, and Information](#unit-1-from-measurement-to-data-units-variables-and-information)
+- [Unit 2 – Populations, Sampling, and Study Designs](#unit-2-populations-sampling-and-study-designs)
+- [Unit 3 – Errors, Biases, and the Texture of Uncertainty](#unit-3-errors-biases-and-the-texture-of-uncertainty)
+- [Unit 4 – Describing and Visualizing Data: EDA and Graphics](#unit-4-describing-and-visualizing-data-eda-and-graphics)
+- [Unit 5 – Probability, Inference, and Diagnostic Reasoning](#unit-5-probability-inference-and-diagnostic-reasoning)
+- [Unit 6 – Research Practice, Reporting, and Evidence Synthesis](#unit-6-research-practice-reporting-and-evidence-synthesis)
+- [Unit 7 – Data, Institutions, and Big-Data Ecosystems](#unit-7-data-institutions-and-big-data-ecosystems)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How do measurements become *data*, how do we reason from data under uncertainty, and how do institutions and infrastructures shape what “the numbers” seem to say?
 

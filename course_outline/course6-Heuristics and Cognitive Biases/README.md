@@ -1,5 +1,22 @@
 # Course Overview: Heuristics and Cognitive Biases – From Fast Judgments to Better Decision-Making
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – Heuristics as Adaptive Tools](#unit-1-heuristics-as-adaptive-tools)
+- [Unit 2 – Representativeness, Availability, and Anchoring](#unit-2-representativeness-availability-and-anchoring)
+- [Unit 3 – Risk, Uncertainty, and Reference Points](#unit-3-risk-uncertainty-and-reference-points)
+- [Unit 4 – Bayesian Reasoning and the Format of Evidence](#unit-4-bayesian-reasoning-and-the-format-of-evidence)
+- [Unit 5 – Overconfidence, Calibration, and Forecasting](#unit-5-overconfidence-calibration-and-forecasting)
+- [Unit 6 – Motivated Reasoning, Identity, and Confirmation](#unit-6-motivated-reasoning-identity-and-confirmation)
+- [Unit 7 – Memory, Attention, and Retrospective Bias](#unit-7-memory-attention-and-retrospective-bias)
+- [Unit 8 – Social Biases: Conformity, Groupthink, and Echoes](#unit-8-social-biases-conformity-groupthink-and-echoes)
+- [Unit 9 – Causal Illusions and Evidence Pitfalls](#unit-9-causal-illusions-and-evidence-pitfalls)
+- [Unit 10 – Choice Architecture and Decision Design](#unit-10-choice-architecture-and-decision-design)
+- [Unit 11 – Debiasing and Decision Hygiene](#unit-11-debiasing-and-decision-hygiene)
+- [Unit 12 – Biases in Models and Systems](#unit-12-biases-in-models-and-systems)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 Why do human beings rely on cognitive shortcuts, when do those shortcuts work well, when do they systematically mislead us, and how can individuals and institutions design better judgment under uncertainty?
 

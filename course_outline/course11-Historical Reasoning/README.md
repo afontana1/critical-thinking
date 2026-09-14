@@ -1,5 +1,19 @@
 # Course overview: Historical Thinking
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Is History For?](#unit-1-what-is-history-for)
+- [Unit 2 – The Shape of Historical Thinking](#unit-2-the-shape-of-historical-thinking)
+- [Unit 3 – Evidence, Sources, and Source Criticism](#unit-3-evidence-sources-and-source-criticism)
+- [Unit 4 – Interpretation, Context, and Hermeneutics](#unit-4-interpretation-context-and-hermeneutics)
+- [Unit 5 – Explanation and Causation in History](#unit-5-explanation-and-causation-in-history)
+- [Unit 6 – Historiography and Philosophy of History](#unit-6-historiography-and-philosophy-of-history)
+- [Unit 7 – Methods Beyond Narrative: Quantitative, Comparative, and Digital History](#unit-7-methods-beyond-narrative-quantitative-comparative-and-digital-history)
+- [Unit 8 – Public History, Pop History, and Misinformation About the Past](#unit-8-public-history-pop-history-and-misinformation-about-the-past)
+- [Unit 9 – Doing Historical Research: From Question to Argument](#unit-9-doing-historical-research-from-question-to-argument)
+<!-- UNIT_TOC_END -->
+
 ---
 
 **Big question:**

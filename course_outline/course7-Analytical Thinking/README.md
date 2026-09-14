@@ -1,5 +1,22 @@
 # Course Overview: Analytical Thinking – From Problem Framing to Judgment Under Uncertainty
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 — Foundations of Analytical Thinking](#unit-1-foundations-of-analytical-thinking)
+- [Unit 2 — Problem Decomposition and Representation](#unit-2-problem-decomposition-and-representation)
+- [Unit 3 — Computational and Algorithmic Thinking](#unit-3-computational-and-algorithmic-thinking)
+- [Unit 4 — Decision Analysis](#unit-4-decision-analysis)
+- [Unit 5 — Process and Systems Orientation](#unit-5-process-and-systems-orientation)
+- [Unit 6 — Meta-Analytical Habits](#unit-6-meta-analytical-habits)
+- [Unit 7 — Program Evaluation and Policy Analysis](#unit-7-program-evaluation-and-policy-analysis)
+- [Unit 8 — Intelligence Analysis and Structured Analytic Techniques](#unit-8-intelligence-analysis-and-structured-analytic-techniques)
+- [Unit 9 — Data Analysis, Visualization, and Evidentiary Displays](#unit-9-data-analysis-visualization-and-evidentiary-displays)
+- [Unit 10 — Risk Analysis and Uncertainty Communication](#unit-10-risk-analysis-and-uncertainty-communication)
+- [Unit 11 — Structured Problem Solving and Root Cause Analysis](#unit-11-structured-problem-solving-and-root-cause-analysis)
+- [Unit 12 — Forecasting, Scenario Analysis, and Red Teaming](#unit-12-forecasting-scenario-analysis-and-red-teaming)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How do we analyze messy problems well—by framing questions clearly, structuring complexity, evaluating evidence, comparing alternatives, and making reasoned judgments under uncertainty?
 

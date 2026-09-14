@@ -6,6 +6,21 @@
 
 ## Course Overview: Scientific Reasoning – From Hypotheses to Institutions
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Is Scientific Reasoning? Science, Non-Science, and Pseudoscience](#unit-1-what-is-scientific-reasoning-science-non-science-and-pseudoscience)
+- [Unit 2 – Forms of Inference in Science: Deduction, Induction, Abduction, Mechanisms](#unit-2-forms-of-inference-in-science-deduction-induction-abduction-mechanisms)
+- [Unit 3 – Theories, Models, and Theoretical Virtues](#unit-3-theories-models-and-theoretical-virtues)
+- [Unit 4 – Scientific Process and Research Designs Across Fields](#unit-4-scientific-process-and-research-designs-across-fields)
+- [Unit 5 – Explanation, Mechanisms, and Understanding](#unit-5-explanation-mechanisms-and-understanding)
+- [Unit 6 – Measurement, Validity, and Statistical Reasoning in Science](#unit-6-measurement-validity-and-statistical-reasoning-in-science)
+- [Unit 7 – Reproducibility, Replication, and Rigorous Science](#unit-7-reproducibility-replication-and-rigorous-science)
+- [Unit 8 – Science as a Social Institution: Publishing, Peer Review, Metascience](#unit-8-science-as-a-social-institution-publishing-peer-review-metascience)
+- [Unit 9 – Pseudoscience, Methodology, and the Edges of Science](#unit-9-pseudoscience-methodology-and-the-edges-of-science)
+- [Unit 10 – Integrating Scientific Reasoning (Capstone)](#unit-10-integrating-scientific-reasoning-capstone)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How does science actually turn messy observations into relatively stable knowledge – through *reasoning*, *methods*, *models*, and *institutions* – and how can we critically engage with that whole ecosystem?
 

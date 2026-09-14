@@ -27,6 +27,21 @@
 3. [Law Probability and Risk](https://academic.oup.com/lpr)
 
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Arguments Are: Structure, Schemes, and Maps](#unit-1-what-arguments-are-structure-schemes-and-maps)
+- [Unit 2 – Analogical Arguments and Precedent](#unit-2-analogical-arguments-and-precedent)
+- [Unit 3 – Abduction and Explanatory Inference](#unit-3-abduction-and-explanatory-inference)
+- [Unit 4 – Practical Reasoning and Decision](#unit-4-practical-reasoning-and-decision)
+- [Unit 5 – Presumption, Presupposition, and Assumption](#unit-5-presumption-presupposition-and-assumption)
+- [Unit 6 – Evidence and Story-Based Reasoning (Bridge to Course 3)](#unit-6-evidence-and-story-based-reasoning-bridge-to-course-3)
+- [Unit 7 – Arguments from Authority and Expert Opinion](#unit-7-arguments-from-authority-and-expert-opinion)
+- [Unit 8 – Fallacies as Argumentative Pathologies](#unit-8-fallacies-as-argumentative-pathologies)
+- [Unit 9 – Formal Reasoning, Non-Classical Logics, and Their Limits](#unit-9-formal-reasoning-non-classical-logics-and-their-limits)
+- [Unit 10 – Extensions: Interpretive, Quasi-Logical, and Case-Based Arguments](#unit-10-extensions-interpretive-quasi-logical-and-case-based-arguments)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 How do *arguments* actually work in real life, and how can we *analyze, evaluate, and construct* them responsibly?
 

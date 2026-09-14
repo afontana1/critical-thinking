@@ -1,5 +1,23 @@
 # Course Overview: Evidence & Proof
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – What Evidence Is](#unit-1-what-evidence-is)
+- [Unit 2 – Twining and the Study of Evidence as a Multidisciplinary Subject](#unit-2-twining-and-the-study-of-evidence-as-a-multidisciplinary-subject)
+- [Unit 3 – Evidence, Questions, Alternatives, and Belief Revision](#unit-3-evidence-questions-alternatives-and-belief-revision)
+- [Unit 4 – Sources of Evidence: Perception, Memory, and Testimony](#unit-4-sources-of-evidence-perception-memory-and-testimony)
+- [Unit 5 – Forms and Media of Evidence](#unit-5-forms-and-media-of-evidence)
+- [Unit 6 – Special Kinds of Evidence](#unit-6-special-kinds-of-evidence)
+- [Unit 7 – Relevance, Strength, and Probative Value](#unit-7-relevance-strength-and-probative-value)
+- [Unit 8 – Corroboration, Convergence, and the Variety of Evidence](#unit-8-corroboration-convergence-and-the-variety-of-evidence)
+- [Unit 9 – Wigmore and the Analysis of Evidential Structure](#unit-9-wigmore-and-the-analysis-of-evidential-structure)
+- [Unit 10 – Schum, Inference Networks, and Modern Evidential Mapping](#unit-10-schum-inference-networks-and-modern-evidential-mapping)
+- [Unit 11 – Stories, Bayes, and Hybrid Models](#unit-11-stories-bayes-and-hybrid-models)
+- [Unit 12 – Proof, Presumption, Burdens, and Standards](#unit-12-proof-presumption-burdens-and-standards)
+- [Unit 13 – Evidence Across Domains, Hierarchies, and Evidential Pathologies](#unit-13-evidence-across-domains-hierarchies-and-evidential-pathologies)
+<!-- UNIT_TOC_END -->
+
 **Big question:**
 What *is* evidence, how does it support claims and decisions across law, science, history, and everyday life, and how should we *reason with it* responsibly under uncertainty?
 

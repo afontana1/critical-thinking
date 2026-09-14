@@ -1,5 +1,19 @@
 # Course overview: Language Ignorance and Epistemic Virtue
 
+## Table of Contents
+
+<!-- UNIT_TOC_START -->
+- [Unit 1 – Epistemic Virtue & Vice: Intellectual Character and Bullshit](#unit-1-epistemic-virtue-vice-intellectual-character-and-bullshit)
+- [Unit 2 – Language, Metaphor, and Framing](#unit-2-language-metaphor-and-framing)
+- [Unit 3 – Definitions, Concepts, and Conceptual Engineering](#unit-3-definitions-concepts-and-conceptual-engineering)
+- [Unit 4 – Belief, Ignorance, and the True Believer](#unit-4-belief-ignorance-and-the-true-believer)
+- [Unit 5 – The Use of Reason: Cognitive Science of Argument](#unit-5-the-use-of-reason-cognitive-science-of-argument)
+- [Unit 6 – Social Epistemology, Testimony, and Epistemic Injustice](#unit-6-social-epistemology-testimony-and-epistemic-injustice)
+- [Unit 7 – Metacognition, AOT, and Intellectual Self-Regulation](#unit-7-metacognition-aot-and-intellectual-self-regulation)
+- [Unit 8 – Philosophical Skepticism: Doubt, Regress, and the Limits of Justification](#unit-8-philosophical-skepticism-doubt-regress-and-the-limits-of-justification)
+- [Unit 9 – Scientific Skepticism: Evidence, Demarcation, and Responsible Doubt in Public Life](#unit-9-scientific-skepticism-evidence-demarcation-and-responsible-doubt-in-public-life)
+<!-- UNIT_TOC_END -->
+
 ---
 
 **Big question:**
