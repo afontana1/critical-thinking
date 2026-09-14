@@ -3,19 +3,20 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – Heuristics as Adaptive Tools](#unit-1-heuristics-as-adaptive-tools)
-- [Unit 2 – Representativeness, Availability, and Anchoring](#unit-2-representativeness-availability-and-anchoring)
-- [Unit 3 – Risk, Uncertainty, and Reference Points](#unit-3-risk-uncertainty-and-reference-points)
-- [Unit 4 – Bayesian Reasoning and the Format of Evidence](#unit-4-bayesian-reasoning-and-the-format-of-evidence)
-- [Unit 5 – Overconfidence, Calibration, and Forecasting](#unit-5-overconfidence-calibration-and-forecasting)
-- [Unit 6 – Motivated Reasoning, Identity, and Confirmation](#unit-6-motivated-reasoning-identity-and-confirmation)
-- [Unit 7 – Memory, Attention, and Retrospective Bias](#unit-7-memory-attention-and-retrospective-bias)
-- [Unit 8 – Social Biases: Conformity, Groupthink, and Echoes](#unit-8-social-biases-conformity-groupthink-and-echoes)
-- [Unit 9 – Causal Illusions and Evidence Pitfalls](#unit-9-causal-illusions-and-evidence-pitfalls)
-- [Unit 10 – Choice Architecture and Decision Design](#unit-10-choice-architecture-and-decision-design)
-- [Unit 11 – Debiasing and Decision Hygiene](#unit-11-debiasing-and-decision-hygiene)
-- [Unit 12 – Biases in Models and Systems](#unit-12-biases-in-models-and-systems)
+- [Unit 1 – Heuristics as Adaptive Tools](#unit-1)
+- [Unit 2 – Representativeness, Availability, and Anchoring](#unit-2)
+- [Unit 3 – Risk, Uncertainty, and Reference Points](#unit-3)
+- [Unit 4 – Bayesian Reasoning and the Format of Evidence](#unit-4)
+- [Unit 5 – Overconfidence, Calibration, and Forecasting](#unit-5)
+- [Unit 6 – Motivated Reasoning, Identity, and Confirmation](#unit-6)
+- [Unit 7 – Memory, Attention, and Retrospective Bias](#unit-7)
+- [Unit 8 – Social Biases: Conformity, Groupthink, and Echoes](#unit-8)
+- [Unit 9 – Causal Illusions and Evidence Pitfalls](#unit-9)
+- [Unit 10 – Choice Architecture and Decision Design](#unit-10)
+- [Unit 11 – Debiasing and Decision Hygiene](#unit-11)
+- [Unit 12 – Biases in Models and Systems](#unit-12)
 <!-- UNIT_TOC_END -->
+
 
 **Big question:**
 Why do human beings rely on cognitive shortcuts, when do those shortcuts work well, when do they systematically mislead us, and how can individuals and institutions design better judgment under uncertainty?
@@ -39,6 +40,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – Heuristics as Adaptive Tools
 
 **Guiding questions**
@@ -93,6 +95,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Representativeness, Availability, and Anchoring
 
 **Guiding questions**
@@ -146,6 +149,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Risk, Uncertainty, and Reference Points
 
 **Guiding questions**
@@ -199,6 +203,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Bayesian Reasoning and the Format of Evidence
 
 **Guiding questions**
@@ -253,6 +258,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Overconfidence, Calibration, and Forecasting
 
 **Guiding questions**
@@ -308,6 +314,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Motivated Reasoning, Identity, and Confirmation
 
 **Guiding questions**
@@ -362,6 +369,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Memory, Attention, and Retrospective Bias
 
 **Guiding questions**
@@ -416,6 +424,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Social Biases: Conformity, Groupthink, and Echoes
 
 **Guiding questions**
@@ -469,6 +478,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Causal Illusions and Evidence Pitfalls
 
 **Guiding questions**
@@ -522,6 +532,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 – Choice Architecture and Decision Design
 
 **Guiding questions**
@@ -581,6 +592,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-11"></a>
 ## Unit 11 – Debiasing and Decision Hygiene
 
 **Guiding questions**
@@ -642,6 +654,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
+<a id="unit-12"></a>
 ## Unit 12 – Biases in Models and Systems
 
 **Guiding questions**

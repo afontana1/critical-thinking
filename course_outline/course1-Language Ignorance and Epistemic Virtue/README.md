@@ -3,16 +3,17 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – Epistemic Virtue & Vice: Intellectual Character and Bullshit](#unit-1-epistemic-virtue-vice-intellectual-character-and-bullshit)
-- [Unit 2 – Language, Metaphor, and Framing](#unit-2-language-metaphor-and-framing)
-- [Unit 3 – Definitions, Concepts, and Conceptual Engineering](#unit-3-definitions-concepts-and-conceptual-engineering)
-- [Unit 4 – Belief, Ignorance, and the True Believer](#unit-4-belief-ignorance-and-the-true-believer)
-- [Unit 5 – The Use of Reason: Cognitive Science of Argument](#unit-5-the-use-of-reason-cognitive-science-of-argument)
-- [Unit 6 – Social Epistemology, Testimony, and Epistemic Injustice](#unit-6-social-epistemology-testimony-and-epistemic-injustice)
-- [Unit 7 – Metacognition, AOT, and Intellectual Self-Regulation](#unit-7-metacognition-aot-and-intellectual-self-regulation)
-- [Unit 8 – Philosophical Skepticism: Doubt, Regress, and the Limits of Justification](#unit-8-philosophical-skepticism-doubt-regress-and-the-limits-of-justification)
-- [Unit 9 – Scientific Skepticism: Evidence, Demarcation, and Responsible Doubt in Public Life](#unit-9-scientific-skepticism-evidence-demarcation-and-responsible-doubt-in-public-life)
+- [Unit 1 – Epistemic Virtue & Vice: Intellectual Character and Bullshit](#unit-1)
+- [Unit 2 – Language, Metaphor, and Framing](#unit-2)
+- [Unit 3 – Definitions, Concepts, and Conceptual Engineering](#unit-3)
+- [Unit 4 – Belief, Ignorance, and the True Believer](#unit-4)
+- [Unit 5 – The Use of Reason: Cognitive Science of Argument](#unit-5)
+- [Unit 6 – Social Epistemology, Testimony, and Epistemic Injustice](#unit-6)
+- [Unit 7 – Metacognition, AOT, and Intellectual Self-Regulation](#unit-7)
+- [Unit 8 – Philosophical Skepticism: Doubt, Regress, and the Limits of Justification](#unit-8)
+- [Unit 9 – Scientific Skepticism: Evidence, Demarcation, and Responsible Doubt in Public Life](#unit-9)
 <!-- UNIT_TOC_END -->
+
 
 ---
 
@@ -34,6 +35,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – Epistemic Virtue & Vice: Intellectual Character and Bullshit
 
 **Guiding questions**
@@ -84,6 +86,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Language, Metaphor, and Framing
 
 **Guiding questions**
@@ -144,6 +147,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Definitions, Concepts, and Conceptual Engineering
 
 **Guiding questions**
@@ -195,6 +199,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Belief, Ignorance, and the True Believer
 
 **Guiding questions**
@@ -234,6 +239,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – The Use of Reason: Cognitive Science of Argument
 
 **Guiding questions**
@@ -288,6 +294,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Social Epistemology, Testimony, and Epistemic Injustice
 
 This connects your themes of ignorance & virtue with explicitly social structures of knowledge.
@@ -338,6 +345,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Metacognition, AOT, and Intellectual Self-Regulation
 
 **Guiding questions**
@@ -374,6 +382,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Philosophical Skepticism: Doubt, Regress, and the Limits of Justification
 
 **Guiding questions**
@@ -431,6 +440,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Scientific Skepticism: Evidence, Demarcation, and Responsible Doubt in Public Life
 
 **Guiding questions**

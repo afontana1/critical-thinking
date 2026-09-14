@@ -3,16 +3,17 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – What Is History For?](#unit-1-what-is-history-for)
-- [Unit 2 – The Shape of Historical Thinking](#unit-2-the-shape-of-historical-thinking)
-- [Unit 3 – Evidence, Sources, and Source Criticism](#unit-3-evidence-sources-and-source-criticism)
-- [Unit 4 – Interpretation, Context, and Hermeneutics](#unit-4-interpretation-context-and-hermeneutics)
-- [Unit 5 – Explanation and Causation in History](#unit-5-explanation-and-causation-in-history)
-- [Unit 6 – Historiography and Philosophy of History](#unit-6-historiography-and-philosophy-of-history)
-- [Unit 7 – Methods Beyond Narrative: Quantitative, Comparative, and Digital History](#unit-7-methods-beyond-narrative-quantitative-comparative-and-digital-history)
-- [Unit 8 – Public History, Pop History, and Misinformation About the Past](#unit-8-public-history-pop-history-and-misinformation-about-the-past)
-- [Unit 9 – Doing Historical Research: From Question to Argument](#unit-9-doing-historical-research-from-question-to-argument)
+- [Unit 1 – What Is History For?](#unit-1)
+- [Unit 2 – The Shape of Historical Thinking](#unit-2)
+- [Unit 3 – Evidence, Sources, and Source Criticism](#unit-3)
+- [Unit 4 – Interpretation, Context, and Hermeneutics](#unit-4)
+- [Unit 5 – Explanation and Causation in History](#unit-5)
+- [Unit 6 – Historiography and Philosophy of History](#unit-6)
+- [Unit 7 – Methods Beyond Narrative: Quantitative, Comparative, and Digital History](#unit-7)
+- [Unit 8 – Public History, Pop History, and Misinformation About the Past](#unit-8)
+- [Unit 9 – Doing Historical Research: From Question to Argument](#unit-9)
 <!-- UNIT_TOC_END -->
+
 
 ---
 
@@ -33,6 +34,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – What Is History For?
 
 **Guiding questions**
@@ -65,6 +67,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – The Shape of Historical Thinking
 
 **Guiding questions**
@@ -96,6 +99,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Evidence, Sources, and Source Criticism
 
 **Guiding questions**
@@ -129,6 +133,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Interpretation, Context, and Hermeneutics
 
 **Guiding questions**
@@ -158,6 +163,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Explanation and Causation in History
 
 **Guiding questions**
@@ -188,6 +194,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Historiography and Philosophy of History
 
 **Guiding questions**
@@ -222,6 +229,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Methods Beyond Narrative: Quantitative, Comparative, and Digital History
 
 **Guiding questions**
@@ -258,6 +266,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Public History, Pop History, and Misinformation About the Past
 
 **Guiding questions**
@@ -290,6 +299,7 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Doing Historical Research: From Question to Argument
 
 **Guiding questions**

@@ -3,19 +3,20 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 — Foundations of Analytical Thinking](#unit-1-foundations-of-analytical-thinking)
-- [Unit 2 — Problem Decomposition and Representation](#unit-2-problem-decomposition-and-representation)
-- [Unit 3 — Computational and Algorithmic Thinking](#unit-3-computational-and-algorithmic-thinking)
-- [Unit 4 — Decision Analysis](#unit-4-decision-analysis)
-- [Unit 5 — Process and Systems Orientation](#unit-5-process-and-systems-orientation)
-- [Unit 6 — Meta-Analytical Habits](#unit-6-meta-analytical-habits)
-- [Unit 7 — Program Evaluation and Policy Analysis](#unit-7-program-evaluation-and-policy-analysis)
-- [Unit 8 — Intelligence Analysis and Structured Analytic Techniques](#unit-8-intelligence-analysis-and-structured-analytic-techniques)
-- [Unit 9 — Data Analysis, Visualization, and Evidentiary Displays](#unit-9-data-analysis-visualization-and-evidentiary-displays)
-- [Unit 10 — Risk Analysis and Uncertainty Communication](#unit-10-risk-analysis-and-uncertainty-communication)
-- [Unit 11 — Structured Problem Solving and Root Cause Analysis](#unit-11-structured-problem-solving-and-root-cause-analysis)
-- [Unit 12 — Forecasting, Scenario Analysis, and Red Teaming](#unit-12-forecasting-scenario-analysis-and-red-teaming)
+- [Unit 1 — Foundations of Analytical Thinking](#unit-1)
+- [Unit 2 — Problem Decomposition and Representation](#unit-2)
+- [Unit 3 — Computational and Algorithmic Thinking](#unit-3)
+- [Unit 4 — Decision Analysis](#unit-4)
+- [Unit 5 — Process and Systems Orientation](#unit-5)
+- [Unit 6 — Meta-Analytical Habits](#unit-6)
+- [Unit 7 — Program Evaluation and Policy Analysis](#unit-7)
+- [Unit 8 — Intelligence Analysis and Structured Analytic Techniques](#unit-8)
+- [Unit 9 — Data Analysis, Visualization, and Evidentiary Displays](#unit-9)
+- [Unit 10 — Risk Analysis and Uncertainty Communication](#unit-10)
+- [Unit 11 — Structured Problem Solving and Root Cause Analysis](#unit-11)
+- [Unit 12 — Forecasting, Scenario Analysis, and Red Teaming](#unit-12)
 <!-- UNIT_TOC_END -->
+
 
 **Big question:**
 How do we analyze messy problems well—by framing questions clearly, structuring complexity, evaluating evidence, comparing alternatives, and making reasoned judgments under uncertainty?
@@ -40,6 +41,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 — Foundations of Analytical Thinking
 
 **Guiding questions**
@@ -90,6 +92,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 — Problem Decomposition and Representation
 
 **Guiding questions**
@@ -142,6 +145,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 — Computational and Algorithmic Thinking
 
 **Guiding questions**
@@ -191,6 +195,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 — Decision Analysis
 
 **Guiding questions**
@@ -240,6 +245,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 — Process and Systems Orientation
 
 **Guiding questions**
@@ -289,6 +295,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 — Meta-Analytical Habits
 
 **Guiding questions**
@@ -338,6 +345,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 — Program Evaluation and Policy Analysis
 
 **Guiding questions**
@@ -398,6 +406,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 — Intelligence Analysis and Structured Analytic Techniques
 
 **Guiding questions**
@@ -448,6 +457,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 — Data Analysis, Visualization, and Evidentiary Displays
 
 **Guiding questions**
@@ -502,6 +512,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 — Risk Analysis and Uncertainty Communication
 
 **Guiding questions**
@@ -552,6 +563,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-11"></a>
 ## Unit 11 — Structured Problem Solving and Root Cause Analysis
 
 **Guiding questions**
@@ -602,6 +614,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
+<a id="unit-12"></a>
 ## Unit 12 — Forecasting, Scenario Analysis, and Red Teaming
 
 **Guiding questions**

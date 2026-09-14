@@ -3,14 +3,15 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – From Measurement to Data: Units, Variables, and Information](#unit-1-from-measurement-to-data-units-variables-and-information)
-- [Unit 2 – Populations, Sampling, and Study Designs](#unit-2-populations-sampling-and-study-designs)
-- [Unit 3 – Errors, Biases, and the Texture of Uncertainty](#unit-3-errors-biases-and-the-texture-of-uncertainty)
-- [Unit 4 – Describing and Visualizing Data: EDA and Graphics](#unit-4-describing-and-visualizing-data-eda-and-graphics)
-- [Unit 5 – Probability, Inference, and Diagnostic Reasoning](#unit-5-probability-inference-and-diagnostic-reasoning)
-- [Unit 6 – Research Practice, Reporting, and Evidence Synthesis](#unit-6-research-practice-reporting-and-evidence-synthesis)
-- [Unit 7 – Data, Institutions, and Big-Data Ecosystems](#unit-7-data-institutions-and-big-data-ecosystems)
+- [Unit 1 – From Measurement to Data: Units, Variables, and Information](#unit-1)
+- [Unit 2 – Populations, Sampling, and Study Designs](#unit-2)
+- [Unit 3 – Errors, Biases, and the Texture of Uncertainty](#unit-3)
+- [Unit 4 – Describing and Visualizing Data: EDA and Graphics](#unit-4)
+- [Unit 5 – Probability, Inference, and Diagnostic Reasoning](#unit-5)
+- [Unit 6 – Research Practice, Reporting, and Evidence Synthesis](#unit-6)
+- [Unit 7 – Data, Institutions, and Big-Data Ecosystems](#unit-7)
 <!-- UNIT_TOC_END -->
+
 
 **Big question:**
 How do measurements become *data*, how do we reason from data under uncertainty, and how do institutions and infrastructures shape what “the numbers” seem to say?
@@ -30,6 +31,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – From Measurement to Data: Units, Variables, and Information
 
 **Guiding questions**
@@ -92,6 +94,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Populations, Sampling, and Study Designs
 
 **Guiding questions**
@@ -149,6 +152,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Errors, Biases, and the Texture of Uncertainty
 
 **Guiding questions**
@@ -198,6 +202,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Describing and Visualizing Data: EDA and Graphics
 
 **Guiding questions**
@@ -247,6 +252,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Probability, Inference, and Diagnostic Reasoning
 
 **Guiding questions**
@@ -303,6 +309,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Research Practice, Reporting, and Evidence Synthesis
 
 **Guiding questions**
@@ -355,6 +362,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Data, Institutions, and Big-Data Ecosystems
 
 **Guiding questions**

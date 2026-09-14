@@ -11,17 +11,18 @@ The unit is **not math-heavy**. Equations are treated as *examples* rather than 
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – What Is a Model? Why Model?](#unit-1-what-is-a-model-why-model)
-- [Unit 2 – Purposes and Limits of Models (“Model Land”)](#unit-2-purposes-and-limits-of-models-model-land)
-- [Unit 3 – Types of Models and Multi-Model Thinking](#unit-3-types-of-models-and-multi-model-thinking)
-- [Unit 4 – From System Stories to Formal Models](#unit-4-from-system-stories-to-formal-models)
-- [Unit 5 – Data, Calibration, and Validation (Conceptual)](#unit-5-data-calibration-and-validation-conceptual)
-- [Unit 6 – Uncertainty, Sensitivity, and Robustness](#unit-6-uncertainty-sensitivity-and-robustness)
-- [Unit 7 – Simulation and Agent-Based Modeling](#unit-7-simulation-and-agent-based-modeling)
-- [Unit 8 – Optimization and Decision Models (Light OR)](#unit-8-optimization-and-decision-models-light-or)
-- [Unit 9 – Models in Policy, Ethics, and Power](#unit-9-models-in-policy-ethics-and-power)
-- [Unit 10 – Integrating the Model Lens](#unit-10-integrating-the-model-lens)
+- [Unit 1 – What Is a Model? Why Model?](#unit-1)
+- [Unit 2 – Purposes and Limits of Models (“Model Land”)](#unit-2)
+- [Unit 3 – Types of Models and Multi-Model Thinking](#unit-3)
+- [Unit 4 – From System Stories to Formal Models](#unit-4)
+- [Unit 5 – Data, Calibration, and Validation (Conceptual)](#unit-5)
+- [Unit 6 – Uncertainty, Sensitivity, and Robustness](#unit-6)
+- [Unit 7 – Simulation and Agent-Based Modeling](#unit-7)
+- [Unit 8 – Optimization and Decision Models (Light OR)](#unit-8)
+- [Unit 9 – Models in Policy, Ethics, and Power](#unit-9)
+- [Unit 10 – Integrating the Model Lens](#unit-10)
 <!-- UNIT_TOC_END -->
+
 
 **Big question:**
 How can we build, combine, critique, and use models as explicit tools for understanding, exploring, and acting in the world without mistaking those models for reality itself?
@@ -43,6 +44,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – What Is a Model? Why Model?
 
 **Guiding questions**
@@ -94,6 +96,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Purposes and Limits of Models (“Model Land”)
 
 **Guiding questions**
@@ -147,6 +150,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Types of Models and Multi-Model Thinking
 
 **Guiding questions**
@@ -200,6 +204,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – From System Stories to Formal Models
 
 **Guiding questions**
@@ -261,6 +266,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Data, Calibration, and Validation (Conceptual)
 
 **Guiding questions**
@@ -313,6 +319,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Uncertainty, Sensitivity, and Robustness
 
 **Guiding questions**
@@ -361,6 +368,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Simulation and Agent-Based Modeling
 
 **Guiding questions**
@@ -411,6 +419,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Optimization and Decision Models (Light OR)
 
 **Guiding questions**
@@ -470,6 +479,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Models in Policy, Ethics, and Power
 
 **Guiding questions**
@@ -533,6 +543,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 – Integrating the Model Lens
 
 **Guiding questions**

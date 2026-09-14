@@ -27,24 +27,26 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention](#unit-1-media-ecosystems-incentives-institutions-and-attention)
-- [Unit 2 – Political Communication Foundations: Agenda-Setting, Framing, Priming](#unit-2-political-communication-foundations-agenda-setting-framing-priming)
-- [Unit 3 – What Is Propaganda? Definitions, Types, and Ethical Boundaries](#unit-3-what-is-propaganda-definitions-types-and-ethical-boundaries)
-- [Unit 4 – Media Argumentation: How Mass Media “Makes the Case”](#unit-4-media-argumentation-how-mass-media-makes-the-case)
-- [Unit 5 – Computational Propaganda & Platform Manipulation](#unit-5-computational-propaganda-platform-manipulation)
-- [Unit 6 – Crisis Informatics & Rumor-Making in Catastrophe Situations](#unit-6-crisis-informatics-rumor-making-in-catastrophe-situations)
-- [Unit 7 – Participatory Disinformation: Disinformation as Collaborative Work](#unit-7-participatory-disinformation-disinformation-as-collaborative-work)
-- [Unit 8 – Reaction, Resentment, and Dehumanization: The Moral Psychology of Propaganda](#unit-8-reaction-resentment-and-dehumanization-the-moral-psychology-of-propaganda)
-- [Unit 9 – Authority, Expertise, and the Fragmentation of Intellectual Autonomy](#unit-9-authority-expertise-and-the-fragmentation-of-intellectual-autonomy)
-- [Unit 10 – Moral Panics, Outrage, and the Social Psychology of Attention](#unit-10-moral-panics-outrage-and-the-social-psychology-of-attention)
-- [Unit 11 – Conspiracy Theories: Suspicion, Insulation, and the Paranoid Style](#unit-11-conspiracy-theories-suspicion-insulation-and-the-paranoid-style)
-- [Unit 12 – Influence Infrastructure: PR, Think Tanks, Lobbying, and Manufactured Legitimacy](#unit-12-influence-infrastructure-pr-think-tanks-lobbying-and-manufactured-legitimacy)
-- [Unit 13 – Countermeasures: Debunking, Prebunking, and “Talking Back” Without Feeding the Fire](#unit-13-countermeasures-debunking-prebunking-and-talking-back-without-feeding-the-fire)
-- [Unit 14 – Agency in a Manipulated World: Indoctrination, Surveillance, and Epistemic Self-Defense](#unit-14-agency-in-a-manipulated-world-indoctrination-surveillance-and-epistemic-self-defense)
+- [Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention](#unit-1)
+- [Unit 2 – Political Communication Foundations: Agenda-Setting, Framing, Priming](#unit-2)
+- [Unit 3 – What Is Propaganda? Definitions, Types, and Ethical Boundaries](#unit-3)
+- [Unit 4 – Media Argumentation: How Mass Media “Makes the Case”](#unit-4)
+- [Unit 5 – Computational Propaganda & Platform Manipulation](#unit-5)
+- [Unit 6 – Crisis Informatics & Rumor-Making in Catastrophe Situations](#unit-6)
+- [Unit 7 – Participatory Disinformation: Disinformation as Collaborative Work](#unit-7)
+- [Unit 8 – Reaction, Resentment, and Dehumanization: The Moral Psychology of Propaganda](#unit-8)
+- [Unit 9 – Authority, Expertise, and the Fragmentation of Intellectual Autonomy](#unit-9)
+- [Unit 10 – Moral Panics, Outrage, and the Social Psychology of Attention](#unit-10)
+- [Unit 11 – Conspiracy Theories: Suspicion, Insulation, and the Paranoid Style](#unit-11)
+- [Unit 12 – Influence Infrastructure: PR, Think Tanks, Lobbying, and Manufactured Legitimacy](#unit-12)
+- [Unit 13 – Countermeasures: Debunking, Prebunking, and “Talking Back” Without Feeding the Fire](#unit-13)
+- [Unit 14 – Agency in a Manipulated World: Indoctrination, Surveillance, and Epistemic Self-Defense](#unit-14)
 <!-- UNIT_TOC_END -->
+
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – Media Ecosystems: Incentives, Institutions, and Attention
 
 **Guiding questions**
@@ -77,6 +79,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Political Communication Foundations: Agenda-Setting, Framing, Priming
 
 **Guiding questions**
@@ -100,6 +103,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – What Is Propaganda? Definitions, Types, and Ethical Boundaries
 
 **Guiding questions**
@@ -133,6 +137,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Media Argumentation: How Mass Media “Makes the Case”
 
 **Guiding questions**
@@ -164,6 +169,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Computational Propaganda & Platform Manipulation
 
 **Guiding questions**
@@ -198,6 +204,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Crisis Informatics & Rumor-Making in Catastrophe Situations
 
 **Guiding questions**
@@ -227,6 +234,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Participatory Disinformation: Disinformation as Collaborative Work
 
 **Guiding questions**
@@ -262,6 +270,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Reaction, Resentment, and Dehumanization: The Moral Psychology of Propaganda
 
 **Guiding questions**
@@ -308,6 +317,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Authority, Expertise, and the Fragmentation of Intellectual Autonomy
 
 **Guiding questions**
@@ -343,6 +353,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 – Moral Panics, Outrage, and the Social Psychology of Attention
 
 **Guiding questions**
@@ -365,6 +376,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-11"></a>
 ## Unit 11 – Conspiracy Theories: Suspicion, Insulation, and the Paranoid Style
 
 **Guiding questions**
@@ -388,6 +400,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-12"></a>
 ## Unit 12 – Influence Infrastructure: PR, Think Tanks, Lobbying, and Manufactured Legitimacy
 
 **Guiding questions**
@@ -411,6 +424,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-13"></a>
 ## Unit 13 – Countermeasures: Debunking, Prebunking, and “Talking Back” Without Feeding the Fire
 
 **Guiding questions**
@@ -445,6 +459,7 @@ How do modern media ecosystems shape what people *notice*, *believe*, and *do*�
 
 ---
 
+<a id="unit-14"></a>
 ## Unit 14 – Agency in a Manipulated World: Indoctrination, Surveillance, and Epistemic Self-Defense
 
 **Guiding questions**

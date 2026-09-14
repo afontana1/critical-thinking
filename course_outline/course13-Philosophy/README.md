@@ -27,24 +27,26 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – What Philosophy Contributes to Critical Thinking](#unit-1-what-philosophy-contributes-to-critical-thinking)
-- [Unit 2 – Conceptual Distinctions: The Grammar of Clear Thinking](#unit-2-conceptual-distinctions-the-grammar-of-clear-thinking)
-- [Unit 3 – Knowledge, Justification, and the Problem of Error](#unit-3-knowledge-justification-and-the-problem-of-error)
-- [Unit 4 – Truth, Objectivity, and Intersubjectivity](#unit-4-truth-objectivity-and-intersubjectivity)
-- [Unit 5 – Metaphysics and Ontology: What Exists and How We Classify It](#unit-5-metaphysics-and-ontology-what-exists-and-how-we-classify-it)
-- [Unit 6 – Meaning, Language, and Interpretation](#unit-6-meaning-language-and-interpretation)
-- [Unit 7 – Mind, Consciousness, and the Problem of the Self](#unit-7-mind-consciousness-and-the-problem-of-the-self)
-- [Unit 8 – Freedom, Determinism, Responsibility, and Moral Luck](#unit-8-freedom-determinism-responsibility-and-moral-luck)
-- [Unit 9 – Ethics: Norms, Rules, Virtues, and the Shape of Moral Judgment](#unit-9-ethics-norms-rules-virtues-and-the-shape-of-moral-judgment)
-- [Unit 10 – Metaethics: Moral Truth, Relativism, and Reasons](#unit-10-metaethics-moral-truth-relativism-and-reasons)
-- [Unit 11 – Traditions, Schools, and Worldviews](#unit-11-traditions-schools-and-worldviews)
-- [Unit 12 – Philosophy of Science, Social Science, and Models of Inquiry](#unit-12-philosophy-of-science-social-science-and-models-of-inquiry)
-- [Unit 13 – Social and Political Philosophy: Norms, Justice, Ideology, and Collective Life](#unit-13-social-and-political-philosophy-norms-justice-ideology-and-collective-life)
-- [Unit 14 – Philosophy Today: Information, Computation, AI, and the Future of Reason](#unit-14-philosophy-today-information-computation-ai-and-the-future-of-reason)
+- [Unit 1 – What Philosophy Contributes to Critical Thinking](#unit-1)
+- [Unit 2 – Conceptual Distinctions: The Grammar of Clear Thinking](#unit-2)
+- [Unit 3 – Knowledge, Justification, and the Problem of Error](#unit-3)
+- [Unit 4 – Truth, Objectivity, and Intersubjectivity](#unit-4)
+- [Unit 5 – Metaphysics and Ontology: What Exists and How We Classify It](#unit-5)
+- [Unit 6 – Meaning, Language, and Interpretation](#unit-6)
+- [Unit 7 – Mind, Consciousness, and the Problem of the Self](#unit-7)
+- [Unit 8 – Freedom, Determinism, Responsibility, and Moral Luck](#unit-8)
+- [Unit 9 – Ethics: Norms, Rules, Virtues, and the Shape of Moral Judgment](#unit-9)
+- [Unit 10 – Metaethics: Moral Truth, Relativism, and Reasons](#unit-10)
+- [Unit 11 – Traditions, Schools, and Worldviews](#unit-11)
+- [Unit 12 – Philosophy of Science, Social Science, and Models of Inquiry](#unit-12)
+- [Unit 13 – Social and Political Philosophy: Norms, Justice, Ideology, and Collective Life](#unit-13)
+- [Unit 14 – Philosophy Today: Information, Computation, AI, and the Future of Reason](#unit-14)
 <!-- UNIT_TOC_END -->
+
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – What Philosophy Contributes to Critical Thinking
 
 **Guiding questions**
@@ -83,6 +85,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Conceptual Distinctions: The Grammar of Clear Thinking
 
 **Guiding questions**
@@ -126,6 +129,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – Knowledge, Justification, and the Problem of Error
 
 **Guiding questions**
@@ -175,6 +179,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Truth, Objectivity, and Intersubjectivity
 
 **Guiding questions**
@@ -216,6 +221,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Metaphysics and Ontology: What Exists and How We Classify It
 
 **Guiding questions**
@@ -267,6 +273,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Meaning, Language, and Interpretation
 
 **Guiding questions**
@@ -312,6 +319,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Mind, Consciousness, and the Problem of the Self
 
 **Guiding questions**
@@ -359,6 +367,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – Freedom, Determinism, Responsibility, and Moral Luck
 
 **Guiding questions**
@@ -404,6 +413,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Ethics: Norms, Rules, Virtues, and the Shape of Moral Judgment
 
 **Guiding questions**
@@ -462,6 +472,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 – Metaethics: Moral Truth, Relativism, and Reasons
 
 **Guiding questions**
@@ -515,6 +526,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-11"></a>
 ## Unit 11 – Traditions, Schools, and Worldviews
 
 **Guiding questions**
@@ -568,6 +580,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-12"></a>
 ## Unit 12 – Philosophy of Science, Social Science, and Models of Inquiry
 
 **Guiding questions**
@@ -619,6 +632,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-13"></a>
 ## Unit 13 – Social and Political Philosophy: Norms, Justice, Ideology, and Collective Life
 
 **Guiding questions**
@@ -670,6 +684,7 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 ---
 
+<a id="unit-14"></a>
 ## Unit 14 – Philosophy Today: Information, Computation, AI, and the Future of Reason
 
 **Guiding questions**

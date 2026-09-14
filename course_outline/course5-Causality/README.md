@@ -3,17 +3,18 @@
 ## Table of Contents
 
 <!-- UNIT_TOC_START -->
-- [Unit 1 – What Is a Causal Claim?](#unit-1-what-is-a-causal-claim)
-- [Unit 2 – Counterfactuals, Interventions, and Competing Theories of Causation](#unit-2-counterfactuals-interventions-and-competing-theories-of-causation)
-- [Unit 3 – How Do We Learn About Causes? Designs, Identification, and Validity](#unit-3-how-do-we-learn-about-causes-designs-identification-and-validity)
-- [Unit 4 – Causal Diagrams, Confounding, and the Logic of Adjustment](#unit-4-causal-diagrams-confounding-and-the-logic-of-adjustment)
-- [Unit 5 – Causal Inference in Epidemiology and Public Health](#unit-5-causal-inference-in-epidemiology-and-public-health)
-- [Unit 6 – Causal Inference in Economics and the Social Sciences](#unit-6-causal-inference-in-economics-and-the-social-sciences)
-- [Unit 7 – Law, Responsibility, and Causation](#unit-7-law-responsibility-and-causation)
-- [Unit 8 – AI, Machine Learning, and the Limits of Prediction](#unit-8-ai-machine-learning-and-the-limits-of-prediction)
-- [Unit 9 – Mechanisms, Cases, and Causal Explanation](#unit-9-mechanisms-cases-and-causal-explanation)
-- [Unit 10 – Judging, Communicating, and Using Causal Claims](#unit-10-judging-communicating-and-using-causal-claims)
+- [Unit 1 – What Is a Causal Claim?](#unit-1)
+- [Unit 2 – Counterfactuals, Interventions, and Competing Theories of Causation](#unit-2)
+- [Unit 3 – How Do We Learn About Causes? Designs, Identification, and Validity](#unit-3)
+- [Unit 4 – Causal Diagrams, Confounding, and the Logic of Adjustment](#unit-4)
+- [Unit 5 – Causal Inference in Epidemiology and Public Health](#unit-5)
+- [Unit 6 – Causal Inference in Economics and the Social Sciences](#unit-6)
+- [Unit 7 – Law, Responsibility, and Causation](#unit-7)
+- [Unit 8 – AI, Machine Learning, and the Limits of Prediction](#unit-8)
+- [Unit 9 – Mechanisms, Cases, and Causal Explanation](#unit-9)
+- [Unit 10 – Judging, Communicating, and Using Causal Claims](#unit-10)
 <!-- UNIT_TOC_END -->
+
 
 **Big question:**
 How do we tell when one thing actually *causes* another, what kinds of evidence justify causal claims, and how do different disciplines—from epidemiology and economics to law and AI—reason about causation under uncertainty?
@@ -36,6 +37,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-1"></a>
 ## Unit 1 – What Is a Causal Claim?
 
 **Guiding questions**
@@ -109,6 +111,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-2"></a>
 ## Unit 2 – Counterfactuals, Interventions, and Competing Theories of Causation
 
 **Guiding questions**
@@ -176,6 +179,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-3"></a>
 ## Unit 3 – How Do We Learn About Causes? Designs, Identification, and Validity
 
 **Guiding questions**
@@ -245,6 +249,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-4"></a>
 ## Unit 4 – Causal Diagrams, Confounding, and the Logic of Adjustment
 
 **Guiding questions**
@@ -320,6 +325,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-5"></a>
 ## Unit 5 – Causal Inference in Epidemiology and Public Health
 
 **Guiding questions**
@@ -382,6 +388,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-6"></a>
 ## Unit 6 – Causal Inference in Economics and the Social Sciences
 
 **Guiding questions**
@@ -444,6 +451,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-7"></a>
 ## Unit 7 – Law, Responsibility, and Causation
 
 **Guiding questions**
@@ -508,6 +516,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-8"></a>
 ## Unit 8 – AI, Machine Learning, and the Limits of Prediction
 
 **Guiding questions**
@@ -567,6 +576,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-9"></a>
 ## Unit 9 – Mechanisms, Cases, and Causal Explanation
 
 **Guiding questions**
@@ -630,6 +640,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ---
 
+<a id="unit-10"></a>
 ## Unit 10 – Judging, Communicating, and Using Causal Claims
 
 **Guiding questions**
