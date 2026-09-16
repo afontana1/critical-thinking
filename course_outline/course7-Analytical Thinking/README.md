@@ -39,6 +39,12 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 * Produce concise analytic products that distinguish **evidence, inference, interpretation, recommendation, and confidence**.
 * Build habits that prepare students for later work in **policy analysis, systems thinking, model reasoning, intelligence studies, and decision-making**.
 
+**Course through-line: one analytic workflow**
+
+Frame the question → decompose and represent the problem → identify evidence and assumptions → compare explanations or options → test sensitivity and alternatives → communicate a qualified conclusion. Earlier courses supplied the foundations in argumentation, evidence, data literacy, causality, and heuristics; this course integrates those skills into an **analytic product**. Specialist methods in policy analysis, systems thinking, model reasoning, risk analysis, and intelligence studies are introduced only as needed for that product.
+
+**Running case (illustrative, not a real dataset): persistent service delays.** Students act as analysts asked why a service is regularly late and what might improve it. Each unit revisits the *same question* through a different tool; no diagnosis is presumed in advance. In the absence of real data, use explicitly hypothetical records and do not present their conclusions as empirical findings.
+
 ---
 
 <a id="unit-1"></a>
@@ -82,13 +88,21 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Explain the difference between what the evidence shows, what is inferred from it, and how it is interpreted in a broader context.
    * This distinction becomes a recurring habit across the whole course.
 
-**Core readings**
+6. **The analytic workflow and a first-pass brief**
 
-* Richard Paul & Linda Elder, *The Thinker’s Guide to Analytical Thinking.*
-* George Pólya, *How to Solve It.*
-* Herbert Simon, “The Structure of Ill-Structured Problems.”
-* Daniel Kahneman, *Thinking, Fast and Slow* (sections on System 2 and analytical effort).
-* Edward de Bono, *Six Thinking Hats*.
+   * Frame the running case as a question that could guide evidence collection: what is delayed, compared with which service standard, for whom, and over what period?
+   * Record scope, provisional assumptions, information gaps, and at least two possible explanations; avoid treating an early hypothesis as an established cause.
+   * Start a one-page analytic brief that will be revised through the remaining units, keeping observation, inference, interpretation, recommendation, and confidence separate.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Richard Paul & Linda Elder, *The Thinker’s Guide to Analytic Thinking* (the 83-page repository guide; choose foundational selections).
+* George Pólya, *How to Solve It: A New Aspect of Mathematical Method* (selected problem-framing and checking strategies).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Herbert Simon, “The Structure of Ill-Structured Problems” (external; optional context).
+* Daniel Kahneman, *Thinking, Fast and Slow*, and Edward de Bono, *Six Thinking Hats* (external/previous-course background; not required core here).
 
 ---
 
@@ -136,12 +150,21 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Emphasize that representation is a form of analysis, not just presentation.
    * This unit prepares students for later work in systems, data, and decision analysis.
 
-**Core readings**
+6. **Compare representations of the same problem**
 
-* Joseph Novak, *Learning How to Learn*.
-* Dan Roam, *The Back of the Napkin.*
-* Basic BPMN and flowcharting guides.
-* Articles on abstraction and representation in problem-solving.
+   * For the service-delay case, make a problem hierarchy, workflow map, evidence table, and tentative causal sketch.
+   * Mark causal arrows as **hypotheses**, not conclusions, and distinguish them from temporal or merely associative links.
+   * For each representation, state one useful insight, one omission, and one question it cannot answer. Select the representation that fits the immediate analytic task.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Richard Paul, Linda Elder & Robert Niewoehner, *The Thinker’s Guide to Engineering Reasoning* (repository guide; verify title-page contributor details before formal citation).
+* George Pólya, *How to Solve It* (repository book; selected material on representing a problem).
+* David A. Schum, *Intelligence Analysis as Discovery of Evidence, Hypotheses, and Arguments: Connecting the Dots* (repository book; selected passages on evidence and hypothesis structure).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Joseph Novak, *Learning How to Learn*; Dan Roam, *The Back of the Napkin*; introductory BPMN/flowchart guides (outside this repository; optional representation references).
 
 ---
 
@@ -186,12 +209,23 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Use it as a framework for understanding procedures, decision rules, and system behavior.
    * This creates a bridge between human problem solving and formal modeling.
 
-**Core readings**
+6. **A plain-language procedure with failure checks**
 
-* Brian Christian & Tom Griffiths, *Algorithms to Live By.*
-* Jeannette Wing, “Computational Thinking.”
-* Melanie Mitchell, *Complexity: A Guided Tour* (selected chapters).
-* Charles Petzold, *Code*.
+   * Write pseudocode for the service-delay investigation: ordered steps, one if/then branch, a stopping rule, and an error or missing-data check. No programming is required.
+   * Test the procedure on a contrary example. Consistent execution makes the process reproducible but does **not** make its assumptions, data, or conclusions valid.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* George Pólya, *How to Solve It* (repository book; heuristics for executing and checking a plan).
+* Daniel J. Velleman, *How to Prove It: A Structured Approach* (repository book; **optional comparison** on explicit logical structure, not a computational-thinking substitute).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Brian Christian & Tom Griffiths, *Algorithms to Live By*; Jeannette Wing, “Computational Thinking”; Melanie Mitchell, *Complexity*; Charles Petzold, *Code* (listed in the original outline but not held in this course inventory).
+
+**Short resource to obtain or prepare**
+
+* A short introductory computational-thinking or pseudocode handout with a worked branching/stopping example; use Wing’s essay if accessible.
 
 ---
 
@@ -236,12 +270,20 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to vary assumptions and ask whether the recommendation changes.
    * This is one of the most important habits in practical analysis.
 
-**Core readings**
+6. **A compact decision memo**
 
-* Howard Raiffa, *Decision Analysis: Introductory Lectures on Choices under Uncertainty.*
-* Annie Duke, *Thinking in Bets.*
-* Daniel Kahneman, Paul Slovic, and Amos Tversky, *Judgment under Uncertainty.*
-* Nassim Nicholas Taleb, *The Black Swan.*
+   * For the running case, identify feasible actions, objectives, constraints, uncertain consequences, and whose values enter the comparison.
+   * Separate empirical claims about likely outcomes from value judgments about their importance; evidence alone does not select the preferred trade-off.
+   * Vary one pivotal assumption and note whether the comparative assessment changes; reserve advanced utility elicitation for a later decision-analysis course.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Jordan Ellenberg, *How Not to Be Wrong: The Power of Mathematical Thinking* (repository book; optional short selections on quantitative comparisons).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Martin Peterson, *An Introduction to Decision Theory*, or Robert T. Clemen, *Making Hard Decisions* (held in the Course 6 inventory; **cross-course selections**, not Course 7 files).
+* Howard Raiffa, *Decision Analysis*; Annie Duke, *Thinking in Bets*; Kahneman, Slovic & Tversky, *Judgment under Uncertainty*; Nassim Nicholas Taleb, *The Black Swan* (external to Course 7; optional).
 
 ---
 
@@ -286,12 +328,19 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to ask what the model or system map leaves out.
    * This unit reinforces the importance of humility in analytic modeling.
 
-**Core readings**
+6. **Map a handoff and test the boundary**
 
-* Donella Meadows, *Thinking in Systems.*
-* Peter Checkland, *Soft Systems Methodology in Action.*
-* Charles Perrow, *Normal Accidents.*
-* Basic guides to causal loop diagramming and system mapping.
+   * Map a service request through successive handoffs; identify a candidate bottleneck, a dependency, and a possible unintended consequence of a proposed change.
+   * Redraw the boundary to include an overlooked actor or stage. Explain what changes, while treating feedback, stocks, and flows as an introduction rather than a full systems model.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Richard Paul, Linda Elder & Robert Niewoehner, *The Thinker’s Guide to Engineering Reasoning* (repository guide; selected reasoning and boundary-setting material).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Donella Meadows, *Thinking in Systems*; Peter Checkland, *Soft Systems Methodology in Action*; Charles Perrow, *Normal Accidents* (later systems-course references; not held in Course 7).
+* A basic causal-loop or system-mapping guide (external; optional, not necessary for the handoff map).
 
 ---
 
@@ -336,12 +385,20 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to ask how a different frame or method might alter what they see.
    * This creates a bridge to intelligence analysis and decision hygiene.
 
-**Core readings**
+6. **Revise an analysis after structured challenge**
 
-* Gary Klein, *Sources of Power.*
-* Richard Rumelt, *Good Strategy/Bad Strategy.*
-* Nassim Taleb, *Antifragile.*
-* RAND Corporation, *Guide to Critical Thinking about What to Do in Crisis Situations.*
+   * Name the assumption on which the draft service-delay explanation most depends. Construct one serious rival explanation and specify an observation that would favor it.
+   * Reframe the question once, check whether the conclusion survives, and record a justified revision—or explain why no revision is warranted.
+   * Apply, rather than repeat, the earlier course’s cognitive-bias and debiasing material.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Katherine Hibbs Pherson & Randolph H. Pherson, *Critical Thinking for Intelligence Analysis* (repository book; selected structured-questioning material).
+* David A. Schum, *Intelligence Analysis as Discovery of Evidence, Hypotheses, and Arguments* (repository book; selected treatment of competing interpretations).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Gary Klein, *Sources of Power*; Richard Rumelt, *Good Strategy/Bad Strategy*; Nassim Taleb, *Antifragile*; RAND crisis-thinking guide (originally listed but not in the Course 7 inventory; optional).
 
 ---
 
@@ -392,17 +449,24 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Recognize that recommendations are filtered through institutions, incentives, and competing values.
    * This unit bridges analysis and practice.
 
-**Core readings**
+7. **Interpret an evaluation for a decision**
 
-* Carol Weiss, *Evaluation: Methods for Studying Programs and Policies.*
-* Rossi, Lipsey & Freeman, *Evaluation: A Systematic Approach.*
-* Michael Quinn Patton, *Utilization-Focused Evaluation.*
-* CDC, *Framework for Program Evaluation in Public Health.*
-* Judea Pearl & Dana Mackenzie, *The Book of Why.*
-* Eugene Bardach, *A Practical Guide for Policy Analysis: The Eightfold Path.*
-* Deborah Stone, *Policy Paradox.*
-* Herbert Simon, *Administrative Behavior.*
-* Howard Raiffa, *Decision Analysis.*
+   * Build a miniature logic model for a proposed service improvement: inputs → activities → outputs → outcomes → intended impact.
+   * Ask whether an observed change is **attributable** to the intervention, or whether timing, selection, or another cause could explain it.
+   * Separate the empirical finding from the criteria and stakeholder values used to compare policy or program options; defer full evaluation design and policy-analysis methods to later courses.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Richard Paul, Linda Elder & Robert Niewoehner, *The Thinker’s Guide to Engineering Reasoning* (repository guide; brief selection on defining goals and evaluating outcomes).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* CDC, *Framework for Program Evaluation in Public Health* (external introductory guide; suggested **single** methodological anchor).
+* Carol Weiss; Rossi, Lipsey & Freeman; Michael Quinn Patton; Eugene Bardach; Deborah Stone; Herbert Simon; Howard Raiffa; Pearl & Mackenzie (original extended references, not local Course 7 readings; use selectively in later courses).
+
+**Short resource to obtain or prepare**
+
+* Obtain or link one concise, accessible evaluation-guide excerpt covering logic models, outputs versus outcomes, and attribution; do not assign the original nine-book list as core.
 
 ---
 
@@ -433,7 +497,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
    * Introduce the idea that strong analysis compares rival explanations explicitly.
    * Show the danger of locking onto a preferred explanation too early.
-   * This connects directly to Heuer’s work on analytic tradecraft.
+   * This connects to structured intelligence-analysis tradecraft; build first from the Pherson and Schum books held locally.
 
 4. **Structured analytic techniques**
 
@@ -447,13 +511,21 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to write concise assessments that include assumptions, uncertainty, and confidence levels.
    * This is a practical analytic communication skill.
 
-**Core readings**
+6. **Competing-hypotheses case lab**
 
-* Richards J. Heuer Jr., *Psychology of Intelligence Analysis.*
-* Richards J. Heuer Jr. & Randolph H. Pherson, *Structured Analytic Techniques for Intelligence Analysis.*
-* Randolph H. Pherson & Katherine Hibbs Pherson, *Critical Thinking for Strategic Intelligence.*
-* CIA Center for the Study of Intelligence, tradecraft primers on structured analytic techniques.
-* Sherman Kent, *Strategic Intelligence for American World Policy* (selected chapters).
+   * Compare at least two explanations for service delays using an evidence-by-hypothesis table; record each source, uncertainty, potential dependence, and the **diagnostic value** of each item.
+   * Note missing information and any item that would materially change the assessment. Do not equate evidence quantity with evidential strength.
+   * Treat analysis of competing hypotheses (ACH) as an aid to exposing assumptions and contradictions, **not** as a mechanical proof or automatic scoring rule.
+   * Produce a short paragraph that separates the lead judgment, alternatives, confidence, and signposts for revision.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Katherine Hibbs Pherson & Randolph H. Pherson, *Critical Thinking for Intelligence Analysis* (exact title of the local book; **do not silently equate** it with *Critical Thinking for Strategic Intelligence*).
+* David A. Schum, *Intelligence Analysis as Discovery of Evidence, Hypotheses, and Arguments: Connecting the Dots* (repository book; selected evidence/hypothesis mapping).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Richards J. Heuer Jr., *Psychology of Intelligence Analysis*; Heuer & Pherson, *Structured Analytic Techniques for Intelligence Analysis*; CIA tradecraft primers; Sherman Kent (not in this course inventory; optional advanced references).
 
 ---
 
@@ -502,13 +574,21 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to ask about source, quality, omissions, and coding choices.
    * This reinforces the distinction between data and warranted inference.
 
-**Core readings**
+6. **A one-page analytic display**
 
-* Edward Tufte, *The Visual Display of Quantitative Information.*
-* Edward Tufte, *Visual Explanations.*
-* Cole Nussbaumer Knaflic, *Storytelling with Data.*
-* Alberto Cairo, *How Charts Lie.*
-* Darrell Huff, *How to Lie with Statistics.*
+   * Prepare an evidence table or annotated chart for the running case, stating the comparison, unit of analysis, time window, source, missingness, and one material limitation.
+   * Label what was observed separately from explanatory hypotheses; choose a display that advances the question rather than decorating the brief.
+   * Reuse the graphic-critique skills from Data Literacy instead of reteaching every chart type.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Jordan Ellenberg, *How Not to Be Wrong: The Power of Mathematical Thinking* (repository book; selected quantitative-reasoning examples).
+* David A. Schum, *Intelligence Analysis as Discovery of Evidence, Hypotheses, and Arguments* (repository book; selected evidentiary-display material).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Edward Tufte, *The Visual Display of Quantitative Information* / *Visual Explanations*, and Darrell Huff, *How to Lie with Statistics* (held in the Course 4 Data Literacy inventory; cross-course selections).
+* Cole Nussbaumer Knaflic, *Storytelling with Data*; Alberto Cairo, *How Charts Lie* (not in Course 7 inventory; optional).
 
 ---
 
@@ -553,13 +633,23 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Teach students to distinguish risk communication from persuasion or alarm.
    * This unit emphasizes honesty about uncertainty and stakes.
 
-**Core readings**
+6. **Characterize risk without false precision**
 
-* National Research Council, *Understanding Risk: Informing Decisions in a Democratic Society.*
-* David Spiegelhalter, *The Art of Statistics* (risk communication chapters).
-* Gerd Gigerenzer, *Calculated Risks.*
-* Cass Sunstein, *Risk and Reason.*
-* Nassim Nicholas Taleb, *The Black Swan.*
+   * Add a risk box to the running-case brief: possible harm/event, exposure or vulnerability, likelihood (if supportable), consequences, and what remains unknown.
+   * Explain that a qualitative risk matrix organizes judgments but does not confer precise probabilities or make unlike categories automatically comparable.
+   * Keep action thresholds distinct from the strength of the evidence; detailed risk quantification belongs in the later risk-analysis course.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Jordan Ellenberg, *How Not to Be Wrong* (repository book; optional selected cautionary quantitative examples).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* National Research Council, *Understanding Risk*; David Spiegelhalter, *The Art of Statistics*; Gerd Gigerenzer, *Calculated Risks*; Cass Sunstein, *Risk and Reason*; Nassim Taleb, *The Black Swan* (not in Course 7 inventory; optional risk-course references).
+
+**Short resource to obtain or prepare**
+
+* If this unit needs a stand-alone assigned text, use one short introductory risk-characterization/communication guide rather than several full books.
 
 ---
 
@@ -604,13 +694,24 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Compare interventions using explicit criteria and tradeoffs.
    * End by moving from explanation to action.
 
-**Core readings**
+6. **Root-cause hypotheses are not findings**
 
-* Charles Kepner & Benjamin Tregoe, *The New Rational Manager.*
-* George Pólya, *How to Solve It.*
-* Eliyahu Goldratt, *The Goal.*
-* Russell Ackoff, *The Art of Problem Solving.*
-* Articles and guides on root cause analysis and fault-tree reasoning.
+   * Use a 5 Whys chain or fishbone diagram to generate **at least two** rival explanations for the service delays; do not assume there is one unique root cause.
+   * Identify the observation or test that would distinguish the rivals, and record any unresolved mechanism or missing information.
+   * Compare interventions against explicit constraints, likely consequences, and what would be monitored after implementation.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* George Pólya, *How to Solve It* (repository book; problem-solving, verification, and checking).
+* Richard Paul, Linda Elder & Robert Niewoehner, *The Thinker’s Guide to Engineering Reasoning* (repository guide; selected troubleshooting context).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Charles Kepner & Benjamin Tregoe, *The New Rational Manager*; Eliyahu Goldratt, *The Goal*; Russell Ackoff, *The Art of Problem Solving* (not in Course 7 inventory; optional advanced references).
+
+**Short resource to obtain or prepare**
+
+* A short practical 5 Whys/fishbone or fault-tree handout explicitly distinguishing a proposed causal chain from a verified explanation.
 
 ---
 
@@ -655,27 +756,37 @@ How do we analyze messy problems well—by framing questions clearly, structurin
    * Use premortems and alternative analysis to identify failure paths.
    * End with the lesson that better forecasting depends on better self-critique.
 
-**Core readings**
+6. **Three distinct forward-looking outputs**
 
-* Philip Tetlock & Dan Gardner, *Superforecasting.*
-* Gary Klein, “Performing a Project Premortem.”
-* Kees van der Heijden, *Scenarios: The Art of Strategic Conversation.*
-* Richards J. Heuer Jr., *Psychology of Intelligence Analysis* (sections on uncertainty and judgment).
-* Randolph H. Pherson & Richards J. Heuer Jr., *Structured Analytic Techniques for Intelligence Analysis.*
+   * **Forecast:** a time-bounded, revisable judgment about an outcome, with uncertainty stated.
+   * **Scenario:** an internally coherent possible development used to explore drivers and contingencies, not a disguised probability forecast.
+   * **Red-team challenge:** an organized test of the assumptions, blind spots, and failure modes underlying the first two.
+   * For the running case, specify two signposts and what evidence would cause the brief’s assessment to change; reuse rather than reteach Course 6’s calibration methods.
+
+**Assigned readings — local Course 7 repository (selected sections, not entire books)**
+
+* Katherine Hibbs Pherson & Randolph H. Pherson, *Critical Thinking for Intelligence Analysis* (repository book; selected structured challenge and indicators).
+* David A. Schum, *Intelligence Analysis as Discovery of Evidence, Hypotheses, and Arguments* (repository book; selected updating of evidential assessments).
+
+**Cross-course or external references (not listed in the Course 7 inventory)**
+
+* Philip Tetlock & Dan Gardner, *Superforecasting*; Gary Klein, “Performing a Project Premortem” (identified in the Course 6 outline; cross-course if available).
+* Kees van der Heijden, *Scenarios*; Heuer & Pherson, *Structured Analytic Techniques for Intelligence Analysis*; Heuer, *Psychology of Intelligence Analysis* (not in Course 7 inventory; optional).
 
 ---
 
 ## Possible capstone activities
 
-* **Analytic Brief**
+* **Integrated Analytic Brief (recommended course through-line)**
 
-  Students choose a real-world issue and:
+  Students develop a **two-page brief** on the recurring service-delay case (using verified data where available and clearly labeled hypothetical data otherwise), or on a comparable chosen issue. The brief must:
 
-  * frame the problem
-  * identify key assumptions
-  * distinguish evidence from inference
-  * present at least two plausible interpretations
-  * offer a recommendation with caveats
+  * frame the question, scope, comparator, and relevant stakeholders
+  * distinguish observations, evidence, inferences, interpretations, recommendations, and confidence
+  * compare at least two plausible explanations or options and identify their source evidence
+  * identify a pivotal assumption and show one sensitivity or alternative-framing check
+  * provide a qualified conclusion, implementation constraint, and signposts for revision
+  * include a compact appendix with a problem map, evidence table, and one alternate explanation or decision comparison; avoid treating an illustrative case as an empirical finding
 
 * **Competing Hypotheses Exercise**
 
@@ -728,6 +839,7 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 * **Forecast logs** to preserve uncertainty and enable later calibration.
 * **Red-team rotations** where another student or group must challenge the leading view.
 * **Decision memos** that require criteria, tradeoffs, and implementation considerations.
+* **One running-case brief** revised through the units; each tool must add information or expose a limitation rather than become a stand-alone specialist module.
 
 ---
 
@@ -737,7 +849,11 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 ---
 
-## Suggested reference list
+## Reading access, scope, and extended reference list
+
+The **nine entries in the Course 7 metadata are book records**, including two apparent copies of *The Thinker’s Guide to Analytic Thinking*. The unit lists above mark readings held in this Course 7 inventory separately from cross-course or external references; an item named in this extended list is **not automatically held locally or assigned in full**. Select short passages for teaching and verify chapter/page references against the actual editions before making a student reading schedule. The two apparent copies have matching title, page count, and file size in the metadata; compare their actual hashes before treating them as identical or deleting either. Leave the physical folders and `metadata.json` unchanged.
+
+**Extended bibliography (original suggestions retained for optional reference; availability varies)**
 
 * Richard Paul & Linda Elder, *The Thinker’s Guide to Analytical Thinking.*
 * George Pólya, *How to Solve It.*

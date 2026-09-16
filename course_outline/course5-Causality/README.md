@@ -24,7 +24,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 * Distinguish **causal claims** from descriptive, predictive, and merely correlational claims.
 * Explain major ways of thinking about causation, including **difference-making, counterfactual, interventionist, mechanistic, and capacity-based** approaches.
 * Use a shared causal vocabulary, including **necessary, sufficient, contributory, proximate, general, and specific** causation.
-* Understand why **study design** is central to causal inference, and distinguish **identification** from **estimation**.
+* Understand why **study design** is central to causal inference; state a **target causal contrast** before distinguishing **identification** from **estimation**.
 * Recognize the logic of **experiments, quasi-experiments, and observational designs**, including their assumptions and limits.
 * Use simple **causal diagrams** to reason about confounders, mediators, colliders, and sources of bias.
 * Explain why **more controls** do not automatically improve a causal analysis, and why adjustment depends on causal structure.
@@ -70,7 +70,8 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
    * Necessary, sufficient, and contributory causes.
    * Single-cause stories versus **multiple causation** and interacting causal factors.
-   * Distinguish triggering conditions from background conditions.
+   * Mackie’s **INUS** idea (briefly): a factor can be an insufficient but necessary part of a sufficient configuration that is not itself necessary for the outcome.
+   * Distinguish triggering conditions from background conditions; ask why one factor rather than another is singled out as *the* cause in a particular question or context.
 
 5. **Mechanisms, regularities, and capacities**
 
@@ -102,12 +103,14 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* John Stuart Mill, *A System of Logic*, Book III.
-* James Woodward, *Making Things Happen: A Theory of Causal Explanation*.
-* Judea Pearl and Dana Mackenzie, *The Book of Why*.
-* Nancy Cartwright, *Nature’s Capacities and Their Measurement*.
-* *The Oxford Handbook of Causation* (selected chapters).
-* Stanford Encyclopedia of Philosophy, “Causation” and “Counterfactual Theories of Causation.”
+* John Stuart Mill, *A System of Logic*, Book III (selected passages on causal methods).
+* J. L. Mackie, “Causes and Conditions” (repository reading; selected sections on causal conditions and INUS).
+* “The Eight Pillars of Causal Wisdom” (short repository reading; confirm author attribution in metadata before citing formally).
+* James Woodward, *Making Things Happen: A Theory of Causal Explanation* (selected chapters; repository book).
+* Judea Pearl and Dana Mackenzie, *The Book of Why* (selected chapters; repository book).
+* Nancy Cartwright, *Nature’s Capacities and Their Measurement* (selected chapters; repository book).
+* *The Oxford Handbook of Causation* (repository book; optional specialist reference).
+* Stanford Encyclopedia of Philosophy, “Causation” and “Counterfactual Theories of Causation” (optional background).
 
 ---
 
@@ -167,15 +170,17 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
    * Discovering a plausible cause is not the same as fully explaining an outcome.
    * Explanation often requires mechanism, context, and comparison to rivals.
    * This distinction will recur in policy, case studies, and AI applications.
+   * **Comparative case exercise:** examine one event using counterfactual, interventionist, mechanistic, and capacity-based questions. State what each approach explains, which comparison or evidence it requires, and where it leaves uncertainty; use overdetermination or preemption only as a brief stress test.
 
 **Core readings**
 
 * David Lewis and related selections on counterfactual causation.
-* James Woodward, *Making Things Happen*.
-* Nancy Cartwright, *Nature’s Capacities and Their Measurement*.
-* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference* (conceptual chapters).
-* *The Oxford Handbook of Causal Reasoning* (selected chapters).
-* *The Oxford Handbook of Causation* (selected chapters).
+* James Woodward, *Making Things Happen* (repository book; selected interventionist chapters).
+* Nancy Cartwright, *Nature’s Capacities and Their Measurement* (repository book; selected chapters).
+* John Collins, Ned Hall, and L. A. Paul (eds.), *Causation and Counterfactuals* (repository book; one contrasting chapter).
+* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference* (optional conceptual reference; not listed in repository metadata).
+* Jonathan Schaffer, “Trumping Preemption” (repository reading; optional specialist case).
+* *The Oxford Handbook of Causal Reasoning* and *The Oxford Handbook of Causation* (repository books; optional reference chapters).
 
 ---
 
@@ -190,11 +195,13 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Sub-units**
 
-1. **From causal question to research design**
+1. **From causal question to target effect and research design**
 
    * Causal inquiry starts with a question about what would happen under different conditions.
-   * A design is a strategy for approximating the relevant comparison.
-   * Students learn that causal inference begins before any model is fitted.
+   * State the **target causal contrast** (or *estimand*) before choosing a method: treatment/exposure, alternative or comparator, outcome, target population, and time frame.
+   * Explain the **missing-counterfactual problem**: for a unit under a particular condition, we do not simultaneously observe the outcome it would have had under the alternative.
+   * A design is a strategy for learning about that unobserved comparison, not merely a way to fit a model.
+   * Mini-exercise: turn “Does a program work?” into a precise question, such as its effect on a specified outcome for a specified population over a stated interval relative to a named alternative.
 
 2. **Experiments and randomization**
 
@@ -216,9 +223,10 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 5. **Identification versus estimation**
 
-   * Identification asks whether the design supports a causal claim at all.
-   * Estimation asks how large the effect appears to be.
-   * This distinction is foundational: a precise estimate from a bad design is still weak evidence.
+   * **Target effect:** what causal contrast are we trying to learn about?
+   * **Identification:** under which assumptions can the target effect be recovered from the available design and observed data?
+   * **Estimation:** given those assumptions and data, what numerical value and uncertainty do we calculate?
+   * This distinction is foundational: a precise estimate does not rescue a poorly identified causal effect.
 
 6. **Threats to internal validity**
 
@@ -240,12 +248,12 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* William R. Shadish, Thomas D. Cook, and Donald T. Campbell, *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*.
-* Donald T. Campbell and Julian C. Stanley, *Experimental and Quasi-Experimental Designs for Research*.
-* Miguel A. Hernán and James M. Robins, *Causal Inference: What If*, Chapters 1–3.
-* Joshua D. Angrist and Jörn-Steffen Pischke, *Mastering ’Metrics*.
-* Scott Cunningham, *Causal Inference: The Mixtape*.
-* Angus Deaton and Nancy Cartwright, “Understanding and Misunderstanding Randomized Controlled Trials.”
+* Guido W. Imbens and Donald B. Rubin, *Causal Inference for Statistics, Social, and Biomedical Sciences*, Chapter 1, “Causality: The Basic Framework” (repository chapter).
+* William R. Shadish, Thomas D. Cook, and Donald T. Campbell, *Experimental and Quasi-Experimental Designs for Generalized Causal Inference* (repository book; selected design chapters).
+* Miguel A. Hernán and James M. Robins, *Causal Inference: What If*, Chapters 1–3 (external core reading; not listed in repository metadata).
+* Donald T. Campbell and Julian C. Stanley, *Experimental and Quasi-Experimental Designs for Research* (optional; not listed in repository metadata).
+* Joshua D. Angrist and Jörn-Steffen Pischke, *Mastering ’Metrics*, and Scott Cunningham, *Causal Inference: The Mixtape* (design examples; see also Unit 6; not listed in repository metadata).
+* Angus Deaton and Nancy Cartwright, “Understanding and Misunderstanding Randomized Controlled Trials” (optional critique; not listed in repository metadata).
 
 ---
 
@@ -271,6 +279,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
    * Variables as nodes, causal influence as directed arrows.
    * Directed acyclic graphs as simplified representations of causal structure.
    * Students learn that every diagram encodes assumptions, not facts beyond dispute.
+   * Compare two plausible diagrams for the same observed association and identify which additional information could distinguish them.
 
 3. **Confounders**
 
@@ -311,17 +320,19 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 9. **Micro-DAGs for public reasoning**
 
    * Rapid diagramming of headlines and policy claims.
-   * “Adjust or don’t adjust?” flashcards for confounders, mediators, and colliders.
-   * This is the course’s main visual reasoning practice.
+   * **Required worked set:** draw a three- or four-variable example for (a) a confounder, (b) a mediator, and (c) a collider. For each, label the target effect and explain in a sentence whether conditioning would help, change the question, or introduce bias.
+   * “Adjust or don’t adjust?” flashcards should include the reasoning, not just an answer key; compare rival diagrams when causal roles are uncertain.
+   * This is the course’s main visual reasoning practice, not an exercise in memorizing adjustment recipes.
 
 **Core readings**
 
-* Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*.
-* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference*.
-* Felix Elwert, “Graphical Causal Models.”
-* Julia M. Rohrer, “Thinking Clearly About Correlations and Causation.”
-* Selections from *The Book of Why*.
-* George E. P. Box, “Science and Statistics” for the spirit of triangulation.
+* Judea Pearl and Dana Mackenzie, *The Book of Why* (repository book; selected diagram examples).
+* Judea Pearl, “Causal Inference in Statistics: An Overview” (repository reading; selected accessible diagram examples, with technical portions optional).
+* Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*; Felix Elwert, “Graphical Causal Models”; and Julia M. Rohrer, “Thinking Clearly About Correlations and Causation” (introductory reading options; not listed in repository metadata).
+* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference* (optional; not listed in repository metadata).
+* George E. P. Box, “Science and Statistics” (optional triangulation background).
+
+**Teaching-resource gap:** A concise illustrated beginner’s DAG handout (confounder, mediator, collider, and two rival graphs) is not identifiable in the repository metadata. Develop or acquire one; the readings above do not replace the worked exercises.
 
 ---
 
@@ -359,6 +370,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
    * General causation: can exposure X cause outcome Y in a population?
    * Specific causation: did X cause this person’s outcome in this case?
    * This distinction is especially important for medicine, toxic torts, and regulation.
+   * **Case exercise:** start with an observed exposure–outcome association, assess the design and rival explanations, then state separately what it supports about a population and what additional evidence would be needed for an individual causal attribution.
 
 5. **Absolute versus relative risk**
 
@@ -380,11 +392,13 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* A. Bradford Hill, “The Environment and Disease: Association or Causation?”
-* Kenneth J. Rothman, Sander Greenland, and Timothy L. Lash, *Modern Epidemiology* (selected conceptual sections).
-* Miguel A. Hernán and James M. Robins, *Causal Inference: What If* (selected chapters on confounding and exchangeability).
-* M. Susser, *Causal Thinking in the Health Sciences*.
-* Nancy Cartwright and Jeremy Hardie, *Evidence-Based Policy* (selected sections on application and context).
+* A. Bradford Hill, “The Environment and Disease: Association or Causation?” (external core reading; not listed in repository metadata).
+* Kenneth J. Rothman, Sander Greenland, and Timothy L. Lash, *Modern Epidemiology*, and Miguel A. Hernán and James M. Robins, *Causal Inference: What If* (selected conceptual sections; external reading options, not listed in repository metadata).
+* Lauren N. Ross, “The Doctrine of Specific Etiology” (repository reading; optional advanced comparison of individual causal attribution).
+* M. Susser, *Causal Thinking in the Health Sciences* (optional external reference).
+* Nancy Cartwright and Jeremy Hardie, *Evidence-Based Policy* (selected sections on application and context; external/cross-course reading, not listed in this repository metadata).
+
+**Reading gap:** No dedicated epidemiology-methods folder appears in the repository inventory; acquire or cross-link one accessible introductory reading if this unit is taught as a standalone module.
 
 ---
 
@@ -414,25 +428,26 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 3. **Instrumental variables**
 
    * Instruments as encouragement devices or sources of indirect variation.
-   * Basic idea: use variation in X that is plausibly independent of the confounders affecting Y.
-   * Emphasize assumptions rather than formulas.
+   * Explain relevance (the instrument changes exposure), the exclusion restriction (no route to the outcome except through exposure), and the need to defend independence from common causes of the outcome.
+   * Ask how exclusion could fail; emphasize assumptions rather than formulas.
 
 4. **Difference-in-differences**
 
    * Compare changes over time across treated and comparison groups.
-   * Explain the logic of parallel trends in plain language.
-   * Students learn why pre-trends and placebos matter.
+   * Explain the **parallel-trends assumption** in plain language: absent treatment, the groups’ outcome trends would have evolved comparably.
+   * Discuss why composition changes, spillovers, and simultaneous policy shifts might undermine that comparison; pre-trends and placebos are informative checks, not proofs of the assumption.
 
 5. **Regression discontinuity**
 
    * Threshold-based assignment rules.
-   * Why units near a cutoff may be especially comparable.
-   * Emphasize local causal effects and their limits.
+   * Why units near a cutoff may be especially comparable if potential outcomes change smoothly there absent treatment and the assignment variable is not strategically manipulated.
+   * Emphasize local causal effects, the possibility of sorting around the cutoff, and limits on generalization.
 
 6. **Falsification tests and credibility checks**
 
    * Balance checks, placebo outcomes, placebo treatments, and sensitivity to specification.
-   * These are not decorations but part of the causal argument.
+   * These are not decorations but part of the causal argument; a passed check does not guarantee identification.
+   * **Required one-page design card for IV, DiD, and RD:** causal question and target contrast → source of comparison → identifying assumptions → one plausible failure → a credibility or falsification check → scope of the effect.
    * Students learn to look for evidence that would have counted against the claim.
 
 7. **Causal inference and explanation in social science**
@@ -443,11 +458,13 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* Joshua D. Angrist and Jörn-Steffen Pischke, *Mastering ’Metrics*.
-* Scott Cunningham, *Causal Inference: The Mixtape*.
-* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference*.
-* Nancy Cartwright and collaborators, *Hunting Causes and Using Them*.
-* Selected chapters from *The Oxford Handbook of Causal Reasoning*.
+* Joshua D. Angrist and Jörn-Steffen Pischke, *Mastering ’Metrics*, and Scott Cunningham, *Causal Inference: The Mixtape* (select one concise introductory design chapter; neither is listed in repository metadata).
+* Nancy Cartwright, *Hunting Causes and Using Them: Approaches in Philosophy and Economics* (repository book; selected critique/context chapters).
+* William R. Shadish, Thomas D. Cook, and Donald T. Campbell, *Experimental and Quasi-Experimental Designs for Generalized Causal Inference* (repository book; relevant design sections).
+* Stephen L. Morgan and Christopher Winship, *Counterfactuals and Causal Inference* (optional external reference).
+* *The Oxford Handbook of Causal Reasoning* (repository book; selected disciplinary chapters).
+
+**Reading gap:** The inventory has no dedicated introductory IV/DiD/RD primer. Add or cross-link short worked examples for the three design cards rather than requiring a full technical methods textbook.
 
 ---
 
@@ -478,7 +495,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
    * Some harms have more than one sufficient cause.
    * In such cases, simple but-for reasoning can fail.
-   * Introduce material contribution and related doctrines as legal responses to overdetermination problems.
+   * Introduce material contribution and related doctrines as **jurisdiction-dependent** legal responses to overdetermination problems, not a universal substitute for the but-for test.
 
 4. **Proximate cause and scope of liability**
 
@@ -488,9 +505,8 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 5. **Standards of proof**
 
-   * Preponderance of the evidence in civil law.
-   * Contrast with higher criminal thresholds where relevant.
-   * Emphasize that standards of proof govern action under uncertainty, not certainty itself.
+   * Use the preponderance standard in relevant civil-law examples and contrast with criminal thresholds where appropriate; identify the jurisdiction and proceeding.
+   * Emphasize that standards of proof set decision thresholds under uncertainty, rather than changing the underlying causal evidence.
 
 6. **Scientific and epidemiological evidence in court**
 
@@ -506,13 +522,12 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* H. L. A. Hart and Tony Honoré, *Causation in the Law*.
-* Richard W. Wright, “Causation in Tort Law.”
-* *Restatement (Third) of Torts* (selected sections on factual cause and proximate cause).
-* *Reference Manual on Scientific Evidence* (selected chapters on epidemiology and statistics).
-* *Palsgraf v. Long Island Railroad Co.*
-* *Daubert v. Merrell Dow Pharmaceuticals, Inc.*
-* *McGhee v. National Coal Board*.
+* Richard W. Wright, “Causation in Tort Law” (repository reading; selected sections).
+* Jane Stapleton, “Choosing What We Mean by Causation in the Law” (repository reading).
+* Jonathan Schaffer, “Contrastive Causation in the Law” (repository reading; optional advanced contrast).
+* Mark F. Grady, “Proximate Cause Decoded” (repository reading; selected sections).
+* H. L. A. Hart and Tony Honoré, *Causation in the Law* (optional external reference).
+* *Restatement (Third) of Torts*, *Reference Manual on Scientific Evidence*, *Palsgraf v. Long Island Railroad Co.*, *Daubert v. Merrell Dow Pharmaceuticals, Inc.*, and *McGhee v. National Coal Board* (jurisdiction-specific primary materials/external readings; assign selected portions with their procedural and jurisdictional context).
 
 ---
 
@@ -545,17 +560,17 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
    * But discovery outputs do not eliminate the need for theory, design, and domain knowledge.
    * Emphasize caveats and responsible use.
 
-4. **Counterfactual fairness**
+4. **Counterfactual fairness (brief application)**
 
    * Fairness can be framed in causal terms by asking whether a decision would differ under a counterfactual change in protected attributes or their downstream pathways.
-   * This shows one concrete way causal reasoning enters contemporary algorithmic ethics.
-   * It also reveals how fairness debates depend on causal assumptions.
+   * Use one illustration to show how the result depends on the causal model and on what pathways are treated as relevant; do not turn this into a full algorithmic-fairness unit.
+   * Detailed normative frameworks and implementation methods belong to later specialized study.
 
-5. **Feedback loops and adaptive systems**
+5. **Feedback loops and adaptive systems (forward connection)**
 
    * Predictions can shape behavior, and behavior can alter future data.
-   * This introduces a bridge from DAG-based reasoning to systems thinking and dynamic feedback.
-   * Students see where simple acyclic models become strained.
+   * Briefly note that feedback unfolds over time and may require time-indexed causal diagrams or other dynamic representations.
+   * Reserve general feedback-system modeling for the later systems-thinking course.
 
 6. **AI, explanation, and intervention**
 
@@ -568,11 +583,11 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, *Elements of Causal Inference*.
-* Judea Pearl and Dana Mackenzie, *The Book of Why*.
-* Matt J. Kusner, Joshua Loftus, Chris Russell, and Ricardo Silva, “Counterfactual Fairness.”
-* Solon Barocas, Moritz Hardt, and Arvind Narayanan, *Fairness and Machine Learning* (conceptual chapters).
-* Selected chapters from *The Oxford Handbook of Causal Reasoning*.
+* Liuyi Yao et al., “A Survey on Causal Inference” (repository reading; selected introductory discussion; technical AI/ML methods optional).
+* Judea Pearl and Dana Mackenzie, *The Book of Why* (repository book; selections on prediction, intervention, and counterfactuals).
+* *The Oxford Handbook of Causal Reasoning* (repository book; selected relevant chapters).
+* Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, *Elements of Causal Inference* (optional external technical extension; not listed in repository metadata).
+* Matt J. Kusner et al., “Counterfactual Fairness,” and Solon Barocas, Moritz Hardt, and Arvind Narayanan, *Fairness and Machine Learning* (optional external applications; not listed in repository metadata).
 
 ---
 
@@ -596,13 +611,15 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 2. **Mechanism maps and weak links**
 
    * Students practice narrating a causal chain and identifying where it might break.
+   * **Required exercise:** map one proposed X → intermediate steps → Y mechanism; name the weakest link and an observation that could support or challenge it.
    * This helps them evaluate claims that are statistically suggestive but explanatorily thin.
    * It also supports external-validity reasoning.
 
 3. **Process tracing within cases**
 
    * Use within-case evidence to test competing causal stories.
-   * Students learn “hoop tests” and “smoking gun” tests as structured ways of evaluating case evidence.
+   * Introduce “hoop tests” and “smoking gun” tests as different ways evidence can challenge or support a case explanation, without treating either as automatically conclusive.
+   * **Required case exercise:** state two rival mechanisms and identify one within-case observation that would discriminate between them.
    * This introduces a disciplined form of qualitative causal inference.
 
 4. **Case studies and theory development**
@@ -611,11 +628,11 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
    * They are not merely anecdotal when used systematically.
    * This is especially important in history, political science, and organizational analysis.
 
-5. **Qualitative Comparative Analysis**
+5. **Qualitative Comparative Analysis (introductory extension)**
 
    * Conjunctive causation, equifinality, and causal recipes.
    * Some outcomes arise through multiple sufficient combinations rather than one dominant cause.
-   * QCA helps students think beyond single-variable models.
+   * Use QCA as a brief conceptual comparison, not a required technical method unless a suitable introductory reading is added.
 
 6. **Consilience and triangulation**
 
@@ -631,12 +648,16 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* Peter Hedström and Petri Ylikoski, “Causal Mechanisms in the Social Sciences.”
-* Alexander L. George and Andrew Bennett, *Case Studies and Theory Development in the Social Sciences*.
-* Derek Beach and Rasmus Brun Pedersen, *Process-Tracing Methods*.
-* Charles C. Ragin, *The Comparative Method* and *Redesigning Social Inquiry*.
-* Nancy Cartwright and Jeremy Hardie, *Evidence-Based Policy*.
-* James Woodward, *Making Things Happen* (selected chapters on explanation).
+* Peter Hedström and Petri Ylikoski, “Causal Mechanisms in the Social Sciences” (repository reading under `4. Interdisciplinary Extensions`).
+* Lauren N. Ross, “Cascade versus Mechanism: The Diversity of Causal Structure in Science” and “Causation in Neuroscience: Keeping Mechanism Meaningful” (repository papers; select one for a mechanism comparison).
+* Lauren N. Ross, “What Is Social Structural Explanation? A Causal Account” (repository paper; optional cross-domain example).
+* David P. MacKinnon, Amanda J. Fairchild, and Matthew S. Fritz, “Mediation Analysis” (repository reading; optional technical bridge to Unit 4).
+* James Woodward, *Making Things Happen* (repository book; selected chapters on explanation).
+* Alexander L. George and Andrew Bennett, *Case Studies and Theory Development in the Social Sciences*, and Derek Beach and Rasmus Brun Pedersen, *Process-Tracing Methods* (external methodological references; not listed in repository metadata).
+* Charles C. Ragin, *The Comparative Method* and *Redesigning Social Inquiry* (optional external QCA references; not listed in repository metadata).
+* Nancy Cartwright and Jeremy Hardie, *Evidence-Based Policy* (optional external/cross-course reading; not listed in this repository metadata).
+
+**Reading gap:** If process tracing or QCA will be more than a brief introduction, add or cross-link a short methods primer; neither is supported by a dedicated methodological text in this repository inventory.
 
 ---
 
@@ -683,9 +704,14 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 5. **The Causal Claim Skeptic’s Checklist**
 
-   * A compact final framework for reading and evaluating claims.
-   * This turns the course into a reusable critical-thinking habit.
-   * It serves as a synthesis of vocabulary, design, diagrams, mechanisms, and communication.
+   * Produce a **reusable one-page causal-claim audit** rather than only naming a checklist:
+     * What precisely is the causal contrast (exposure/intervention, comparator, outcome, population, and time frame)?
+     * Which design and comparison support the claim, and what is its identification argument?
+     * Which assumptions or rival causal pathways might undermine that argument?
+     * How large is the effect, how uncertain is the estimate, and is there meaningful heterogeneity?
+     * What mechanism evidence exists, and where might the result fail to generalize?
+     * What decision—if any—is being considered, and what additional evidence would matter?
+   * Apply the same audit to a quantitative study and a qualitative or mixed-evidence case; keep detailed risk and policy decision modeling for later courses.
 
 6. **Using causal claims in decision-making**
 
@@ -702,18 +728,16 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 **Core readings**
 
-* David Spiegelhalter, *The Art of Statistics* (communication chapters).
-* American Statistical Association, statement on p-values and plain-language commentary.
-* Gerd Gigerenzer, *Calculated Risks*.
-* John P. A. Ioannidis, “Why Most Published Research Findings Are False.”
-* Steven Sloman, *Causal Models*.
-* Daniel Kahneman, *Thinking, Fast and Slow* (selected chapters on causal stories and judgment).
+* Judea Pearl, “Causal Inference in Statistics: An Overview” (repository reading; selected passages reviewing causal assumptions and identification).
+* Nancy Cartwright, *Hunting Causes and Using Them* (repository book; selected passages on context and use).
+* David Spiegelhalter, *The Art of Statistics* (communication chapters), and Gerd Gigerenzer, *Calculated Risks* (optional external communication references; not listed in repository metadata).
+* American Statistical Association, statement on p-values; John P. A. Ioannidis, “Why Most Published Research Findings Are False”; Steven Sloman, *Causal Models*; and Daniel Kahneman, *Thinking, Fast and Slow* (optional external/cross-course background; not listed in repository metadata).
 
 ---
 
 ## Teaching moves
 
-* **One-page design cards** for RCT, natural experiment, DiD, IV, RD, Bradford Hill considerations, and law’s distinction between factual and proximate cause.
+* **One-page design cards** for RCT, natural experiment, DiD, IV, RD, Bradford Hill considerations, and law’s distinction between factual and proximate cause; for causal designs, state the target contrast, identifying assumption, plausible failure, and credibility check.
 * **Micro-DAGs in the margin** whenever a claim appears, with a one-line note about what would need to be blocked or clarified.
 * **Two plausible stories boxes** showing rival causal diagrams and the evidence needed to distinguish them.
 * **Case vignettes across domains** such as vaccine trials, minimum-wage studies, toxic tort litigation, and fairness audits in machine learning.
@@ -738,7 +762,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
   Students are given several real-world constraints—ethical, financial, institutional, and temporal—and must:
 
-  * choose among an RCT, natural experiment, DiD design, RD design, case study, or process-tracing approach
+  * state the target causal contrast and choose among an RCT, natural experiment, DiD design, RD design, case study, or process-tracing approach
   * justify the choice in terms of identification and feasibility
   * identify the main threats to validity
   * explain what would count as a useful falsification or robustness check
@@ -757,7 +781,7 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
   Students choose a policy or scientific claim and:
 
-  * state the main causal hypothesis
+  * state the main causal hypothesis and target causal contrast
   * map one plausible mechanism
   * identify one design-based source of evidence and one case-based source of evidence
   * explain how the two sources complement each other
@@ -767,6 +791,6 @@ How do we tell when one thing actually *causes* another, what kinds of evidence 
 
 ## Glossary
 
-**Counterfactual**; **Difference-making**; **Confounder**; **Mediator**; **Collider**; **Identification**; **Estimation**; **Internal validity**; **External validity**; **Transportability**; **Natural experiment**; **Instrument**; **Difference-in-differences**; **Regression discontinuity**; **Mechanism**; **Capacity**; **Process tracing**; **QCA**; **Triangulation**; **General causation**; **Specific causation**; **Factual cause**; **Proximate cause**; **Material contribution**.
+**Counterfactual**; **Difference-making**; **Target causal contrast (estimand)**; **INUS condition**; **Confounder**; **Mediator**; **Collider**; **Identification**; **Estimation**; **Internal validity**; **External validity**; **Transportability**; **Natural experiment**; **Instrument**; **Difference-in-differences**; **Regression discontinuity**; **Mechanism**; **Capacity**; **Process tracing**; **QCA**; **Triangulation**; **General causation**; **Specific causation**; **Factual cause**; **Proximate cause**; **Material contribution**.
 
 ---

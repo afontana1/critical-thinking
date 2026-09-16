@@ -1,12 +1,16 @@
 # Course Overview: Model Thinking – From System Stories to Explicit Models
 
-This unit sits **after Systems Thinking** and **builds on it**.
+This course sits **after Systems Thinking** and **builds on it**.
 
 * Analytical Thinking → you learned to decompose problems, analyze decisions, and evaluate policies.
 * Systems Thinking → you learned to see **feedback, structure, and dynamics**.
 * **Model Thinking** → now you learn to **build, combine, critique, and use models** as *explicit tools* for understanding and acting in the world.
 
-The unit is **not math-heavy**. Equations are treated as *examples* rather than prerequisites.
+The course is **not math-heavy**. Equations are optional compact expressions of rules, not prerequisites; students can work with diagrams, tables, and hand-worked examples.
+
+**Running case — a service backlog:** Revisit a service team whose unfinished requests accumulate when arrivals exceed completed work. Carry forward the Systems Thinking view, then make one model explicit, check it, vary it, compare alternatives, and document its limits. Students may instead carry forward their own Systems Thinking capstone; no programming or full optimization is required.
+
+**A recurring model-use test:** For every model, specify the question and intended use (explain, explore, predict, or support a decision); its target and boundaries; its assumptions and outputs; and what evidence would be needed to justify that *particular* use. Showing that a mechanism is possible inside a model does not establish that it occurs, is frequent, or will respond to an intervention the same way in the world.
 
 ## Table of Contents
 
@@ -23,7 +27,6 @@ The unit is **not math-heavy**. Equations are treated as *examples* rather than 
 - [Unit 10 – Integrating the Model Lens](#unit-10)
 <!-- UNIT_TOC_END -->
 
-
 **Big question:**
 How can we build, combine, critique, and use models as explicit tools for understanding, exploring, and acting in the world without mistaking those models for reality itself?
 
@@ -33,14 +36,14 @@ How can we build, combine, critique, and use models as explicit tools for unders
 * Distinguish between **mental models** and **formal models**.
 * Explain the main purposes of models: **explanation, prediction, exploration, design, and communication**.
 * Recognize the limits of models, including the difference between **“Model Land”** and the messy real world.
-* Identify major **types of models** and explain why **multi-model thinking** is often better than relying on a single model.
-* Translate **system stories and diagrams** into more explicit model structures.
+* Identify major **types of models** and assess when complementary models add insight, disagree, or share blind spots.
+* Translate **system stories and diagrams** into explicit rules or model structures, stating units, time steps, and omissions.
 * Explain, conceptually, how models connect to **data, calibration, and validation**.
 * Reason about **uncertainty, sensitivity, and robustness** in model-based analysis.
 * Understand when **simulation and agent-based modeling** are useful.
 * Explain how **optimization and decision models** represent objectives, constraints, and trade-offs.
 * Critically evaluate how models are used in **policy, ethics, and power**.
-* Use a practical **model-thinking checklist** to interrogate or build a model responsibly.
+* Produce a concise **model dossier** that states intended and unsupported uses, checks, sensitivity, alternatives, and decision caveats.
 
 ---
 
@@ -78,7 +81,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Critiqued,
      * Tested,
      * Modified.
-   * Key idea (from Epstein): “If you have a thought about how something works, you already have a model; it’s just implicit and untested.” ([JASSS][1])
+   * Key idea: even an informal explanation contains assumptions; making them explicit allows others to question them. Epstein’s “Why Model?” introduces the value of explicit modeling. ([JASSS][1])
 
 3. **Why model?**
 
@@ -88,11 +91,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
    * Design: Trying out structural changes (new rules, incentives) in a model before reality.
    * Communication: Shared object for interdisciplinary teams.
 
-**Core readings**
+**Practice — a model description card:** Compare a verbal backlog story, its Systems Thinking diagram, and a simple rule-based account. For each, record **purpose, target, representation, assumptions, outputs, and intended use**; note what becomes clearer or remains hidden.
 
-* Joshua Epstein, “Why Model?” (*Journal of Artificial Societies and Social Simulation*, 2008). ([JASSS][1])
-* Scott E. Page, *The Model Thinker*, Introduction (what models are, many-model idea). ([Amazon][2])
-* Roman Frigg & Stephan Hartmann, “Models in Science,” *Stanford Encyclopedia of Philosophy* (overview of types, roles of models in science). ([Stanford Encyclopedia of Philosophy][3])
+**Local core readings (selected):** Epstein, “Why Model?” (repository file `1. What is a model/epstein - why model.pdf`); Scott E. Page, *The Model Thinker*, introductory selection (`books/Scott E. Page - The Model Thinker.pdf`). The repository metadata for the short “Why Model?” files is inconsistent on authorship; use the PDF title page for a formal citation.
+
+**Optional local / external:** Page, *Model Thinking Course Notes* (selected opening material); Frigg & Hartmann, “Models in Science,” *Stanford Encyclopedia of Philosophy* (external conceptual overview). ([Stanford Encyclopedia of Philosophy][3])
 
 ---
 
@@ -142,11 +145,13 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * A time horizon,
      * A regime where it works reasonably well.
    * “All models are wrong, but some are useful”: translate into *“All models are limited; clarify the limits.”*
+   * **Fitness for purpose is not the same as realism:** a stripped-down model can illuminate a possible mechanism without estimating how common it is or reliably forecasting an intervention.
 
-**Core readings**
+**Practice — permitted and unsupported uses:** Given the backlog model, distinguish “this rule can produce a growing backlog” from “this is the true cause of this team’s backlog” and “this staffing change will reduce it.” List the additional evidence each stronger claim would need.
 
-* Erica Thompson, *Escape from Model Land*, chapters on how models go wrong and how to “escape” (especially early chapters). ([LSE Blogs][4])
-* Naomi Oreskes et al., “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences,” *Science* (1994) – why full “verification” is impossible and what partial confirmation means. ([Science][5])
+**Local core readings (selected):** Erica Thompson, *Escape from Model Land* (opening discussion of model assumptions and use); Edmonds et al., “Different Modelling Purposes” (`2. Purpose and Limits of Models/different modeling purposes.pdf`).
+
+**Optional external:** Oreskes et al. (1994), “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences” (on limits of confirmation; distinguish this from checking whether code implements its specification). ([Science][5])
 
 ---
 
@@ -176,17 +181,18 @@ How can we build, combine, critique, and use models as explicit tools for unders
 2. **The many-model idea**
 
    * From Page: each model captures a **different slice** of reality (spatial, temporal, structural, behavioral). ([Mande][6])
-   * Benefits of many models:
+   * Potential benefits of multiple models:
 
-     * Reduce overfitting to one story.
-     * Triangulate truth.
-     * Stress-test conclusions.
+     * Reveal different mechanisms and assumptions.
+     * Expose sensitivity to how a problem is represented.
+     * Stress-test conclusions when the models offer meaningfully different perspectives.
+   * **Plurality is not automatic validation:** models may share data, assumptions, and omissions; their outputs may measure different things. Disagreement may be more informative than averaging.
 
 3. **Model ensembles in practice**
 
    * Climate science: multi-model ensembles to represent structural uncertainty. ([ScienceDirect][7])
    * Integrated assessment models for climate policy: multiple models, multiple futures. ([NBER][8])
-   * Lesson: **diversity of models** is a feature, not a bug.
+   * Lesson: ask whether a set of models meaningfully spans relevant uncertainties before treating agreement or a range of outputs as informative.
 
 4. **Choosing a model family**
 
@@ -197,10 +203,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Level of detail needed.
      * Complexity of system (complicated vs. complex).
 
-**Core readings**
+**Practice — two models, one phenomenon:** Compare the local Granovetter threshold model with the Miller–Page standing-ovation model. Identify what each represents, leaves out, and measures; determine which questions their outputs can and cannot answer. Do not combine unlike outputs into a single score.
 
-* Scott E. Page, *The Model Thinker*, chapters surveying different model classes (e.g., linear models, networks, diffusion, Markov models, learning models). ([Amazon][2])
-* Eric Winsberg, “Computer Simulations in Science,” *Stanford Encyclopedia of Philosophy* (for a conceptual overview of computational/simulation models). ([Stanford Encyclopedia of Philosophy][9])
+**Local core readings (selected):** Page, *The Model Thinker* or *Model Thinking Course Notes* (an instructor-selected model comparison); Granovetter, “Threshold Models of Collective Behavior” (`3. Types of Models and Multi-Model Thinking/modelthinking_01.06_Granovetter_Model.pdf`); Miller & Page, “The Standing Ovation Problem” (same folder, `modelthinking_01.06_Miller_Page_Model.pdf`).
+
+**Optional external:** Winsberg, “Computer Simulations in Science,” *Stanford Encyclopedia of Philosophy*. ([Stanford Encyclopedia of Philosophy][9])
 
 ---
 
@@ -245,7 +252,8 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * A **stock–flow** diagram becomes a difference or differential equation.
      * A **network** diagram becomes rules for how influence or contagion spreads.
      * An **interaction diagram** becomes agent rules in an ABM.
-   * Emphasize *logic*: if stock increases when inflow > outflow, how do we express that?
+   * Emphasize *logic*: if a stock increases when inflow exceeds outflow, how do we express that?
+   * **Worked backlog rule:** next backlog = current backlog + arriving requests − completed requests (assuming no cancellations or reclassification). State the time step (such as one week), unit (requests), and nonnegative-capacity constraints; an equation is optional shorthand for a verbal or tabular rule.
 
 4. **Toy models**
 
@@ -259,10 +267,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Schelling segregation model,
      * Logistic growth with carrying capacity.
 
-**Core readings**
+**Practice — make the running case explicit:** Specify the backlog model’s inputs, output, parameters, state variable, controllable decision, assumptions, and chosen time step. Work through two periods by hand; identify a situation (such as variable request complexity) where the toy rule becomes inadequate. Keep the richer epidemic, segregation, and growth examples optional.
 
-* Hiroki Sayama, *Introduction to the Modeling and Analysis of Complex Systems* (conceptual parts of early chapters showing how to build simple dynamical & network models). ([Real World Data Science][10])
-* Stephen Downes, *Models and Modeling in the Sciences* (or similar introductory text) for conceptual treatment of models as representations across disciplines. ([PhilPapers][11])
+**Local core reading:** Paul E. Smaldino, “How to Translate a Verbal Theory Into a Formal Model” (`1. What is a model/How to translate a verbal theory into a formal model.pdf`; selected accessible sections).
+
+**Optional local examples:** Lamberson & Page, “Tipping Points” (`4. From System Stories to Formal Models/tippingpoints.pdf`); Page’s *Model Thinking Course Notes* (instructor-selected toy-model example).
 
 ---
 
@@ -281,11 +290,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
    * Models of data: statistical models that summarize patterns (regression, time-series).
    * Models of systems: mechanistic models with explicit structure.
-   * Both rely on **data reduction and curve fitting**, but for different purposes. ([Stanford Encyclopedia of Philosophy][12])
+   * Some models are estimated from data; others deliberately stipulate mechanisms to explore their implications. **Not every model is fitted to observations.**
 
 2. **Calibration / fitting**
 
-   * Adjust model parameters so that outputs align with observed data.
+   * Where relevant, adjust or estimate parameters using observed data and document which observations were used. Some exploratory models instead use clearly stipulated values.
    * Distinguish:
 
      * **Parameter choice by theory** vs. **parameter estimation from data**.
@@ -294,14 +303,12 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Too many knobs → model fits noise.
      * Too few knobs → model cannot capture key patterns.
 
-3. **Validation and confirmation (conceptual only)**
+3. **Implementation checks, validation, and confirmation (conceptual only)**
 
-   * There is no final “proof” that a model is true (Oreskes et al.). ([Science][5])
-   * Instead:
-
-     * Compare model outputs to new data not used in calibration.
-     * Test predictive skill across contexts.
-     * Ask: “Where does it work? Where does it fail?”
+   * **Implementation / verification:** does the rule, spreadsheet, or program do what its specification says? This differs from whether the specification fits reality.
+   * **Calibration:** which values were chosen from theory, stipulated for exploration, or estimated using data?
+   * **Validation for an intended use:** compare relevant outputs or patterns with appropriate evidence; when assessing prediction, use genuinely held-out data where possible. An exploratory model may instead be checked for internal coherence and whether its mechanism is plausible.
+   * No single test proves a model true or validates every possible use. Ask: “Where does it work, for what purpose, and where does it fail?”
 
 4. **Models as arguments, not oracles**
 
@@ -312,10 +319,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Conclusion = outputs.
    * Critical thinking = interrogating all three.
 
-**Core readings**
+**Practice — an evidence plan:** For the backlog rule, document what administrative records could inform arrivals and completions, what was used to choose any parameters, one implementation check, and a separate test of its intended use. Do not call matching the data used for fitting independent validation.
 
-* Naomi Oreskes et al. (1994), “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences,” *Science*. ([Science][5])
-* Roman Frigg, “Models of Data” section in *Models in Science* (SEP). ([Stanford Encyclopedia of Philosophy][3])
+**Local core reading:** Collins, Koehler & Lynch, “Methods That Support the Validation of Agent-Based Models: An Overview and Discussion” (`5. Data Calibration and Validation/Methods that Support Validation of Agent Based Models.pdf`; selected conceptual sections, with its ABM scope stated).
+
+**Optional external:** Oreskes et al. (1994), “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences.” ([Science][5])
 
 ---
 
@@ -343,7 +351,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
      * Which parameters really matter for the conclusions?
      * Where are we “fragile” to assumption changes?
-   * Global sensitivity analysis as a field (Saltelli et al.). ([andreasaltelli.eu][13])
+   * Global sensitivity analysis is a deeper extension, not a required technique in this course. ([andreasaltelli.eu][13])
 
 3. **Robustness and model-based decision-making**
 
@@ -356,15 +364,14 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 4. **Multi-model and multi-scenario ensembles**
 
-   * Use ensembles to:
+   * Ensembles can display variation across included parameters, scenarios, or model structures, **not the full space of possibilities**.
+   * Agreement among models with shared assumptions or data is not independent confirmation; report excluded scenarios as well as the range shown.
 
-     * Capture both parameter and model-form uncertainty.
-     * Quantify ranges rather than point estimates (e.g., climate projections, IAMs). ([ScienceDirect][7])
+**Practice — two sensitivity checks:** Change the assumed arrivals or processing rate in a two-period backlog table and record the outcome. Then alter the *structure* (for example, processing capacity falls when staff are overloaded). State which conclusion persists and which depends on the chosen rule; neither exercise estimates real-world likelihoods by itself.
 
-**Core readings**
+**Local core reading:** Thompson, *Escape from Model Land* (selected passages on uncertainty and model dependence).
 
-* Andrea Saltelli et al., *Global Sensitivity Analysis: The Primer* (introductory chapter, concept-focused). ([andreasaltelli.eu][13])
-* Selected sections from *Escape from Model Land* on uncertainty and model dependence. ([LSE Blogs][4])
+**Optional external / acquisition gap:** Saltelli et al., *Global Sensitivity Analysis: The Primer* (introductory conceptual selection). ([andreasaltelli.eu][13]) A short nontechnical parameter-versus-structure sensitivity handout would fill a focused repository gap; full global sensitivity methods are not required.
 
 ---
 
@@ -401,7 +408,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
    * Define purpose and questions.
    * Specify agent types and rules.
-   * Implement simulation (NetLogo, Python libraries – mentioned, not taught).
+   * Optionally implement a simulation (NetLogo or Python may be mentioned, but **coding is not required**).
    * Run experiments across parameter ranges.
    * Analyze emergent patterns, compare to data.
 
@@ -409,13 +416,15 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
    * Schelling segregation model.
    * Opinion dynamics or contagion on networks.
-   * A simple urban health or social behavior ABM. ([PMC][14])
+   * A simple urban health or social behavior ABM as an optional application. ([PMC][14])
 
-**Core readings**
+**Practice — one conceptual simulation experiment:** Sketch agents, states, behavioral and interaction rules, an outcome measure, and one rule to vary. Run a few rounds by hand or explain how a simulation would run. Distinguish a pattern demonstrated *inside the stipulated model* from a claim that the real population behaves that way.
 
-* Paul Smaldino, *Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution* (intro + early chapters on ABM and social dynamics). ([JASSS][1])
-* Auchincloss & Diez Roux, “A New Tool for Epidemiology: Agent-Based Models,” or similar introductory guide to ABM for public health / social science. ([PMC][14])
-* Introductory ABM tutorial from Winter Simulation Conference (e.g., Macal & North). ([informs-sim.org][15])
+**Local core reading:** Nigel Gilbert, “Agent Based Modeling and Simulation” (`7. Simulation & Agent Based Models/Agent Based Modeling and Simulation - An Informatics Perspective.pdf`; introductory selection).
+
+**Optional local:** Elsenbroich, “Explanation in Agent-Based Modelling: Functions, Causality or Mechanisms?”; Waldherr & Wijermans, “Communicating Social Simulation Models to Sceptical Minds” (both in the Unit 7 folder). Further specialist ABM studies are references, not a required reading sequence.
+
+**Optional external:** Introductory ABM guide for public health or social science. ([PMC][14])
 
 ---
 
@@ -451,7 +460,7 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Short-term vs. long-term.
    * Multi-objective trade-offs:
 
-     * No single “best” solution; Pareto front / compromise solutions.
+     * Different objectives can lead to different admissible trade-offs; a model optimum is conditional on its stated objective and constraints.
 
 3. **From real problem to optimization model**
 
@@ -471,11 +480,11 @@ How can we build, combine, critique, and use models as explicit tools for unders
      * Scheduling and queuing (waiting times).
    * Use these as **conceptual models** for personal and organizational choices.
 
-**Core readings**
+**Practice — a constrained choice table:** Using the backlog case, list possible staffing or scheduling changes, a fixed capacity or budget constraint, and two distinct objectives (for example, waiting time and staff workload). Compare alternatives transparently. Explain why a solution preferred by the model may not be acceptable to all affected people; no solver is needed.
 
-* Michael W. Carter & Camille C. Price, *Operations Research: A Practical Introduction* (non-technical chapters on problem formulation and modeling process).
-* Brian Christian & Tom Griffiths, *Algorithms to Live By* (chapters on optimal stopping, explore–exploit, scheduling, etc., as everyday models).
-* Matteo Fischetti, *Introduction to Mathematical Optimization* (selected sections on linear/integer programming formulation). ([JASSS][16])
+**Local core readings (selected):** Craig W. Kirkwood, introductory decision-theory chapter (`8. Optimization and Decision Models/Decision_Theory.pdf`); *Multi_Criteria_Decisionmaking.pdf* (same folder; verify its full bibliographic title and attribution before citing formally).
+
+**Optional local:** `Linear_Models.pdf` (same folder; PDF metadata title is unreliable). Keep programming, game theory, and full operations research outside the required scope.
 
 ---
 
@@ -534,12 +543,14 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
      * Ask for model documentation,
      * Question the fit between model purpose and use,
-     * Consider distributional impacts (who gains/loses).
+     * Consider distributional impacts (who gains/loses),
+     * Distinguish evidence about performance from judgments about values, authority, and legitimate use.
 
-**Core readings**
+**Practice — model-governance audit:** Using the backlog model or an instructor-provided example, identify who frames its question, whose circumstances it represents, who can inspect or challenge its assumptions, and how different groups might experience a decision based on its outputs. Do not infer decision-makers’ private motives from the model alone.
 
-* Erica Thompson, *Escape from Model Land*, chapters on models and power, subjectivity, and value judgments. ([LSE Blogs][4])
-* Mary S. Morgan, *The World in the Model: How Economists Work and Think* (selected chapters on models as tools in economics).
+**Local core reading:** Thompson, *Escape from Model Land* (selected chapters on subjectivity, value judgments, and power).
+
+**Optional external:** Morgan, *The World in the Model* (selected chapters). The Unit 9 repository folder contains specific model examples, not a general replacement for this ethics discussion.
 
 ---
 
@@ -554,51 +565,29 @@ How can we build, combine, critique, and use models as explicit tools for unders
 
 **Sub-units**
 
-1. **Model Thinking checklist**
+1. **Model-thinking checklist / dossier rubric**
 
-   When you meet a model (or build one), ask:
+   When you meet a model (or build one), document:
 
-   * **Purpose & question**
+   * **Purpose and scope:** What question, target, time horizon, and intended use does it address? What uses are unsupported?
+   * **Representation:** What form does it take, and what important features are omitted?
+   * **Assumptions and structure:** What rules, variables, units, parameters, and boundaries matter?
+   * **Evidence and checks:** What informed inputs? What implementation check and use-specific test are possible? Which data, if any, were held out?
+   * **Alternatives and uncertainty:** What different representation might reveal something else? What happens if a parameter or structural assumption changes?
+   * **Use and ethics:** Who may rely on the result, who is affected, and which value judgments are not supplied by the model?
 
-     * What is this model for? What questions is it built to answer?
-   * **Representation**
+2. **Capstone — concise model dossier**
 
-     * What is being modeled? What is left out?
-     * What kind of model is it (statistical, mechanistic, ABM, optimization, etc.)?
-   * **Assumptions & structure**
+   Extend the **Systems Thinking capstone** (or use the running service-backlog case); do not start an unrelated project merely to satisfy this course. Submit a compact dossier containing:
 
-     * What are the key assumptions about agents, environment, and feedback?
-   * **Evidence & calibration**
+   1. A purpose statement identifying the intended question and at least one **unsupported use**.
+   2. A model sketch, rule table, or simple hand-worked example with explicit variables, time steps, and assumptions; no programming is required.
+   3. One alternative representation or model family, identifying what differs and whether the outputs can be compared.
+   4. An evidence plan separating parameter choice, implementation checks, and evidence appropriate to the intended use.
+   5. At least one **parameter** and one **structural** sensitivity check, with a brief account of what changed.
+   6. A decision-use caveat addressing limitations, affected people, and observations that would prompt revision.
 
-     * How was it checked against data? What data were *not* used?
-   * **Uncertainty & sensitivity**
-
-     * How sensitive are results to parameter and structural choices?
-   * **Use & ethics**
-
-     * Who uses this model, for what decisions, with what consequences?
-
-2. **Capstone project**
-
-   Learners pick a real-world issue (personal, organizational, societal). Building on their **systems capstone**, they now:
-
-   1. Restate the problem and system view (from previous unit).
-   2. Choose a suitable **model family** (e.g., simple dynamical model, ABM sketch, optimization model, or statistical conceptual model).
-   3. Explicitly write:
-
-      * Purpose of the model,
-      * Key variables and parameters,
-      * Assumptions (in bullet form).
-   4. Outline (conceptually) how they would:
-
-      * Calibrate it with data,
-      * Explore uncertainty (scenarios, parameter sweeps),
-      * Use model outputs to inform a decision or policy.
-   5. Reflect on:
-
-      * Ethical issues,
-      * Limits of the model,
-      * How multiple models might give complementary insights.
+   A model that has been explored but not tested against real observations must be labeled **exploratory**, not presented as an empirically validated forecast or intervention estimate.
 
 3. **Connecting back to the whole course**
 
@@ -611,22 +600,16 @@ How can we build, combine, critique, and use models as explicit tools for unders
    * **Model Thinking**:
 
      * Gave you tools to *build explicit representations* that you can test, combine, and critique.
-   * Big meta-message:
+   * Big meta-message: **Models are limited tools; assess whether the representation and supporting evidence justify the particular use.**
 
-     > “All models are wrong, some are useful, and **your job is to decide when and how** they are useful.”
+**Local synthesis readings:** Revisit selected sections of Page, *The Model Thinker* / *Model Thinking Course Notes*, and Thompson, *Escape from Model Land*. No new full book is required.
 
-**Core readings**
-
-* Revisit key sections of:
-
-  * Scott Page, *The Model Thinker* (multi-model thinking & application chapters). ([Amazon][2])
-  * Erica Thompson, *Escape from Model Land* (summative chapters on working responsibly with models). ([LSE Blogs][4])
-* Selected SEP entries (*Models in Science*, *Computer Simulations in Science*) for learners who want deeper philosophical context. ([Stanford Encyclopedia of Philosophy][3])
+**Optional external:** SEP entries “Models in Science” and “Computer Simulations in Science” for philosophical context. ([Stanford Encyclopedia of Philosophy][3]) ([Stanford Encyclopedia of Philosophy][9])
 
 ---
 
 [1]: https://www.jasss.org/11/4/12.html "Why Model?"
-[2]: https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627 "The Model Thinker: What You Need to Know to Make Data ..."
+
 [3]: https://plato.stanford.edu/entries/models-science/ "Models in Science - Stanford Encyclopedia of Philosophy"
 [4]: https://blogs.lse.ac.uk/lsereviewofbooks/2023/11/30/book-review-escape-from-model-land-how-mathematical-models-can-lead-us-astray-and-what-we-can-do-about-it-erica-thompson/ "Escape from Model Land: How Mathematical Models Can ..."
 [5]: https://www.science.org/doi/10.1126/science.263.5147.641 "Verification, Validation, and Confirmation of Numerical ..."
@@ -634,10 +617,6 @@ How can we build, combine, critique, and use models as explicit tools for unders
 [7]: https://www.sciencedirect.com/science/article/pii/S2212094724000495 "A novel approach to a multi-model ensemble for climate ..."
 [8]: https://www.nber.org/system/files/working_papers/w21637/w21637.pdf "Modeling Uncertainty in Climate Change"
 [9]: https://plato.stanford.edu/entries/simulations-science/ "Computer Simulations in Science"
-[10]: https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/01/25/erica-thompson.html "How to 'Escape from Model Land': an interview with Erica ..."
-[11]: https://philpapers.org/rec/FRIMIS "Roman Frigg & Stephan Hartmann, Models in Science"
-[12]: https://plato.stanford.edu/archives/sum2018/entries/models-science/ "Models in Science - Stanford Encyclopedia of Philosophy"
+
 [13]: https://www.andreasaltelli.eu/file/repository/A_Saltelli_Marco_Ratto_Terry_Andres_Francesca_Campolongo_Jessica_Cariboni_Debora_Gatelli_Michaela_Saisana_Stefano_Tarantola_Global_Sensitivity_Analysis_The_Primer_Wiley_Interscience_2008_.pdf "Global Sensitivity Analysis. The Primer"
 [14]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5391997/ "Brief introductory guide to agent-based modeling and an ..."
-[15]: https://informs-sim.org/wsc14papers/includes/files/004.pdf "INTRODUCTORY TUTORIAL: AGENT-BASED MODELING ..."
-[16]: https://www.jasss.org/27/2/4.html "Reliable and Efficient Agent-Based Modeling and Simulation"

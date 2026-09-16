@@ -36,7 +36,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 * Apply practical **debiasing and decision-hygiene techniques**, including outside-view thinking, premortems, calibration, red teaming, and structured judgment.
 * Understand how biases can become embedded in **models, institutions, and systems**, not just in individual minds.
 * Communicate about uncertainty, evidence, and judgment more responsibly in everyday, professional, and civic contexts.
-* Build habits that prepare students for later work in **risk analysis, causality, model reasoning, argumentation, and systems thinking**.
+* Apply skills from the preceding **argumentation, evidence, data literacy, and causality** courses, while preparing for later work in **risk analysis, model reasoning, and systems thinking**.
+
+**A course-wide diagnostic rule:** Before describing a judgment as biased, specify its benchmark (for example, probabilistic accuracy, consistency, a stated goal, or performance in the relevant environment). Separate a *plausible heuristic or source of bias* from an error actually demonstrated by evidence. A useful shortcut in one setting may mislead in another.
+
+**Reading approach:** “Core” denotes assigned **selections**, not entire books or anthologies. Readings explicitly marked *repository book* or *repository article* appear in the supplied metadata; other cited texts are external readings or possible acquisitions, not confirmed local files. Decision-analysis, risk-analysis, modeling, and systems texts are optional bridges rather than additional core curricula.
 
 ---
 
@@ -48,6 +52,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 * Why does the mind rely on shortcuts rather than exhaustive calculation?
 * When are heuristics signs of limitation, and when are they signs of intelligence adapted to real environments?
 * What does it mean to say that a reasoning strategy “fits” a context?
+* What benchmark and comparison would justify calling a heuristic successful—or biased?
 
 **Sub-units**
 
@@ -63,25 +68,31 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * In many settings they are efficient, robust, and surprisingly successful.
    * Students should learn to ask when a shortcut is well adapted rather than assuming all shortcuts are irrational.
 
-3. **Ecological rationality**
+3. **Benchmarks for evaluating judgment**
+
+   * Ask what task is being solved, what outcome matters, which alternative strategies are available, and what time, information, and error costs apply.
+   * Distinguish a descriptive claim (“people use this shortcut”) from a normative or empirical claim (“it yields worse judgments than an appropriate alternative”).
+   * Do not diagnose bias from a label alone: specify the benchmark and the evidence of a systematic deviation.
+
+4. **Ecological rationality**
 
    * A strategy can be rational relative to an environment even if it is not globally optimal.
    * Good reasoning depends on the structure of the task, the information available, and the costs of delay or error.
    * This idea is foundational for understanding why some heuristics work well in one context and poorly in another.
 
-4. **Fast-and-frugal reasoning**
+5. **Fast-and-frugal reasoning**
 
    * Introduce the “fast and frugal” tradition as an alternative to precision-heavy models of judgment.
    * Compare simple heuristics with more computationally demanding approaches.
    * Emphasize that complexity is not always superior.
 
-5. **Evidence formats and cognitive performance**
+6. **Evidence formats as a preview**
 
    * The way information is represented can dramatically affect reasoning quality.
-   * Natural frequencies, visual formats, and transparent comparisons can improve judgment without changing the underlying facts.([Cognitive Science at UCSD][1])
-   * This connects the course directly to data literacy and evidence communication.([Frontiers][2])
+   * Preview natural frequencies and transparent comparisons as examples of how representation can affect reasoning; detailed translation and evidence-format experiments belong in Unit 4.([Cognitive Science at UCSD][1])
+   * Connect back to data literacy and evidence communication without repeating the probability curriculum.
 
-6. **Heuristics and model fit**
+7. **Heuristics and model fit**
 
    * Every reasoning strategy carries assumptions about the world.
    * Students begin to ask not just “is this shortcut biased?” but “what assumptions make it useful or misleading here?”
@@ -89,9 +100,9 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **Core readings**
 
-* Gigerenzer & Hoffrage (1995), *How to Improve Bayesian Reasoning Without Instruction*.([Cognitive Science at UCSD][1])
-* Hoffrage (2015), *Natural frequencies improve Bayesian reasoning…*.([Frontiers][2])
-* Kahneman & Tversky (1992), *Cumulative Prospect Theory*.([CSUF Psychology Department][3])
+* Gerd Gigerenzer, Peter M. Todd & the ABC Research Group, *Simple Heuristics That Make Us Smart* (repository book; selected chapters on fast-and-frugal heuristics and ecological rationality).
+* Thomas Gilovich, Dale Griffin & Daniel Kahneman (eds.), *Heuristics and Biases: The Psychology of Intuitive Judgment* (repository book; selected overview or contrasting chapters).
+* Gigerenzer & Hoffrage (1995), “How to Improve Bayesian Reasoning Without Instruction” (optional preview; assigned in Unit 4).([Cognitive Science at UCSD][1])
 
 ---
 
@@ -124,11 +135,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Recent, dramatic, and emotionally intense cases feel more common than they are.
    * This explains why public risk perception can drift away from statistical reality.
 
-4. **Salience, media, and risk perception**
+4. **Salience and perceived prevalence**
 
-   * News coverage, repetition, and visual intensity alter perceived prevalence.
-   * Students examine how media environments shape what feels probable or urgent.
-   * This creates a bridge to public reasoning and civic discourse.
+   * Repetition, recency, and vivid presentation can affect which examples are available for a frequency judgment.
+   * Contrast readily recalled events with relevant denominator data; do not assume every memorable example is unrepresentative.
+   * Detailed analysis of media ecosystems and persuasion belongs in the later media-focused course.
 
 5. **Anchoring and insufficient adjustment**
 
@@ -136,16 +147,17 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Adjustment away from an anchor is often too small.
    * Students learn to see how first numbers set cognitive reference points.
 
-6. **When vividness overrides evidence**
+6. **Heuristic or bias? Compare against evidence**
 
-   * A vivid case can feel more convincing than a stable pattern.
-   * This unit ties representativeness, availability, and anchoring back to evidence evaluation.
-   * It reinforces the principle that memorable evidence is not necessarily representative evidence.
+   * A vivid case can feel more convincing than a stable pattern, but vividness, familiarity, and anchors sometimes convey useful information.
+   * For each example specify the judgment task, the relevant base rate or other benchmark, and the conditions under which the shortcut helps or misleads.
+   * Use one worked problem each for representativeness, availability, and anchoring; distinguish actual error from a plausible but untested diagnosis.
 
 **Core readings**
 
-* Tversky & Kahneman (1973), *Availability: A Heuristic for Judging Frequency and Probability*.([familyvest.com][4])
-* Kahneman & Tversky (1979), *Prospect Theory: An Analysis of Decision under Risk*.([Massachusetts Institute of Technology][5])
+* Daniel Kahneman, Paul Slovic & Amos Tversky (eds.), *Judgment under Uncertainty: Heuristics and Biases* (repository book; selected original studies on representativeness, availability, and anchoring).
+* Thomas Gilovich, Dale Griffin & Daniel Kahneman (eds.), *Heuristics and Biases: The Psychology of Intuitive Judgment* (repository book; selected chapters on benchmarks and boundary conditions).
+* Tversky & Kahneman (1973), “Availability: A Heuristic for Judging Frequency and Probability.”([familyvest.com][4])
 
 ---
 
@@ -184,11 +196,12 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * A shift from 0 to 10 can feel more important than a shift from 100 to 110.
    * This shapes how people perceive trade-offs and incentives.
 
-5. **Framing effects**
+5. **Framing effects and a paired-choice exercise**
 
    * Equivalent options can be judged differently depending on whether they are presented as gains or losses.
-   * Students learn that framing does not merely decorate reasoning; it can redirect it.
-   * This links cognitive bias to rhetoric and argumentation.
+   * Give students one decision twice, with numerically equivalent gain and loss frames; compare judgments and ask what actually changed.
+   * Distinguish inconsistent responses to equivalent information from cases where the descriptions supply genuinely different information or alter the relevant decision context.
+   * Connect the exercise back to argumentation and data-literacy work on representation.
 
 6. **Reference points in public argument and policy**
 
@@ -198,8 +211,9 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **Core readings**
 
-* Kahneman & Tversky (1979), *Prospect Theory*.([Massachusetts Institute of Technology][5])
-* Tversky & Kahneman (1992), *Advances in Prospect Theory*.([CSUF Psychology Department][3])
+* Daniel Kahneman & Amos Tversky (eds.), *Choices, Values, and Frames* (repository book; selected chapters on framing, reference dependence, and risk—not the complete anthology).
+* Kahneman & Tversky (1979), “Prospect Theory: An Analysis of Decision under Risk.”([Massachusetts Institute of Technology][5])
+* Tversky & Kahneman (1992), “Advances in Prospect Theory” (optional extension).([CSUF Psychology Department][3])
 
 ---
 
@@ -216,9 +230,9 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 1. **Base rates, likelihoods, and posterior judgment**
 
-   * Introduce the core components of Bayesian reasoning in intuitive terms.
-   * Students learn to distinguish prior prevalence from the informativeness of new evidence.
-   * This gives a formal backbone to earlier discussions of base-rate neglect.
+   * Apply the Bayesian concepts introduced in the preceding Evidence and Data Literacy courses rather than reteaching their full statistical foundations.
+   * Distinguish prior prevalence, P(evidence | hypothesis), and P(hypothesis | evidence); the last cannot be read directly from a test's sensitivity.
+   * Focus on what format changes make those distinctions easier or harder for a reader to recognize.
 
 2. **The mammography problem and diagnostic reasoning**
 
@@ -229,14 +243,14 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 3. **Why natural frequencies help**
 
    * Many learners reason better when information is expressed as counts rather than abstract percentages.([Cognitive Science at UCSD][1])
-   * This is not just a pedagogical trick but a design insight about cognition.
-   * Students see that better reasoning can come from better representation.([Frontiers][2])
+   * Treat improved performance as an empirical, task-dependent finding, not a guarantee for every person or probabilistic judgment.
+   * Students evaluate how representation interacts with comprehension, numeracy, and the specific question.([Frontiers][2])
 
-4. **Translating evidence formats**
+4. **Evidence-format comparison lab**
 
-   * Practice converting percentages, probabilities, and risk claims into natural frequencies or simple trees.
-   * This develops a concrete decision skill rather than merely conceptual understanding.
-   * It also reinforces the link between data literacy and reasoning quality.
+   * Solve the same diagnostic problem first in percentages, then in a natural-frequency table, and finally with a simple frequency tree; keep the underlying prevalence and test properties identical.
+   * Record the answer and explanation in each format, identify where conditional probabilities were confused, and compare the representations rather than assuming one works for everyone.
+   * Extend to one non-medical example so students transfer the interpretation skill rather than memorize one puzzle.
 
 5. **Bayesian reasoning beyond medicine**
 
@@ -254,7 +268,8 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 * Gigerenzer & Hoffrage (1995), *How to Improve Bayesian Reasoning Without Instruction*.([Cognitive Science at UCSD][1])
 * Eddy (1982), *Probabilistic Reasoning in Clinical Medicine*.([Cambridge University Press & Assessment][6])
-* Hoffrage (2015), *Natural frequencies improve Bayesian reasoning…*.([Frontiers][2])
+* Hoffrage (2015), “Natural frequencies improve Bayesian reasoning…”([Frontiers][2])
+* Kahneman, Slovic & Tversky (eds.), *Judgment under Uncertainty* (repository book; optional related selections).
 
 ---
 
@@ -275,11 +290,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Students learn that “overconfidence” is not one single phenomenon.
    * This helps them diagnose different failures in self-assessment and comparison.
 
-2. **Confidence versus calibration**
+2. **Confidence, calibration, and forecast quality**
 
-   * Confidence is a feeling; calibration is a relationship between confidence and accuracy.
-   * A person can be articulate and decisive while being poorly calibrated.
-   * This introduces a more disciplined way to assess judgment quality.
+   * Distinguish a subjective feeling of certainty from an explicitly stated probability that can be checked against outcomes.
+   * Calibration asks whether events assigned a given probability occur at roughly that rate; it is not the whole of forecast quality.
+   * Sharpness/resolution and comparison with a simple baseline also matter: assigning 50% to everything can look calibrated while providing little discrimination.
 
 3. **Forecasting and probabilistic judgment**
 
@@ -287,17 +302,17 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Students learn why vague certainty language often masks poor reasoning.
    * This also connects to intellectual humility as a practical virtue.
 
-4. **The Brier score**
+4. **The Brier score and its limits**
 
-   * Introduce the Brier score as a simple way of evaluating probabilistic forecasts.([American Meteorological Society Journals][8])
-   * The point is not mathematical sophistication but accountability in judgment.
-   * Students learn to connect scores with habits of calibration.
+   * Introduce the Brier score as a proper scoring rule for binary probabilistic forecasts.([American Meteorological Society Journals][8])
+   * Compare each student's score with a stated simple baseline and examine a small confidence-versus-outcome table or plot.
+   * Do not interpret a single Brier score as a direct measurement of calibration: it reflects more than calibration, and short exercises produce noisy estimates.
 
 5. **Calibration drills and reflective practice**
 
-   * Short exercises in assigning probabilities and reviewing outcomes.
-   * These make overconfidence visible to learners in their own judgment.
-   * The unit becomes practical rather than merely descriptive.
+   * Collect timestamped probabilities for a set of resolvable questions and record outcomes before reviewing judgments.
+   * Examine bins of forecasts alongside observed frequencies and compare with a simple baseline; explicitly note small-sample limitations.
+   * Use repeated feedback to investigate—not presume—overprecision, poorly chosen reference classes, or other possible weaknesses.
 
 6. **On-ramps to superforecasting**
 
@@ -310,7 +325,8 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 * Moore & Healy (2008), *The Trouble with Overconfidence*.([Europe PMC][7])
 * Brier (1950), *Verification of Forecasts Expressed in Terms of Probability*.([American Meteorological Society Journals][8])
-* Tetlock & Gardner (2015), *Superforecasting: The Art & Science of Prediction*.([Barnes & Noble][9])
+* Tetlock & Gardner (2015), *Superforecasting: The Art & Science of Prediction* (external reading; selected chapters).([Barnes & Noble][9])
+* Jonathan Baron, *Thinking and Deciding* (repository book; optional selected sections on judgment and probability).
 
 ---
 
@@ -345,9 +361,9 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 4. **Identity-protective cognition**
 
-   * Beliefs can function as badges of belonging.
-   * Evidence that threatens group identity may be resisted even by highly educated individuals.([Network Dynamics Group][12])
-   * This is especially important for civic reasoning and public discourse.
+   * Examine research on how social belonging or identity can be associated with selective handling of evidence, including limits and competing interpretations of particular studies.([Network Dynamics Group][12])
+   * Avoid diagnosing an individual or group from a political or social label alone; first look for observable asymmetries in the task and evaluation criteria.
+   * Compare how the same evidence is treated across differently framed claims without assuming a particular identity uniquely displays the effect.
 
 5. **Standards, prompts, and accountability**
 
@@ -357,15 +373,16 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 6. **Motivated reasoning in argumentation and public life**
 
-   * Students examine how polarization, selective uptake of evidence, and attitude hardening affect civic debate.
-   * This unit builds directly toward later work on social bias and decision hygiene.
-   * It also reinforces the importance of intellectual virtues in practice.
+   * Return to Course 2's argument reconstruction: compare how participants select, scrutinize, or dismiss substantively similar evidence.
+   * Separate observations about selective evaluation from speculative attributions of private motives or fixed traits.
+   * Treat civic controversies as possible case material without making political agreement or disagreement itself a measure of reasoning quality.
 
 **Core readings**
 
 * Kunda (1990), *The Case for Motivated Reasoning*.([Frank Baumgartner][10])
 * Lord, Ross & Lepper (1979), *Biased assimilation and attitude polarization*.([Semantic Scholar][11])
-* Kahan (2013), *Ideology, motivated reasoning, and cognitive reflection*.([Network Dynamics Group][12])
+* Kahan (2013), “Ideology, Motivated Reasoning, and Cognitive Reflection” (one case-specific research contribution).([Network Dynamics Group][12])
+* Jost, Glaser, Kruglanski & Sulloway, “Political Conservatism as Motivated Social Cognition” (repository article; optional, contextualized case study rather than a stand-in for motivated reasoning across all groups).
 
 ---
 
@@ -398,11 +415,10 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Students learn how temporal proximity distorts perceived relevance.
    * This links memory bias to availability effects.
 
-4. **Availability cascades**
+4. **Availability cascades (brief bridge)**
 
-   * Repeated discussion can amplify perceived importance regardless of underlying prevalence.([SSRN][14])
-   * Public concern can become self-reinforcing through repetition and social response.
-   * This provides a bridge between individual cognition and social dynamics.
+   * Repeated discussion can amplify perceived importance independently of the underlying prevalence.([SSRN][14])
+   * Use one example to link retrieval and social reinforcement; leave sustained analysis of media ecosystems to the later media course.
 
 5. **Narratives, visualizations, and after-the-fact explanation**
 
@@ -410,17 +426,19 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Students examine how explanation after the fact can exceed what was justified beforehand.
    * This is a key safeguard for reasoning from outcomes backward.
 
-6. **Safeguards against retrospective distortion**
+6. **Before-and-after hindsight lab**
 
-   * Prediction logs, preregistration-like habits, timestamped forecasts, and explicit alternatives.
-   * Students learn how to preserve uncertainty before outcomes are known.
-   * This sets up practical continuity with calibration and debiasing.
+   * Before an outcome is disclosed, record a prediction, confidence, reasons, and plausible alternatives; afterward compare the record with a fresh recollection of the earlier judgment.
+   * Check for changes in remembered confidence, perceived inevitability, and recalled alternatives.
+   * A classroom demonstration prompts reflection; it does not alone establish the prevalence, mechanism, or universality of hindsight bias.
+   * Keep timestamped logs as a practical safeguard and connect to Unit 5's calibration work.
 
 **Core readings**
 
 * Fischhoff (1975), *The Knew-It-All-Along Effect*.([ResearchGate][13])
 * Tversky & Kahneman (1973), *Availability*.([familyvest.com][4])
-* Kuran & Sunstein (1999), *Availability Cascades and Risk Regulation*.([SSRN][14])
+* Kuran & Sunstein (1999), “Availability Cascades and Risk Regulation” (optional bridge).([SSRN][14])
+* Rüdiger F. Pohl (ed.), *Cognitive Illusions: Intriguing Phenomena in Judgement, Thinking and Memory* (repository book; selected chapters on memory, attention, and hindsight).
 
 ---
 
@@ -435,11 +453,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **Sub-units**
 
-1. **Conformity and social pressure**
+1. **Conformity, learning from others, and social pressure**
 
-   * Individuals often shift public judgment toward group consensus even when the group is wrong.([nwkpsych.rutgers.edu][15])
-   * Students examine classic conformity effects and their implications for everyday settings.
-   * This introduces the social dimension of bias directly.
+   * Distinguish publicly expressed agreement, privately held belief, and rational updating from other people's genuine information.
+   * Use classic conformity tasks to ask what evidence supports each interpretation; agreement alone does not demonstrate bias.([nwkpsych.rutgers.edu][15])
+   * Explore how task ambiguity, incentives, and the quality of others' information affect collective judgment.
 
 2. **Reputational pressure and signaling**
 
@@ -459,22 +477,22 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Cascades can emerge from limited information plus social imitation.
    * This links social reasoning to broader systems effects.
 
-5. **Echo chambers and feedback environments**
+5. **Echo chambers and feedback environments (scope note)**
 
-   * Environments that repeatedly reinforce the same signals can intensify confidence and reduce correction.
-   * Students examine how social media, institutional silos, and homogeneous groups alter evidence uptake.
-   * This is a bridge to systems thinking and civic discourse.
+   * Repeated exposure and homogeneous groups may shape which evidence is encountered and which sources are trusted.
+   * Connect briefly to Course 1's social epistemology; defer platform architecture and media-persuasion analysis to the later media course.
 
-6. **Organizational safeguards**
+6. **Independent-versus-group judgment lab and safeguards**
 
-   * Structured dissent, red teams, independent estimates, anonymous input, and role rotation.
-   * Students learn that better collective reasoning often requires better process design.
-   * This prepares the ground for later units on decision hygiene.
+   * Collect initial independent estimates and their reasons; then compare estimates after group discussion, noting new evidence, conformity pressure, and whether dissent was voiced.
+   * Compare a second round with anonymous input or structured dissent; distinguish observed changes from proof that one procedure is generally superior.
+   * Discuss red teams, independent estimates, and role rotation as candidate safeguards to be evaluated rather than assumed effective.
 
 **Core readings**
 
 * Asch (1951), *Effects of Group Pressure upon the Modification and Distortion of Judgments*.([nwkpsych.rutgers.edu][15])
-* Janis (1972/1982), *Victims of Groupthink* / *Groupthink*.([Internet Archive][16])
+* Janis (1972/1982), *Victims of Groupthink* / *Groupthink* (external reading; selected chapters).([Internet Archive][16])
+* Gilovich, Griffin & Kahneman (eds.), *Heuristics and Biases* (repository book; optional relevant social-judgment selections).
 
 ---
 
@@ -485,7 +503,7 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 * Why do people so readily see patterns, causes, and signals that are not really there?
 * What makes pseudoscientific and superstitious explanations so cognitively attractive?
-* How can causal claims be stress-tested against common inferential traps?
+* How do causal misconceptions persist even when students know appropriate evidence and causal-design standards?
 
 **Sub-units**
 
@@ -513,17 +531,17 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * This creates powerful illusions of improvement or decline.
    * It is one of the most important neglected biases in everyday causal judgment.
 
-5. **Base-rate neglect and reversal effects**
+5. **Why earlier causal and statistical pitfalls feel persuasive**
 
-   * Return briefly to base rates and introduce the idea that aggregation and stratification can mislead.
-   * This creates a bridge to stronger causal reasoning and evidence evaluation.
-   * The emphasis remains conceptual rather than technical.
+   * Revisit one previously learned example of base-rate neglect, a misleading aggregation, or regression to the mean from Courses 4–5.
+   * Diagnose *why* the intuitive story attracts belief: salient co-occurrence, omitted alternatives, selective attention, or a compelling narrative.
+   * Do not re-teach formal stratification, DAG adjustment, or study-design methods here.
 
-6. **Stress-testing causal claims**
+6. **Causal-illusion diagnosis and repair**
 
-   * Ask what rival explanation, design flaw, or statistical artifact might produce the observed pattern.
-   * Students learn to move from intuitive causal stories to structured scrutiny.
-   * This is the main bridge to the causality course.
+   * First capture the intuitive causal account; then use already learned evidence and causal-design tools to identify an alternative explanation or test.
+   * Contrast psychological appeal with evidential support, rather than labeling a causal claim false solely because a familiar bias could explain it.
+   * This is an *application of* Course 5's causality methods, not preparation for a later causality course.
 
 **Core readings**
 
@@ -567,17 +585,17 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Choice environments can either exacerbate or mitigate this tendency.
    * This helps explain procrastination, under-saving, and policy design challenges.
 
-5. **Choice overload and when it matters**
+5. **Choice overload and boundary conditions**
 
-   * More options do not always produce better decisions.
-   * Under some conditions, excessive choice can increase paralysis, fatigue, or reliance on poor shortcuts.
-   * Students learn to ask when complexity helps and when it hinders.
+   * More options can be useful or burdensome depending on the task, option similarity, decision-maker knowledge, and available support.
+   * Treat choice overload as a context-dependent empirical question, not a universal effect.
+   * Ask what the added options contribute and whether the presentation makes meaningful comparison possible.
 
-6. **The ethics of nudging**
+6. **Auditing a choice environment and the ethics of nudging**
 
-   * Students examine the line between helpful design and manipulation.
-   * Preserving autonomy, transparency, and legitimacy becomes central.
-   * This links decision design to political and ethical reasoning.
+   * Audit a real form or workflow: identify the default, order, salience, friction, and accessible alternatives.
+   * Ask whose objectives the design serves, whether its mechanism is visible, and whether users can meaningfully decline or reverse the default.
+   * Discuss autonomy, transparency, consent, and the conditions under which a design choice is helpful, ineffective, or manipulative; do not assume a nudge works uniformly across contexts.
 
 7. **Choice design as a systems lever**
 
@@ -588,7 +606,8 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 **Core readings**
 
 * Thaler & Sunstein (2008/2021), *Nudge*.([PenguinRandomhouse.com][19])
-* Johnson & Goldstein (2003/2004), *Do Defaults Save Lives?* / *Defaults and Donation Decisions*.([Dan Goldstein][20])
+* Johnson & Goldstein (2003/2004), “Do Defaults Save Lives?” / “Defaults and Donation Decisions” (external reading; selected study).([Dan Goldstein][20])
+* Martin Peterson, *An Introduction to Decision Theory* (repository book; optional conceptual bridge, not a full decision-analysis module).
 
 ---
 
@@ -603,11 +622,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **Sub-units**
 
-1. **What debiasing can and cannot do**
+1. **What counts as evidence of successful debiasing?**
 
-   * Some biases are stubborn, context-sensitive, and difficult to eliminate entirely.
-   * The goal is often mitigation and management rather than permanent cognitive repair.
-   * Students learn to think realistically about improvement.
+   * Distinguish feeling more thoughtful from measurably improved accuracy, calibration, consistency, or decision outcomes.
+   * Ask whether benefits persist over time and transfer to unfamiliar tasks, and which benchmark the intervention is supposed to improve.
+   * The goal is often mitigation and management rather than permanent cognitive repair; effectiveness varies by task and setting.
 
 2. **Cognitive debiasing strategies**
 
@@ -633,11 +652,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Some failures come from inconsistency, variability, or idiosyncratic standards.([Hachette Book Group][23])
    * This helps students distinguish patterned distortion from random judgment scatter.
 
-6. **Checklists, rails, and decision protocols**
+6. **Checklists, rails, and a small comparison exercise**
 
-   * Good judgment can be scaffolded through process design.
-   * Structured criteria, standardized forms, and staged evaluation can reduce avoidable error.
-   * This emphasizes that better reasoning is often procedural before it is heroic.
+   * Compare an unstructured judgment round with a round using independent initial estimates, base-rate prompts, or structured criteria, while holding the question and evaluation benchmark explicit.
+   * Note practice effects, small samples, and task differences: a classroom comparison cannot establish general debiasing effectiveness.
+   * Discuss how standardized forms and staged evaluation might reduce avoidable error, subject to testing and monitoring.
 
 7. **Decision hygiene and intellectual virtue**
 
@@ -650,7 +669,8 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 * Larrick (2004), *Debiasing*.([Wiley Online Library][21])
 * Klein (2007), *Performing a Project Premortem*.([Harvard Business Review][22])
 * Kahneman, Sibony & Sunstein (2021), *Noise: A Flaw in Human Judgment*.([Hachette Book Group][23])
-* Soll (2015), *A User’s Guide to Debiasing*.([Katy Milkman][24])
+* Soll (2015), “A User’s Guide to Debiasing” (external reading; evidence and boundary conditions).([Katy Milkman][24])
+* Jonathan Baron, *Thinking and Deciding* (repository book; selected sections on judgment and decision strategies).
 
 ---
 
@@ -665,11 +685,12 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **Sub-units**
 
-1. **From cognitive bias to model bias**
+1. **Distinguishing cognitive, model, and incentive problems**
 
-   * Human simplifications often reappear in formal models and decision systems.
-   * Omission, abstraction, and parameter choices can all encode bias.
-   * Students learn that systems inherit the limits of their designers and data.
+   * **Cognitive bias:** an identified pattern of judgment error relative to a benchmark.
+   * **Model misspecification:** a representation or set of assumptions that fits its task poorly; it need not be traceable to an individual's cognitive bias.
+   * **Metric distortion:** incentives or feedback change behavior in response to a target; this is related to but not identical with either of the above.
+   * Examine how these distinct problems can interact without collapsing them into one label.
 
 2. **Model risk and uncertainty**
 
@@ -689,11 +710,11 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
    * Incentives reshape behavior around the metric.
    * This shows how measurement systems can generate perverse outcomes.
 
-5. **Feedback loops and amplification**
+5. **Feedback loops and a single traceable case**
 
-   * Systems often react to their own outputs.
-   * Initial distortions can be reinforced through repeated measurement, intervention, or adaptation.
-   * This creates a bridge to systems thinking and institutional analysis.
+   * Trace one example from an initial judgment through an imperfect measurement proxy, an institutional performance target, and feedback from subsequent behavior.
+   * At each step identify the distinct cognitive, modeling, measurement, or incentive-based mechanism instead of assuming they are interchangeable.
+   * Keep feedback analysis introductory; dynamic systems modeling belongs in the later systems course.
 
 6. **Mental models and internal representations**
 
@@ -703,60 +724,66 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 7. **Biases in organizations and infrastructures**
 
-   * Screening systems, dashboards, algorithmic tools, and institutional routines can stabilize distortions over time.
-   * The course ends by widening the frame from individual judgment to collective design.
-   * This sets up later work on systems, models, and governance.
+   * Screening systems, dashboards, algorithmic tools, and institutional routines can stabilize particular errors or create new ones.
+   * Ask who is affected, what feedback would reveal an error, and which decision or measurement process could be revised.
+   * End with a handoff to deeper model and systems courses rather than a second comprehensive modeling unit.
 
 **Core readings**
 
 * Box (1976), *Science and Statistics*.([www-sop.inria.fr][25])
-* Sterman (2000), *Business Dynamics: Systems Thinking and Modeling for a Complex World*.([McGraw Hill][26])
+* Sterman (2000), *Business Dynamics: Systems Thinking and Modeling for a Complex World* (optional forward reference for the later systems course).([McGraw Hill][26])
 * Goodhart (1975), *Problems of Monetary Management: The U.K. Experience*.([SpringerLink][27])
-* Johnson-Laird (1983), *Mental Models*.([Internet Archive][28])
+* Johnson-Laird (1983), *Mental Models* (optional bridge to model thinking).([Internet Archive][28])
 
 ---
 
-## Possible capstone activities
+## Practical activities, capstones, and reflection
 
 * **Bias Journal and Decision Audit**
 
   Students keep a one-week journal in which they:
 
-  * identify a daily decision or judgment
-  * name the plausible heuristic or bias involved
-  * describe the evidence format used
-  * note whether the shortcut was adaptive or misleading
-  * propose a concrete improvement such as checking base rates, translating to frequencies, or using an outside view
+  * identify a daily decision or judgment and the benchmark for evaluating it
+  * name the **plausible** heuristic or bias involved without assuming it has been demonstrated
+  * record the evidence format, alternatives, and time/information constraints
+  * consider when the shortcut might be adaptive or misleading and what evidence would distinguish the cases
+  * propose and, where feasible, test an improvement such as checking base rates, translating to frequencies, or using an outside view
+  * finish with the question: **What model did you implicitly use?**
 
 * **Calibration Clinic**
 
-  * Students answer a set of prediction questions using explicit probability estimates.
-  * They compute calibration metrics such as the Brier score.
-  * They then reflect on where confidence exceeded evidence and how better forecasting habits might help.
+  * Students answer about 20 resolvable prediction items using timestamped probabilities, then record outcomes.
+  * They compute the Brier score, compare it with a simple baseline, and examine a confidence-versus-outcome table.
+  * They discuss whether the sample is large enough to support a conclusion about calibration and how feedback might improve future forecasts.
 
 * **Premortem and Red-Team Exercise**
 
-  * Small groups conduct a premortem on an upcoming assignment, project, or policy proposal.
+  * Small groups conduct a 20-minute premortem on an upcoming assignment, project, or organizational plan.
   * A separate group acts as a red team and challenges the assumptions.
-  * Students compare the results to unstructured group discussion.
+  * Students compare the results with unstructured group discussion, noting what was surfaced without assuming the exercise proves general effectiveness.
 
 * **Choice Architecture Audit**
 
   * Students analyze a campus form, digital workflow, public-facing website, or institutional process.
   * They identify defaults, salience cues, friction points, and possible overload.
-  * They redesign the choice environment to improve decisions while preserving autonomy.
+  * They document whose goals are served, whether choices are transparent and reversible, and who may be disadvantaged.
+  * They propose a redesign and specify how its effectiveness and autonomy effects could be evaluated.
 
 * **Causal Illusion Case Study**
 
-  * Students choose a public claim, pseudoscientific practice, or misleading correlation.
-  * They explain why it is cognitively attractive.
-  * They identify the relevant biases and propose a stronger evidential test.
+  * Students choose a public claim, pseudoscientific practice, or apparently striking correlation.
+  * They explain why a proposed causal story is cognitively attractive while distinguishing suspicion from a demonstrated mistake.
+  * They apply causal-design tools from Course 5 and propose a stronger evidential test.
 
 * **Model and Metric Critique**
 
   * Students select a ranking system, performance metric, dashboard, or simple predictive model.
-  * They identify abstractions, omissions, incentives, and possible Goodhart effects.
-  * They explain how a small modeling choice could produce a large institutional distortion.
+  * They identify separately any cognitive judgment error, model misspecification, measurement proxy, incentive, and feedback mechanism.
+  * They trace one plausible interaction and explain what additional evidence would be needed to substantiate it.
+
+---
+
+**Activity safeguards:** Treat classroom results as illustrations, not estimates of population-wide bias or proof of debiasing effectiveness. Reuse selected readings from Tetlock & Gardner (forecasting), Klein (premortems), and Larrick (debiasing) as needed.([Barnes & Noble][9]; [Harvard Business Review][22]; [Wiley Online Library][21])
 
 ---
 
@@ -772,30 +799,9 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 ---
 
-## Reflection & Real-World Identification
-
-**What students will do**
-
-* Keep a one-week **bias journal**: identify a daily decision, label plausible heuristics/biases, note evidence format, and plan a fix such as translating to frequencies, checking base rates, or running a premortem.
-* Complete **mini-labs**, including:
-
-  * **Calibration clinic:** 20 prediction items with probability scores → compute Brier score, then debrief as a group.
-  * **Premortem sprints:** 20-minute team exercise on an upcoming assignment or project.
-  * **Choice redesign:** audit a campus form or workflow and propose a nudge that preserves autonomy.
-* Tie each activity back to the question: **What model did you implicitly use?**
-* Use these exercises as bridges to later work in **model reasoning** and **systems thinking**.
-
-**Suggested readings (re-use and apply)**
-
-* Tetlock & Gardner (2015), *Superforecasting*.([Barnes & Noble][9])
-* Klein (2007), *Premortem*.([Harvard Business Review][22])
-* Larrick (2004), *Debiasing*.([Wiley Online Library][21])
-
----
-
 ## Glossary
 
-**Bounded rationality**; **Heuristic**; **Ecological rationality**; **Representativeness**; **Availability**; **Anchoring**; **Base-rate neglect**; **Reference dependence**; **Loss aversion**; **Framing effect**; **Natural frequency**; **Calibration**; **Overconfidence**; **Brier score**; **Motivated reasoning**; **Identity-protective cognition**; **Hindsight bias**; **Availability cascade**; **Groupthink**; **Echo chamber**; **Illusory correlation**; **Regression to the mean**; **Choice architecture**; **Default effect**; **Premortem**; **Noise**; **Goodhart’s Law**; **Mental model**.
+**Benchmark for bias**; **Bounded rationality**; **Heuristic**; **Ecological rationality**; **Representativeness**; **Availability**; **Anchoring**; **Base-rate neglect**; **Reference dependence**; **Loss aversion**; **Framing effect**; **Natural frequency**; **Calibration**; **Overconfidence**; **Brier score**; **Motivated reasoning**; **Identity-protective cognition**; **Hindsight bias**; **Availability cascade**; **Groupthink**; **Echo chamber**; **Illusory correlation**; **Regression to the mean**; **Choice architecture**; **Default effect**; **Premortem**; **Noise**; **Goodhart’s Law**; **Mental model**.
 
 ---
 

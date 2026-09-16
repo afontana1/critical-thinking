@@ -51,20 +51,27 @@ How do measurements become *data*, how do we reason from data under uncertainty,
    * Bring in *Measurement Across the Sciences* as a unifying view of measurement across physics, engineering, psychometrics, etc.([OAPEN Library][2])
    * Transition: those measurements become **recorded values** (numbers, categories, scores) in some information system; now we care about how they are *assembled* and used.
 
-2. **What is data? Data vs information vs knowledge**
+2. **Operationalization and construct validity**
+
+   * Distinguish the **construct** we care about from the **operational variable** actually recorded in a dataset.
+   * Variables such as “income,” “crime,” “engagement,” “intelligence,” “health,” or “poverty” depend on definitions, instruments, thresholds, proxies, and coding decisions.
+   * Ask whether an operationalization captures the intended construct, introduces systematic distortion, or silently substitutes an easier-to-measure proxy.
+   * Treat questionable measurement practices as a data-literacy problem: measurement choices constrain every later statistical conclusion.
+
+3. **What is data? Data vs information vs knowledge**
 
    * Data as *structured records* of measurements or observations on units.
    * Information as data *interpreted* relative to questions and background models.
    * Knowledge as more stable, justified patterns distilled from many datasets + theory.
    * Use examples from *Calling Bullshit* (e.g., “data-free” stories vs data-saturated but misleading dashboards).([Amazon][4])
 
-3. **Units of analysis: “What are the things?”**
+4. **Units of analysis: “What are the things?”**
 
    * Define units of analysis (individuals, cells, households, firms, time points, countries, etc.).
    * Show how mis-chosen units distort inference (e.g., country-level averages as if each country were a person → ecological fallacies).([Amazon][4])
    * Link back to Evidence course: the “facts” we talk about are often aggregates over units—this matters.
 
-4. **Scope and target populations: “What world are we talking about?”**
+5. **Scope and target populations: “What world are we talking about?”**
 
    * Target population vs “the universe of discourse”:
 
@@ -72,7 +79,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
    * Emphasize that population choice is a **scientific and ethical** decision, not automatic.
    * Connect to evidence hierarchies and EBM (whose population is “this guideline” about?).([Cochrane][8])
 
-5. **Variables and data types**
+6. **Variables and data types**
 
    * Variables as attributes measured across units.
    * Distinguish:
@@ -81,7 +88,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
      * Quantitative (continuous, discrete, counts)
    * Light link to modeling: these will later determine what probability models are reasonable.
 
-6. **Metadata and codebooks**
+7. **Metadata and codebooks**
 
    * Introduce metadata and codebooks as the *narrative* of the dataset: variable definitions, units, coding schemes, missing-value codes, provenance.
    * Show an example of a good vs terrible codebook; tie to information literacy.([Amazon][4])
@@ -89,6 +96,8 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 **Core readings**
 
 * Luca Mari, Mark Wilson & Andrew Maul, *Measurement Across the Sciences: Developing a Shared Concept System for Measurement* (intro + conceptual chapters).([OAPEN Library][2])
+* Jessica Kay Flake & Eiko I. Fried, **“Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them”** (repository reading).
+* Olaf Dammann, **“Data, Information, Evidence, and Knowledge: A Proposal for Health Informatics and Data Science”** (repository reading).
 * Theodore Porter, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life* (Introduction + “How Social Numbers Are Made Valid”).([Wikipedia][6])
 * Carl Bergstrom & Jevin West, *Calling Bullshit: The Art of Skepticism in a Data-Driven World* (chapters on data, bullshit, and contexts of use).([Amazon][4])
 
@@ -131,14 +140,22 @@ How do measurements become *data*, how do we reason from data under uncertainty,
    * Emphasize: *large N does not cure bias* – a million self-selected users can be worse than 1,000 sampled carefully.
    * Bring examples from *Calling Bullshit* on “big data hubris”.([callingbullshit.org][10])
 
-5. **Study designs: experiments vs observational studies**
+5. **Sampling weights, unequal inclusion, and representativeness**
+
+   * Raw sample proportions need not equal population proportions when units have different probabilities of selection or response.
+   * Introduce **sampling weights** conceptually: observations can receive different weights to reflect design probabilities or known population composition.
+   * Post-stratification and related adjustments can correct identifiable imbalances, but they do not magically repair unknown selection bias or bad measurement.
+   * Keep four ideas distinct: **sample size** affects precision; **sampling design** affects representativeness; **weighting** adjusts known design/composition differences; **valid measurement** determines whether the recorded variables answer the intended question.
+   * No survey-statistics derivations are required; the goal is to understand what a weighted estimate is claiming. ([Routledge][26])
+
+6. **Study designs: experiments vs observational studies**
 
    * Randomized controlled trials (RCTs), including CONSORT as a reporting standard.([SpringerLink][5])
    * Observational designs: cohort, case-control, cross-sectional; STROBE as a reporting standard.([Amazon][4])
    * Diagnostic/prognostic designs and STARD, briefly.([Amazon][4])
    * Use simple data diagrams (2×2 tables, timelines) to show what is observed in each design.
 
-6. **From study design to evidence hierarchies**
+7. **From study design to evidence hierarchies**
 
    * Introduce hierarchies of evidence (systematic reviews/meta-analyses, RCTs, well-designed observational studies, case series, anecdotes).([Amazon][4])
    * Link to EBM and your previous Evidence unit: this is *why* people care about design.
@@ -146,8 +163,9 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 **Core readings**
 
 * Stephen K. Campbell, *Flaws and Fallacies in Statistical Thinking* (chapters on sampling and bias).([Amazon][11])
-* Foster Provost & Tom Fawcett, *Data Science for Business* (chapters on data-analytic thinking and data provenance).([Amazon][12])
-* CONSORT 2010/2025 statement; STROBE statement checklists.([Legacy File Share][13])
+* Sharon L. Lohr, *Sampling: Design and Analysis*, 3rd ed. (selected conceptual sections on probability sampling, unequal probabilities, nonresponse, and nonprobability samples).([Routledge][26])
+* Foster Provost & Tom Fawcett, *Data Science for Business* (repository book; selected chapters on data provenance and found data).([Amazon][12])
+* CONSORT 2025 statement; STROBE statement checklists.([BMJ][27])
 * Stanford Encyclopedia of Philosophy, “Simpson’s Paradox” (as a teaser for later causal issues).([Stanford Encyclopedia of Philosophy][7])
 
 ---
@@ -163,41 +181,52 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 **Sub-units**
 
-1. **Sampling error vs sampling bias**
+1. **The texture of uncertainty: variability, bias, measurement, and assumptions**
+
+   * Distinguish **random variability** from **systematic bias**: more data can reduce random sampling variability without eliminating systematic distortion.
+   * Distinguish **measurement uncertainty** from sampling uncertainty: even a census can contain uncertain or noisy measurements.
+   * Add **model/assumption uncertainty**: conclusions also depend on classifications, functional forms, missing-data assumptions, and other analytic choices.
+   * Precision vs accuracy: how tight vs how right.
+   * Use NASA’s measurement-uncertainty framework as a deep-dive example of explicitly identifying and combining uncertainty sources.
+
+2. **Sampling error vs sampling bias**
 
    * Sampling error: randomness from seeing only part of the population; shrinks with larger N.
    * Sampling bias: systematic distortion from who gets in the sample; does *not* shrink with N.
-   * Precision vs accuracy: how tight vs how right.
+   * Large N can make a biased estimate very precise without making it accurate.
 
-2. **Measurement error and misclassification**
+3. **Measurement error and misclassification**
 
    * Random vs systematic measurement error (instrument drift, miscalibrated surveys).
    * Misclassification of outcomes or exposures (false positives/negatives, sensitivity/specificity).([Amazon][4])
    * Link back to metrology and *Measurement Across the Sciences*; forward to diagnostic testing in Unit 5.([OAPEN Library][2])
 
-3. **Missing data and nonresponse**
+4. **Missing data and nonresponse**
 
    * Types of missingness (conceptually): missing completely at random, at random, not at random.
    * Nonresponse bias in surveys; missing lab values in clinical studies; attrition in longitudinal data.
    * Emphasize that missingness often hides a *secondary sampling process* (“who is invisible?”).
 
-4. **Iconic statistical pathologies**
+5. **Iconic statistical pathologies**
 
    * Simpson’s paradox: association reversals when conditioning on a lurking variable; highlight its causal reading and why “correlation ≠ causation” is not enough.([Stanford Encyclopedia of Philosophy][7])
    * Ecological fallacy (group-level vs individual-level associations).([Amazon][1])
    * Base-rate neglect / prosecutor’s fallacy in legal and forensic contexts.([Amazon][4])
    * Regression toward the mean and why many “treatments” appear to work just by timing.([Amazon][4])
 
-5. **Information overload, filter bubbles, and selection into data streams**
+6. **Selection into observed data streams**
 
-   * Information overload and filter bubbles as *selection mechanisms* on what data we ever see.([Amazon][4])
-   * Connect to Course 1’s social epistemology + echo chambers; connect to “Calling Bullshit” chapters on information streams.
+   * Administrative records, EHRs, customer transactions, platform logs, and other “found data” contain only people, events, and behaviors that entered a system and generated a record.
+   * Ask: Who becomes observable? Who remains invisible? What behavior creates a record? What does the system fail to record?
+   * Selection into a data stream can change over time as institutions, incentives, technologies, or user populations change.
+   * Keep the focus here on **data-generating and recording mechanisms**; broader filter-bubble and media-ecosystem analysis is deferred to the later media/propaganda course.
 
 **Core readings**
 
 * Stephen K. Campbell, *Flaws and Fallacies in Statistical Thinking* (selection of chapters on sampling, selection, and misinterpretation).([Internet Archive][14])
 * Darrell Huff, *How to Lie with Statistics* (with an instructor note on its historical context and limitations).([Amazon][15])
 * Bergstrom & West, *Calling Bullshit* (chapters on selection bias, visual bullshit, and model errors).([callingbullshit.org][10])
+* NASA, *Measurement Uncertainty Analysis: Principles and Methods* (repository book; selected conceptual sections on identifying sources of measurement uncertainty).
 * SEP “Simpson’s Paradox” and related overviews of ecological fallacy and survivorship bias.([Stanford Encyclopedia of Philosophy][7])
 
 ---
@@ -232,6 +261,8 @@ How do measurements become *data*, how do we reason from data under uncertainty,
    * Histograms, density plots, boxplots, scatterplots, time-series plots.
    * Basic visual tools for uncertainty: error bars, confidence bands, fan charts (conceptual).
    * Introduce “uncertainty visualization” as a craft: how do we show what we *don’t* know?
+   * Compare displays that suppress uncertainty with displays that make sampling variation, ranges, or plausible alternatives visible.
+   * Ask whether a visual encoding invites readers to infer more precision or certainty than the data warrant.
 
 4. **Tufte and the ethics of graphics**
 
@@ -246,9 +277,10 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 **Core readings**
 
-* Edward Tufte, *The Visual Display of Quantitative Information*, *Envisioning Information*, and *Beautiful Evidence* (selected chapters).([Amazon][15])
-* Darrell Huff, *How to Lie with Statistics* (graphics-related chapters).([Amazon][15])
-* Bergstrom & West, *Calling Bullshit* (chapters on visualization and misleading dashboards).([callingbullshit.org][10])
+* Edward Tufte, *The Visual Display of Quantitative Information*, *Envisioning Information*, and *Beautiful Evidence* (selected chapters; repository books).([Amazon][15])
+* Dustin Fife, **“The Eight Steps of Data Analysis: A Graphical Framework to Promote Sound Statistical Analysis”** (repository reading).
+* Darrell Huff, *How to Lie with Statistics* (graphics-related chapters; repository reading).([Amazon][15])
+* Bergstrom & West, *Calling Bullshit* (chapters on visualization and misleading dashboards; repository book).([callingbullshit.org][10])
 
 ---
 
@@ -282,19 +314,34 @@ How do measurements become *data*, how do we reason from data under uncertainty,
    * Confusion matrices and contingency tables as core representational tools.([Amazon][4])
    * Show how base rates radically affect PPV/NPV.
 
-4. **Hypothesis testing and common misinterpretations**
+4. **Estimation, effect sizes, and interval uncertainty**
+
+   * Point estimates are uncertain; report an estimate together with information about its precision rather than treating the sample estimate as exact.
+   * Introduce confidence intervals conceptually as outputs of a procedure with a long-run coverage property—not as statements that there is a 95% probability that a fixed parameter lies inside this particular realized interval.
+   * Separate **statistical significance** from **magnitude and practical importance**: a tiny effect can be precisely estimated and statistically detectable without being substantively important.
+   * Compare absolute and relative effects where appropriate; ask which scale best communicates the practical claim.
+
+5. **Hypothesis testing and common misinterpretations**
 
    * Null hypothesis significance testing (NHST) in plain language; p-values as *compatibility* measures, not “the probability the null is true.”
    * Type I vs Type II errors; power as long-run behavior.([Amazon][4])
    * ASA statement on p-values and why over-reliance on “p<0.05” is problematic.([Default][18])
+   * Treat thresholded significance as one limited inferential convention, not the final verdict on a result.
 
-5. **Inference as argument, not ritual**
+6. **The reference-class problem**
+
+   * Probabilities for an individual case depend on which population or class the case is compared with.
+   * A person, event, or object belongs to many possible reference classes, which can yield different frequency estimates.
+   * Ask which reference class is relevant to the question, why that class was selected, and how sensitive the inference is to plausible alternatives.
+   * Connect backward to Unit 1’s units/populations and Unit 2’s sampling frames, and forward to causal reasoning where conditioning choices become even more consequential.
+
+7. **Inference as argument, not ritual**
 
    * Abelson’s “Statistics as Principled Argument”: MAGIC criteria (magnitude, articulation, generality, interestingness, credibility).([Routledge][3])
    * Ioannidis, “Why Most Published Research Findings Are False,” and the replication crisis as institutional consequences of misused inference.([PMC][19])
    * Stigler’s *Seven Pillars* as a conceptual unification of statistical insight (likelihood, residuals, etc.).([Amazon][9])
 
-6. **Judgment, heuristics, and decision making under uncertainty**
+8. **Judgment, heuristics, and decision making under uncertainty**
 
    * Draw from Jonathan Baron’s *Thinking and Deciding*: normative standards (probability, utility) vs descriptive heuristics and biases.([Amazon][20])
    * Connect back to Course 1 on cognitive biases; connect forward to Causality course (deciding when evidence is “good enough” to act).
@@ -304,7 +351,11 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 * Robert Abelson, *Statistics as Principled Argument*.([Routledge][3])
 * Stephen M. Stigler, *The Seven Pillars of Statistical Wisdom* (overview chapters).([Amazon][9])
 * Nate Silver, *The Signal and the Noise: Why So Many Predictions Fail—but Some Don’t*.([Amazon][17])
-* American Statistical Association statements on p-values and selected essays on the replication crisis.([Default][18])
+* American Statistical Association statements on p-values and selected essays on estimation, effect sizes, and the replication crisis.([Default][18])
+* José M. Cortina & William P. Dunlap, **“On the Logic and Purpose of Significance Testing”** (repository reading).
+* Alan Hájek, **“The Reference Class Problem Is Your Problem Too”** (repository reading).
+* Edward K. Cheng, **“A Practical Solution to the Reference Class Problem”** (repository reading).
+* Dustin Fife, **“The Eight Steps of Data Analysis”** (repository reading; cross-listed with Unit 4).
 * Jonathan Baron, *Thinking and Deciding* (sections on probability judgment and decisions).([Cambridge University Press & Assessment][21])
 
 ---
@@ -327,14 +378,18 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 2. **Reporting guidelines as “structured metadata”**
 
-   * CONSORT (trials), STROBE (observational), PRISMA (systematic reviews), STARD (diagnostic accuracy), CARE (case reports), AGREE (guidelines), etc.([SpringerLink][5])
+   * CONSORT 2025 (randomised trials), STROBE (observational), PRISMA 2020 (systematic reviews), STARD (diagnostic accuracy), CARE (case reports), AGREE (guidelines), etc.([BMJ][27]; [BMJ][24])
+   * CONSORT 2025 supersedes CONSORT 2010; use the older statement only for historical comparison.([BMJ][27])
    * EQUATOR network as a hub.
    * Treat checklists as **institutionalized expectations** about what data and analyses need to be made visible.
+   * Repository maintenance: replace or supplement the local CONSORT 2010 file with CONSORT 2025, and store PRISMA 2020 locally if it is a recurring core reading.
 
 3. **Systematic reviews and meta-analysis**
 
-   * Cochrane Handbook; PRISMA 2020 statement and flow diagrams.([Amazon][4])
+   * Cochrane Handbook; PRISMA 2020 statement and flow diagrams.([BMJ][24])
    * Steps: searching, screening, risk-of-bias assessment, pooling, heterogeneity, sensitivity analyses (conceptual).
+   * **Publication bias and selective reporting:** the studies available for synthesis may themselves be a selected sample of all studies conducted, and outcomes within published studies may be selectively reported.
+   * Funnel plots and statistical corrections can be mentioned as diagnostic tools, but the conceptual priority is recognizing selection in the research record.
    * Discuss the *GRADE* approach to rating certainty of evidence and strength of recommendations.([gradeworkinggroup.org][22])
 
 4. **Replication and reproducibility**
@@ -356,7 +411,11 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 * Cochrane Handbook for Systematic Reviews of Interventions (selected methods chapters).([Amazon][4])
 * PRISMA 2020 statement and checklist.([BMJ][24])
-* CONSORT 2010/2025 and STROBE statements.([Legacy File Share][13])
+* CONSORT 2025 statement and checklist.([BMJ][27])
+* STROBE statement/checklists.
+* Eli J. Finkel, Paul W. Eastwick & Harry T. Reis, **“Best Research Practices in Psychology”** (repository reading).
+* Harold Pashler & Eric-Jan Wagenmakers, **“Is the Replication Crisis Overblown? Three Arguments Examined”** (repository reading).
+* Mark Schaller, **“The Empirical Benefits of Conceptual Rigor”** (repository reading).
 * GRADE Handbook / GRADE Book (introductory chapters).([Cochrane][8])
 * Ross Brownson et al., “Understanding Evidence-Based Public Health Policy.”([American Journal of Public Health][23])
 
@@ -382,13 +441,15 @@ How do measurements become *data*, how do we reason from data under uncertainty,
      * Multi-institution consortia and data commons.
    * Introduce Porter’s thesis in *Trust in Numbers*: quantification as a tool for bureaucratic legitimacy and “objective” decision-making.([Wikipedia][6])
 
-2. **Provenance, governance, and accountability**
+2. **Provenance, lineage, documentation, and accountability**
 
    * Provenance across pipelines:
 
-     * Data collection institutions, transformations, linkages, and curation.
+     * Data collection institutions, transformations, linkages, filtering, labeling, and curation.
+   * **Data lineage** asks how a field or record came to exist: what source generated it, what transformations were applied, what versions were used, and what downstream systems inherited it.
+   * Use **Datasheets for Datasets** as a concrete documentation practice: record motivation, composition, collection process, preprocessing/labeling, intended uses, limitations, distribution, and maintenance.([Microsoft Research][28])
    * Governance: access, consent, regulation, ethical review, data protection.
-   * Connect to evidence law and your Evidence course (e.g., chain of custody, admissibility, forensic databases).
+   * Connect to Unit 1’s codebooks and metadata and to the Evidence course’s chain-of-custody idea.
 
 3. **Metadata, ontologies, and interoperability**
 
@@ -405,7 +466,9 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 5. **Uncertainty at scale: new risks, new tools**
 
    * Algorithmic bias, covariate shift, data leakage, feedback loops.
-   * Documentation and monitoring practices (e.g., model/data cards) as analogues of CONSORT/PRISMA for models.
+   * Keep the focus on **data generation and reuse**: who is represented, what labels mean, which historical decisions are inherited, and how deployment creates new data.
+   * Documentation and monitoring practices (e.g., datasheets and model/data cards) as analogues of CONSORT/PRISMA for computational systems.
+   * Detailed questions of AI ethics, platform persuasion, and media manipulation are deferred to later specialized courses.
    * Connect to forthcoming Causality course: big data does not automatically yield causal knowledge; in fact, it can obscure causal structure without careful design.
 
 6. **Sociology and history of quantification**
@@ -415,10 +478,12 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 
 **Core readings**
 
-* Theodore Porter, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life*.([Wikipedia][6])
-* Mari, Wilson & Maul, *Measurement Across the Sciences* (chapters on modeling, quality, and public trust in measurement).([OAPEN Library][2])
-* Bergstrom & West, *Calling Bullshit* (chapters on big data, algorithmic decision-making, and institutional bullshit).([callingbullshit.org][10])
-* Selected papers or essays on data governance, ontologies, and research infrastructures (you could plug in domain-specific readings here).
+* Theodore Porter, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life* (repository book).([Wikipedia][6])
+* Foster Provost & Tom Fawcett, *Data Science for Business* (repository book; selected chapters on data mining, found data, and data-analytic thinking).([Google Books][25])
+* Timnit Gebru et al., **“Datasheets for Datasets”** (dataset documentation and accountability).([Microsoft Research][28])
+* Mari, Wilson & Maul, *Measurement Across the Sciences* (repository book; chapters on modeling, quality, and public trust in measurement).([OAPEN Library][2])
+* Bergstrom & West, *Calling Bullshit* (repository book; chapters on big data, algorithmic decision-making, and institutional bullshit).([callingbullshit.org][10])
+* Seth Stephens-Davidowitz, *Everybody Lies* (repository book; optional case-study reading on unconventional digital traces and their selection problems).
 
 ---
 
@@ -473,3 +538,7 @@ How do measurements become *data*, how do we reason from data under uncertainty,
 [23]: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2008.156224 "Understanding Evidence-Based Public Health Policy"
 [24]: https://www.bmj.com/content/372/bmj.n71 "The PRISMA 2020 statement: an updated guideline for ..."
 [25]: https://books.google.com/books?id=4ZctAAAAQBAJ&printsec=frontcover& "Data Science for Business: What You Need to Know about ..."
+
+[26]: https://www.routledge.com/Sampling-Design-and-Analysis/Lohr/p/book/9780367279509 "Sampling: Design and Analysis, 3rd Edition - Sharon L. Lohr"
+[27]: https://www.bmj.com/content/389/bmj-2024-081123 "CONSORT 2025 statement: updated guideline for reporting randomised trials"
+[28]: https://www.microsoft.com/en-us/research/publication/datasheets-for-datasets/ "Datasheets for Datasets - Microsoft Research"

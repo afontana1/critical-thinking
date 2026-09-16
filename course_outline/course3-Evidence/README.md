@@ -77,11 +77,18 @@ What *is* evidence, how does it support claims and decisions across law, science
    * Against pure foundationalism and pure coherentism.
    * Mutual support, experiential input, and fit. ([Miami Law Repository][6])
 
+6. **Plural concepts of evidence**
+
+   * Ask whether “evidence” names one relation or several importantly different notions.
+   * Peter Achinstein distinguishes several concepts of evidence, including potential, veridical, epistemic-situation, and subjective evidence.
+   * Use this contrast to reinforce a central course theme: what counts as evidence can depend on whether we are asking about objective support, what a person is justified in believing, or what information is available in a particular epistemic situation. ([Oxford Academic][21])
+
 **Core readings**
 
 * SEP: **“Evidence.”** ([Stanford Encyclopedia of Philosophy][1])
 * IEP: **“Evidence.”** ([Internet Encyclopedia of Philosophy][8])
 * Susan Haack, *Evidence and Inquiry: A Pragmatist Reconstruction of Epistemology*. ([Miami Law Repository][6])
+* Peter Achinstein, selections from *The Book of Evidence* (repository book). ([Oxford Academic][21])
 * Peter Dawid, William Twining, and Mimi Vasilaki (eds.), *Evidence, Inference and Enquiry*.
 
 ---
@@ -124,8 +131,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 
 **Core readings**
 
-* William Twining, **“Evidence as a Multi-Disciplinary Subject.”** ([Oxford Academic][15])
-* William Twining, *Rethinking Evidence*. ([Cambridge University Press][18])
+* William Twining, **“Evidence as a Multi-Disciplinary Subject.”** (repository reading; see also [Oxford Academic][15])
+* William Twining, *Rethinking Evidence*. (repository book; see also [Cambridge University Press][18])
 * William Twining, **“The Rationalist Tradition of Evidence Scholarship.”** ([Cambridge University Press][17])
 * Jordi Ferrer Beltrán and Carmen Vázquez (eds.), **“Evidence as a Multidisciplinary Field.”** ([Cambridge University Press][19])
 
@@ -147,10 +154,12 @@ What *is* evidence, how does it support claims and decisions across law, science
    * Evidence relative to an issue under investigation.
    * Yes/no questions, comparative hypotheses, and open-ended inquiry.
 
-2. **Alternative explanations and underdetermination**
+2. **Alternative explanations, contrast classes, and underdetermination**
 
    * The same evidence can fit more than one account.
-   * Why responsible inquiry requires attention to rivals.
+   * Evidential support is often **contrastive**: evidence may strongly favor H over H1 while doing little to distinguish H from H2.
+   * The relevant alternatives therefore matter to how strong a piece of evidence is.
+   * Why responsible inquiry requires attention to rivals rather than asking only whether evidence is “consistent with” a favored hypothesis.
 
 3. **Background knowledge and defeasibility**
 
@@ -161,7 +170,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * How new evidence should rationally alter confidence.
    * Revision without certainty.
-   * Light preparation for later Bayesian treatment.
+   * Distinguish evidence that merely fits a hypothesis from evidence that discriminates among competing hypotheses.
+   * Light preparation for later Bayesian treatment, where comparative likelihoods make this contrastive structure explicit.
 
 5. **Suspension of judgment**
 
@@ -191,11 +201,13 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Observation, appearance, and conditions of uptake.
    * Seeing versus interpreting.
+   * Perceptual evidence is filtered through attention, viewing conditions, expectations, and later reconstruction; apparent directness does not guarantee accuracy.
 
 2. **Memory as retained and reconstructed evidence**
 
    * Memory as preservation and distortion.
    * Confidence, vividness, and reliability.
+   * Eyewitness identification as an applied case: perception and memory are dynamic processes, and confidence, accuracy, and identification procedures must be distinguished. ([National Academies][22])
 
 3. **Testimony as social evidence**
 
@@ -218,6 +230,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 * SEP: **“Social Epistemology.”**
 * C.A.J. Coady, *Testimony: A Philosophical Study*.
 * Jennifer Lackey, *Learning from Words*.
+* Douglas Walton, *Witness Testimony Evidence: Argumentation, Artificial Intelligence, and Law* (repository book).
+* National Research Council, *Identifying the Culprit: Assessing Eyewitness Identification* (selected chapters on vision, memory, confidence, and identification procedures). ([National Academies][22])
 
 ---
 
@@ -236,6 +250,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Testimonial, documentary, physical/real, and demonstrative evidence. ([Stanford Encyclopedia of Philosophy][2])
    * Direct versus circumstantial evidence.
+   * Across forms, track an **evidential lifecycle**: creation or acquisition → preservation → authentication → interpretation → presentation.
+   * At each stage ask what could have been lost, altered, contaminated, detached from context, or incorrectly attributed.
 
 2. **Documentary evidence**
 
@@ -251,6 +267,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Logs, CCTV, geolocation, metadata, device records.
    * Apparent precision versus interpretive uncertainty.
+   * Preservation and acquisition matter because digital material can be copied, transformed, recompressed, overwritten, or stripped of metadata; integrity must be documented rather than assumed. ([NIST][23])
 
 5. **Demonstrative evidence and models**
 
@@ -263,6 +280,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 * William Twining, *Rethinking Evidence*. ([Cambridge University Press][18])
 * Paul Roberts and Adrian Zuckerman, *Criminal Evidence*.
 * Terence Anderson, David Schum, and William Twining, *Analysis of Evidence*. ([Cambridge University Press][16])
+* NIST, *Digital Evidence Preservation: Considerations for Evidence Handlers* (selected sections). ([NIST][23])
 
 ---
 
@@ -286,6 +304,9 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Aggregate support, frequencies, distributions, and generalized patterns.
    * Tension between individualized proof and population-level support.
+   * Base rates and conditional probabilities: distinguish P(E|H) from P(H|E), and avoid treating a rare observation under one hypothesis as automatically making the competing hypothesis highly probable.
+   * Ask what reference class generated a statistic and whether population-level evidence is sufficiently specific to the individual case.
+   * Reserve full Bayesian updating for Unit 11; here the aim is to recognize the interpretive problems that arise when numerical evidence is used as proof.
 
 3. **Negative evidence and arguments from silence**
 
@@ -307,6 +328,9 @@ What *is* evidence, how does it support claims and decisions across law, science
 * SEP: **“Higher-Order Evidence.”** ([Higher-Order Evidence][5])
 * Douglas Walton, *Arguments from Ignorance*.
 * David Schum, *The Evidential Foundations of Probabilistic Reasoning*. ([PhilPapers][3])
+* Sam Fox Krauss, “Against the Alleged Insufficiency of Statistical Evidence” (repository reading).
+* The Royal Society, *The Use of Statistics in Legal Proceedings: A Primer for Courts* (repository reading).
+* Marcello Di Bello, “When Statistical Evidence Is Not Specific Enough” (repository reading).
 * Essays by Jennifer Lackey and David Christensen on defeat and higher-order evidence.
 
 ---
@@ -331,6 +355,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Weight, support, and evidential increment.
    * Weak evidence, cumulative force, and tipping points.
+   * Keep four evaluations distinct: **relevance** (does it bear on the issue?), **reliability** (can the source or method be trusted?), **probative strength** (how much support does it add?), and **sufficiency** (is the total support enough for the decision at hand?).
 
 3. **Prejudice and distraction**
 
@@ -352,6 +377,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 * SEP: **“The Legal Concept of Evidence.”** ([Stanford Encyclopedia of Philosophy][2])
 * Notes to SEP **“The Legal Concept of Evidence.”** ([Stanford Encyclopedia of Philosophy][11])
 * Alex Stein, **“Evidence Law: What is it For?”** ([Oxford Academic][20])
+* Fabrizio Macagno, **“Assessing Relevance”** (repository reading).
 * Royal Statistical Society, **Law Guides 1–4**. ([RSS][4])
 
 ---
@@ -376,6 +402,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Repetition versus genuine independent support.
    * Common-source errors and hidden dependence.
+   * Distinguish independence of **sources**, independence of **methods**, and independence of **error mechanisms**: two reports can look independent while tracing back to the same witness, dataset, instrument, model, or background assumption.
 
 3. **The variety-of-evidence thesis**
 
@@ -396,6 +423,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 * Barbara Osimani and Jürgen Landes, **“Varieties of Error and Varieties of Evidence in Scientific Inference.”** ([PhilSci Archive][7])
 * Published version / related discussion of the same work. ([journals.uchicago.edu][9])
 * Work on the **variety of evidence thesis and independence**. ([SpringerLink][10])
+* Douglas Walton, **“Evaluating Corroborative Evidence”** (repository reading).
+* Franco Taroni, Colin Aitken, Silvia Bozza & Patrick Juchli, **“The Principle of Total Evidence Reprised”** (repository reading).
 * William Twining, *Rethinking Evidence*. ([Cambridge University Press][18])
 
 ---
@@ -434,12 +463,14 @@ What *is* evidence, how does it support claims and decisions across law, science
 5. **Wigmore as analytic pillar**
 
    * Charting as disciplined evidential analysis rather than mere visualization.
+   * Treat this unit as primarily **qualitative structural analysis**: identify what must be proved, decompose intermediate propositions, expose inferential chains, and locate converging or ancillary support.
+   * Required exercise: construct a Wigmore-style chart for a modest case and use the chart to identify at least one hidden dependency, weak inferential link, or piece of ancillary evidence.
    * The lasting relevance of Wigmore’s method for modern proof analysis.
 
 **Core readings**
 
 * John Henry Wigmore, selections from *The Science of Judicial Proof* or *The Principles of Judicial Proof*.
-* Terence Anderson, David Schum, and William Twining, *Analysis of Evidence*. ([Cambridge University Press][16])
+* Terence Anderson, David Schum, and William Twining, *Analysis of Evidence* (repository book; selected chapters on charting and analysis). ([Cambridge University Press][16])
 * Notes to SEP **“The Legal Concept of Evidence.”** for Wigmore-related background. ([Stanford Encyclopedia of Philosophy][11])
 * William Twining, discussions of Wigmore in *Rethinking Evidence*. ([Cambridge University Press][18])
 
@@ -459,6 +490,7 @@ What *is* evidence, how does it support claims and decisions across law, science
 1. **From Wigmore to Schum**
 
    * Continuities and extensions.
+   * Wigmore foregrounds decomposition and qualitative evidential structure; Schum extends the project by analyzing evidential properties, inferential force, dependence, credibility, and reasoning from masses of evidence.
    * Why Schum modernizes rather than replaces Wigmore.
 
 2. **Inference networks**
@@ -478,11 +510,12 @@ What *is* evidence, how does it support claims and decisions across law, science
 5. **Networks as bridge tools**
 
    * A bridge from qualitative mapping to probabilistic and hybrid models.
+   * Required exercise: translate part of the Unit 9 case into an inference network and compare what becomes easier—or harder—to see than in the Wigmore chart.
 
 **Core readings**
 
-* David Schum, *The Evidential Foundations of Probabilistic Reasoning*. ([PhilPapers][3])
-* Terence Anderson, David Schum, and William Twining, *Analysis of Evidence*. ([Cambridge University Press][16])
+* David Schum, *The Evidential Foundations of Probabilistic Reasoning*. ([Northwestern University Press][24]) **Repository acquisition recommended if this remains a named core text.**
+* Terence Anderson, David Schum, and William Twining, *Analysis of Evidence* (repository book). ([Cambridge University Press][16])
 * Later work on inference networks in law and forensics.
 
 ---
@@ -518,7 +551,14 @@ What *is* evidence, how does it support claims and decisions across law, science
    * Bayes factor as a measure of how much more expected evidence is on one hypothesis than another.
    * Weight of evidence without turning the course into a statistics course.
 
-5. **Hybrid theories**
+5. **Interpreting and communicating Bayesian evidence**
+
+   * Distinguish likelihoods from posterior probabilities: P(E|H) is not P(H|E).
+   * Recognize the transposed-conditional / prosecutor’s-fallacy pattern and the role of base rates.
+   * Numerical precision can create false confidence when assumptions, reference populations, or dependence among evidence are poorly understood.
+   * Communicate what a likelihood ratio or Bayes factor says—and what it does **not** say—in ordinary language.
+
+6. **Hybrid theories**
 
    * Stories, arguments, networks, and probabilities together.
    * Why mixed models are attractive in legal and forensic reasoning.
@@ -529,6 +569,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 * Floris Bex, work on **hybrid theories of stories and arguments**.
 * David Schum, *The Evidential Foundations of Probabilistic Reasoning*. ([PhilPapers][3])
 * J.N. Morey, J.-W. Romeijn, and J.N. Rouder, **“The philosophy of Bayes factors and the quantification of statistical evidence.”**
+* Steven Lund & Hari Iyer, **“Bayesian Reasoning and Evidence Communication”** (repository reading).
+* Charlotte S. Vlek, Henry Prakken, Silja Renooij & Bart Verheij, **“A Method for Explaining Bayesian Networks for Legal Evidence with Scenarios”** (repository reading).
 * Paolo Garbolino and related work on Bayesian approaches to scientific and legal evidence.
 
 ---
@@ -548,6 +590,10 @@ What *is* evidence, how does it support claims and decisions across law, science
 
    * Practical proof under uncertainty.
    * Proof in law, science, policy, and everyday life.
+   * Keep three questions distinct throughout the unit:
+     * **Evidential strength:** how much does E support H?
+     * **Epistemic judgment:** how confident should a rational agent be in H?
+     * **Decision/proof threshold:** how confident must we be before accepting, acting, convicting, regulating, or otherwise deciding?
 
 2. **Burdens of proof**
 
@@ -562,17 +608,21 @@ What *is* evidence, how does it support claims and decisions across law, science
 4. **Standards of proof**
 
    * Preponderance, clear and convincing, beyond reasonable doubt.
-   * Domain-specific thresholds.
+   * A standard of proof is an **acceptance or decision threshold**, not itself a kind of evidence or a measure of evidential quality.
+   * Domain-specific thresholds can differ even when the underlying body of evidence is unchanged.
 
 5. **Extraordinary claims and asymmetrical error costs**
 
-   * Why some claims demand stronger evidence.
+   * Why some contexts rationally demand stronger support before acceptance or action.
+   * Distinguish changing the **decision threshold** because errors have asymmetric costs from claiming that the same evidence has somehow become stronger or weaker.
    * Stakes, prudence, and epistemic norms.
 
 **Core readings**
 
-* Douglas Walton, *Burden of Proof, Presumption and Argumentation*.
-* Massimo Pigliucci and Maarten Boudry, **“Prove it! The Burden of Proof Game in Science vs. Pseudoscience Disputes.”** ([PhilArchive][14])
+* Douglas Walton, *Burden of Proof, Presumption and Argumentation* (repository book).
+* Thomas F. Gordon & Douglas Walton, **“Proof Burdens and Standards”** (repository reading).
+* Douglas Walton, **“Burdens and Standards of Proof for Inference to the Best Explanation”** (repository reading).
+* Massimo Pigliucci and Maarten Boudry, **“Prove it! The Burden of Proof Game in Science vs. Pseudoscience Disputes.”** (repository reading; see also [PhilArchive][14])
 * Background reference on **burden of proof (philosophy)**. ([Wikipedia][12])
 * Background reference on **burden of proof (law)**. ([Wikipedia][13])
 * Alex Stein, *Foundations of Evidence Law*.
@@ -603,10 +653,12 @@ What *is* evidence, how does it support claims and decisions across law, science
    * Their strengths: anti-bias safeguards, procedural discipline, and standardization.
    * Their limits: context-insensitivity, underweighting mechanisms, testimony, and mixed evidential support. ([RSS][4])
 
-3. **Expert evidence and evidential pluralism**
+3. **Expert evidence, transportability, and evidential pluralism**
 
    * Why no single evidential model captures every serious inquiry.
    * Statistical, mechanistic, testimonial, documentary, and experiential support in combination.
+   * Distinguish **evidence that an intervention worked there** from **evidence that it will work here**: transport requires attention to mechanisms, population differences, institutional context, implementation, and background conditions.
+   * Use this distinction to complicate simple evidence hierarchies without abandoning methodological standards.
 
 4. **Evidential pathologies**
 
@@ -621,7 +673,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 
 * William Twining, *Rethinking Evidence*. ([Cambridge University Press][18])
 * Barbara Osimani and related work on evidence pluralism and variety. ([PhilSci Archive][7]; [journals.uchicago.edu][9]; [SpringerLink][10])
-* Susan Haack, **“Proof, Probability, and Statistics: The Problem of ‘Delusive Exactness’.”**
+* Susan Haack, **“Proof, Probability, and Statistics: The Problem of ‘Delusive Exactness’,”** plus relevant selections from *Evidence Matters: Science, Proof, and Truth in the Law* (repository book).
+* Nancy Cartwright & Jeremy Hardie, *Evidence-Based Policy: A Practical Guide to Doing It Better* (repository book; selections on using evidence across contexts).
 * Jennifer Mnookin and related work on forensic epistemology.
 * Royal Statistical Society, **Law Guides 1–4**. ([RSS][4])
 
@@ -685,3 +738,8 @@ What *is* evidence, how does it support claims and decisions across law, science
 [18]: https://www.cambridge.org/core/books/rethinking-evidence/726270BBEBF1E9953336E738D1882DB0? "Rethinking Evidence"
 [19]: https://www.cambridge.org/core/books/evidential-legal-reasoning/evidence-as-a-multidisciplinary-field/97A351DD1FB67D7AA90A217963CF9DF4? "Evidence as a Multidisciplinary Field (Chapter 1)"
 [20]: https://academic.oup.com/book/32860/chapter/275927379? "Evidence Law: What is it For? | Foundations of Evidence Law"
+
+[21]: https://academic.oup.com/book/5529 "The Book of Evidence - Peter Achinstein | Oxford Academic"
+[22]: https://nap.nationalacademies.org/initiative/committee-on-scientific-approaches-to-understanding-and-maximizing-the-validity-and-reliability-of-eyewitness-identification-in-law-enforcement-and-the-courts "Identifying the Culprit: Assessing Eyewitness Identification - National Academies"
+[23]: https://www.nist.gov/publications/digital-evidence-preservation-considerations-evidence-handlers "Digital Evidence Preservation: Considerations for Evidence Handlers - NIST"
+[24]: https://nupress.northwestern.edu/9780810118218/the-evidential-foundations-of-probabilistic-reasoning/ "The Evidential Foundations of Probabilistic Reasoning - David A. Schum"

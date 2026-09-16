@@ -23,16 +23,20 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 * Explain why **systems thinking** is needed in addition to analytical thinking, especially when reductionist approaches miss interaction effects, delays, and unintended consequences.
 * Define a **system** in terms of elements, interconnections, and patterns of behavior over time.
-* Distinguish between **reductionist** and **holistic** approaches to understanding real-world problems.
+* Explain how **decomposition and systems thinking complement one another**: studying parts is useful, but insufficient when their interactions change the behavior under investigation.
 * Use core systems concepts such as **stocks, flows, feedback loops, delays, boundaries, and leverage points** in qualitative analysis.
 * Recognize major ideas from **systems science** and **general systems theory**, including homeostasis, emergence, self-organization, and open vs. closed systems.
-* Analyze situations as systems using conceptual tools such as **causal loop diagrams**, **behavior-over-time graphs**, and structural rather than blame-based explanations.
+* Analyze situations as systems using **causal loop diagrams**, **behavior-over-time graphs**, and stock-and-flow accounts, treating every representation as a revisable hypothesis and examining both structural conditions and individual decisions.
 * Think about **system design and redesign** in terms of goals, incentives, information flows, rules, norms, and ethics.
 * Identify common **system archetypes** and use them as diagnostic hypotheses rather than rigid labels.
 * Understand the basic intuition behind **system dynamics**, especially how feedback and delays generate growth, oscillation, overshoot, and collapse.
 * Distinguish **complicated** systems from **complex** systems and explain concepts such as adaptation, coevolution, networks, and cascades.
 * Recognize how **systems engineering** applies systems thinking in disciplined, mission-oriented, socio-technical settings.
 * Integrate a systems lens into everyday reasoning and prepare for the transition from qualitative systems stories to more explicit **model thinking**.
+
+**Running case — a growing service backlog:** Revisit one hypothetical service organization throughout the course. Begin with a backlog of unfinished requests; distinguish the backlog (a stock) from arrivals and completions (flows); consider staffing, information, and response delays; compare feedback explanations; and assess a modest redesign. The case is a practice scaffold, not evidence that any particular real-world organization works this way. Students may apply the same exercises to another bounded case if it better suits their context.
+
+**Reading convention:** “Core readings” below identify selected sections from materials **listed in this course's repository inventory**. “Additional or optional readings” are suggestions **not listed in that inventory**; listing them does not mean their PDFs have been added. Cross-listed local readings remain in their original repository folders.
 
 ---
 
@@ -41,7 +45,7 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 **Guiding questions**
 
-* Why does reductionism often fail in complex real-world situations?
+* When does analyzing parts clarify a problem, and when does it miss interactions that change the outcome?
 * What makes a system more than just a collection of parts?
 * How does seeing wholes and interactions change the way we understand problems?
 
@@ -49,20 +53,20 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 1. **Reductionism vs. holism**
 
-   * Analytical thinking often isolates variables and breaks problems into parts.
-   * Systems thinking asks what those parts are embedded in, and how their interactions shape outcomes.
-   * This unit creates the bridge from “take apart” reasoning to “see interactions” reasoning.
+   * Decomposing a problem can reveal useful properties of its parts; systems thinking adds attention to interactions, boundaries, and behavior over time.
+   * Ask which features can be understood separately and which depend on how components are connected.
+   * **Running case:** contrast a narrow explanation of slow individual workers with a wider view of incoming requests, handoffs, capacity, and accumulated backlog.
 
 2. **What a system is**
 
    * A system can be understood as a set of elements, connected in such a way that they produce a pattern of behavior over time.
    * Emphasize elements, interconnections, and purpose or behavior.
-   * Stress that the actual purpose of a system is often revealed by what it does, not what it claims to do.
+   * Compare stated purpose with observed behavior, without assuming that observed outcomes reveal a single hidden intention.
 
 3. **Why reductionism breaks down**
 
-   * Many important problems involve unintended consequences, policy resistance, and “whack-a-mole” dynamics.
-   * Local fixes can worsen broader system behavior.
+   * Many important problems involve unintended consequences, resistance to intervention, and “whack-a-mole” dynamics.
+   * Local fixes can worsen broader system behavior when important interactions are ignored; this is a possibility to investigate, not an automatic consequence of simplifying a problem.
    * This motivates later work on feedback, leverage, and archetypes.
 
 4. **Seeing systems in everyday life**
@@ -74,11 +78,15 @@ How do systems produce patterns of behavior over time, why do interventions so o
      * economies, ecosystems, and digital platforms
    * Learners begin to practice seeing systems as part of ordinary life rather than as an abstract theory.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, *Thinking in Systems: A Primer* (Introduction + Chapter 1: “The Systems Lens”).
-* Peter Senge, *The Fifth Discipline* (intro + sections on systems thinking as the “fifth discipline”).
-* Jamshid Gharajedaghi, *Systems Thinking: Managing Chaos and Complexity*.
+* Donella H. Meadows, *Thinking in Systems: A Primer* (Introduction and opening systems-lens sections).
+* Daniel H. Kim, “Introduction to Systems Thinking” (the repository's introductory reading).
+
+**Additional or optional readings (not in this course inventory)**
+
+* Peter Senge, *The Fifth Discipline* (introductory selections).
+* Jamshid Gharajedaghi, *Systems Thinking: Managing Chaos and Complexity* (selected perspective).
 
 ---
 
@@ -98,12 +106,14 @@ How do systems produce patterns of behavior over time, why do interventions so o
    * Stocks are accumulations, such as water in a bathtub, customers, trust, or skill.
    * Flows are rates of change that increase or decrease stocks.
    * A central systems insight is that many important behaviors are driven by accumulation over time rather than isolated events.
+   * **Running-case mini-lab:** identify unfinished requests as a stock; incoming and completed requests as flows. Sketch how the backlog changes when arrivals exceed completions, match them, or fall below them. Distinguish the number waiting from requests per day.
 
 2. **Feedback loops**
 
    * Reinforcing loops amplify growth or decline.
    * Balancing loops stabilize, regulate, or counteract change.
    * Most real systems involve multiple loops operating at once, often in tension.
+   * **Reinforcing** describes amplifying change, not “good”; **balancing** describes counteracting change, not “bad.” A loop's desirability depends on the situation and outcomes.
 
 3. **Delays and nonlinearity**
 
@@ -123,10 +133,16 @@ How do systems produce patterns of behavior over time, why do interventions so o
    * Leverage may lie in parameters, information flows, rules, goals, or paradigms.
    * This idea prepares learners for later discussion of design and intervention.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, *Thinking in Systems*, Chapters 2–3.
-* Peter Senge, *The Fifth Discipline* (sections on feedback, learning disabilities, and “11 laws of the fifth discipline”).
+* Donella H. Meadows, *Thinking in Systems* (selected sections on stocks, flows, feedback, and delays).
+* Barry Richmond, “The ‘Thinking’ in Systems Thinking: Seven Essential Skills” (selected conceptual sections).
+* Daniel H. Kim, *Systems Thinking Tools: A User’s Guide* (short introductory tool descriptions; cross-listed from Unit 1).
+* Daniel H. Kim, “Palette of Systems Thinking Tools” (one-page local handout; optional exercise reference).
+
+**Additional or optional readings (not in this course inventory)**
+
+* Peter Senge, *The Fifth Discipline* (selected systems-thinking sections).
 * Linda Booth Sweeney & Dennis Meadows, *The Systems Thinking Playbook*.
 
 ---
@@ -146,13 +162,14 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
    * Introduce General Systems Theory, cybernetics, and system dynamics as major strands.
    * Situate systems thinking within a broader intellectual movement concerned with wholes, control, communication, and dynamic behavior.
-   * Keep the history brief but conceptually useful.
+   * Keep the history brief: compare the questions these traditions emphasize, rather than attempting a comprehensive survey.
 
 2. **General principles across domains**
 
    * Equifinality: different paths can produce similar outcomes.
    * Homeostasis: balancing processes can stabilize systems.
-   * Emergence and self-organization: whole-system patterns cannot always be reduced to the properties of isolated parts.
+   * Emergence and self-organization: interactions can generate whole-system patterns that cannot be inferred from isolated component properties alone.
+   * Compare one physical or biological example with an organizational example; identify which analogy helps and which differences prevent easy transfer.
 
 3. **Open vs. closed systems**
 
@@ -166,10 +183,15 @@ How do systems produce patterns of behavior over time, why do interventions so o
    * Distorted, delayed, or missing information can destabilize systems.
    * These ideas prepare the way for system dynamics and complex systems.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, relevant conceptual sections of *Thinking in Systems*.
-* Ludwig von Bertalanffy, *General System Theory*.
+* George E. Mobus, “Principles of Systems Science” (repository Chapter 1; selected conceptual sections).
+* George E. Mobus & Michael C. Kalton, *Principles of Systems Science* (reference sections as needed; not the entire 782-page book).
+* Donella H. Meadows, *Thinking in Systems* (revisit relevant conceptual sections).
+
+**Additional or optional historical context (not in this course inventory)**
+
+* Ludwig von Bertalanffy, *General System Theory* (selected concepts).
 * Norbert Wiener, *Cybernetics: Or Control and Communication in the Animal and the Machine* (selected conceptual chapters).
 
 ---
@@ -187,39 +209,45 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 1. **Framing a problem as a system**
 
-   * Begin with behavior over time rather than isolated events.
-   * Identify stakeholders, key stocks, flows, goals, and incentives.
-   * Systems analysis starts by clarifying what pattern needs explanation.
+   * Begin with a behavior-over-time graph rather than an isolated event or a ready-made causal story.
+   * Identify stakeholders, system boundary, key stock and flows, goals, and incentives.
+   * **Running-case workshop, step 1:** sketch the backlog's observed or stipulated trend and mark where evidence ends and illustrative assumptions begin.
 
 2. **Causal loop diagrams**
 
-   * Use simple causal arrows and reinforcing/balancing labels to map relationships.
-   * Treat CLDs as tools for conceptual clarity rather than diagramming virtuosity.
-   * These diagrams help learners make system stories explicit.
+   * Use simple causal arrows with **+** for a same-direction influence and **−** for an opposite-direction influence, other things equal; identify reinforcing/balancing loops and mark important delays.
+   * **Workshop, step 2:** draft a small diagram relating backlog, perceived pressure, staffing responses, processing capacity, and delays. Label each asserted link as a hypothesis, not a fact.
+   * Ask what observation would challenge at least one link; do not mistake a plausible loop diagram for established causal evidence.
 
 3. **Behavior-over-time graphs**
 
    * Sketch rising, falling, oscillating, S-shaped, or overshooting patterns.
-   * Ask what structure might produce the observed pattern.
-   * This links visible outcomes to deeper systemic causes.
+   * Ask what *alternative* structures could produce the same pattern; the curve alone does not identify a unique explanation.
+   * **Workshop, step 3:** compare the backlog graph with the proposed loop and stock/flow account; revise whichever assumptions do not fit.
 
 4. **Structural causes vs. blame**
 
    * A systems mindset asks how structure generates behavior.
-   * This shifts analysis away from hero/villain stories and toward recurring conditions and incentives.
-   * It encourages interventions aimed at structures rather than personalities alone.
+   * Investigate recurring conditions and incentives before settling on a person-centered explanation.
+   * Structural conditions and individual choices can both contribute; explaining structure does not erase responsibility or agency.
 
 5. **Limits of systems analysis**
 
    * Systems analysis always involves uncertainty, omission, and simplification.
    * Overcomplication can become a trap if everything is mapped and nothing is prioritized.
-   * Learners are reminded that a diagram is a representation, not reality itself.
+   * Learners are reminded that a diagram is a representation, not reality itself; annotate **one uncertain link or omitted factor** and specify evidence that would change the diagram.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, *Thinking in Systems* (sections on “Why Systems Surprise Us” and “System Traps”).
-* Michael Goodman, materials on applying systems thinking and archetypes to organizational issues.
+* Daniel H. Kim, *Systems Thinking Tools: A User’s Guide* (behavior-over-time graphs and causal loop diagrams; cross-listed from Unit 1).
+* Daniel H. Kim, “Guidelines for Drawing Causal Loop Diagrams” (one-page handout stored under repository Unit 7).
+* Jamie P. Monat & Thomas F. Gannon, “The Meaning of ‘Structure’ in Systems Thinking” (selected sections; repository Unit 2).
+* Donella H. Meadows, *Thinking in Systems* (selected sections on unexpected behavior and system traps).
+
+**Additional or optional readings (not in this course inventory)**
+
 * Virginia Anderson & Lauren Johnson, *Systems Thinking Basics: From Concepts to Causal Loops*.
+* Michael Goodman, selected application materials.
 
 ---
 
@@ -237,8 +265,8 @@ How do systems produce patterns of behavior over time, why do interventions so o
 1. **From analysis to design**
 
    * Once structure is understood, the next question is what structure would produce the behavior we want instead.
-   * Emphasize small, iterative, testable interventions over grand one-shot reforms.
-   * Design begins with structural imagination informed by analysis.
+   * Emphasize small, iterative, testable interventions over grand one-shot reforms where feasible.
+   * **Running-case redesign:** propose one modest change to arrivals, processing capacity, information flow, or handoffs; predict the pattern it should change and note a potential unintended consequence.
 
 2. **Designing incentives and feedback**
 
@@ -262,13 +290,19 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
    * Every intervention redistributes burdens, benefits, visibility, and control.
    * Systems design raises questions of power, legitimacy, resilience, and fairness.
-   * Learners are asked to consider who gains, who loses, and who decides.
+   * Learners are asked to consider who gains, who loses, whose experience lies outside the system boundary, and who decides.
+   * Specify how to monitor the intervention, including an observation that would suggest the proposed redesign is causing harm or missing its aim.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, *Thinking in Systems* (“Leverage Points” and “Living in a World of Systems”).
-* Leyla Acaroglu, essays on systems thinking, systems mapping, and circular design.
-* Richard H. Thaler & Cass Sunstein, *Nudge*.
+* Russell L. Ackoff, Jason Magidson & Herbert J. Addison, *Idealized Design: How to Dissolve Tomorrow’s Crisis…Today* (selected introductory design sections; repository Unit 5).
+* Werner Ulrich, “A Brief Introduction to Critical Systems Heuristics (CSH)” (boundary judgments and affected perspectives; cross-listed from repository Unit 2).
+* Donella H. Meadows, *Thinking in Systems* (selected leverage-points and living-with-systems sections).
+
+**Additional or optional readings (not in this course inventory)**
+
+* Leyla Acaroglu, selected systems-design essays.
+* Richard H. Thaler & Cass Sunstein, *Nudge* (choice architecture comparison, not a replacement for system redesign).
 
 ---
 
@@ -299,7 +333,8 @@ How do systems produce patterns of behavior over time, why do interventions so o
      * Drifting Goals
      * Tragedy of the Commons
      * Success to the Successful
-   * For each, emphasize structure, behavior over time, examples, and leverage ideas.
+   * For each selected example, specify proposed feedback structure, expected behavior over time, a possible leverage point, and a competing explanation.
+   * **Running case:** consider whether a short-term backlog fix creates a recurring side effect; check whether “Fixes that Fail” fits the evidence or merely sounds familiar.
 
 3. **Archetypes as diagnostic tools**
 
@@ -311,14 +346,23 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
    * Archetypes should not become rigid templates.
    * They are hypotheses that should be tested against evidence rather than imposed on every case.
+   * Compare the archetype's predicted pattern with the case's behavior-over-time graph and ask what would count against the match.
    * This guards against oversimplification and pattern-hunting bias.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Daniel H. Kim, *Systems Archetype Basics: From Story to Structure*.
-* “Systems Archetypes I” (Pegasus / Systems Thinker series).
+* Daniel H. Kim & Virginia Anderson, *Systems Archetype Basics: From Story to Structure* (selected archetypes, not the whole volume).
+* *Systems Archetypes I* (Pegasus Communications; selected cases).
+* Daniel H. Kim & Colleen P. Lannon, “A Pocket Guide to Using the Archetypes” (one-page quick reference).
+
+**Optional local extensions**
+
+* *Systems Archetypes II* and *System Archetypes III* (additional cases for comparison); William Braun, “System Archetypes” (alternative overview).
+
+**Additional or optional readings (not in this course inventory)**
+
 * Leyla Acaroglu, “Tools for Systems Thinkers: The 12 Recurring Systems Archetypes.”
-* Peter Senge, *The Fifth Discipline* (chapters on system archetypes and “The Eleven Laws”).
+* Peter Senge, *The Fifth Discipline* (selected chapters).
 
 ---
 
@@ -335,9 +379,9 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 1. **What system dynamics is**
 
-   * Introduce system dynamics as the study of feedback-driven behavior over time.
-   * Distinguish system-dynamics thinking from full simulation modeling.
-   * Keep the focus conceptual rather than mathematical.
+   * Introduce system dynamics as the study of how accumulations, flows, and feedback structures produce behavior over time.
+   * Distinguish system-dynamics thinking from full simulation modeling; no software-based model is required here.
+   * Compare a **causal loop diagram** (hypothesized influences and feedback) with a **stock-and-flow account** (what accumulates and the rates changing it). Neither representation alone proves the proposed structure.
 
 2. **Canonical dynamic behaviors**
 
@@ -345,7 +389,8 @@ How do systems produce patterns of behavior over time, why do interventions so o
    * Goal-seeking behavior.
    * Oscillation.
    * Overshoot and collapse.
-   * These recurring patterns become easier to recognize once linked to underlying structures.
+   * These recurring patterns become easier to reason about once linked to plausible underlying structures.
+   * **Running case:** explain how a delayed capacity response could produce a rising backlog, overshoot, or a return toward a target, depending on the assumptions.
 
 3. **How feedback and delays generate patterns**
 
@@ -355,15 +400,21 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 4. **From mental models to formal models**
 
-   * Formal models make assumptions explicit and testable.
-   * Simulations are extensions of system stories, not replacements for them.
-   * This unit serves as a bridge to later work in model thinking.
+   * Formal models can make assumptions explicit and support tests, but a precise-looking output is not independent validation.
+   * State the observed pattern, proposed structure, key assumptions, and a behavior that would challenge the explanation.
+   * This conceptual comparison serves as a bridge to later quantitative model thinking.
 
-**Core readings**
+**Core readings (local selections)**
 
-* John Sterman, *Business Dynamics: Systems Thinking and Modeling for a Complex World* (intro + chapters on dynamic behaviors).
-* Short online introductions to system dynamics and Beer Game materials from the System Dynamics Society / MIT.
-* Barry Richmond, *An Introduction to Systems Thinking with STELLA* (conceptual sections).
+* Craig W. Kirkwood, *System Dynamics Methods: A Quick Introduction* (introductory sections on stocks, flows, and feedback; repository `books` folder).
+* Jay W. Forrester & Peter M. Senge, “Tests for Building Confidence in System Dynamics Models” (selected conceptual tests; repository Unit 7).
+* “What Is System Dynamics Modeling? Defining Characteristics and the Opportunities They Create” (short local overview; repository Unit 7).
+* Daniel H. Kim, “Guidelines for Drawing Causal Loop Diagrams” (revisit the one-page handout from Unit 4).
+
+**Additional or optional readings (not in this course inventory)**
+
+* John Sterman, *Business Dynamics: Systems Thinking and Modeling for a Complex World* (introductory selections).
+* System Dynamics Society / MIT introductory materials and Beer Game resources; Barry Richmond, *An Introduction to Systems Thinking with STELLA* (conceptual selections).
 
 ---
 
@@ -380,9 +431,9 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 1. **Complicated vs. complex**
 
-   * Complicated systems may have many parts but remain predictable with enough analysis.
-   * Complex systems involve interacting, adapting agents and evolving structures.
-   * This distinction is essential for knowing what kind of reasoning is appropriate.
+   * “Complicated” highlights many components and demanding coordination; “complex” highlights interactions, adaptation, and potentially changing system structure.
+   * These are useful analytical emphases, not mutually exclusive boxes: a system may be complicated and complex in different respects.
+   * Compare an intricate but relatively stable process with one where participants adapt to changing conditions; ask what each description explains.
 
 2. **Emergence and self-organization**
 
@@ -404,15 +455,19 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 5. **Limits of prediction and the role of heuristics**
 
-   * Complex systems resist precise forecasting.
-   * Scenario thinking, stress testing, and robustness often matter more than exact prediction.
-   * This reinforces intellectual humility and prepares learners for later work in models and risk.
+   * Some complex-system outcomes are difficult to forecast precisely, especially when behavior and structure change during intervention; avoid treating every complex system as wholly unpredictable.
+   * Scenarios, stress tests, and robustness checks can complement more specific predictions where available.
+   * **Running-case contrast:** ask whether demand, worker responses, or process rules adapt to a proposed backlog reduction; revisit its boundaries and assumptions.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Melanie Mitchell, *Complexity: A Guided Tour*.
-* Santa Fe Institute, *Introduction to Complexity*.
-* John H. Holland, *Hidden Order: How Adaptation Builds Complexity*.
+* Jay W. Forrester, “Counterintuitive Behavior of Social Systems” (selected sections on systemic responses and unintended consequences; an introductory bridge, not a complete account of adaptive complexity).
+* George E. Mobus & Michael C. Kalton, *Principles of Systems Science* (selected conceptual sections on emergence and interacting systems).
+* Derek Cabrera & Laura Cabrera, *Systems Thinking Made Simple: New Hope for Solving Wicked Problems* (selected conceptual exercises).
+
+**Additional or optional readings (not in this course inventory)**
+
+* Melanie Mitchell, *Complexity: A Guided Tour*; Santa Fe Institute, *Introduction to Complexity*; John H. Holland, *Hidden Order: How Adaptation Builds Complexity* (selected introductions).
 
 ---
 
@@ -431,6 +486,7 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
    * Systems engineering coordinates interacting subsystems toward an overall mission.
    * It emphasizes requirements, interfaces, verification, validation, and lifecycle thinking.
+   * Distinguish **verification** (“did we build it to the specified requirements?”) from **validation** (“does it address the intended need in context?”).
    * This unit shows a more formal and disciplined application of systems reasoning.
 
 2. **Lifecycle thinking**
@@ -454,14 +510,17 @@ How do systems produce patterns of behavior over time, why do interventions so o
 5. **Systems engineering as structured critical thinking**
 
    * Traceability, documented assumptions, and risk identification support disciplined reasoning.
-   * Systems engineering overlaps strongly with critical thinking and analytic rigor.
-   * Learners see how systems ideas become operational practice.
+   * **Interface-and-requirement exercise:** trace one service-system requirement through a handoff/interface and a verification test; then ask whether passing the test would validate the organization's actual service need.
+   * Learners see how systems ideas become operational practice without attempting a complete engineering handbook.
 
-**Core readings**
+**Core readings (local selections)**
 
-* INCOSE, *Systems Engineering Handbook* (overview chapters on life cycle and concepts).
-* NASA, *NASA Systems Engineering Handbook* (intro + fundamentals + life cycle overview).
-* Case-study readings on successful and failed large systems from a systems engineering perspective.
+* INCOSE, *Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities* (introductory life-cycle and interface/requirements selections; repository Unit 9).
+* NASA, *NASA Systems Engineering Handbook* (introductory fundamentals, verification, and validation selections; repository Unit 9).
+
+**Optional application**
+
+* A short documented systems-engineering case chosen by the instructor; no specific case study is listed in the current repository inventory.
 
 ---
 
@@ -485,7 +544,8 @@ How do systems produce patterns of behavior over time, why do interventions so o
      * What feedback loops and delays matter?
      * What boundary am I drawing?
      * Where might leverage points be?
-   * This turns concepts into reusable habits.
+     * Which link or boundary choice is most uncertain, and what observation could change my mind?
+   * This turns concepts into reusable habits, rather than a checklist that certifies a diagram as correct.
 
 2. **Connecting systems thinking and model thinking**
 
@@ -496,20 +556,26 @@ How do systems produce patterns of behavior over time, why do interventions so o
 3. **Pitfalls and meta-critical thinking**
 
    * Common mistakes include mistaking diagrams for reality, using archetypes as labels, and becoming overconfident in elegant simplifications.
-   * Learners are reminded to attend to power, values, and ethics in analysis and intervention.
-   * This closes the course with a reflective and critical stance.
+   * Distinguish an observed pattern from a hypothesized explanation; record an uncertain link, an omitted factor, or a plausible rival account.
+   * Attend to agency, power, values, and ethics in analysis and intervention.
 
-4. **Capstone or integrative practice**
+4. **Capstone — a compact systems-analysis dossier**
 
-   * Learners can frame a personal, organizational, or societal issue as a system.
-   * They identify stocks, flows, boundaries, archetypes, leverage points, and possible redesigns.
-   * This provides a direct bridge into later work on model thinking.
+   * Use the running service-backlog case or one well-bounded personal, organizational, or societal issue.
+   * Submit a **behavior-over-time graph**, a stated **system boundary**, a named **stock and its inflow/outflow**, and a small **feedback diagram** with arrow directions, loop polarity, and any material delays.
+   * Identify **one tentative archetype**, a plausible alternative explanation, and the evidence that could discriminate between them.
+   * Propose **one modest redesign or leverage point**; name likely beneficiaries and affected people, expected consequences, an unintended consequence to watch, and an observable monitoring or revision criterion.
+   * Close with a brief **limits-of-inference note**: what is assumed, what is not observed, and what the qualitative analysis cannot establish. Full simulation modeling is deferred to later model-focused study.
 
-**Core readings**
+**Core readings (local selections)**
 
-* Donella H. Meadows, revisit key chapters of *Thinking in Systems* as synthesis.
-* Melanie Mitchell, revisit key chapters of *Complexity: A Guided Tour*.
-* Peter Senge, *The Fifth Discipline*.
+* Donella H. Meadows, *Thinking in Systems* (revisit selected sections for synthesis).
+* Daniel H. Kim, *Systems Thinking Tools: A User’s Guide* (cross-reference the local guide introduced in Unit 1; the inventory also lists it in the Unit 10 folder—this is **not** a second distinct assignment).
+* Jay W. Forrester & Peter M. Senge, “Tests for Building Confidence in System Dynamics Models” (revisit selected conceptual questions).
+
+**Additional or optional readings (not in this course inventory)**
+
+* Melanie Mitchell, *Complexity: A Guided Tour*; Peter Senge, *The Fifth Discipline* (selected synthesis perspectives).
 
 ---
 
@@ -523,8 +589,8 @@ How do systems produce patterns of behavior over time, why do interventions so o
 
 ### Resilience vs. Efficiency
 
-* Efficient systems often minimize slack and become brittle.
-* Resilient systems preserve buffers, redundancy, and diversity.
-* This theme connects systems thinking to risk, robustness, and long-term design judgment.
+* A narrow push for efficiency **can** reduce slack and make some systems less resilient; efficiency and resilience need not always conflict.
+* Buffers, redundancy, and diversity can protect against some disturbances but carry costs and may create new dependencies.
+* This theme connects systems thinking to later risk, robustness, and long-term design judgment.
 
 ---

@@ -34,11 +34,22 @@ How does science actually turn messy observations into relatively stable knowled
 * Use concepts from prior courses (data literacy, causality, bias, systems, models) to **analyze a research paper** as an argument: design, assumptions, causal structure, statistical inference, and uncertainty.
 * Evaluate **theoretical claims** using “theoretical virtues” (simplicity, coherence, explanatory power, unification, fertility, etc.) and distinguish good theory revision from ad hoc rescue moves. ([Cambridge University Press & Assessment][5])
 * Understand **scientific explanation** (unification, laws, mechanisms) and its limits in complex systems. ([Stanford Encyclopedia of Philosophy][6])
-* Explain key ideas in **research methodology**: empirical research, experimental design, measurement and validity, statistical validity, sensitivity analysis, and computational modeling. ([Wikipedia][7])
-* Describe the **reproducibility and replication crises**, and what counts as rigorous, reproducible research in practice (including measurement, metrology, and preregistration). ([Wikipedia][8])
-* Critically assess the **institutional ecosystem of science**: peer review, academic publishing, metascience, publication/reporting bias, evidence-based practice, and systematic review. ([Wikipedia][9])
+* Explain key ideas in **research methodology**: empirical research, research design, measurement and validity, statistical reasoning, sensitivity analysis, and computational modeling.
+* Describe the differences among **reproducibility, replication, and robustness**, and explain what each can and cannot establish about a scientific result. ([Wikipedia][8])
+* Critically assess the **institutional ecosystem of science**: peer review, academic publishing, metascience, publication/reporting bias, evidence synthesis, and systematic review. ([Wikipedia][9])
 
 This course is a **capstone**: it assumes students have completed the courses on data literacy, causality, heuristics/bias, analytical thinking, systems thinking, and model thinking. Here we synthesize those tools in the specific context of **how science works**.
+
+### Running case: one paper through the scientific ecosystem
+
+Choose one accessible published empirical or modeling paper early in the course and revisit it throughout. The aim is not to force every paper into the same template, but to ask progressively different questions about the same scientific contribution:
+
+* **Units 1–3:** What question is being asked? What forms of inference, theory, and models organize the work?
+* **Units 4–6:** How are observations produced, compared, measured, and interpreted? What does the design support?
+* **Units 7–9:** What would reproduction, replication, criticism, and revision look like? How does the claim enter a wider research record?
+* **Unit 10:** What is well supported, what remains fragile, and what study or analysis should come next?
+
+This running case gives the course continuity while leaving room for short contrasting examples from other scientific fields.
 
 ---
 
@@ -49,38 +60,43 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 * What makes a practice *scientific* – and why is that a messy question?
 * How is scientific reasoning related to, but not identical with, “the scientific method” diagrams?
-* Where do pseudoscience and “fake science” claims fit?
+* What kinds of practices make scientific claims more open to criticism, correction, and revision?
 
 ### Sub-units
 
-1. **Science, Scientific Reasoning, and Branches of Science**
+1. **Science, Scientific Reasoning, and Diverse Aims**
 
-   * Science as *organized inquiry* aimed at reliable knowledge.
-   * Distinguish **formal sciences** (math, logic), **natural sciences**, and **social/behavioral sciences**; how their methods partially overlap. ([Wikipedia][10])
-   * “Scientific reasoning” as **structured argument from evidence** (drawing on Abelson, Ioannidis, Stigler from earlier courses).
+   * Science is organized inquiry, but scientific fields pursue several aims: description, measurement, explanation, prediction, intervention, and understanding.
+   * Distinguish **formal sciences**, **natural sciences**, and **social/behavioral sciences** without assuming that one field supplies a universal method for all others.
+   * Treat scientific reasoning as **structured argument from evidence embedded in practices for criticism and revision**.
 
 2. **Scientific Method(s) vs “The Scientific Method”**
 
-   * Use the **Outline of the Scientific Method** to show the classic cycle (observation → hypothesis → prediction → test → revision). ([Stanford Encyclopedia of Philosophy][4])
-   * Contrast with historical and philosophical views from the SEP entry on scientific method: no single algorithm, multiple methods across fields. ([Stanford Encyclopedia of Philosophy][4])
-   * Place earlier course content (study design, causality, models) *inside* this broader picture.
+   * Use the familiar observation → hypothesis → prediction → test → revision cycle as an introductory scaffold. ([Stanford Encyclopedia of Philosophy][4])
+   * Contrast that scaffold with actual scientific practice: methods differ across fields, questions, instruments, and research designs.
+   * Place earlier course content—study design, causality, systems, and models—inside this broader picture rather than treating them as separate from scientific reasoning.
 
 3. **Theory, Observation, and Objectivity**
 
-   * **Theory-ladenness of observation**: what we “see” depends on conceptual schemes and instruments. ([Stanford Encyclopedia of Philosophy][3])
-   * **Scientific objectivity** as a *cluster* of practices (replication, transparency, plurality, robustness), not a mystical property. ([Stanford Encyclopedia of Philosophy][11])
+   * **Theory-ladenness of observation**: concepts, instruments, and background assumptions help determine what counts as an observation or measurement. ([Stanford Encyclopedia of Philosophy][3])
+   * **Scientific objectivity** is supported by practices such as explicit methods, transparency, criticism, replication, and plurality of perspectives rather than by the absence of human judgment. ([Stanford Encyclopedia of Philosophy][11])
 
-4. **Pseudoscience and the Demarcation Problem**
+4. **Demarcation as a Question, Not a Checklist**
 
-   * SEP on **pseudoscience**: features such as immunizing strategies, lack of testable predictions, selective use of evidence. ([Stanford Encyclopedia of Philosophy][1])
-   * Connect to **Causality** and **Bias** courses: confirmation bias, motivated reasoning, and illusory correlation as engines of pseudoscience.
-   * Use familiar examples (astrology, homeopathy, some “brain training” products) as demarcation case studies.
+   * Introduce the demarcation problem: there is no single mechanical test that separates all science from all non-science. ([Stanford Encyclopedia of Philosophy][1])
+   * Ask how a practice handles testing, negative results, competing explanations, and revision.
+   * Keep examples brief here. Unit 9 returns to pseudoscience and weak science after students have learned the course’s full evaluative toolkit.
+
+### Practice: compare two inquiry pathways
+
+Give students two short accounts of how a claim was investigated. Ask them to identify the question, evidence, exposure to criticism, and response to contrary evidence. The goal is to evaluate scientific practice without reducing science to whether a fixed sequence of steps was followed.
 
 ### Core readings
 
-* Stanford Encyclopedia of Philosophy entries on **Scientific Method**, **Scientific Objectivity**, **Theory and Observation in Science**, and **Pseudoscience**. ([Stanford Encyclopedia of Philosophy][4])
-* Karl Pearson, *The Grammar of Science* (for early views on science, statistics, and law-like description). ([Wikipedia][12])
-* Henri Poincaré, *Science and Hypothesis* (convention, geometry, and the structure of scientific theories). ([Project Gutenberg][13])
+* **Repository reading:** Angela Potochnik, “The Diverse Aims of Science.”
+* **Repository reading:** Arturo Casadevall, “Rigorous Science: a How-To Guide” (short orientation; revisited in Unit 7).
+* Stanford Encyclopedia of Philosophy, selected sections from **Scientific Method**, **Scientific Objectivity**, **Theory and Observation in Science**, and **Science and Pseudo-Science**. ([Scientific Method][4]; [Scientific Objectivity][11]; [Theory and Observation][3]; [Science and Pseudo-Science][1])
+* **Historical extensions:** selected passages from Henri Poincaré, *Science and Hypothesis*, and Karl Pearson, *The Grammar of Science* rather than full-book assignments. ([Project Gutenberg][13])
 
 ---
 
@@ -89,42 +105,52 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* How do scientists actually move from data to hypotheses and from hypotheses to explanations?
-* What is **abductive reasoning**, and why is it central to discovery?
-* How do mechanistic stories fit alongside statistical and causal ones?
+* How do scientists move from observations to candidate hypotheses and from hypotheses to testable consequences?
+* What different jobs do deduction, induction, and abduction perform?
+* How do mechanistic stories fit alongside statistical and causal evidence?
 
 ### Sub-units
 
 1. **Three Core Inference Types**
 
-   * **Deduction**: from general premises to specific conclusions.
-   * **Induction**: from specific cases to general regularities.
-   * **Abduction**: inference to the best explanation – from effect to plausible cause. ([Wikipedia][2])
-   * Relate to the earlier **Causality** course (Mill’s methods, counterfactuals) and **Analytical Thinking** (argument structure).
+   * **Deduction:** derive consequences from stated premises or a model.
+   * **Induction:** generalize or estimate patterns from observed cases, with uncertainty.
+   * **Abduction:** generate or prefer an explanation that could account for an observation. ([Wikipedia][2])
+   * Do not treat these as three mutually exclusive “methods.” A single investigation can move among all three.
 
 2. **Abduction in Discovery and Explanation**
 
-   * Magnani on **abduction** as a process of discovery across science and AI; cognitive and computational perspectives. ([SpringerLink][14])
-   * Walton’s *Abductive Reasoning*: dialogue models of explanation; abduction in medicine, law, and everyday argument. ([PhilPapers][15])
-   * Link to **hypothesis generation** in research methods and to “two plausible stories” boxes from the Causality course.
+   * Magnani treats abduction as part of scientific discovery and explanation across cognitive and computational settings. ([SpringerLink][14])
+   * Walton emphasizes how proposed explanations can be questioned and evaluated rather than merely generated. ([PhilPapers][15])
+   * Hypothesis generation should therefore be paired with a plan for discrimination among alternatives.
 
-3. **Theory and Evidence in Development**
+3. **Theory–Evidence Coordination**
 
-   * Barbara Koslowski: children’s developing sense of **theory–evidence coordination**; people aren’t just “Humean inductors,” they reason with causal theories. ([MIT Press Direct][16])
-   * Connect to **heuristics and cognitive bias**: when intuitive theory–evidence coordination works and when it misfires.
+   * Koslowski’s work emphasizes that people interpret evidence in relation to causal background theories rather than as isolated “brute facts.” ([MIT Press Direct][16])
+   * Connect this to the Heuristics and Bias course: background theory can organize evidence productively, but can also make contrary evidence easier to discount.
 
 4. **Mechanistic and Causal Reasoning**
 
-   * Mechanistic explanations as “how” stories (entities + activities organized to produce a phenomenon).
-   * Bullock & Green’s **“Yes, but what’s the mechanism?”**: why mechanism talk matters (and sometimes doesn’t) for interpreting experiments and interventions. ([UBC Psychology][17])
-   * Tie back to the **Mechanisms, Cases, and Explanations** unit in the Causality course.
+   * Mechanistic explanations propose organized entities, activities, or processes that produce a phenomenon.
+   * Mechanism evidence can deepen explanation or support transport judgments, but requesting a mechanism should not become an automatic objection to otherwise informative causal evidence.
+   * Bullock & Green provide a useful short counterpoint on when “what is the mechanism?” helps and when it can distract. ([UBC Psychology][17])
+
+### Practice: one observation, two explanations
+
+Using the running paper or a short case, students:
+
+1. generate two plausible explanations for an observation;
+2. derive at least one expected observation from each;
+3. identify evidence that would discriminate between them; and
+4. state what would remain unresolved even after that evidence was collected.
 
 ### Core readings
 
-* Lorenzo Magnani, *Abduction, Reason, and Science: Processes of Discovery and Explanation*. ([SpringerLink][14])
-* Douglas Walton, *Abductive Reasoning*. ([PhilPapers][15])
-* Barbara Koslowski, *Theory and Evidence: The Development of Scientific Reasoning*. ([MIT Press Direct][16])
-* John G. Bullock & Donald P. Green, “Yes, but What’s the Mechanism?” (on the role of mechanisms in causal inference). ([UBC Psychology][17])
+* **Repository selection:** Lorenzo Magnani, *Abduction, Reason, and Science*.
+* **Repository selection:** Douglas Walton, *Abductive Reasoning*.
+* **Repository selection:** Barbara Koslowski, *Theory and Evidence: The Development of Scientific Reasoning*.
+* **Repository reading:** Potochnik & de Oliveira, “Patterns in Cognitive Phenomena and Pluralism of Explanatory Styles.”
+* **Repository short reading:** John G. Bullock & Donald P. Green, “Yes, But What’s the Mechanism? (Don’t Expect an Easy Answer).”
 
 ---
 
@@ -133,39 +159,44 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* What is a **scientific theory**, and how is it related to models and laws?
-* How do scientists *evaluate* competing theories when data underdetermine them?
-* What are **theoretical virtues**, and how do they guide theory choice?
+* What is a **scientific theory**, and how is it related to models, laws, and observations?
+* How should competing theories be evaluated when the evidence does not uniquely determine one answer?
+* When is revising a theory productive, and when does revision merely shield it from criticism?
 
 ### Sub-units
 
-1. **Theories, Laws, and Models**
+1. **Theories, Models, and Observations**
 
-   * Theories as **structured networks of claims**; models as **specific representations** (mathematical, statistical, computational). ([Wikipedia][18])
-   * Theory–observation interdependence: how instruments, operational definitions, and modeling assumptions shape data (bridging to the Data Literacy and Model Thinking courses).
+   * Theories organize claims and explanatory commitments; models are explicit representations built for particular purposes.
+   * Instruments, operational definitions, and modeling assumptions shape the evidential connection between observations and theoretical claims.
+   * Reuse the Model Thinking distinction between a model’s intended use and claims it cannot support.
 
 2. **Theoretical Virtues**
 
-   * Schindler’s *Theoretical Virtues in Science*: empirical adequacy, **simplicity**, internal and external consistency, explanatory power, unification, and fertility. ([Cambridge University Press & Assessment][5])
-   * How these virtues are **normative but fallible** guides; trade-offs (simple vs realistic, unified vs domain-specific).
+   * Schindler examines virtues such as empirical adequacy, simplicity, consistency, explanatory power, unification, and fertility. ([Cambridge University Press & Assessment][5])
+   * These virtues are fallible guides, not scoring rules. They can conflict: a simpler theory may be less realistic, and a highly unified account may miss useful domain-specific structure.
 
-3. **Ad Hoc Hypotheses and Theory Evaluation**
+3. **Revision, Auxiliary Assumptions, and Ad Hoc Rescue**
 
-   * **Ad hoc hypotheses**: when adding parameters or clauses only to save a theory from disconfirmation crosses the line. ([Stanford Encyclopedia of Philosophy][4])
-   * Connect to **overfitting**, p-hacking, and “garden-of-forking-paths” from the Data Literacy and Bias courses.
-   * “Theory evaluation” as weighing data, theoretical virtues, and research program health.
+   * Contrary evidence does not automatically dictate rejection of a theory because tests depend on auxiliary assumptions, measurements, and background knowledge.
+   * A revision is more scientifically informative when it introduces independently assessable consequences rather than merely insulating a claim from potential failure.
+   * Connect this to overfitting and researcher degrees of freedom without treating statistical and theoretical “fitting” as identical problems.
 
-4. **Historical Perspectives on Theory**
+4. **Pluralism and Levels of Explanation**
 
-   * Poincaré: conventionalism and the role of simplicity and convenience in theorem selection. ([Project Gutenberg][13])
-   * Pearson: statistical and law-like conceptions of theory in *The Grammar of Science*. ([Wikipedia][12])
+   * Scientific domains can support several useful theories or levels of description at once.
+   * Potochnik’s work on hierarchical organization provides a challenge to overly rigid assumptions that every phenomenon has one privileged explanatory level.
+
+### Practice: compare two candidate theories
+
+Students compare two explanations using empirical fit, scope, simplicity, explanatory reach, and opportunities for further testing. They must identify at least one observation that would change their assessment rather than simply declare a preferred theory “better.”
 
 ### Core readings
 
-* Samuel Schindler, *Theoretical Virtues in Science*. ([Cambridge University Press & Assessment][5])
-* Henri Poincaré, *Science and Hypothesis*. ([Project Gutenberg][13])
-* Karl Pearson, *The Grammar of Science*. ([Wikipedia][12])
-* SEP sections on **Models in Science** / **Scientific Explanation** as background. ([Wikipedia][18])
+* **Repository selection:** Samuel Schindler, *Theoretical Virtues in Science*.
+* **Repository reading:** Bertram Gawronski, selection on **theory evaluation** (verify final bibliographic title before student-facing citation).
+* **Repository optional:** Angela Potochnik, “Our World Isn’t Organized into Levels” and Potochnik & McGill, “The Limitations of Hierarchical Organization.”
+* **Historical extensions:** selected passages from Poincaré and Pearson. ([Project Gutenberg][13])
 
 ---
 
@@ -174,43 +205,47 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* How do **research methods** operationalize scientific reasoning in different sciences?
-* How does this relate to what students already saw in Data Literacy and Causality?
-* What are the distinctive challenges of **social science** vs natural science?
+* How do different research designs turn scientific questions into observations and comparisons?
+* What can different designs support, and what uncertainty remains after each?
+* How should students reuse—not relearn—their earlier work in Data Literacy and Causality?
 
 ### Sub-units
 
 1. **The Scientific Process Revisited**
 
-   * Use the **Outline of the Scientific Method** as a scaffold; cue prior knowledge of study design, sampling, and inference. ([Stanford Encyclopedia of Philosophy][4])
-   * Map where **analytical thinking**, **systems thinking**, **model thinking**, and **causal inference** plug in.
+   * Treat question → design → observation/data → analysis → explanation → criticism → revision as a map of activities, not a universal chronological algorithm. ([Stanford Encyclopedia of Philosophy][4])
+   * Identify where analytical thinking, causal reasoning, model building, and statistical judgment enter a real investigation.
 
-2. **Research Methods and Empirical Research**
+2. **Cross-Design Comparison**
 
-   * Overview of **research methods** categories (experiments, surveys, field studies, archival/administrative data, qualitative methods). ([Wikipedia][7])
-   * **Empirical research**: systematic observation/measurement to test or generate theory. ([Wikipedia][7])
-   * Design trade-offs: internal vs external validity, realism vs control.
+   * Compare experiments, observational studies, surveys, field studies, archival/administrative data, qualitative inquiry, and computational approaches at a conceptual level.
+   * For each design ask: What is observed or manipulated? What comparison supports the claim? How are observations generated? What important uncertainty remains?
+   * Avoid implying that all fields should imitate laboratory experimentation.
 
-3. **Design of Experiments & Quasi-Experiments**
+3. **Experiments and Quasi-Experiments as Applications**
 
-   * Core ideas: randomization, blocking, factorial designs, power and precision – conceptually, not mathematically. ([Wikipedia][19])
-   * Connect back to **Causality** (experiments vs natural experiments) and **Data Literacy** (CONSORT, STROBE).
+   * Reuse—not reteach—the earlier concepts of randomization, comparison groups, blocking, precision, natural experiments, and threats to validity.
+   * The focus here is how design choices instantiate scientific reasoning about a particular question.
 
 4. **Social Science as Science**
 
-   * Bhattacherjee’s *Social Science Research: Principles, Methods, and Practices* as a bridge: operationalization, measurement, sampling, mixed methods. ([Digital Commons USF][20])
-   * How social science uses **multiple methods** (surveys, experiments, case studies, secondary data) to triangulate.
+   * Bhattacherjee provides a useful bridge through operationalization, measurement, sampling, surveys, experiments, case studies, and mixed methods. ([Digital Commons USF][20])
+   * Triangulation can be useful when methods have different strengths, but agreement across methods is not automatically decisive if they share assumptions or data limitations.
 
-5. **Scientific Modelling and Computational Fields**
+5. **Modeling and Computational Inquiry**
 
-   * Scientific modelling: conceptual, mathematical, and computational representations of phenomena. ([Wikipedia][21])
-   * Rise of **computational fields of study** (computational biology, computational social science, climate models) and how they extend experimental and observational methods.
+   * Conceptual, mathematical, statistical, and computational models can function as scientific instruments for explanation, exploration, prediction, or design.
+   * Reuse Model Thinking’s distinction between a model demonstrating behavior *within assumptions* and evidence that the same behavior occurs in the target system.
+
+### Practice: a cross-design comparison card
+
+For two or three studies from different fields, students complete the same five prompts: **question; observation/manipulation; data-generation process; key comparison; residual uncertainty**. The exercise emphasizes common reasoning questions without erasing disciplinary differences.
 
 ### Core readings
 
-* Anol Bhattacherjee, *Social Science Research: Principles, Methods, and Practices* (open textbook). ([Digital Commons USF][20])
-* Wikipedia overviews on **Research Methods**, **Empirical Research**, **Design of Experiments**, and **Scientific Modelling** (as navigational scaffolding). ([Wikipedia][7])
-* Selections from the existing Data Literacy + Causality readings (CONSORT, STROBE, Hernán & Robins, Angrist & Pischke) referenced rather than re-explained.
+* **Repository selection:** Anol Bhattacherjee, *Social Science Research: Principles, Methods, and Practices*.
+* **Cross-course selections:** relevant Data Literacy and Causality readings on reporting, experimental/quasi-experimental design, and causal identification, referenced rather than re-explained.
+* **Focused gap:** acquire or supply one concise cross-disciplinary research-design overview if a common introductory reading is desired; the current repository does not contain a dedicated Unit 4 primer.
 
 ---
 
@@ -219,75 +254,88 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* What counts as a **scientific explanation**?
-* How do explanations differ across physics, biology, and social science?
-* What is the role of **mechanisms** vs statistical regularities?
+* What must an explanation accomplish for the question being asked?
+* How do statistical patterns, mechanisms, causal effects, and models provide different kinds of understanding?
+* When does asking for “the mechanism” improve an explanation, and when does it overreach?
 
 ### Sub-units
 
-1. **Classical Accounts of Explanation**
+1. **Kinds of Explanatory Questions**
 
-   * Very light treatment of Hempel’s **Deductive–Nomological** model and later unification accounts. ([Stanford Encyclopedia of Philosophy][6])
-   * Strengths and limits in real scientific practice (probabilistic laws, mechanisms, narratives).
+   * Distinguish questions such as: “Why did this occur?”, “How does this process work?”, “What pattern does this model capture?”, and “What would happen under an intervention?”
+   * Different evidential strategies can answer different questions; no single format of explanation is sufficient for every scientific aim.
 
-2. **Mechanistic Explanation**
+2. **Regularities, Causes, and Mechanisms**
 
-   * Mechanisms as organized entities and activities producing a phenomenon; widely used in neuroscience, biology, and social science.
-   * Reuse Bullock & Green’s mechanism paper: how mechanistic reasoning can discipline overinterpretation of experiments and support external validity judgments. ([UBC Psychology][17])
+   * A statistical regularity can be scientifically informative without by itself identifying a mechanism.
+   * A causal-effect estimate can answer an intervention question without providing a complete account of how the effect is produced.
+   * A mechanistic account can deepen understanding without automatically establishing the magnitude or generality of an effect.
 
-3. **Abduction, Mechanisms, and Models**
+3. **Explanatory Adequacy and Generality**
 
-   * How abductive reasoning plus mechanistic thinking drives **hypothesis generation** and **model building** (tying back to Magnani, Walton, and the Model Thinking course).
+   * Use Potochnik’s work to ask what makes an explanation adequate for a purpose and how explanatory generality can trade off against detail.
+   * Models may intentionally omit features to isolate a pattern; adequacy should be judged relative to the explanatory question.
 
-4. **Different Kinds of Why-Questions**
+4. **Abduction, Mechanisms, and Models**
 
-   * “Why did this happen?” vs “How does this work?” vs “What would happen if…?”
-   * Show how different explanations answer different why-questions; connect to **causal diagrams** and **systems archetypes**.
+   * Abduction generates candidate explanations; mechanistic reasoning and models make some of those candidates more explicit and assessable.
+   * Reconnect to Unit 2 without repeating its general taxonomy of inference.
+
+### Practice: three answers to one “why?”
+
+Students construct a statistical-pattern answer, a causal/intervention answer, and a mechanistic answer to the same case. They then identify what each supports and what additional evidence would be required to move from one kind of claim to another.
 
 ### Core readings
 
-* SEP entry on **Scientific Explanation**. ([Stanford Encyclopedia of Philosophy][6])
-* John G. Bullock & Donald P. Green, “Yes, but What’s the Mechanism?” ([UBC Psychology][17])
-* Excerpts from Magnani & Walton showing abduction → explanation links. ([SpringerLink][14])
+* **Repository reading:** Angela Potochnik, “Causal Patterns and Adequate Explanations.”
+* **Repository reading:** Angela Potochnik, “Optimality Modeling and Explanatory Generality.”
+* **Repository optional:** Potochnik, “Explanation and Understanding” and selected biological-explanation material.
+* **Repository short counterpoint:** Bullock & Green, “Yes, But What’s the Mechanism?”
+* Stanford Encyclopedia of Philosophy, **Scientific Explanation** (selected background). ([Stanford Encyclopedia of Philosophy][6])
 
 ---
 
 <a id="unit-6"></a>
 ## Unit 6 – Measurement, Validity, and Statistical Reasoning in Science
 
-*(This unit ties Measurement/Data Literacy content explicitly to “scientific reasoning” and introduces a bit more on validity and metrology.)*
-
 ### Guiding questions
 
-* What does it mean for a scientific measure, test, or inference to be **valid**?
-* How do scientists reason from experiments and statistical results to claims about the world?
+* How does a phenomenon become a variable, measurement, score, or recorded observation?
+* What kinds of validity claims apply to measurements, study designs, statistical conclusions, and models?
+* Which assumptions are carrying the scientific inference?
 
 ### Sub-units
 
-1. **Measurement and Construct Validity**
+1. **From Phenomenon to Measurement**
 
-   * Recap: reliability vs validity; psychometrics vs physical metrology (drawing implicitly on *Measurement Across the Sciences*).
-   * *Constructing Validity: New Developments in Creating Objective Measuring Instruments* as an example of evolving validity theory (likely focusing on modern psychometrics / construct validity debates). ([PubMed][22])
+   * Trace the path from a target phenomenon to a definition, instrument or coding procedure, generated data, and scientific interpretation.
+   * Reliability concerns consistency; validity concerns whether the resulting interpretation and use are adequately supported.
+   * Compare measurement traditions rather than assuming that physical metrology and construct measurement are identical problems.
 
-2. **Statistical Validity in Science**
+2. **Construct Validity and Measurement Arguments**
 
-   * Types of validity: internal, external, construct, and **statistical conclusion validity**. ([Wikipedia][18])
-   * Link to false positives/negatives, power, and misinterpretation of p-values and intervals (from Data Literacy course).
+   * Clark & Watson’s “Constructing Validity” provides a concrete example of evolving measurement practice and the need to accumulate several kinds of evidence for an interpretation. ([PubMed][22])
+   * Uher’s cross-science measurement paper broadens the discussion to data generation and traceability across metrology, psychology, and social science.
 
-3. **Sensitivity Analysis as Scientific Reasoning**
+3. **Validity of Inferences Beyond the Instrument**
 
-   * Not just a modeling trick: **sensitivity analysis** as a way to ask “which assumptions matter?” across experimental and modeling contexts. ([Wikipedia][19])
-   * Connect back to Model Thinking unit on uncertainty and robustness.
+   * Distinguish **construct validity**, **internal validity**, **external validity**, and **statistical conclusion validity** rather than collapsing them into one label.
+   * Reuse prior work on false positives, uncertainty intervals, power, and causal identification as inputs to scientific judgment.
 
-4. **Theory and Evidence Revisited**
+4. **Sensitivity and Theory–Evidence Coordination**
 
-   * Use Koslowski again: how people (including scientists) learn to coordinate theory and evidence in a disciplined way, rather than treating data as “brute facts.” ([MIT Press Direct][16])
+   * Use sensitivity analysis as the question: **Which assumptions materially change the conclusion?**
+   * Reconnect to Model Thinking’s parameter/structural uncertainty and Koslowski’s theory–evidence coordination.
+
+### Practice: measurement trace
+
+Students choose one important variable from the running paper and document: **phenomenon → operational definition → instrument/coding rule → recorded data → interpretation**. They identify one reliability threat, one validity threat, and one alternative measurement choice that could change the conclusion.
 
 ### Core readings
 
-* Selected chapters or papers from *Constructing Validity: New Developments in Creating Objective Measuring Instruments*. ([PubMed][22])
-* Naomi Oreskes et al., “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences” (already used in Model Thinking but reframed as *scientific reasoning about models*). ([Wikipedia][18])
-* SEP sections on **Validity** and **Models of Data** for deeper dives if desired. ([Wikipedia][18])
+* **Repository reading:** Lee Anna Clark & David Watson, “Constructing Validity: New Developments in Creating Objective Measuring Instruments.” ([PubMed][22])
+* **Repository reading:** Jana Uher, “Measurement in Metrology, Psychology and Social Sciences...”
+* **Cross-course reference:** Oreskes et al., “Verification, Validation, and Confirmation of Numerical Models in the Earth Sciences,” when the running case uses a model; do not treat model validation and measurement validity as interchangeable.
 
 ---
 
@@ -296,40 +344,45 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* What does it mean for a result to be **reproducible** or **replicable**?
-* What has the **replication crisis** taught us about scientific reasoning and institutions?
-* How do metrology and practice-based guidelines help?
+* What do **reproducibility**, **replication**, and **robustness** test?
+* What should we infer when a result does not reproduce or replicate?
+* Which research practices make errors easier to detect and correct?
 
 ### Sub-units
 
-1. **Conceptual Landscape: Reproducibility, Replicability, Robustness**
+1. **Define the Course Vocabulary Explicitly**
 
-   * Definitions: reproducibility (same data/code), replicability (new data), robustness (finding holds under varied assumptions).
-   * Wikipedia overview on **reproducibility** and **replication crisis** as an accessible starting point. ([Wikipedia][8])
+   * In this course, **reproducibility** means obtaining the reported result from the same underlying data/materials and analytic procedure when those are available.
+   * **Replication** means conducting a new study or data collection intended to test the same claim.
+   * **Robustness** asks whether a conclusion persists under reasonable alternative assumptions, measurements, specifications, or analytic choices.
+   * Terminology varies across fields and organizations; students should check definitions when reading external guidance. ([Wikipedia][8])
 
-2. **Metrology Perspective on Reproducibility**
+2. **Metrology and Measurement Foundations**
 
-   * Anne Plant’s “Reproducibility in Science: A Metrology Perspective” – measurement uncertainty, calibration, and reference materials as foundations of reproducible science. ([Amazon][23])
+   * “Reproducibility in Science: A Metrology Perspective” emphasizes calibration, measurement uncertainty, traceability, and reference standards as foundations of reliable research practice.
 
 3. **Rigorous Science in Practice**
 
-   * Arturo Casadevall’s “Rigorous Science: A How-To” – practical norms: blinding, randomization, sample-size justification, transparent reporting, lab culture. ([ASM Journals][24])
+   * Casadevall’s short guide emphasizes practical safeguards such as blinding, randomization where appropriate, sample-size justification, transparent reporting, and research culture. ([ASM Journals][24])
+   * Ask which safeguards fit a particular design instead of treating them as a universal checklist.
 
 4. **Replication as a Research Activity**
 
-   * Brandt et al., “The Replication Recipe: What Makes for a Convincing Replication?” – criteria for high-quality replications (sampling, fidelity, statistical power, transparency). ([ScienceDirect][25])
+   * “The Replication Recipe” treats replication as a design problem involving fidelity, sampling, power, transparency, and interpretation. ([ScienceDirect][25])
+   * A replication failure is evidence that requires diagnosis. It does not by itself prove misconduct or establish that every version of the original claim is false.
 
-5. **Prior Courses, Revisited**
+5. **Research Audit**
 
-   * Tie to **Data Literacy Unit 6** (reporting & evidence synthesis) and **Heuristics/Bias** (overconfidence, p-hacking, motivated reasoning).
-   * Scientific reasoning as not just *individual logic* but *institutional design* to counter error.
+   * For the running paper, identify what files, materials, code, data, and documentation would be needed to reproduce the reported analysis.
+   * Specify what a new-data replication would hold constant and what it might deliberately vary.
+   * Identify one robustness analysis that addresses a substantive uncertainty rather than merely adding another statistical specification.
 
 ### Core readings
 
-* Anne L. Plant, “Reproducibility in Science: A Metrology Perspective.” ([Amazon][23])
-* Arturo Casadevall, “Rigorous Science: A How-To.” ([ASM Journals][24])
-* Mark J. Brandt et al., “The Replication Recipe: What makes for a convincing replication?” ([ScienceDirect][25])
-* Wikipedia / SEP overviews of **Reproducibility** and **Replication Crisis**. ([Wikipedia][8])
+* **Repository reading:** “Reproducibility in Science: A Metrology Perspective.”
+* **Repository reading:** Arturo Casadevall, “Rigorous Science: a How-To Guide.” ([ASM Journals][24])
+* **Repository reading:** Brandt et al., “The Replication Recipe: What Makes for a Convincing Replication?” ([ScienceDirect][25])
+* **Repository optional:** Asendorpf et al., “Recommendations for Increasing Replicability in Psychology.”
 
 ---
 
@@ -338,82 +391,92 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* How do **peer review, journals, and academic incentives** shape what counts as “scientific knowledge”?
-* What is **metascience**, and how does it study scientific reasoning itself?
-* How do **publication bias** and **reporting bias** distort the scientific record?
+* How does a research result become part of a public scientific record?
+* What can peer review and evidence synthesis contribute, and what can they not certify?
+* How do incentives and selective reporting shape what later readers get to see?
 
 ### Sub-units
 
-1. **Academic Publishing and Peer Review**
+1. **From Study to Public Record**
 
-   * Overview of **academic publishing** workflow: submission → peer review → revision → publication. ([Wikipedia][26])
-   * Peer review’s strengths, failures, and reforms (open review, registered reports). ([Wikipedia][18])
+   * Trace a study through submission, peer review, revision, publication, criticism, correction, replication, and possible inclusion in a systematic review.
+   * Peer review is a filter and feedback process, not certification that a paper is true.
 
 2. **Publication and Reporting Biases**
 
-   * **Publication bias**: tendency to publish positive/novel results. ([Wikipedia][9])
-   * **Reporting bias**: selective reporting of outcomes, analyses, or subgroups. ([Wikipedia][9])
-   * Connect to the Data Literacy course (CONSORT, PRISMA, GRADE).
+   * Publication bias and selective outcome/analysis reporting can make the visible literature differ from the full body of conducted research. ([Wikipedia][9])
+   * Reconnect to preregistration, registered reports, CONSORT, PRISMA, and other practices previously encountered in Data Literacy.
 
-3. **Metascience and Evidence-Based Practices**
+3. **Metascience**
 
-   * Wikipedia overview of **metascience**: studying science using scientific methods (meta-research). ([Wikipedia][9])
-   * Evidence-based practice & systematic reviews as **institutionalized scientific reasoning**: aggregating results, assessing quality, and making recommendations. ([Wikipedia][18])
+   * Metascience studies scientific practice itself: methods, incentives, reporting, reproducibility, and research efficiency. ([Wikipedia][9])
+   * Use it as an example of science turning its own methods on the scientific ecosystem.
 
-4. **Systematic Review, Synthesis, and Credibility**
+4. **Systematic Review and Evidence Synthesis**
 
-   * **Systematic reviews** and **meta-analyses**: structured methods to aggregate evidence. ([Wikipedia][9])
-   * Source credibility and trust: who do we trust, and why? ([Wikipedia][9])
+   * A systematic review uses an explicit search, eligibility, appraisal, and synthesis process; it is more than simply combining published studies.
+   * Meta-analysis can summarize compatible quantitative results, but the result remains dependent on the included evidence and synthesis assumptions.
 
-5. **Criticism of Academia**
+5. **Institutional Incentives and Reform**
 
-   * Structural issues: publish-or-perish, perverse incentives, prestige bias, lack of diversity.
-   * Use selections from **criticism of academia** and **scholarly communication** debates to frame how institutional reform is part of improving scientific reasoning. ([Wikipedia][9])
+   * Discuss publish-or-perish pressures, novelty incentives, prestige, conflicts of interest, and unequal access to resources as possible influences on the research record.
+   * Evaluate reforms by the mechanism through which they are expected to improve error detection, transparency, or representativeness.
+
+### Practice: follow the evidence trail
+
+For the running paper, students map what happened—or could happen—after the study was completed: **review → publication → critique/correction → replication → synthesis**. At each stage they identify one useful safeguard and one failure mode.
 
 ### Core readings
 
-* Wikipedia overviews on **Peer Review**, **Academic Publishing**, **Publication Bias**, **Reporting Bias**, **Metascience**, **Systematic Review**, and **Evidence-Based Practice**. ([Wikipedia][9])
-* Selected metascience/EBM readings already used in Data Literacy course (Ioannidis, CONSORT, PRISMA, GRADE).
+* **Cross-course selections:** previously used readings or guidance on publication bias, reporting standards, systematic review, and evidence grading from Data Literacy.
+* **External background:** concise material on metascience and peer review may be used as navigational support. ([Wikipedia][9])
+* **Focused repository gap:** Course 10 currently has no dedicated Unit 8 document. If adding one resource, prioritize a concise evidence-focused reading on peer review, publication/reporting bias, or registered reports rather than a broad publishing textbook.
 
 ---
 
 <a id="unit-9"></a>
 ## Unit 9 – Pseudoscience, Methodology, and the Edges of Science
 
-*(If you want, this can be folded into Units 1 and 8; I’m separating it to give demarcation and methodology a focused space.)*
-
 ### Guiding questions
 
-* How do **methodology** debates shape what counts as “good science”?
-* How can we systematically distinguish **scientific research** from pseudoscience or weak science?
-* How do different fields (e.g., social sciences) defend their scientific status?
+* How do methodological disagreements differ from weak research or pseudoscientific practice?
+* How should a claim be assessed after we have examined design, measurement, explanation, replication, and institutions?
+* What does responsible demarcation look like when cases are genuinely borderline?
 
 ### Sub-units
 
 1. **Methodology as Second-Order Reflection**
 
-   * “Methodology” as the study of *how* we ought to design, conduct, and interpret research. ([Wikipedia][7])
-   * Differences between **methods** (tools) and **methodology** (justifications, trade-offs).
+   * **Methods** are tools and procedures; **methodology** concerns the reasons for choosing, combining, and interpreting those methods.
+   * Legitimate fields can disagree about methodology without one side thereby becoming pseudoscientific.
 
 2. **Demarcation Revisited**
 
-   * SEP’s **Pseudoscience** + **Scientific Method** entries used to revisit demarcation in light of all the previous units. ([Stanford Encyclopedia of Philosophy][4])
-   * Case exercises: classify borderline practices (certain alternative medicines, learning styles research, “grit” research, etc.) using earlier causal & bias tools.
+   * Return to the Unit 1 demarcation problem with a richer toolkit. ([Stanford Encyclopedia of Philosophy][1])
+   * Ask how a practice handles risky tests, negative findings, competing explanations, measurement problems, replication, and revision.
 
-3. **Theoretical Virtues, Evidence, and “Science-ish” Rhetoric**
+3. **Weak Science, Disagreement, and Pseudoscientific Practice**
 
-   * How appeals to **simplicity**, “mechanisms,” and statistics can be misused rhetorically.
-   * Students practice spotting when theoretical virtues are being **invoked without substance**.
+   * Distinguish at least three possibilities: **pseudoscientific practices**, **weak but improvable research**, and **legitimate methodological disagreement**.
+   * Do not classify an entire field or controversial topic from one bad study or one rhetorical feature.
 
-4. **Abduction and Hypothesis Space Management**
+4. **Science-ish Rhetoric**
 
-   * Using Magnani and Walton to show that scientific creativity is constrained by **background knowledge, theory virtues, and empirical discipline**, not just arbitrary guessing. ([SpringerLink][14])
+   * Statistics, mechanisms, complexity, “brain-based” language, theoretical virtues, and technical models can all be invoked without supplying the evidence needed for a claim.
+   * Students should identify the missing inferential step rather than treating scientific vocabulary itself as evidence.
+
+5. **Hypothesis Space Management**
+
+   * Reuse Magnani and Walton to ask how scientists generate alternatives while constraining them with background knowledge, empirical tests, and critical dialogue. ([SpringerLink][14])
+
+### Practice: demarcation clinic
+
+Students examine a documented claim or research practice and write a short diagnosis: what is scientifically credible, what is weak, what would be required for improvement, and whether the available evidence actually warrants the label *pseudoscientific*.
 
 ### Core readings
 
-* SEP entries on **Pseudoscience** and **Scientific Method**. ([Stanford Encyclopedia of Philosophy][1])
-* Lorenzo Magnani, *Abduction, Reason, and Science* (selected chapters). ([SpringerLink][14])
-* Douglas Walton, *Abductive Reasoning* (chapters on explanation and evaluation). ([PhilPapers][15])
+* Stanford Encyclopedia of Philosophy, **Science and Pseudo-Science** and **Scientific Method** (selected sections). ([Stanford Encyclopedia of Philosophy][1])
+* **Repository selections:** Magnani and Walton on hypothesis generation and evaluation rather than full-book reassignment.
 
 ---
 
@@ -422,8 +485,9 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 ### Guiding questions
 
-* How do all the pieces – evidence, causality, models, bias, systems, institutions – integrate into a **scientific reasoning toolkit**?
-* How can non-scientists read, use, and critique scientific claims responsibly?
+* How do evidence, causality, models, bias, systems, measurement, and institutions integrate into a **scientific reasoning toolkit**?
+* How can a reader distinguish what a scientific paper establishes from what remains uncertain?
+* What should the next inquiry do to reduce the most consequential uncertainty?
 
 ### Components
 
@@ -431,58 +495,48 @@ This course is a **capstone**: it assumes students have completed the courses on
 
 When you encounter a scientific claim or paper, ask:
 
-1. **Question & framing** – What is the precise question? How is it framed (causal, descriptive, mechanistic)?
+1. **Question & framing** – What is the precise question? Is the claim descriptive, predictive, causal, mechanistic, or something else?
+2. **Design & methods** – How were observations generated or interventions assigned? What comparison or research design supports the claim?
+3. **Measurement** – How were key phenomena operationalized and measured? What reliability or validity concerns matter?
+4. **Evidence & analysis** – What data and analyses support the claim? How are uncertainty and alternative specifications handled?
+5. **Reasoning type** – Where are deduction, induction, abduction, analogy, or mechanistic reasoning doing work?
+6. **Theory & models** – What theory or model organizes the inference? What assumptions, exclusions, or theoretical virtues matter?
+7. **Causal and explanatory reach** – Does the evidence support association, causal effect, mechanism, explanation, prediction, or only some of these?
+8. **Robustness & reproducibility** – What could be reproduced, replicated, or varied? Which result depends most strongly on an assumption?
+9. **Institutions & record** – What review, reporting, funding, and publication context shapes the visible evidence? Is there relevant replication or synthesis?
+10. **Use & ethics** – How could the result be used, by whom, and with what distribution of benefits, risks, or decision authority?
 
-2. **Design & methods** – What study design or modeling approach is used? How does it support causal/ explanatory claims (drawing on Causality and Data Literacy courses)?
+2. **Primary Capstone: Scientific Reasoning Memo**
 
-3. **Evidence & analysis** – What data, measurements, and analyses support the claims? How are uncertainty and statistical validity handled?
+Each student or group chooses an accessible published empirical or modeling paper—ideally the running paper used throughout the course—and produces a concise review containing:
 
-4. **Reasoning type** – Where are deduction, induction, abduction, and mechanistic reasoning at work?
+* the **research question** and type of claim;
+* the **design and data-generation process**;
+* one diagram, table, or other representation appropriate to the paper’s reasoning (a causal DAG only when a causal claim makes that representation useful);
+* the main forms of **inference** and any theory/model commitments;
+* a **measurement and validity** assessment;
+* the most important **uncertainty, robustness, or replication** issue;
+* relevant **institutional context** such as reporting, review, conflicts, or the surrounding evidence base;
+* a bottom line divided into **well supported**, **fragile or assumption-dependent**, and **what should be done next**.
 
-5. **Theory & models** – What theory or model structure underlies the work? What theoretical virtues are invoked?
+The goal is not to pronounce a paper simply “good” or “bad,” but to identify the scope and strength of the scientific inference.
 
-6. **Robustness & reproducibility** – Is there sensitivity analysis, preregistration, replication, or robustness checks? How would results change if key assumptions wiggled? ([Wikipedia][19])
+3. **Alternative Application: Weak-Science / Pseudoscience Clinic**
 
-7. **Institutions & incentives** – What journal, review process, and funding context is involved? Are there publication/reporting biases or conflicts of interest? ([Wikipedia][9])
+Students may instead apply the same checklist to a documented dubious or controversial claim. The deliverable should distinguish defects in evidence or method from broader claims about a field and state what evidence would materially improve the assessment.
 
-8. **Use & ethics** – How will this evidence be used (policy, medicine, tech)? Who gains, who loses, who decides?
+4. **Bridge Back to the Whole Curriculum**
 
-9. **Capstone Project Ideas**
+* **Data Literacy** → how measurements and analyses become evidence.
+* **Causality** → what supports claims that changing X affects Y.
+* **Heuristics & Bias** → how judgment can systematically mishandle evidence and uncertainty.
+* **Analytical Thinking** → problem framing, alternatives, assumptions, and concise analytic products.
+* **Systems Thinking** → research institutions and scientific fields as interacting systems.
+* **Model Thinking** → explicit representations whose usefulness depends on purpose, assumptions, data, and validation.
 
-You can mirror the structure from Data Literacy and Model Thinking capstones:
+### Final meta-message
 
-* **Paper Autopsy**
-
-  * Each group chooses a published empirical or modeling paper (ideally in their domain of interest).
-  * Tasks:
-
-    * Map the **scientific process** used: question → design → data → analysis → explanation → publication.
-    * Draw a simple **causal DAG** and/or **systems diagram** representing the reasoning structure.
-    * Identify the primary forms of inference (deductive, inductive, abductive, mechanistic).
-    * Evaluate **theoretical virtues**, measurement validity, and statistical validity.
-    * Assess **reproducibility/replication** prospects and institutional incentives (journal, field norms).
-    * Write a short “scientific reasoning” memo: What is well-supported? What is fragile? What would you do next?
-
-* **Pseudoscience / Weak Science Clinic**
-
-  * Choose a controversial or dubious claim (e.g., a fad intervention, pop-neuroscience bestseller).
-  * Use the course’s tools to dissect methods, reasoning, and institutional context.
-  * Produce a public-facing explanation (blog-style or short video script) translating your critique.
-
-3. **Bridge Back to the Whole Curriculum**
-
-* Connect explicitly:
-
-  * **Data Literacy** → how measurements become evidence.
-  * **Causality** → how we argue that X really affects Y.
-  * **Heuristics & Bias** → how humans systematically mis-handle evidence and uncertainty.
-  * **Analytical Thinking** → problem framing, decomposition, and argument evaluation.
-  * **Systems Thinking** → institutions and research ecosystems as dynamic systems.
-  * **Model Thinking** → models as explicit, testable scientific stories.
-
-* Final meta-message:
-
-  > Scientific reasoning is *structured, collective, and self-correcting* – but only when we design methods, models, and institutions to earn that reputation. Your job as a critical thinker is to *see and evaluate* that structure rather than either worship or dismiss “science” as a black box.
+> Scientific reasoning is structured, collective, and corrigible. Its reliability depends on whether methods, models, measurements, criticism, and institutions make error detectable and revision possible. The critical task is neither to worship nor dismiss “science,” but to evaluate how well a particular claim has earned confidence and what evidence should come next.
 
 ---
 
@@ -492,23 +546,15 @@ You can mirror the structure from Data Literacy and Model Thinking capstones:
 [4]: https://plato.stanford.edu/entries/scientific-method/ "Scientific Method - Stanford Encyclopedia of Philosophy"
 [5]: https://www.cambridge.org/core/books/theoretical-virtues-in-science/BEECC887D80F03C8FFAC1EDBA0D30B05 "Theoretical Virtues in Science"
 [6]: https://plato.stanford.edu/entries/scientific-explanation/ "Scientific Explanation - Stanford Encyclopedia of Philosophy"
-[7]: https://en.wikipedia.org/wiki/Publication_bias "Publication bias"
 [8]: https://en.wikipedia.org/wiki/Reproducibility "Reproducibility"
 [9]: https://en.wikipedia.org/wiki/Metascience "Metascience"
-[10]: https://en.wikipedia.org/wiki/The_Grammar_of_Science "The Grammar of Science"
 [11]: https://plato.stanford.edu/entries/scientific-objectivity/ "Scientific Objectivity - Stanford Encyclopedia of Philosophy"
-[12]: https://en.wikipedia.org/wiki/Design_of_experiments "Design of experiments"
-[13]: https://www.gutenberg.org/files/37157/37157-pdf.pdf "Science and Hypothesis."
-[14]: https://link.springer.com/book/10.1007/978-1-4419-8562-0 "Abduction, Reason and Science - Book"
+[13]: https://www.gutenberg.org/files/37157/37157-pdf.pdf "Science and Hypothesis"
+[14]: https://link.springer.com/book/10.1007/978-1-4419-8562-0 "Abduction, Reason and Science"
 [15]: https://philpapers.org/rec/WALAR-6 "Abductive Reasoning - Douglas Walton"
-[16]: https://direct.mit.edu/books/monograph/4723/Theory-and-EvidenceThe-Development-of-Scientific "Theory and Evidence: The Development of Scientific ..."
-[17]: https://www2.psych.ubc.ca/~schaller/528Readings/BullockGreenHa2010.pdf "Yes, But What's the Mechanism? (Don't Expect an Easy ..."
-[18]: https://en.wikipedia.org/wiki/Category%3ABranches_of_science "Category:Branches of science"
-[19]: https://en.wikipedia.org/wiki/Science_and_Hypothesis "Science and Hypothesis"
+[16]: https://direct.mit.edu/books/monograph/4723/Theory-and-EvidenceThe-Development-of-Scientific "Theory and Evidence: The Development of Scientific Reasoning"
+[17]: https://www2.psych.ubc.ca/~schaller/528Readings/BullockGreenHa2010.pdf "Yes, But What's the Mechanism?"
 [20]: https://digitalcommons.usf.edu/oa_textbooks/3/ "Social Science Research: Principles, Methods, and Practices"
-[21]: https://en.wikipedia.org/wiki/Scientific_modelling "Scientific modelling"
-[22]: https://pubmed.ncbi.nlm.nih.gov/30896212/ "Constructing validity: New developments in creating ... - PubMed"
-[23]: https://www.amazon.com/Abduction-Reason-Science-Processes-Explanation/dp/0306465140 "Abduction, Reason and Science: Processes of Discovery ..."
-[24]: https://journals.asm.org/doi/10.1128/mbio.01902-16 "Rigorous Science: a How-To Guide | mBio - ASM Journals"
-[25]: https://www.sciencedirect.com/science/article/pii/S0022103113001819 "The Replication Recipe: What makes for a convincing ..."
-[26]: https://en.wikipedia.org/wiki/Category%3AScientific_method "Category:Scientific method"
+[22]: https://pubmed.ncbi.nlm.nih.gov/30896212/ "Constructing Validity: New Developments in Creating Objective Measuring Instruments"
+[24]: https://journals.asm.org/doi/10.1128/mbio.01902-16 "Rigorous Science: a How-To Guide"
+[25]: https://www.sciencedirect.com/science/article/pii/S0022103113001819 "The Replication Recipe: What Makes for a Convincing Replication?"

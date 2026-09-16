@@ -6,22 +6,23 @@
 
 What are the deepest concepts, distinctions, arguments, and worldviews that structure human thought—and how can philosophical inquiry help us reason more clearly about knowledge, reality, language, mind, value, and society?
 
+This course treats philosophy primarily as a **practice of disciplined inquiry** rather than as a chronology of famous thinkers. Historical philosophers and traditions matter because they offer rival ways of framing problems, constructing arguments, and testing assumptions.
+
 ## By the end, students should be able to
 
 * Explain philosophy as a discipline of **conceptual clarification, argument analysis, worldview examination, and reflective judgment**, not just the study of famous thinkers.
+* Distinguish a **conceptual question** from an empirical question and explain when a problem contains both.
 * Identify and use foundational philosophical distinctions such as **fact/value, is/ought, a priori/a posteriori, analytic/synthetic, appearance/reality, necessary/sufficient, abstract/concrete, realism/anti-realism, objective/intersubjective/subjective**.
-* Reconstruct and evaluate philosophical arguments using tools such as **reductio ad absurdum, thought experiments, conceptual analysis, principle testing, and charity**.
-* Explain major approaches to knowledge and justification, including **foundationalism, coherentism, evidentialism, reliabilism, Bayesian epistemology, social epistemology, fallibilism, and skepticism**.
-* Explain major debates about truth, including **correspondence, deflationary, and verificationist approaches**, and connect them to public reasoning.
-* Analyze metaphysical and ontological questions about **objects, properties, categories, universals, causation, identity, essence, natural kinds, and possible worlds**.
-* Explain and assess major debates in **philosophy of mind** such as **dualism, physicalism, functionalism, panpsychism, qualia, other minds, mental causation, and consciousness**.
-* Explain and assess major debates in **free will and agency**, including **determinism, compatibilism, incompatibilism, libertarianism, responsibility, and moral luck**.
+* Reconstruct and evaluate philosophical arguments using **charity, counterexamples, reductio ad absurdum, thought experiments, conceptual analysis, and principle testing**.
+* Explain major approaches to knowledge and justification, including **foundationalism, coherentism, evidentialism, reliabilism, formal epistemology, social epistemology, fallibilism, and skepticism**.
+* Separate questions about **truth**, questions about **knowledge**, and questions about **objectivity in inquiry**.
+* Analyze metaphysical and ontological questions about **objects, properties, categories, identity, essence, natural kinds, and modality**.
 * Explain how **language, meaning, interpretation, pragmatics, and framing** shape thought and disagreement.
+* Reconstruct central debates about **mind, consciousness, personal identity, freedom, agency, responsibility, and moral luck** without assuming that empirical findings by themselves settle the philosophical questions.
 * Distinguish **normative ethics, metaethics, moral psychology, and applied ethics**, and explain why those levels must not be collapsed.
-* Explain and compare major ethical positions such as **virtue ethics, deontology, consequentialism, contractualism, sentimentalism, egoism, naturalism, realism, anti-realism, relativism, and constructivism**.
-* Use philosophy to analyze **social norms, rules, conventions, principles, justice, political legitimacy, ideology, and collective responsibility**.
-* Compare philosophical traditions and schools—ancient, modern, analytic, pragmatic, continental, Asian, and religiously inflected—without reducing philosophy to one canon.
-* Identify how philosophical assumptions shape debates in **science, history, media, politics, religion, economics, and AI**.
+* Compare ethical approaches by identifying their **standards of judgment, assumptions, strengths, and unresolved trade-offs**.
+* Compare philosophical traditions and schools without treating large traditions as internally uniform or as interchangeable categories.
+* Identify philosophical assumptions underlying debates in **science, history, media, politics, religion, economics, and AI**.
 * Develop philosophical virtues essential to critical thinking: **precision, patience, intellectual humility, interpretive charity, conceptual discipline, and principled fallibilism**.
 
 ## Table of Contents
@@ -43,6 +44,17 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 - [Unit 14 – Philosophy Today: Information, Computation, AI, and the Future of Reason](#unit-14)
 <!-- UNIT_TOC_END -->
 
+---
+
+## How the course fits together
+
+Across the course, students repeatedly ask three questions:
+
+1. **What exactly is being claimed?** Clarify the concepts, distinctions, and scope of the claim.
+2. **What would justify accepting it?** Reconstruct the argument, evidence, or principle doing the work.
+3. **What follows if it is accepted?** Test implications, counterexamples, edge cases, and competing views.
+
+The same workflow appears in different domains. A question about knowledge becomes a question about justification; a question about personal identity becomes a question about necessary and sufficient conditions; a moral disagreement becomes a question about both normative principles and metaethical commitments. The goal is not to force every problem into one framework, but to make the structure of disagreement visible.
 
 ---
 
@@ -52,36 +64,36 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 **Guiding questions**
 
 * What makes a question philosophical?
-* Why do conceptual confusions create bad reasoning?
-* How does philosophy differ from science, history, religion, and rhetoric while still interacting with all of them?
+* What can conceptual clarification do that empirical investigation cannot do by itself?
+* How does philosophy interact with science, history, religion, politics, and rhetoric without simply replacing them?
 
 **Sub-units**
 
 1. **Philosophy as second-order inquiry**
-
    * Reflection on assumptions, concepts, categories, methods, and standards.
-   * Philosophy as clarification, not mere opinion-expression.
+   * Distinguish a philosophical question from an empirical question while recognizing that many real problems contain both.
 
-2. **Philosophical method**
+2. **Core philosophical methods**
+   * Conceptual analysis, counterexamples, thought experiments, reductio, reflective equilibrium, and interpretation.
+   * Argument reconstruction: premises, assumptions, conclusion, and inferential support.
 
-   * Conceptual analysis, thought experiments, reductio, distinction-making, interpretation, reflective equilibrium.
-
-3. **Why philosophy matters for critical thinking**
-
-   * Philosophy as the discipline that asks what knowledge, truth, evidence, cause, person, justice, and meaning actually are.
+3. **Philosophy as disagreement made explicit**
+   * Clarify where rivals disagree: facts, concepts, principles, standards, or implications.
+   * Practice interpretive charity before criticism.
 
 4. **Map of the field**
+   * Epistemology, metaphysics, ethics, philosophy of language, philosophy of mind, philosophy of science, and social/political philosophy.
 
-   * Epistemology, metaphysics, ontology, ethics, philosophy of language, philosophy of mind, philosophy of science, social philosophy.
+**Reasoning lab – One disagreement, two arguments**
 
-**Core resources**
+Take a short disagreement such as “Can a belief be reasonable and false?” or “Is fairness the same as equality?” Reconstruct the strongest argument on each side, define the disputed concept, and identify one premise that could be challenged without changing the subject.
 
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)
-* [Philosophical Concepts (playlist)](https://www.youtube.com/playlist?list=PLzWd5Ny3vW3Twa6jGRRBYsrqsLodJYfG7)
-* [Conceptual Distinctions](https://en.wikipedia.org/wiki/Category:Conceptual_distinctions)
-* [Philosophical Arguments](https://en.wikipedia.org/wiki/Category:Philosophical_arguments)
-* [Philosophical Methodology](https://en.wikipedia.org/wiki/Category:Philosophical_methodology)
-* [Thought Experiment](https://plato.stanford.edu/entries/thought-experiment/)
+**Core readings**
+
+* **Local core selection:** [*The Philosopher's Toolkit: A Compendium of Philosophical Concepts and Methods*](<resources/The Philosophers Toolkit A Compendium of Philosophical Concepts and Methods by Peter S. Fosl (z-lib.org).pdf>) — selected sections on arguments, distinctions, and philosophical methods.
+* **Local practice resource:** [*The Critical Thinking Toolkit*](<resources/The Critical Thinking Toolkit by Galen A. Foresman, Peter S. Fosl, Jamie Carlin Watson (z-lib.org).pdf>) — selected exercises.
+* **Local reference:** [*The Oxford Handbook of Philosophical Methodology*](<resources/The Oxford Handbook of Philosophical Methodology.pdf>) — reference chapters, not a cover-to-cover assignment.
+* **External reference:** [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), especially entries used later in the course.
 
 ---
 
@@ -90,42 +102,33 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* Which distinctions prevent us from thinking sloppily?
-* Why do many arguments fail because categories get mixed?
-* How can conceptual distinctions discipline inquiry without becoming sterile?
+* Which distinctions prevent arguments from sliding between different claims?
+* When is a disagreement verbal, and when does a substantive disagreement remain after terms are clarified?
+* How can distinctions illuminate a problem without becoming rigid boxes?
 
 **Sub-units**
 
 1. **Basic distinctions**
-
    * Fact/value, is/ought, analytic/synthetic, a priori/a posteriori, appearance/reality.
 
-2. **Structure and classification**
-
-   * Necessary/sufficient, genus/differentia, types/tokens, abstract/concrete, essential/accidental.
+2. **Conditions and classification**
+   * Necessary/sufficient, genus/differentia, type/token, abstract/concrete, essential/accidental.
 
 3. **Reasoning and interpretation**
-
-   * Map/territory, charity, implication vs implicature, context dependence, vagueness.
+   * Charity, implication vs. implicature, context dependence, vagueness, and map/territory distinctions.
 
 4. **Category mistakes and pseudo-disputes**
+   * Diagnose equivocation, category shifts, and cases where clarification dissolves only part of the disagreement.
 
-   * When disagreement is verbal, when it is substantive, and when both are mixed.
+**Reasoning lab – Repair the distinction**
 
-**Core resources**
+Give students a short argument that confuses a necessary condition with a sufficient condition, slides from “is” to “ought,” or changes the meaning of “objective.” Students identify the shift, rewrite the argument so the terms remain stable, and then decide whether the repaired argument succeeds.
 
-* [Fact–value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
-* [Is–ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
-* [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
-* [Analytic–synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
-* [Necessity and sufficiency](https://en.wikipedia.org/wiki/Category:Necessity_and_sufficiency)
-* [Types and tokens](https://plato.stanford.edu/entries/types-tokens/)
-* [Abstract and concrete](https://en.wikipedia.org/wiki/Abstract_and_concrete)
-* [Principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity)
-* [Map–territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
-* [Vagueness](https://plato.stanford.edu/entries/vagueness/)
-* [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/)
-* [Genus–differentia definition](https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition)
+**Core readings**
+
+* **Local core selection:** [*The Philosopher's Toolkit*](<resources/The Philosophers Toolkit A Compendium of Philosophical Concepts and Methods by Peter S. Fosl (z-lib.org).pdf>) — sections on distinctions, definitions, counterexamples, and conceptual analysis.
+* **Local supplementary:** [*Philosophical Devices: Proofs, Probabilities, Possibilities, and Sets*](<resources/Philosophical devices proofs, probabilities, possibilities, and sets by Papineau, David (z-lib.org).pdf>) — selected material where formal distinctions help clarify arguments.
+* **External reference:** [Vagueness](https://plato.stanford.edu/entries/vagueness/) and [Types and Tokens](https://plato.stanford.edu/entries/types-tokens/).
 
 ---
 
@@ -134,48 +137,38 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What is knowledge?
-* What justifies belief?
-* How should critical thinkers relate to skepticism?
+* What separates knowledge from a lucky true belief?
+* What kinds of reasons or processes justify belief?
+* How should a critical thinker respond to error, disagreement, and skepticism?
 
 **Sub-units**
 
-1. **Knowledge and justification**
+1. **Knowledge, truth, belief, and justification**
+   * Knowledge analysis, Gettier-style problems, defeaters, and fallibility.
 
-   * Analysis of knowledge, Gettier problems, defeasibility, truth-tracking.
+2. **Structures of justification**
+   * Foundationalism, coherentism, evidentialism, reliabilism, and the regress problem.
 
-2. **Major epistemological approaches**
+3. **Skepticism and the limits of justification**
+   * Closure, the problem of the criterion, skeptical challenges, and the difference between fallibilism and global doubt.
 
-   * Foundationalism, coherentism, evidentialism, reliabilism, infinitism.
+4. **Formal and social extensions**
+   * Bayesian approaches as one way of representing degrees of belief.
+   * Testimony, expertise, collective inquiry, and social epistemology.
 
-3. **Fallibilism and skepticism**
+5. **Bridge to earlier courses**
+   * Data Literacy asks how evidence is represented and analyzed; Scientific Reasoning asks how research practices support claims; this unit asks what **justification and knowledge themselves require**.
 
-   * Münchhausen trilemma, closure problems, epistemic paradoxes, problem of the criterion.
+**Reasoning lab – A justified belief that may be false**
 
-4. **Formal and social epistemology**
+Start with one case in which a person has apparently good reasons for a belief that turns out to be false or accidentally true. Ask how foundationalist, coherentist, evidentialist, or reliabilist approaches would diagnose the case. Students identify what each approach treats as the central epistemic success or failure.
 
-   * Bayesian reasoning, social epistemology, testimony, collective inquiry.
+**Core readings**
 
-5. **Epistemology across the curriculum**
-
-   * Ties to evidence, data literacy, scientific reasoning, and media literacy.
-
-**Core resources**
-
-* [Epistemology](https://en.wikipedia.org/wiki/Category:Epistemology)
-* [Analysis of knowledge](https://plato.stanford.edu/entries/knowledge-analysis/)
-* [Gettier problem](https://iep.utm.edu/gettier/)
-* [Foundationalism](https://en.wikipedia.org/wiki/Foundationalism)
-* [Coherentism](https://plato.stanford.edu/entries/justep-coherence/)
-* [Evidentialism](https://en.wikipedia.org/wiki/Evidentialism)
-* [Reliabilism](https://plato.stanford.edu/entries/reliabilism/)
-* [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
-* [Social epistemology](https://plato.stanford.edu/entries/epistemology-social/)
-* [Fallibilism](https://en.wikipedia.org/wiki/Fallibilism)
-* [Skepticism](https://en.wikipedia.org/wiki/Category:Skepticism)
-* [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
-* [Defeaters in epistemology](https://iep.utm.edu/defeaters-in-epistemology/)
-* [Problem of the criterion](https://en.wikipedia.org/wiki/Problem_of_the_criterion)
+* **Local core selection:** [*A Companion to Epistemology*](<resources/epistemology/A Companion to Epistemology.pdf>) — selected entries on knowledge, justification, skepticism, and major theories.
+* **Local core selection:** [Robin McKenna, *Non-Ideal Epistemology*](<resources/epistemology/Dr Robin McKenna - Non-Ideal Epistemology.pdf>) — selected chapter(s) extending epistemology beyond idealized individual inquiry.
+* **Local extension:** [*The Open Handbook of Formal Epistemology*](<resources/epistemology/open-handbook-of-formal-epistemology.pdf>) — selected chapter only; formal material is optional where it exceeds course needs.
+* **External reference:** [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) and [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/).
 
 ---
 
@@ -184,40 +177,36 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What is truth?
-* Is objectivity possible?
-* How do objectivity and intersubjectivity differ?
-* What does this change in public reasoning?
+* What is a theory of truth trying to explain?
+* How is truth different from our ability to know the truth?
+* What do objectivity and intersubjectivity require in practice?
 
 **Sub-units**
 
-1. **Theories of truth**
+1. **Truth and truth-bearers**
+   * What kinds of things are true or false: propositions, statements, beliefs, or sentences?
 
-   * Correspondence, deflationary, verificationist, and truthmaker approaches.
+2. **Selected approaches to truth**
+   * Correspondence and deflationary approaches as contrasting examples.
+   * Verificationism treated historically and conceptually as a view linking meaning or assertability to conditions of verification, not simply as another interchangeable truth theory.
 
-2. **Truth and representation**
+3. **Truth, knowledge, and inquiry**
+   * Separate “What makes this true?” from “How could we know it?” and “Which procedures make our inquiry less biased?”
 
-   * Facts, states of affairs, representation, map/territory relations.
+4. **Objectivity, perspective, and intersubjectivity**
+   * Perspective does not automatically imply relativism.
+   * Intersubjective agreement can support inquiry without making consensus identical to truth.
 
-3. **Objectivity and perspective**
+**Reasoning lab – Three questions about one claim**
 
-   * Subjectivity, objectivity, perspectivism, intersubjectivity.
+Choose one disputed claim from science, history, or public reasoning. Students answer separately: (a) what would make the claim true or false, (b) what evidence could justify believing it, and (c) what procedures could make inquiry into it more objective. Compare where the answers overlap and where they do not.
 
-4. **Truth in contested domains**
+**Core readings**
 
-   * Science, morality, politics, testimony, and public discourse.
-
-**Core resources**
-
-* [Theories of truth](https://en.wikipedia.org/wiki/Category:Theories_of_truth)
-* [Correspondence theory of truth](https://plato.stanford.edu/entries/truth-correspondence/)
-* [Deflationary theory of truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
-* [Truthmakers](https://plato.stanford.edu/entries/truthmakers/)
-* [Facts](https://plato.stanford.edu/entries/facts/)
-* [Objectivity](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29)
-* [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)
-* [Perspectivism](https://en.wikipedia.org/wiki/Perspectivism)
-* [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
+* **Local background:** [*A Companion to Epistemology*](<resources/epistemology/A Companion to Epistemology.pdf>) — selected relevant entries.
+* **Local perspective:** [*The Great Endarkenment: Philosophy for an Age of Hyperspecialization*](<resources/epistemology/The Great Endarkenment_ Philosophy for an Age of Hyperspecialization.pdf>) — selected sections on inquiry and intellectual fragmentation where relevant.
+* **External core:** [Correspondence Theory of Truth](https://plato.stanford.edu/entries/truth-correspondence/) and a selected section from [Truth](https://plato.stanford.edu/entries/truth/).
+* **External reference:** [Scientific Objectivity](https://plato.stanford.edu/entries/scientific-objectivity/) for comparison with Course 10.
 
 ---
 
@@ -226,50 +215,36 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What kinds of things exist?
-* Are our categories discovered or imposed?
-* What is the difference between ontology and ordinary naming?
+* What are we committed to saying exists when we make a claim?
+* Are categories discovered, constructed, or some mixture of both?
+* What makes something the same thing through change?
 
 **Sub-units**
 
 1. **Ontology and ontological commitment**
+   * Objects, properties, events, relations, and states of affairs.
 
-   * Objects, properties, events, relations, states of affairs.
+2. **Universals, particulars, and kinds**
+   * Realism, nominalism, properties, and natural-kind questions.
 
-2. **Universals and particulars**
+3. **Identity and persistence**
+   * Essential vs. accidental properties, change through time, and familiar identity puzzles.
 
-   * Realism, nominalism, tropes, kinds, essence.
+4. **Modality**
+   * Possibility, necessity, contingency, and possible-world talk as tools for philosophical analysis.
 
-3. **Categories and structure**
+5. **Critical-thinking payoff**
+   * Distinguish an ontological claim (“what exists?”) from an epistemological claim (“how would we know?”).
 
-   * Aristotelian and Kantian categories; fundamentality; substance; process.
+**Reasoning lab – What does the argument assume exists?**
 
-4. **Modality and worlds**
+Take an argument involving a contested category—such as a social institution, a mental state, a biological kind, or an abstract object. List its ontological commitments, then ask whether the argument changes if one of those commitments is weakened or redescribed.
 
-   * Possible worlds, contingency, necessity, identity across change.
+**Core readings**
 
-5. **Critical thinking payoff**
-
-   * Many public disputes depend on hidden ontological assumptions.
-
-**Core resources**
-
-* [Ontology](https://en.wikipedia.org/wiki/Ontology)
-* [Metaphysics](https://en.wikipedia.org/wiki/Category:Metaphysics)
-* [The Metaphysics Project](https://mally.stanford.edu/index.html)
-* [Events](https://plato.stanford.edu/entries/events/)
-* [Properties](https://plato.stanford.edu/entries/properties/)
-* [States of affairs](https://plato.stanford.edu/entries/states-of-affairs/)
-* [Abstract objects](https://plato.stanford.edu/entries/abstract-objects/)
-* [Substance](https://plato.stanford.edu/entries/substance/)
-* [Relations](https://plato.stanford.edu/entries/relations/)
-* [Realism](https://plato.stanford.edu/entries/realism/)
-* [Nominalism](https://en.wikipedia.org/wiki/Nominalism)
-* [Essential vs accidental properties](https://plato.stanford.edu/entries/essential-accidental/)
-* [Possible worlds](https://plato.stanford.edu/entries/possible-worlds/)
-* [Ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/)
-* [Process philosophy](https://plato.stanford.edu/entries/process-philosophy/)
-* [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+* **Local core:** [Francesco Berto & Matteo Plebani, *Ontology and Metaontology: A Contemporary Guide*](<resources/Ontology and Metaontology A Contemporary Guide.pdf>) — selected introductory chapters.
+* **Local extension:** [*Philosophical Devices*](<resources/Philosophical devices proofs, probabilities, possibilities, and sets by Papineau, David (z-lib.org).pdf>) — selected material on possibility and related tools.
+* **External reference:** [Ontological Commitment](https://plato.stanford.edu/entries/ontological-commitment/), [Properties](https://plato.stanford.edu/entries/properties/), and [Possible Worlds](https://plato.stanford.edu/entries/possible-worlds/).
 
 ---
 
@@ -278,44 +253,35 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* How do words connect to the world?
-* Why do disputes over meaning become disputes over reality and value?
-* How does interpretation shape what counts as understanding?
+* What is the difference between what a sentence means, what a speaker says, and what a speaker implies?
+* How much can context change an interpretation?
+* When are disagreements about words also disagreements about the world?
 
 **Sub-units**
 
 1. **Meaning and reference**
+   * Sense/reference, naming, and the relationship between linguistic expressions and what they are about.
 
-   * Sense/reference, symbol grounding, naming, semantics.
+2. **Semantics and pragmatics**
+   * Literal content, implicature, context dependence, deixis, and communicative intention.
 
-2. **Pragmatics and communication**
-
-   * Implicature, deixis, felicity conditions, cooperative principle, relevance.
-
-3. **Interpretation and hermeneutics**
-
-   * Philosophical interpretation, forms of life, language games, deconstruction.
+3. **Interpretation**
+   * Hermeneutic problems, charity, forms of life, and the limits of recovering intended meaning.
 
 4. **Language and critical thinking**
+   * Framing, ambiguity, persuasive language, concept drift, and verbal disputes.
 
-   * Framing, ambiguity, category drift, persuasive language, public discourse.
+**Reasoning lab – Said, implied, inferred**
 
-**Core resources**
+Compare two short utterances that use the same words in different contexts. Students identify literal content, plausible implicatures, contextual assumptions, and competing interpretations, then state what additional context would discriminate between them.
 
-* [Theories of meaning](https://plato.stanford.edu/entries/meaning/)
-* [Philosophy of language](https://en.wikipedia.org/wiki/Category:Philosophy_of_language)
-* [Sense and reference](https://en.wikipedia.org/wiki/Sense_and_reference)
-* [Semantics](https://en.wikipedia.org/wiki/Category:Semantics)
-* [Pragmatics](https://en.wikipedia.org/wiki/Category:Pragmatics)
-* [Semiotics](https://en.wikipedia.org/wiki/Category:Semiotics)
-* [Implicature](https://plato.stanford.edu/entries/implicature/)
-* [Deixis](https://en.wikipedia.org/wiki/Deixis)
-* [Felicity conditions](https://en.wikipedia.org/wiki/Felicity_%28pragmatics%29)
-* [Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
-* [Relevance theory](https://en.wikipedia.org/wiki/Relevance_theory)
-* [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/)
-* [Language game](https://en.wikipedia.org/wiki/Language_game_%28philosophy%29)
-* [Deconstruction](https://en.wikipedia.org/wiki/Deconstruction)
+**Core readings**
+
+* **Local methods support:** [*The Philosopher's Toolkit*](<resources/The Philosophers Toolkit A Compendium of Philosophical Concepts and Methods by Peter S. Fosl (z-lib.org).pdf>) — selected sections on language, interpretation, and ambiguity where available.
+* **External core — local repository gap:** [Theories of Meaning](https://plato.stanford.edu/entries/meaning/) and [Implicature](https://plato.stanford.edu/entries/implicature/).
+* **External extension:** [Hermeneutics](https://plato.stanford.edu/entries/hermeneutics/) for comparison with Historical Reasoning.
+
+> **Repository note:** the supplied inventory does not identify a dedicated philosophy-of-language book or article. External selections are therefore retained here rather than presenting a loosely related local resource as equivalent.
 
 ---
 
@@ -324,46 +290,34 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What is a mind?
-* Can consciousness be explained physically?
+* What relationship holds between mental states and physical processes?
+* What can thought experiments establish about consciousness?
 * What makes a person the same person over time?
 
 **Sub-units**
 
-1. **Mind-body theories**
-
-   * Dualism, materialism, physicalism, functionalism, computational theories of mind.
+1. **Mind and body**
+   * Dualism, physicalism, and functionalism as contrasting approaches.
 
 2. **Consciousness**
+   * Qualia, the knowledge argument, philosophical zombies, and other minds as selected problems rather than an exhaustive catalogue.
 
-   * Qualia, zombies, the knowledge argument, panpsychism, other minds.
+3. **Mental causation**
+   * How reasons, intentions, and mental states relate to physical actions and events.
 
-3. **Mental causation and agency**
+4. **Self and personal identity**
+   * Psychological continuity, bodily continuity, embodiment, and identity through change.
 
-   * How mental states relate to actions and physical events.
+**Reasoning lab – What does the thought experiment show?**
 
-4. **Self and identity**
+Choose one classic thought experiment, such as the knowledge argument or a personal-identity case. Reconstruct the argument it is intended to support, identify the intuition it relies on, and ask whether someone could reject the conclusion by challenging the intuition or another premise.
 
-   * Personal identity, continuity, embodiment, self-reference.
+**Core readings**
 
-5. **Why this matters for critical thinking**
+* **External core — local repository gap:** [Dualism](https://plato.stanford.edu/entries/dualism/), [Functionalism](https://plato.stanford.edu/entries/functionalism/), and [The Knowledge Argument](https://plato.stanford.edu/entries/qualia-knowledge/) — selected sections only.
+* **External extension:** [Personal Identity](https://plato.stanford.edu/entries/identity-personal/).
 
-   * Assumptions about persons, agency, responsibility, and cognition.
-
-**Core resources**
-
-* [Philosophy of mind](https://en.wikipedia.org/wiki/Category:Philosophy_of_mind)
-* [Dualism](https://plato.stanford.edu/entries/dualism/)
-* [Ghost in the machine](https://en.wikipedia.org/wiki/Ghost_in_the_machine)
-* [Functionalism](https://en.wikipedia.org/wiki/Functionalism_%28philosophy_of_mind%29)
-* [Computational theory of mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
-* [Qualia and the knowledge argument](https://plato.stanford.edu/entries/qualia-knowledge/)
-* [Philosophical zombies](https://plato.stanford.edu/entries/zombies/)
-* [Other minds](https://plato.stanford.edu/entries/other-minds/)
-* [Mental causation](https://plato.stanford.edu/entries/mental-causation/)
-* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
-* [Panpsychism](https://plato.stanford.edu/entries/panpsychism/)
-* [Propositional attitudes](https://iep.utm.edu/prop-ati/)
+> **Repository note:** no dedicated philosophy-of-mind reading is identifiable in the supplied inventory. A small external core is preferable to implying that the epistemology or ethics resources provide equivalent coverage.
 
 ---
 
@@ -372,44 +326,37 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* Are human beings free?
-* What kind of control is needed for responsibility?
-* How should critical thinkers reason about agency under causal explanation?
+* What would determinism imply, and what would it not imply?
+* What kind of control is required for responsible agency?
+* How do coercion, ignorance, luck, and causal explanation affect judgments of responsibility?
 
 **Sub-units**
 
 1. **Determinism and indeterminism**
+   * Clarify causal determinism before asking whether it threatens freedom.
 
-   * Metaphysical and scientific versions.
-
-2. **The free will debate**
-
-   * Compatibilism, incompatibilism, libertarianism.
+2. **Competing accounts of freedom**
+   * Compatibilism, incompatibilism, and libertarian views.
 
 3. **Agency and action**
+   * Reasons, intentions, alternatives, control, and action theory.
 
-   * Action theory, intention, reasons, control.
-
-4. **Responsibility and luck**
-
-   * Moral responsibility, moral luck, blame, excuse.
+4. **Responsibility and moral luck**
+   * Blame, excuse, outcome luck, circumstance luck, and control conditions.
 
 5. **Cross-course integration**
+   * Psychological or neuroscientific evidence may constrain a philosophical theory of agency without by itself settling what freedom or responsibility mean.
 
-   * Links to psychology, causality, law, ethics, and religion.
+**Reasoning lab – Change the control conditions**
 
-**Core resources**
+Use one responsibility case and vary coercion, information, intention, available alternatives, and outcome. Students explain which changes matter under different accounts of freedom and responsibility, and which judgments rely on moral rather than purely causal premises.
 
-* [Free will](https://plato.stanford.edu/entries/freewill/)
-* [Determinism](https://en.wikipedia.org/wiki/Category:Determinism)
-* [Indeterminism](https://en.wikipedia.org/wiki/Indeterminism)
-* [Compatibilism](https://plato.stanford.edu/entries/compatibilism/)
-* [Incompatibilist theories](https://plato.stanford.edu/entries/incompatibilism-theories/)
-* [Agency](https://plato.stanford.edu/entries/agency/)
-* [Action theory](https://plato.stanford.edu/entries/action/)
-* [Moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/)
-* [Moral luck](https://plato.stanford.edu/entries/moral-luck/)
-* [Robert Sapolsky](https://en.wikipedia.org/wiki/Robert_Sapolsky)
+**Core readings**
+
+* **External core — local repository gap:** [Free Will](https://plato.stanford.edu/entries/freewill/), [Compatibilism](https://plato.stanford.edu/entries/compatibilism/), and [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/) — selected sections.
+* **External extension:** [Moral Luck](https://plato.stanford.edu/entries/moral-luck/).
+
+> **Repository note:** the supplied inventory does not identify a dedicated local free-will or responsibility text.
 
 ---
 
@@ -418,57 +365,38 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What makes an action right, wrong, admirable, or blameworthy?
-* Are morality and convention the same thing?
-* How should students reason through moral disagreement?
+* What kinds of reasons can make an action right, wrong, admirable, or blameworthy?
+* How do consequences, duties, rights, virtues, and practical judgment differ as standards?
+* What should we do when plausible moral considerations conflict?
 
 **Sub-units**
 
 1. **Normative ethics**
+   * Consequentialist, deontological, and virtue-oriented approaches as contrasting families.
 
-   * Virtue ethics, deontology, consequentialism, principlism, casuistry.
+2. **Moral concepts and practical judgment**
+   * Rules, principles, harm, rights, virtues, phronesis, supererogation, and convention.
 
-2. **Moral concepts**
+3. **Moral psychology and empirical input**
+   * Desire, empathy, moral development, and social cognition can inform ethics without automatically determining what is right.
 
-   * Rules, norms, principles, standards, convention, phronesis, harm.
+4. **Cases and conflicts**
+   * Use moral cases to expose trade-offs rather than as intuition polls that mechanically settle theory.
 
-3. **Moral psychology**
+5. **Cross-cultural and historical perspectives**
+   * Compare substantive arguments from different traditions rather than treating “Western,” “Confucian,” “Buddhist,” or other labels as single views.
 
-   * Desire, sentiment, egoism, development, moral imagination, just-world thinking.
+**Reasoning lab – One case, three standards**
 
-4. **Dilemmas and judgment**
+Analyze one moral problem from at least three perspectives: consequences, duties/constraints, and virtues/practical judgment. For each, state the governing consideration, identify a difficult counterexample, and explain what the framework leaves unresolved.
 
-   * Heinz dilemma, sheriff case, famine and affluence, supererogation, self-obligations.
+**Core readings**
 
-5. **Cross-cultural ethics**
-
-   * Confucian, Buddhist, Taoist, secular, and religious ethics.
-
-**Core resources**
-
-* [Outline of ethics](https://en.wikipedia.org/wiki/Outline_of_ethics)
-* [Ethics glossary](https://ethicsunwrapped.utexas.edu/glossary)
-* [Normative ethics](https://en.wikipedia.org/wiki/Normative_ethics)
-* [Virtue ethics](https://en.wikipedia.org/wiki/Category:Virtue_ethics)
-* [Deontological ethics](https://en.wikipedia.org/wiki/Category:Deontological_ethics)
-* [Consequentialism](https://en.wikipedia.org/wiki/Category:Consequentialism)
-* [Utilitarianism](https://en.wikipedia.org/wiki/Category:Utilitarianism)
-* [Phronesis](https://en.wikipedia.org/wiki/Phronesis)
-* [Convention](https://en.wikipedia.org/wiki/Convention_%28norm%29)
-* [David Lewis on convention](https://plato.stanford.edu/entries/convention/)
-* [Social norm](https://en.wikipedia.org/wiki/Social_norm)
-* [Rules](https://en.wikipedia.org/wiki/Category:Rules)
-* [Principles](https://en.wikipedia.org/wiki/Category:Principles)
-* [Moral psychology](https://en.wikipedia.org/wiki/Category:Moral_psychology)
-* [Moral imagination](https://ethicsunwrapped.utexas.edu/glossary/moral-imagination)
-* [Just-world hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis)
-* [Heinz dilemma](https://en.wikipedia.org/wiki/Heinz_dilemma)
-* [Famine, Affluence, and Morality](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality)
-* [Supererogation](https://plato.stanford.edu/entries/supererogation/)
-* [Self-obligations](https://plato.stanford.edu/entries/self-obligations/)
-* [Confucian ethics](https://en.wikipedia.org/wiki/Category:Confucian_ethics)
-* [Buddhist ethics](https://en.wikipedia.org/wiki/Category:Buddhist_ethics)
-* [Taoist ethics](https://en.wikipedia.org/wiki/Category:Taoist_ethics)
+* **Local core:** [Shelly Kagan, *Normative Ethics*](<resources/ethics/Normative Ethics.pdf>) — selected chapters.
+* **Local core:** [Julia Driver, *Consequentialism*](<resources/ethics/Consequentialism.pdf>) — selected chapters.
+* **Local practice resource:** [*The Ethics Toolkit*](<resources/ethics/The ethics toolkit  a compendium of ethical concepts and methods by Baggini, Julian Fosl, Peter S (z-lib.org) 2.pdf>) — selected entries and exercises.
+* **Local bridge:** [*Empirically Informed Ethics: Morality between Facts and Norms*](<resources/ethics/Empirically Informed Ethics Morality between Facts and Norms.pdf>) — selected material on how empirical findings relate to normative inquiry.
+* **Local perspective:** [Martha C. Nussbaum, “The Discernment of Perception: An Aristotelian Conception of Private and Public Rationality”](<resources/nussbaumO.pdf>).
 
 ---
 
@@ -477,52 +405,39 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* Are moral claims true or false?
-* Are values objective, subjective, intersubjective, or constructed?
-* What are moral reasons, and where do they come from?
+* What do moral judgments mean?
+* Can moral claims be true or false, and what would make them so?
+* What kinds of reasons could justify moral judgments?
 
 **Sub-units**
 
-1. **Realism and anti-realism**
+1. **Three different metaethical questions**
+   * **Semantic:** what do moral sentences express?
+   * **Metaphysical:** are there moral facts or properties?
+   * **Epistemological:** how could moral claims be justified or known?
 
-   * Moral realism, anti-realism, naturalism, non-naturalism, Cornell realism.
+2. **Realism and anti-realism**
+   * Moral realism, naturalism, non-naturalism, and anti-realist approaches.
 
-2. **Cognitivism and non-cognitivism**
+3. **Cognitivism and non-cognitivism**
+   * Distinguish views about whether moral judgments express truth-apt beliefs from views about which moral facts exist.
 
-   * Emotivism, subjectivism, relativism, and related expressivist tendencies.
+4. **Relativism, constructivism, and reasons**
+   * Treat these as distinct families of proposals, not interchangeable synonyms for subjectivity.
 
-3. **Constructivism and contractualism**
+5. **Bridge back to Unit 9**
+   * A theory can recommend an action at the normative level while leaving its metaethical foundations contested.
 
-   * Reasons, obligations, and the construction of normativity.
+**Reasoning lab – Do not collapse the levels**
 
-4. **Sentimentalism, intuitionism, and practical reason**
+Give students several statements such as “lying is wrong,” “moral claims express attitudes,” “moral properties are natural properties,” and “we have reasons not to deceive.” Students classify which question each statement addresses and explain why accepting one does not automatically settle the others.
 
-   * Hume, Smith, Moore, intuitionist and sentimentalist traditions.
+**Core readings**
 
-5. **Objectivity and intersubjectivity in morality**
-
-   * A major bridge between ethics, social life, and worldview analysis.
-
-**Core resources**
-
-* [Moral realism](https://plato.stanford.edu/entries/moral-realism/)
-* [Moral anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/)
-* [Moral cognitivism](https://plato.stanford.edu/entries/moral-cognitivism/)
-* [Constructivist metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/)
-* [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/)
-* [Moral skepticism](https://plato.stanford.edu/entries/skepticism-moral/)
-* [Moral relativism](https://plato.stanford.edu/entries/moral-relativism/)
-* [Ethical subjectivism](https://en.wikipedia.org/wiki/Ethical_subjectivism)
-* [Emotivism](https://en.wikipedia.org/wiki/Emotivism)
-* [Moral naturalism](https://plato.stanford.edu/entries/naturalism-moral/)
-* [Ideal observer theory](https://en.wikipedia.org/wiki/Ideal_observer_theory)
-* [Moral reasoning](https://plato.stanford.edu/entries/reasoning-moral/)
-* [Moral epistemology](https://plato.stanford.edu/entries/moral-epistemology/)
-* [The intersubjective basis of morality](https://journals.sagepub.com/doi/abs/10.1177/019145379602200605?journalCode=pscb)
-* [Objectivity and intersubjectivity in moral philosophy](https://dash.harvard.edu/bitstream/handle/1/40046415/JULIAN-DISSERTATION-2017.pdf?sequence=4)
-* [The Sources of Normativity](https://www.amazon.com/Sources-Normativity-Christine-M-Korsgaard/dp/052155960X)
-* [What We Owe to Each Other](https://www.jstor.org/stable/j.ctv134vmrn)
-* [Being Realistic about Reasons](https://www.amazon.com/Being-Realistic-about-Reasons-Scanlon/dp/0198748108)
+* **Local core:** [“Cornell Realism, Explanation, and Natural Properties”](<resources/ethics/Cornell Realism, Explanation, and Natural Properties.pdf>).
+* **Local core selection:** [“How to Be a Moral Realist”](<resources/ethics/How_to_Be_a_Moral_Realist.pdf>) — use the identifiable essay rather than the file’s misleading embedded title.
+* **Local contrast:** [“In Defense of Non-Natural Non-Theistic Moral Realism”](<resources/ethics/In Defense of Non Natural Non theistic Moral Realizm.pdf>) — selected argument, with bibliographic details verified before formal citation if needed.
+* **External reference:** [Moral Realism](https://plato.stanford.edu/entries/moral-realism/), [Moral Anti-Realism](https://plato.stanford.edu/entries/moral-anti-realism/), and [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/).
 
 ---
 
@@ -531,52 +446,39 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* How do traditions shape what questions seem natural or important?
-* What is gained and lost by different philosophical styles?
-* How should students approach rival schools without sectarianism?
+* How do philosophical traditions shape which questions and standards seem important?
+* How can students compare traditions without flattening their internal differences?
+* What is gained by comparing rival approaches to the same problem?
 
 **Sub-units**
 
-1. **Ancient foundations**
+1. **Ancient approaches as living arguments**
+   * Use Pyrrhonian skepticism and Epicurean ethics as substantive examples rather than as names in a timeline.
 
-   * Greek, Roman, Chinese, and Indian traditions.
+2. **Modern epistemic styles**
+   * Rationalism and empiricism as historically important contrasts about sources and limits of knowledge.
 
-2. **Modern turning points**
+3. **Modern and contemporary styles**
+   * Analytic philosophy, pragmatism, existentialism, continental traditions, and critical rationalism as broad and internally varied families.
 
-   * Rationalism vs empiricism, Enlightenment, and post-Kantian shifts.
+4. **Beyond a single canon**
+   * Compare selected Greek/Roman, Chinese, Indian, religiously inflected, or other traditions through a shared philosophical question.
+   * Avoid treating geographic or civilizational labels as single doctrines.
 
-3. **Major modern styles**
+5. **Worldview analysis**
+   * Map commitments about reality, knowledge, persons, value, society, and purpose while distinguishing explicit commitments from interpretations imposed by the analyst.
 
-   * Analytic philosophy, pragmatism, existentialism, continental philosophy, positivism, critical rationalism.
+**Reasoning lab – Same problem, different traditions**
 
-4. **Worldviews and schools**
+Choose one question—such as how to live well, how to respond to uncertainty, or what makes knowledge possible—and compare two or three traditions using the same prompts: central claim, argument or practice, assumptions, objection, and unresolved question.
 
-   * Nihilism, naturalism, idealism, pragmatism, Marxism, postmodernism.
+**Core readings**
 
-5. **How traditions shape inquiry**
-
-   * Different standards of rigor, interpretation, and explanation.
-
-**Core resources**
-
-* [Rationalism vs empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
-* [Analytic philosophy](https://en.wikipedia.org/wiki/Category:Analytic_philosophy)
-* [Logical positivism](https://en.wikipedia.org/wiki/Logical_positivism)
-* [Pragmatism](https://en.wikipedia.org/wiki/Category:Pragmatism)
-* [Pragmaticism](https://en.wikipedia.org/wiki/Pragmaticism)
-* [Nihilism](https://en.wikipedia.org/wiki/Category:Nihilism)
-* [Philosophical schools and traditions](https://en.wikipedia.org/wiki/Category:Philosophical_schools_and_traditions)
-* [Philosophical traditions](https://en.wikipedia.org/wiki/Category:Philosophical_traditions)
-* [Philosophical movements](https://en.wikipedia.org/wiki/Category:Philosophical_movements)
-* [Ancient Greek philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
-* [Ancient Chinese philosophy](https://en.wikipedia.org/wiki/Category:Ancient_Chinese_philosophy)
-* [Ancient Indian philosophy](https://en.wikipedia.org/wiki/Charvaka)
-* [Medieval philosophy](https://en.wikipedia.org/wiki/Medieval_philosophy)
-* [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism)
-* [Age of Enlightenment](https://en.wikipedia.org/wiki/Category:Age_of_Enlightenment)
-* [Counter-Enlightenment](https://en.wikipedia.org/wiki/Category:Counter-Enlightenment)
-* [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
-* [French continental philosophy](https://en.wikipedia.org/wiki/Continental_philosophy)
+* **Local core:** [Richard Bett, *How to Be a Pyrrhonist: The Practice and Significance of Pyrrhonian Skepticism*](<resources/How to Be a Pyrrhonist The Practice and Significance of Pyrrhonian Skepticism.pdf>) — selected chapters.
+* **Local core:** [Catherine Wilson, *How to Be an Epicurean: The Ancient Art of Living Well*](<resources/How to Be an Epicurean The Ancient Art of Living Well.pdf>) — selected chapters.
+* **Local optional:** [*Tending the Epicurean Garden*](<resources/Tending the Epicurean Garden.pdf>) for a contemporary Epicurean perspective.
+* **Local visual:** [Ancient Western Philosophy Family Tree](<ancient-western-philosophy-family-tree.webp>) — orientation aid only; it does not represent the course’s full comparative scope.
+* **External core — repository gap:** add short primary or reliable introductory selections for any Chinese, Indian, or other traditions actually taught. The current inventory does not provide comparable local coverage.
 
 ---
 
@@ -585,50 +487,37 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What distinguishes scientific explanation from other forms of explanation?
-* What are models, paradigms, and theories doing?
-* Why do philosophical disputes matter for scientific reasoning?
+* What philosophical assumptions underlie scientific explanation and model use?
+* What is at stake in realism, instrumentalism, and underdetermination?
+* Which questions from the Scientific Reasoning and Model Thinking courses remain philosophical rather than empirical?
 
 **Sub-units**
 
-1. **Science and explanation**
+1. **What science aims to represent**
+   * Scientific realism, constructive empiricism, instrumentalism, and the status of unobservables.
 
-   * Hypothetico-deductive reasoning, realism vs instrumentalism, unobservables.
+2. **Evidence and underdetermination**
+   * Duhem–Quine problems, auxiliary assumptions, observational equivalence, and confirmation holism.
 
-2. **Theory choice and underdetermination**
-
-   * Duhem–Quine, observational equivalence, confirmation holism.
-
-3. **Paradigms and scientific change**
-
-   * Kuhn, Lakatos, Popper, critical rationalism.
+3. **Scientific change and theory choice**
+   * Kuhn, Popper, Lakatos, and related frameworks as competing philosophical interpretations, not a single sequence of scientific progress.
 
 4. **Philosophy of social science**
+   * Explanation, interpretation, social ontology, institutions, and the relationship between reasons and causes.
 
-   * Interpretation, historical explanation, social ontology, institutions.
+5. **Bridge to the earlier curriculum**
+   * Scientific Reasoning addressed practices of inquiry; Model Thinking addressed representations and intended uses; this unit asks what those practices imply about truth, explanation, representation, and reality.
 
-5. **Bridge to the rest of the curriculum**
+**Reasoning lab – What does successful prediction commit us to?**
 
-   * Data, models, causality, historical reasoning, systems thinking.
+Consider a model that predicts well but uses idealizations or entities that cannot be directly observed. Compare what a realist and an instrumentalist or empiricist might infer from the same success. Identify which disagreement is empirical and which is philosophical.
 
-**Core resources**
+**Core readings**
 
-* [Philosophy of science](https://en.wikipedia.org/wiki/Category:Philosophy_of_science)
-* [Philosophy of social science](https://en.wikipedia.org/wiki/Category:Philosophy_of_social_science)
-* [Scientific realism](https://plato.stanford.edu/entries/scientific-realism/)
-* [Constructive empiricism](https://plato.stanford.edu/entries/constructive-empiricism/)
-* [Underdetermination](https://plato.stanford.edu/entries/scientific-underdetermination/)
-* [Duhem–Quine thesis](https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
-* [Observational equivalence](https://en.wikipedia.org/wiki/Observational_equivalence)
-* [Confirmation holism](https://en.wikipedia.org/wiki/Confirmation_holism)
-* [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
-* [Mill’s methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
-* [Paradigm](https://en.wikipedia.org/wiki/Paradigm)
-* [Instrumentalism](https://en.wikipedia.org/wiki/Instrumentalism)
-* [Unobservable](https://en.wikipedia.org/wiki/Unobservable)
-* [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
-* [Positivism](https://en.wikipedia.org/wiki/Positivism)
-* [Antipositivism](https://en.wikipedia.org/wiki/Antipositivism)
+* **External core — local repository gap:** [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/), [Constructive Empiricism](https://plato.stanford.edu/entries/constructive-empiricism/), and [Underdetermination of Scientific Theory](https://plato.stanford.edu/entries/scientific-underdetermination/) — selected sections.
+* **Local methods support:** [*The Oxford Handbook of Philosophical Methodology*](<resources/The Oxford Handbook of Philosophical Methodology.pdf>) where relevant to methods of philosophical analysis.
+
+> **Repository note:** the inventory does not identify a dedicated philosophy-of-science text. This unit should therefore use a small external core and rely on Courses 9–10 for empirical/modeling background rather than duplicating those courses.
 
 ---
 
@@ -637,50 +526,39 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* What holds societies together?
-* What makes institutions legitimate or illegitimate?
-* How do norms, conventions, ideologies, and power shape reasoning?
+* What can make authority or institutions legitimate?
+* How should liberty, equality, harm, responsibility, and collective goods be balanced?
+* How do descriptive claims about institutions differ from normative claims about how they should be organized?
 
 **Sub-units**
 
 1. **Norms and institutions**
-
-   * Convention, social norms, standards, and de facto orders.
+   * Convention, social norms, standards, coordination, and de facto orders.
 
 2. **Justice and legitimacy**
+   * Social-contract approaches, fairness, equality, liberty, authority, and the justification of coercive institutions.
 
-   * Social contract, original position, equality, liberty, authority.
+3. **Collective responsibility**
+   * When, if ever, groups or institutions can bear responsibility beyond the responsibilities of individual members.
 
-3. **Collective responsibility and social ethics**
-
-   * Collective responsibility, social movements, cosmopolitanism, effective altruism.
-
-4. **Ideology and critique**
-
-   * Marxist frameworks, critical theory, reification, base/superstructure.
+4. **Ideology and social critique**
+   * Compare frameworks for analyzing power and social structure without treating any framework as the course’s predetermined political conclusion.
 
 5. **Cross-course integration**
+   * Media Studies examined persuasion and information systems; Historical Reasoning examined evidence about the past; this unit asks which principles should govern collective life and how such principles can be justified.
 
-   * Links to propaganda, media studies, historical reasoning, and religion.
+**Reasoning lab – Reconstruct, do not rank**
 
-**Core resources**
+Choose a dispute about authority, liberty, equality, or collective responsibility. Reconstruct two serious philosophical arguments using the same template: principle, supporting reasons, assumptions, implications, strongest objection, and possible reply. Students may defend a conclusion, but the assignment is assessed on reconstruction and reasoning rather than political alignment.
 
-* [Social contract](https://en.wikipedia.org/wiki/Social_contract)
-* [Original position](https://plato.stanford.edu/entries/original-position/)
-* [Collective moral responsibility](https://iep.utm.edu/collective-moral-responsibility/)
-* [Social ethics](https://en.wikipedia.org/wiki/Category:Social_ethics)
-* [Concepts in social philosophy](https://en.wikipedia.org/wiki/Category:Concepts_in_social_philosophy)
-* [Social movements](https://en.wikipedia.org/wiki/Category:Social_movements)
-* [Cosmopolitanism](https://en.wikipedia.org/wiki/Category:Cosmopolitanism)
-* [Effective altruism](https://en.wikipedia.org/wiki/Category:Effective_altruism)
-* [Harm principle](https://en.wikipedia.org/wiki/Harm_principle)
-* [Authority and the Individual (Russell)](https://ia601400.us.archive.org/3/items/AuthorityAndTheIndividual_656/BertrandRussell-authorityAndTheIndividual-routledge1985.pdf)
-* [Marxist theory](https://en.wikipedia.org/wiki/Category:Marxist_theory)
-* [Historical materialism](https://en.wikipedia.org/wiki/Historical_materialism)
-* [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
-* [Reification (Marxism)](https://en.wikipedia.org/wiki/Reification_%28Marxism%29)
-* [Frankfurt School](https://en.wikipedia.org/wiki/Category:Frankfurt_School)
-* [Critical theory](https://en.wikipedia.org/wiki/Category:Critical_theory)
+**Core readings**
+
+* **Local adjacent resource:** [Joseph Raz, “The Myth of Instrumental Rationality”](<resources/ethics/Instrumental Rationality.pdf>) where questions about reasons and practical rationality are relevant.
+* **Local adjacent resource:** [Charles Taylor, *The Ethics of Authenticity*](<resources/ethics/The Ethics of Authenticity.pdf>) — selected material relevant to modern social and moral ideals.
+* **External core — local repository gap:** [The Original Position](https://plato.stanford.edu/entries/original-position/) and [Political Legitimacy](https://plato.stanford.edu/entries/legitimacy/) — selected sections, paired with a contrasting reading chosen for the specific question taught.
+* **External reference:** [Collective Responsibility](https://plato.stanford.edu/entries/collective-responsibility/).
+
+> **Repository note:** the supplied inventory does not contain a clear general social/political philosophy core. The local texts above are adjacent resources, not substitutes for a balanced set of readings on justice, legitimacy, and authority.
 
 ---
 
@@ -689,82 +567,78 @@ What are the deepest concepts, distinctions, arguments, and worldviews that stru
 
 **Guiding questions**
 
-* How do information and computation reshape philosophy?
-* Can machines think, understand, or reason?
-* What happens to knowledge, agency, and responsibility in a technological world?
+* What would count as understanding, intelligence, or agency in an artificial system?
+* Which claims about AI are empirical performance claims, and which depend on philosophical definitions?
+* How do responsibility and justification change when people rely on computational systems?
 
 **Sub-units**
 
-1. **Philosophy of information**
-
-   * Information as a philosophical category; representation and structure.
+1. **Information and representation**
+   * What it means for information to represent, encode, or stand for something.
 
 2. **Computation and mind**
+   * Computational accounts of cognition, symbol grounding, and the relationship to Unit 7.
 
-   * Computational philosophy, computational theory of mind, symbol grounding.
+3. **AI, reasoning, and understanding**
+   * Turing-style behavioral tests, the Chinese Room, knowledge representation, and competing accounts of understanding.
 
-3. **AI and intelligence**
+4. **Limits and non sequiturs**
+   * Gödel’s incompleteness theorems, no-free-lunch results, and computational irreducibility address different technical questions; none should be treated as a generic proof that “AI has limits” without a valid connecting argument.
 
-   * Turing test, Chinese room, reasoning systems, expert systems, AGI debates.
+5. **Responsibility in mediated reasoning**
+   * What users, designers, or institutions may owe when decisions rely on systems whose outputs are uncertain, opaque, or difficult to audit.
 
-4. **Limits of formal systems**
+**Reasoning lab – Empirical claim or conceptual claim?**
 
-   * Incompleteness, no free lunch, computational irreducibility.
+Take a bounded case involving an AI-generated answer or automated decision. Separate claims about measured performance from claims such as “the system understands,” “the system is responsible,” or “the system is objective.” For one philosophical claim, reconstruct two arguments and identify what empirical evidence would matter without pretending that evidence alone defines the concept.
 
-5. **Critical thinking in the age of AI**
+**Core readings**
 
-   * What philosophy contributes that mere technical literacy cannot.
+* **External core — local repository gap:** [Turing Test](https://plato.stanford.edu/entries/turing-test/), [Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/), and selected material on the Chinese Room / computational theories of mind.
+* **External technical reference:** [Church–Turing Thesis](https://plato.stanford.edu/entries/church-turing/) where needed to prevent overgeneralization from formal results.
+* **Local methods support:** [*Philosophical Devices*](<resources/Philosophical devices proofs, probabilities, possibilities, and sets by Papineau, David (z-lib.org).pdf>) for selected formal-conceptual tools.
 
-**Core resources**
-
-* [Information philosophy](https://www.informationphilosopher.com/)
-* [Philosophy of information](https://en.wikipedia.org/wiki/Philosophy_of_information)
-* [Computational philosophy](https://plato.stanford.edu/entries/computational-philosophy/)
-* [Computational epistemology](http://cogsci.uwaterloo.ca/Index.html)
-* [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
-* [Turing test](https://plato.stanford.edu/entries/turing-test/)
-* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
-* [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
-* [Church–Turing thesis](https://plato.stanford.edu/entries/church-turing/)
-* [Gödel’s incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-* [No free lunch theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
-* [Computational irreducibility](https://en.wikipedia.org/wiki/Computational_irreducibility)
-* [Luciano Floridi](https://en.wikipedia.org/wiki/Luciano_Floridi)
-* [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
-* [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
-* [John Searle](https://en.wikipedia.org/wiki/John_Searle)
+> **Repository note:** no dedicated philosophy-of-AI or philosophy-of-information text is identifiable in the supplied inventory.
 
 ---
 
-# Skills labs running through the whole course (recommended)
+# Skills labs running through the whole course
 
-* **Distinction drills:** identify which distinction a confused argument is failing to respect—fact/value, is/ought, objectivity/intersubjectivity, descriptive/normative, ontology/epistemology.
-* **Concept analysis:** define a concept such as truth, justice, meaning, personhood, freedom, knowledge, norm, or objectivity using necessary/sufficient conditions, counterexamples, and edge cases.
-* **Argument reconstruction:** translate philosophical prose into explicit arguments with premises, assumptions, and conclusions.
-* **Thought experiment analysis:** explain what a thought experiment is testing, what intuition it relies on, and whether that intuition is trustworthy.
-* **Framework comparison grids:** compare rival positions—realism vs anti-realism, dualism vs physicalism, compatibilism vs libertarianism, deontology vs consequentialism, rationalism vs empiricism.
-* **Worldview mapping:** identify a worldview’s commitments about reality, knowledge, personhood, morality, society, and purpose.
-* **Interpretation labs:** compare how different philosophical traditions or schools frame the same problem.
-* **Cross-course bridge labs:** connect a philosophical issue to another course—epistemology to evidence, philosophy of science to scientific reasoning, social philosophy to propaganda, ethics to religion, mind/agency to cognitive bias.
+These practices recur across units so students repeatedly perform philosophy instead of merely recognizing terminology:
+
+* **Distinction drills:** identify and repair a confused use of fact/value, is/ought, necessary/sufficient, descriptive/normative, ontology/epistemology, or truth/justification.
+* **Concept analysis:** propose conditions for a concept such as knowledge, justice, meaning, personhood, freedom, or objectivity; test them with counterexamples and edge cases.
+* **Argument reconstruction:** translate prose into explicit premises, hidden assumptions, and a conclusion before evaluating it.
+* **Objection-and-reply practice:** formulate the strongest objection to an argument, then state what a defender would need to show in response.
+* **Thought-experiment analysis:** identify what a thought experiment is supposed to establish, which intuition it elicits, and whether the conclusion depends on that intuition.
+* **Framework comparison:** compare rival positions using common questions rather than declaring a “winner”: central claim, key argument, assumptions, explanatory or normative payoff, objection, and unresolved issue.
+* **Worldview mapping:** identify commitments about reality, knowledge, personhood, morality, society, and purpose while marking which commitments are explicit and which are inferred.
+* **Cross-course bridges:** distinguish philosophical questions from empirical questions when revisiting evidence, causation, models, history, media, science, or AI.
 
 ---
 
-# Possible capstone activities
+# Capstone – Philosophical Argument Portfolio
 
-1. **Concept atlas**
-   Build a structured guide to 20–30 core philosophical distinctions and explain why each matters for critical thinking.
+The default capstone asks students to investigate **one philosophical question in depth** rather than demonstrate superficial coverage of the entire field.
 
-2. **Worldview comparison dossier**
-   Compare two or three philosophical worldviews or traditions across knowledge, reality, ethics, language, mind, politics, and meaning.
+**Required components**
 
-3. **Deep debate portfolio**
-   Reconstruct a major philosophical dispute—free will, realism vs anti-realism, moral realism, objectivity, consciousness, justice, or meaning—and present the strongest arguments on each side.
+1. **Question and scope** – state a precise philosophical question and explain what would count as answering it.
+2. **Concept clarification** – define the key terms and identify at least one important distinction needed to avoid equivocation.
+3. **Argument A** – reconstruct one serious argument with explicit premises, assumptions, and conclusion.
+4. **Argument B** – reconstruct a competing argument or position with the same level of charity.
+5. **Objections and replies** – give at least one strong objection to each argument and explain a plausible reply.
+6. **Counterexample or thought experiment** – use one carefully and explain exactly what it is intended to test.
+7. **Unresolved issues** – state what remains uncertain or depends on deeper commitments.
+8. **Cross-course bridge** – show how the philosophical issue changes the interpretation of a problem from at least one earlier course without replacing empirical evidence with philosophical speculation.
+9. **Reflective judgment** – students may defend a conclusion, but must distinguish their conclusion from the reconstruction of rival views and state what evidence or argument could change their mind.
 
-4. **Philosophy across the curriculum project**
-   Show how one philosophical problem runs through several courses: objectivity in science, media, and history; causation in metaphysics and science; moral responsibility in psychology, law, and religion; worldview in philosophy, propaganda, and religion.
+**Alternative formats using the same standards**
 
-5. **AI, mind, and reason project**
-   Use the philosophy of information / AI materials to ask what reasoning, understanding, intelligence, and agency actually are.
+* **Concept atlas:** a smaller, curated set of concepts, each supported by an argument or counterexample rather than a glossary definition alone.
+* **Worldview comparison dossier:** compare two or three traditions through the same philosophical question and common evaluative prompts.
+* **Philosophy across the curriculum project:** trace one issue—such as objectivity, causation, explanation, responsibility, or evidence—across several earlier courses.
+* **AI, mind, and reason project:** apply the same argument-portfolio structure to understanding, agency, intelligence, responsibility, or representation in AI.
 
 ---
 
@@ -776,8 +650,9 @@ This course is strongest when taught not as a generic history survey, but as **p
 * epistemology and truth
 * metaphysics / ontology / categories
 * language, meaning, and interpretation
-* ethics and metaethics
 * mind, consciousness, agency, and responsibility
-* worldview analysis across traditions
+* normative ethics and metaethics as distinct levels of inquiry
+* comparison of traditions through shared philosophical problems
+* philosophy of inquiry, institutions, and emerging technologies
 
-Historical philosophers and schools should appear throughout, but mostly as **ways into problems**, not as the sole organizing principle.
+Historical philosophers and schools should appear throughout as **ways into problems and arguments**, not as the sole organizing principle. Large handbooks and encyclopedias should be used selectively: assign the chapter or section that performs the philosophical work needed for the unit, and keep the rest as reference material.

@@ -39,7 +39,7 @@
 - [Unit 7 – Arguments from Authority and Expert Opinion](#unit-7)
 - [Unit 8 – Fallacies as Argumentative Pathologies](#unit-8)
 - [Unit 9 – Formal Reasoning, Non-Classical Logics, and Their Limits](#unit-9)
-- [Unit 10 – Extensions: Interpretive, Quasi-Logical, and Case-Based Arguments](#unit-10)
+- [Unit 10 – Extensions: Interpretive, Quasi-Logical, Conductive, and Case-Based Arguments](#unit-10)
 <!-- UNIT_TOC_END -->
 
 
@@ -74,6 +74,7 @@ This course now **makes arguments the central object of study**: their structure
 **Guiding questions**
 
 * What *is* an argument (vs. explanation, narrative, or mere disagreement)?
+* How does the goal and context of a dialogue affect what counts as a responsible argumentative move?
 * Why do philosophers, lawyers, and scientists model arguments with diagrams and “schemes”?
 * What’s the relationship between *logical* rigor and *informal*, real-world argument?
 
@@ -85,33 +86,40 @@ This course now **makes arguments the central object of study**: their structure
    * Argumentation theory as the interdisciplinary study of how conclusions are supported or attacked. ([Wikipedia][5])
    * Kinds of argumentative “success”: logical strength, dialectical responsibility, and rhetorical effectiveness.
 
-2. **The Toulmin model**
+2. **Dialogue types and critical discussion**
+
+   * Arguments occur within dialogues with different purposes: inquiry, persuasion, deliberation, negotiation, information-seeking, and eristic conflict.
+   * A move that is reasonable in one dialogue can be irrelevant or obstructive in another; argumentative evaluation therefore includes the goals and commitments of the exchange.
+   * Briefly introduce the pragma-dialectical idea of a **critical discussion**: parties externalize disagreement, test standpoints through reasons and objections, and aim at reasonable resolution.
+   * Connect dialogue context to burden of proof, relevance, and the distinction between attacking a claim and attacking a person.
+
+3. **The Toulmin model**
 
    * Claim, Data (grounds), Warrant, Backing, Qualifier, Rebuttal (CDW-BQR). ([Cambridge University Press & Assessment][1])
    * Compare Toulmin layout with standard premise–conclusion form.
    * How qualifiers and rebuttals encode *defeasibility* and burden of proof.
    * Classroom exercises: reconstruct news op-eds using Toulmin; compare multiple reconstructions.
 
-3. **Argumentation schemes and critical questions**
+4. **Argumentation schemes and critical questions**
 
    * Douglas Walton, Chris Reed & Fabrizio Macagno’s **Argumentation Schemes**: stereotypical patterns of everyday reasoning (e.g., argument from consequences, analogy, expert opinion, sign, cause, etc.). ([Cambridge University Press & Assessment][6])
    * Each scheme has associated *critical questions*—a built-in checklist for evaluation.
    * Schemes as a bridge between “logic” and what people actually do in conversation, law, and politics.
 
-4. **Argument mapping and mining**
+5. **Argument mapping and mining**
 
    * Argument mapping as box-and-arrow diagrams of premises and conclusions; contrast with concept maps and mind maps. ([Tim van Gelder][7])
    * Empirical work suggesting that mapping improves critical thinking skills and clarity.
    * Basic mapping conventions (co-premises, objections, rebuttals, hidden assumptions).
    * Argument *mining*: extracting arguments from messy, natural-language texts (e.g., online discussions, political speeches).
 
-5. **Forms of reasoning: monotonic vs. non-monotonic**
+6. **Forms of reasoning: monotonic vs. non-monotonic**
 
    * Deductive validity vs. inductive strength vs. **defeasible** or **non-monotonic** inference (where new information can defeat previous conclusions). ([Stanford Encyclopedia of Philosophy][2])
    * Everyday examples: default assumptions (“Birds fly”), exceptions (“Penguins”), and how these interact with argument schemes.
    * Connect back to Course 1: our cognitive systems are built to operate with defeasible, context-sensitive reasoning.
 
-6. **Fallacies preview**
+7. **Fallacies preview**
 
    * Very brief introduction to the idea of **formal** vs. **informal** fallacies, as *misuses* or *abuses* of argument schemes rather than mysterious named sins.
    * Position fallacies as a later deep-dive topic (Unit 8), but give students a taste (e.g., straw man, ad hominem, slippery slope) to motivate careful analysis.
@@ -122,6 +130,8 @@ This course now **makes arguments the central object of study**: their structure
 * Douglas Walton, Chris Reed & Fabrizio Macagno, *Argumentation Schemes*. ([Cambridge University Press & Assessment][6])
 * Douglas Walton, *Argumentation Schemes for Presumptive Reasoning*. ([Routledge][8])
 * Tim van Gelder, “What is argument mapping?” and “Using Argument Mapping to Improve Critical Thinking Skills.” ([Tim van Gelder][7])
+* Frans H. van Eemeren & Rob Grootendorst, “A Pragma-dialectical Procedure for a Critical Discussion” (repository reading).
+* Douglas Walton, “Types of Dialogue and Burdens of Proof” (repository reading).
 * A good argumentation-theory overview (e.g., “Argumentation theory” entry). ([Wikipedia][5])
 
 ---
@@ -174,6 +184,7 @@ This course now **makes arguments the central object of study**: their structure
 **Core readings**
 
 * Douglas Walton, “Story Similarity in Arguments from Analogy” and related work on analogy and precedent. ([SSRN][9])
+* Fabrizio Macagno & Douglas Walton, “Analogical Arguments: Inferential Structures and Defeasibility Conditions” (repository reading).
 * Kevin Ashley, “Case-Based Reasoning and its Implications for Legal Expert Systems” or selections from *Artificial Intelligence and Legal Analytics*. ([Learning Research & Development Center][10])
 * A standard CBR + law chapter (Rissland, Ashley, Branting on law and case-based reasoning). ([Folk at IDI-NTNU][12])
 
@@ -187,6 +198,7 @@ This course now **makes arguments the central object of study**: their structure
 * What is **abductive reasoning**?
 * How does it differ from induction and deduction?
 * Why is abduction central in science and everyday explanation?
+* What can go wrong when we infer to the “best” explanation?
 
 **Sub-units**
 
@@ -221,12 +233,23 @@ This course now **makes arguments the central object of study**: their structure
    * Are we overweighting simplicity or “fit” relative to prior credibility?
    * How do social structures (experts, institutions) shape which hypotheses get taken seriously?
 
+6. **Challenges to abduction and IBE**
+
+   * Distinguish generating a plausible explanatory hypothesis from being justified in accepting it as true.
+   * Van Fraassen-style criticism: explanatory attractiveness may help organize inquiry without automatically tracking truth.
+   * Compare Peircean abduction with IBE rather than treating them as interchangeable.
+   * Problems include unconceived alternatives, underdetermination, overvaluing simplicity, and mistaking a good story for a well-supported explanation.
+   * Use competing reconstructions to show how the same evidence can support more than one abductive argument.
+
 **Core readings**
 
 * Stanford Encyclopedia of Philosophy entry on abduction / Peirce. ([Stanford Encyclopedia of Philosophy][13])
 * Peter Lipton, *Inference to the Best Explanation*. ([Routledge][14])
 * V. Crupi, “Confirmation” (SEP), and short intros to Bayesian confirmation theory (Strevens, Hawthorne, Fitelson). ([Stanford Encyclopedia of Philosophy][4])
 * Douglas Walton, selections on abductive schemes and argument from evidence. ([windsor.scholarsportal.info][15])
+* Anya Plutynski, “Four Problems of Abduction: A Brief History” (repository reading).
+* Shiyang Yu, “Peirce Knew Why Abduction Isn’t IBE—A Scheme and Critical Questions for Abductive Argument” (repository reading).
+* Optional critique track: van Fraassen / Ladyman selections on criticisms of IBE (repository readings).
 
 ---
 
@@ -237,6 +260,7 @@ This course now **makes arguments the central object of study**: their structure
 
 * How do we argue about what to *do*, not just what’s *true*?
 * How do goals, values, and consequences enter practical arguments?
+* How does an argument *for* an action differ from an explanation of why someone acted?
 * What is the relationship between practical reasoning and decision theory?
 
 **Sub-units**
@@ -247,6 +271,8 @@ This course now **makes arguments the central object of study**: their structure
 
      * Goal G; doing A promotes G; therefore, (presumably) do A. ([SSRN][16])
    * Variants: value-based practical reasoning, arguments from consequences, slippery slope variants.
+   * Distinguish **reasons for action** (“Why should we do A?”) from **explanations of action** (“Why did the agent do A?”): motives can explain an action without justifying it.
+   * Ask whether an argument is recommending an action, explaining an action, predicting an action, or attributing a motive before evaluating its support.
 
 2. **Decision theory, very lightly**
 
@@ -275,6 +301,7 @@ This course now **makes arguments the central object of study**: their structure
 
 * Douglas Walton, “Explanations and Arguments Based on Practical Reasoning” and related work on practical reasoning schemes. ([ResearchGate][19])
 * Christian Kock, “Is Practical Reasoning Presumptive?” (for a critical view of Walton). ([informallogic.ca][20])
+* Douglas Walton, Trevor Bench-Capon & Katie Atkinson, “Value-Based Practical Reasoning” (repository reading).
 * Short textbook intro to decision theory / rational choice (e.g., Levin’s *Introduction to Choice Theory*, SEP “Decision Theory,” or Zollman’s *Theories of Rational Decisions*). ([Stanford University][21])
 
 ---
@@ -286,6 +313,7 @@ This course now **makes arguments the central object of study**: their structure
 
 * What is **presumption** in argument, and how is it different from assumption or presupposition?
 * How do burdens of proof shift in dialogue?
+* When can the *absence* of evidence reasonably support a conclusion?
 * How do presuppositions smuggle in background commitments?
 
 **Sub-units**
@@ -302,12 +330,19 @@ This course now **makes arguments the central object of study**: their structure
    * **Presuppositions** as background commitments required for an utterance to make sense (definite descriptions, factive verbs, etc.). ([Stanford Encyclopedia of Philosophy][23])
    * Connect to Course 1 on implicature, framing, and doublespeak.
 
-3. **Legal and evidential contexts**
+3. **Arguments from ignorance and lack of evidence**
+
+   * “No evidence for p” does not automatically entail “not-p,” but arguments from ignorance can be reasonable when a competent search would normally have found the evidence if the claim were true.
+   * Distinguish a mere gap in knowledge from **negative evidence**: an expected observation, record, report, or trace that is absent.
+   * Evaluate the search space, competence and completeness of the inquiry, and whether the missing evidence genuinely would have been expected.
+   * Connect arguments from ignorance to presumption and burden of proof: sometimes lack of defeating evidence is enough to retain a default, while in other contexts the proponent still carries the burden.
+
+4. **Legal and evidential contexts**
 
    * Presumptions in law (e.g., presumption of innocence) as devices that affect how evidence is treated and who carries which burden. ([Cambridge University Press & Assessment][24])
    * Legal standards of proof and the structure of fact-finding dialogues.
 
-4. **Critical questions**
+5. **Critical questions**
 
    * On what basis is the presumption adopted? Is it defeasible in this context?
    * Who benefits from the current distribution of presumptions and burdens?
@@ -318,6 +353,8 @@ This course now **makes arguments the central object of study**: their structure
 * Douglas Walton, *Argumentation Schemes for Presumptive Reasoning*. ([Routledge][8])
 * D.M. Godden, “A Theory of Presumption for Everyday Argumentation.” ([PhilArchive][22])
 * Stanford Encyclopedia of Philosophy, “Presupposition,” and related work on conversational presupposition. ([Stanford Encyclopedia of Philosophy][23])
+* Douglas Walton, “Nonfallacious Arguments from Ignorance” (repository reading).
+* Fabrizio Macagno, “Presupposition as Argumentative Reasoning” (repository reading).
 * Legal evidence/argumentation chapter on presumption and burden of proof. ([Cambridge University Press & Assessment][24])
 
 ---
@@ -335,6 +372,7 @@ This course now **makes arguments the central object of study**: their structure
 
 1. **Evidence schemes**
 
+   * Distinguish **evidence** (an observation, record, testimony, measurement, trace, etc.) from an **argument about evidence**—a claim that this evidence supports, weakens, or discriminates among conclusions.
    * Walton’s schemes involving evidence: argument from sign, argument from evidence to hypothesis, argument from correlation to cause, etc., with critical questions. ([windsor.scholarsportal.info][15])
    * Total evidence requirement: dangers of selective evidence and one-sided case-building.
 
@@ -395,6 +433,8 @@ This course now **makes arguments the central object of study**: their structure
 **Core readings**
 
 * Douglas Walton, *Appeal to Expert Opinion: Arguments from Authority*. ([psupress.org][27])
+* Douglas Walton, “On a Razor’s Edge: Evaluating Arguments from Expert Opinion” (repository reading).
+* David M. Godden & Douglas Walton, “Argument from Expert Opinion as Legal Evidence: Critical Questions and Admissibility Criteria of Expert Testimony in the American Legal System” (repository reading).
 * J.H.M. Wagemans, “The Assessment of Argumentation from Expert Opinion.” ([SpringerLink][28])
 * A short social-epistemology piece on expertise and trust (can build on Goldman, Fricker, and C. Thi Nguyen from Course 1).
 
@@ -424,21 +464,31 @@ This course now **makes arguments the central object of study**: their structure
      * Underlying scheme
      * What gets distorted (e.g., misrepresentation, missing premises, bad similarity claim).
 
-3. **Formal fallacies**
+3. **Case studies in argumentative pathology**
+
+   * **Straw man:** diagnose how a target position is selected, represented, and attacked; distinguish ordinary simplification from a materially distorted reconstruction.
+   * **Loaded questions:** identify which commitments a question presupposes and whether answering it concedes something that remains disputed.
+   * **Begging the question and circularity:** distinguish vicious circular support from cases where circularity may be dialectically informative but not independently justificatory.
+   * **Wrenching from context:** examine how quotations, commitments, or claims can be made misleading by changing the dialogue or evidential context.
+   * Use each case to practice not only naming the problem but identifying the underlying argumentative function and repairing the move.
+
+4. **Formal fallacies**
 
    * Affirming the consequent, denying the antecedent, quantifier fallacies, etc.
    * How they relate to intuitive but invalid patterns of reasoning.
 
-4. **Pedagogical and practical issues**
+5. **Pedagogical and practical issues**
 
    * Why “fallacy bingo” can mislead: disagreements about classification, context-sensitivity, and the rhetorical function of some “fallacious” moves.
    * Exercises in *repairing* fallacious arguments into stronger ones.
 
 **Core readings**
 
-* Jacob E. Van Vleet, *Informal Logical Fallacies: A Brief Guide*. ([Amazon][3])
-* Classic fallacy chapters from Copi or Hurley’s *Introduction to Logic* and online fallacy guides. ([criticalthinking.org][29])
-* A critical piece on the limits of traditional fallacy taxonomy (e.g., from informal logic literature).
+* Christopher W. Tindale, *Fallacies and Argument Appraisal* (repository book).
+* Frans H. van Eemeren & Rob Grootendorst, “Fallacies in Pragma-Dialectical Perspective” (repository reading).
+* Selected repository case studies: Walton on the straw man, loaded questions, begging the question/circularity, and Macagno & Walton on wrenching from context.
+* Jacob E. Van Vleet, *Informal Logical Fallacies: A Brief Guide* (optional concise reference). ([Amazon][3])
+* Classic formal-fallacy chapters from Copi or Hurley’s *Introduction to Logic* as needed. ([criticalthinking.org][29])
 
 ---
 
@@ -480,162 +530,92 @@ This course now **makes arguments the central object of study**: their structure
 
 **Core readings**
 
-* A standard introductory logic text (selected chapters on propositional logic and proofs).
+* P.D. Magnus et al., *forall x: Calgary* (selected chapters on propositional logic, truth tables, validity, and natural deduction). ([forall x: Calgary][39])
 * SEP or concise overviews on non-monotonic logic and nonmonotonic inference. ([Stanford Encyclopedia of Philosophy][2])
+* Douglas Walton, “Are Some Modus Ponens Arguments Deductive?” (repository reading; optional bridge between formal form and defeasible use).
+* David M. Godden, “Denying the Antecedent as a Legitimate Argumentative Strategy: A Dialectical Model” (repository reading; optional extension).
 * A short piece (e.g., Norton, Oaksford & Chater, or cognitive logic work) on the gap between classical logic and human reasoning. ([iccm-conference.neocities.org][31])
 
 ---
 
 <a id="unit-10"></a>
-## Unit 10 – Extensions: Interpretive, Quasi-Logical, and Case-Based Arguments
+## Unit 10 – Extensions: Interpretive, Quasi-Logical, Conductive, and Case-Based Arguments
 
 **Guiding questions**
 
 * How do argument schemes extend into interpretation, rhetoric, and case-based reasoning?
 * What are **quasi-logical** arguments, and why are they powerful?
 * How do “common knowledge” and endoxa function in public argument?
+* How do we evaluate arguments whose force comes from several independent considerations that must be weighed rather than deductively combined?
 
 ---
 
 ### 1. **Interpretive argument schemes**
 
 * Legal hermeneutics and interpretive arguments: how we argue about the *meaning* of texts (constitutions, statutes, sacred texts). ([Internet Encyclopedia of Philosophy][32])
-
-  * Different styles of legal reasoning: textualism, originalism, purposivism, Dworkinian “law as integrity,” etc., as rival *interpretive* schemes.
-  * [Statutory Interpretation](https://en.wikipedia.org/wiki/Statutory_interpretation): how courts appeal to canons (plain meaning, legislative intent, precedent) as recurring argument patterns for what statutes mean.
-  * [Legal Reasoning](https://en.wikipedia.org/wiki/Category:Legal_reasoning): analogy, precedent, and policy arguments as *families* of interpretive schemes rather than just applications of formal logic.
-
-* Gadamerian/hermeneutic insights: pre-understanding, tradition, and the circularity of interpretation (light touch, focusing on argument structure).
-
-  * “Fusion of horizons” as a way to understand why interpretive arguments always start from some historically situated **endoxa** (received opinions, traditions).
-  * Hermeneutic circle as a *recursive* structure: we interpret the part by the whole and the whole by the parts; arguments about meaning often oscillate between “local” textual details and “global” narrative or doctrinal coherence.
-
-* **Diagrammatic reasoning** as an interpretive aid.
-
-  * [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning): using diagrams, flowcharts, charts, or timelines to represent complex interpretive options and their consequences.
-  * Connect to argument mapping: diagrams and concept maps can make visible the structure of competing interpretations (e.g., branching interpretations of a constitutional clause, or a statutory phrase under different canons).
-
-* **Model-based reasoning (intro level, to be developed later).**
-
-  * [Model-Based Reasoning](https://en.wikipedia.org/wiki/Model-based_reasoning): using idealized models to interpret and reason about systems (e.g., “the market,” “the family,” “the constitution-as-contract”).
-  * Here: just flag that interpretive arguments often rely on *models*—simplified structures of how institutions or practices work—which will be treated more formally in your later unit on model-based thinking.
+* Different styles of legal reasoning—textualism, originalism, purposivism, Dworkinian “law as integrity,” etc.—can be treated as rival interpretive schemes with different starting points and critical questions.
+* Statutory interpretation illustrates how recurring appeals to plain meaning, legislative intent, precedent, purpose, and coherence function as defeasible argument patterns.
+* Light-touch hermeneutic point: interpretation is recursive. Local textual details affect our view of the whole, while our view of the whole shapes how local details are understood.
+* Connect back to Unit 2: analogical and precedential arguments often operate inside a larger interpretive dispute about what a case or text *means*.
 
 ---
 
 ### 2. **Arguments from common knowledge / endoxa**
 
 * Aristotle’s *Topics* and *Rhetoric* on endoxa—reputable opinions as starting points for argument. ([Wikipedia][18])
-
-  * Endoxa as “what the many and the wise accept”: a structured resource of *common opinions* from which topoi (topics/argument schemes) are drawn.
-  * [Aristotle’s Topics](https://en.wikipedia.org/wiki/Topics_%28Aristotle%29) as an ancient “catalogue of argument moves”: loci for definition, genus–species, part–whole, more/less, cause/effect, etc.
-
-* Endoxa today: appeals to “what everyone knows,” “common sense,” or “what we as a society believe.”
-
-  * [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning): in AI and philosophy, attempts to formalize this background of shared expectations, folk physics/psychology, and cultural scripts.
-  * Connection to Course 1: “common sense” can be epistemically virtuous (efficient, reliable in everyday contexts) but also encode prejudice, ideology, and epistemic injustice.
-
-* Commonsense reasoning and **default assumptions**.
-
-  * Everyday endoxa often function as *defaults* in defeasible reasoning (“Normally, people tell the truth,” “Usually, prices rise when demand increases.”).
-  * These defaults supply *unspoken premises* in argument schemes—for example, arguments from sign, analogy, or practical reasoning that rely on what is “normally” the case.
-
-* **Metaphorical reasoning** as a structured extension of endoxa.
-
-  * [Metaphorical Reasoning](https://plato.stanford.edu/entries/metaphor/): our shared metaphors (“argument is war,” “the body politic,” “the marketplace of ideas”) embed both descriptive and normative endoxa.
-  * Connect to Course 1 on conceptual metaphor: many appeals to “common sense” are in fact appeals to entrenched **metaphorical models** of the domain (e.g., crime as a “beast” vs. a “virus”).
+* Endoxa as “what the many and the wise accept”: a structured resource of common opinions from which recurring argument moves can begin.
+* Contemporary equivalents include appeals to “common sense,” shared background knowledge, institutional conventions, and default expectations.
+* Endoxa often function as **unstated premises** or defaults in defeasible arguments (“Normally, people tell the truth”; “Usually, official records are reliable”).
+* Critical question: when is common knowledge an efficient and legitimate starting point, and when does it merely reproduce prejudice, ideology, or a contested framing inherited from Course 1?
+* Shared metaphors can also operate as endoxa by making some inferential moves feel obvious; treat this as a bridge back to Course 1 rather than a new unit on metaphor.
 
 ---
 
 ### 3. **Quasi-logical arguments**
 
-* Perelman & Olbrechts-Tyteca’s **New Rhetoric**: quasi-logical arguments that *look* like formal proofs but are actually defeasible and context-sensitive. ([JSTOR][33])
-
-  * They mimic structures like transitivity, contradiction, inclusion, probability calculus, etc., but work on evaluative or vague material (“more just,” “more natural,” “closer to the original meaning”).
-  * Examples:
-
-    * “If A is more X than B, and B is more X than C, then A is more X than C.”
-    * “Either you support policy P or you don’t care about group G.”
-
-* Their psychological power: they piggyback on people’s respect for formal logic.
-
-  * Because they **resemble** deductive or mathematical forms, audiences often treat them as if they had the same certainty, even though premises are vague, contestable, or implicitly value-laden.
-  * Important for critical thinking: learning to *separate* the quasi-logical surface from the substantive premises about values, similarity, or probability.
-
-* Relationship to **diagrammatic reasoning** and visual quasi-logic.
-
-  * Graphs, charts, flow diagrams, and “scorecards” can visually instantiate quasi-logical arguments (“this line is always above that one”; “this cluster dominates that cluster”), without explicit premises stated.
-  * Students can practice re-constructing the underlying quasi-logical pattern from a diagram, then asking what hidden assumptions make it persuasive.
-
-* Link back to **metaphor** and **framing**.
-
-  * Quasi-logical arguments often sit on top of metaphors (“slippery slope,” “domino effect,” “tipping point”), which quietly supply the inferential structure that makes the quasi-logic feel natural.
+* Perelman & Olbrechts-Tyteca’s **New Rhetoric**: quasi-logical arguments resemble formal proof structures while operating on vague, evaluative, or defeasible material. ([JSTOR][33])
+* They may mimic contradiction, transitivity, inclusion, probability, or mathematical comparison without possessing the certainty of a formal proof.
+* Students should reconstruct the substantive premises hidden underneath the logical-looking surface and ask which of them are contestable.
+* Examples include false dilemmas, pseudo-transitive comparisons (“A is more just than B…”), domino/slippery-slope patterns, and quantified-looking claims built on vague categories.
+* Return briefly to Course 1: loaded or persuasive definitions can make a quasi-logical argument appear necessary when the real work is being done by a controversial classification.
 
 ---
 
-### 4. **Case-based and narrative extensions**
+### 4. **Conductive reasoning and weighing reasons**
 
-* Extend Unit 2 & 6: **case-based reasoning** outside law (medicine, ethics, policy, AI explainability). ([Learning Research & Development Center][10])
+* **Conductive arguments** support a conclusion through multiple considerations that may be individually relevant without forming a single deductive chain.
+* Reasons can be convergent, cumulative, or opposed by counter-considerations; evaluation therefore involves **weighing** rather than simply checking validity.
+* Typical contexts include ethics, policy, law, diagnosis, and ordinary deliberation: “There are several reasons for A, several reasons against A, and we must decide which side is stronger.”
+* Critical questions:
 
-  * [Case-Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning): solving new problems by adapting solutions from similar past cases.
-  * In medicine: diagnosis by similarity to previous patients; in ethics: use of paradigm cases and analogies; in AI: retrieval–adaptation cycles as a reasoning architecture.
+  * Are the cited considerations genuinely relevant to the conclusion?
+  * Are important counter-considerations omitted?
+  * Are several weak reasons being mistaken for one strong reason?
+  * Is the weighting of reasons transparent and defensible?
+  * Would a reasonable change in one consideration reverse the conclusion?
 
-* “Interpretive arguments” about how to classify or narrate a case (e.g., is this “self-defense,” “terrorism,” “whistleblowing”?).
-
-  * Competing narratives structure the *salient facts*, the *normative categories*, and the *relevant precedents*.
-  * This is where **legal reasoning** and **narrative reasoning** intersect: the same facts can be narrated under different legal or moral labels, each backed by analogical and precedential schemes.
-
-* **Model-based reasoning**, revisited in a case/narrative context (still intro level).
-
-  * Scientists, historians, and lawyers often build *models* (idealized causal or institutional structures) and then ask: which model best fits this case?
-  * Use this only at a high level: emphasize that later you’ll have a dedicated unit on model-based thinking and scientific modeling.
-
-* **Procedural reasoning** as a way of organizing action-guiding narratives.
-
-  * [Procedural Reasoning System](https://en.wikipedia.org/wiki/Procedural_reasoning_system): in AI, PRS frameworks treat agents as following procedures or plans sensitive to beliefs, desires, and intentions.
-  * Connect this to practical and case-based reasoning: arguments can appeal not just to outcomes or precedents, but to *procedures* (“Follow this algorithm,” “the protocol says…”) as an authoritative structure.
-
-* **Counterfactual conditionals** and counterfactual thinking (high level, to be deepened in a causation course).
-
-  * [Counterfactual Conditionals](https://en.wikipedia.org/wiki/Counterfactual_conditional): “If X had not happened, Y would not have occurred.”
-  * In case-based and causal reasoning, we often argue by comparing the actual case to counterfactual scenarios (“Had the company warned consumers, the harm would have been avoided”).
-  * Flag this as a bridge to your later course on **causation and counterfactual reasoning**: here students just learn to recognize counterfactual moves as a distinct argumentative pattern.
+* Connect to Unit 4: practical reasoning frequently becomes conductive when several goals, values, risks, rights, and consequences must be balanced.
 
 ---
 
-### 5. **Deceptive definitions and quasi-logical abuse**
+### 5. **Case-based and narrative extensions**
 
-* Return briefly to conceptual engineering from Course 1: how persuasive definitions and quasi-logical structures intertwine.
+* Extend Unit 2 and Unit 6: **case-based reasoning** outside law (medicine, ethics, policy, AI explainability). ([Learning Research & Development Center][10])
+* Case-based reasoning solves or evaluates a new case by comparing it with relevant previous cases and adapting what was learned.
+* Competing descriptions of a case can determine which precedents and analogies appear relevant—for example, whether an event is framed as “self-defense,” “terrorism,” “whistleblowing,” or something else.
+* Narrative and argument interact: stories organize facts into causal and temporal structures, while arguments justify why a particular story, classification, or analogy should be accepted.
+* Use this section as synthesis rather than a new technical theory: students should apply schemes, mapping, critical questions, analogy, abduction, evidence, and practical reasoning to complex cases.
 
-  * A persuasive or re-engineered definition (“Patriotism is unconditional loyalty to the state”) can then be plugged into a quasi-logical argument:
+---
 
-    * “If you criticize the state, you’re not patriotic;
-      If you’re not patriotic, you’re disloyal;
-      Therefore…”
-  * This gives the *appearance* of strict logical necessity while the real work is done by the loaded definition.
+### Forward connections / optional extensions
 
-* Illustrate “quasi-formal” arguments that hide controversial re-definitions under a veneer of logical rigor.
+These topics are relevant but should remain signposts rather than full sub-units in this course:
 
-  * Students can practice:
-
-    * Identifying where a controversial definition or classification is introduced.
-    * Reconstructing the argument both with and without the redefinition to see how much force it adds.
-
-* **Arguments from ignorance** and arguments from silence as borderline cases.
-
-  * [Argument from Ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance): “We have no evidence that p, therefore ¬p” (or vice versa).
-  * Walton’s *Arguments from Ignorance* stresses that such arguments can be *reasonable* when the search space is well defined and a competent search has been performed (e.g., “No record in the database → the person is not registered”). ([Penn State University Press][34])
-  * **Arguments from silence** (especially in law and history): inferring from the absence of expected testimony or documents.
-
-    * Students examine when silence is evidential (if someone would *normally* speak up) vs. when it is neutral (silence is common, or costly to break).
-  * You can connect this to **negative paradigms** and default reasoning: sometimes the absence of a positive case (no counterexample, no complaint, no anomaly) is treated as indirect support for a generalization—again, defeasible and context-sensitive.
-
-* **Commonsense and metaphorical abuse.**
-
-  * Appeals to “common sense” (“Everyone knows…”) can be combined with quasi-logical form and loaded definitions to construct arguments that seem obvious but are actually built on highly contestable background metaphors and endoxa.
-  * This ties the course back to:
-
-    * Course 1 (metaphor, framing, conceptual engineering).
-    * Earlier units here (endoxa, quasi-logical arguments, case-based narratives).
+* **Diagrammatic reasoning:** broader uses of diagrams, timelines, and visual representations beyond ordinary argument maps.
+* **Model-based reasoning:** idealized models used to reason about scientific, institutional, or social systems; to be developed in a later course on modeling.
+* **Counterfactual reasoning:** “If X had not occurred, would Y still have happened?”; to be developed in the later causation/counterfactual course.
+* **Procedural reasoning systems:** computational agents that reason with plans, procedures, beliefs, desires, and intentions; optional for students interested in computational argumentation.
 
 ---
 
@@ -644,15 +624,14 @@ This course now **makes arguments the central object of study**: their structure
 * Chaim Perelman & Lucie Olbrechts-Tyteca, *The New Rhetoric: A Treatise on Argumentation* (sections on quasi-logical arguments). ([JSTOR][33])
 * Aristotle, *Topics* and *Rhetoric* (selections on endoxa and rhetorical/dialectical argument). ([Wikipedia][18])
 * Legal hermeneutics / legal interpretation (e.g., IEP “Legal Hermeneutics,” SEP “Legal Interpretation”). ([Internet Encyclopedia of Philosophy][32])
+* Robert Pinto, “Weighing Evidence in the Context of Conductive Reasoning” (repository reading).
 * Ashley, *Artificial Intelligence and Legal Analytics* (for case-based reasoning and interpretive models). ([iamaeg.net][11])
-* Supplemental “extension” readings (short, carefully curated excerpts):
+* Optional forward-reading excerpts:
 
-  * On **model-based reasoning**: e.g., Nersessian on model-based reasoning in science, or a short survey of [Model-Based Reasoning](https://en.wikipedia.org/wiki/Model-based_reasoning). ([Mechanism][35])
-  * On **diagrammatic reasoning**: a brief overview of [Diagrammatic Reasoning](https://en.wikipedia.org/wiki/Diagrammatic_reasoning) and its relation to logical and conceptual representation. ([Wikipedia][36])
-  * On **procedural reasoning systems**: a short accessible explanation of PRS and BDI agents. ([Wikipedia][37])
-  * On **commonsense reasoning**: Davis & Marcus, “Commonsense Reasoning and Commonsense Knowledge in AI,” or an accessible overview of [Commonsense Reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning). ([Wikipedia][38])
-  * On **arguments from ignorance and silence**: Douglas Walton, *Arguments from Ignorance*, plus a short article on argument from silence. ([Penn State University Press][34])
-  * On **metaphor and reasoning**: SEP entry on [Metaphor](https://plato.stanford.edu/entries/metaphor/) (selected sections on cognitive and inferential roles of metaphor).
+  * On **model-based reasoning**: Nersessian or a short survey of model-based reasoning in science. ([Mechanism][35])
+  * On **diagrammatic reasoning**: a brief overview of diagrammatic reasoning. ([Wikipedia][36])
+  * On **procedural reasoning systems**: an accessible explanation of PRS and BDI agents. ([Wikipedia][37])
+  * On **commonsense reasoning**: Davis & Marcus or an accessible overview. ([Wikipedia][38])
 
 ---
 
@@ -714,3 +693,4 @@ This course now **makes arguments the central object of study**: their structure
 [36]: https://en.wikipedia.org/wiki/Diagrammatic_reasoning "Diagrammatic reasoning"
 [37]: https://en.wikipedia.org/wiki/Procedural_reasoning_system "Procedural reasoning system"
 [38]: https://en.wikipedia.org/wiki/Commonsense_reasoning "Commonsense reasoning"
+[39]: https://forallx.openlogicproject.org/ "forall x: Calgary — An Introduction to Formal Logic"

@@ -15,12 +15,18 @@ How should we think well about religion—its claims, texts, experiences, instit
 * Distinguish interpretation, doctrine, myth, allegory, narrative, and literal-historical claim.
 * Apply historical reasoning to religious origins and development: dating, source criticism, reception, transmission, chronology, authorship, redaction, canon formation, theological development, and institutional change.
 * Analyze the difference between describing what a religion teaches, explaining why people believe it, and assessing whether it is true.
-* Compare major traditions and religious forms without flattening them into “all basically the same” or “totally incomparable.”
+* Compare specific claims or practices across traditions by naming the dimension of comparison, participants’ terms, source context, and limits of the analogy, without treating one tradition as a universal template.
 * Explain how myths, symbols, god-concepts, and religious structures may be shaped by ecology, subsistence, political institutions, empire, cultural exchange, and philosophical reinterpretation without reducing religion to environment, power, or abstraction alone.
-* Evaluate miracle, revelation, prophecy, conversion, and religious experience claims using standards from testimony, probability, and alternative explanation.
+* Analyze miracle, revelation, prophecy, conversion, and religious-experience claims by distinguishing an event, a report, its interpretation, and further inferences; assess testimony, corroboration, probability assumptions, and alternatives.
 * Analyze religious institutions, identity, controversy, secularization, and critique without confusing social influence with truth or falsity.
 * Distinguish historical questions about what communities believed about God or ultimate reality from philosophical questions about which models are most coherent, plausible, or defensible.
 * Develop a disciplined stance that is neither credulous nor glibly debunking: methodologically pluralist, evidentially calibrated, historically sensitive, and argumentatively fair-minded.
+
+**Course method: four questions, kept distinct.** For every bounded religious claim, text, or practice ask: **(1) Meaning:** what does it mean to participants, and whose interpretation is this? **(2) Evidence and history:** what do the surviving sources establish, and what remains uncertain? **(3) Explanation:** what historical, social, cognitive, or material processes might account for it, and what evidence supports the proposed explanation? **(4) Justification:** which philosophical or factual truth-claims can be assessed, and by what standards? A social explanation does not by itself settle truth; a coherent philosophical model does not by itself establish a historical event. Separate observations, interpretations, hypotheses, and unresolved questions.
+
+**Recurring inquiry and source packet.** Revisit one *bounded, documented* claim or practice in successive units, for example an early Christian text and its later reception, while using a distinct comparison case when the question requires it. An instructor-supplied packet should include source excerpts with provenance, approximate dates where established, translation information, competing scholarly interpretations, and a record of evidentiary gaps. The 96-entry local inventory is rich in philosophy of God, unbelief, biblical studies, and Christianity, but does **not** identify a balanced, ready-made primary-source packet spanning the traditions named in Units 8–10. Select additional contextualized, tradition-specific sources for those comparisons; do not invent quotations, provenance, lineages, dates, or participant beliefs.
+
+**Reading convention.** **Local selection** denotes a resource explicitly listed in the supplied Course 14 `metadata.json`; links use its exact relative path. Assign a short, relevant passage or chapter rather than an entire handbook. **External core** names a specifically needed reading not identifiable in that inventory; **external/optional** indicates further reference rather than a mandatory assignment. Existing external citations are retained as supplied, not independently verified for availability. Compare arguments and documented positions fairly; neither endorsement of religion nor rejection of religion is a course learning outcome.
 
 ## Table of Contents
 
@@ -72,12 +78,15 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * How definition choices pre-structure later debates.
 
+### Applied reasoning lab
+
+Compare two boundary cases (for example, a non-theistic tradition and a secular communal practice). Apply a belief-centered and a practice-centered definition; show how the classification changes, what is learned, and which voices are missing.
+
 ### Core resources
 
-* Kevin Schilbrack, “The Concept of Religion,” *Stanford Encyclopedia of Philosophy*.
-* William J. Wainwright, ed., *The Oxford Handbook of Philosophy of Religion*.
-* Timothy Fitzgerald, *The Ideology of Religious Studies*.
-* Russell T. McCutcheon, *Manufacturing Religion*.
+* **Local selection:** [Wainwright, ed., *The Oxford Handbook of Philosophy of Religion*](resources/The%20Oxford%20Handbook%20of%20Philosophy%20of%20Religion.pdf) — a short introductory chapter on the scope of philosophical questions, not a comprehensive definition of religious studies.
+* **External core:** Kevin Schilbrack, “The Concept of Religion,” *Stanford Encyclopedia of Philosophy* — focused treatment of the contested academic category.
+* **External/optional:** Timothy Fitzgerald, *The Ideology of Religious Studies*; Russell T. McCutcheon, *Manufacturing Religion* — contrasting critical approaches to categories, not assumed local.
 
 ---
 
@@ -117,16 +126,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Cognitive science of religion, ritual, agency detection, meaning-making.
 
+### Applied reasoning lab
+
+Choose one documented ritual or conversion account. Write a philosophical, historical, sociological, and cognitive research question about it, noting which evidence each requires and what none can settle alone. For a cross-cultural resemblance, distinguish contact evidence from conjectured convergence.
+
 ### Core resources
 
-* “Philosophy of Religion,” *Stanford Encyclopedia of Philosophy*.
-* Helen De Cruz, “Religion and Science,” *Stanford Encyclopedia of Philosophy*.
-* Clifford Geertz, *The Interpretation of Cultures*.
-* Émile Durkheim, *The Elementary Forms of Religious Life*.
-* Peter L. Berger, *The Sacred Canopy*.
-* Claude Lévi-Strauss, *Structural Anthropology*.
-* Bruce Lincoln, “Theses on Method.”
-* Ninian Smart, *Dimensions of the Sacred*.
+* **Local selection:** [Luhmann, *A Systems Theory of Religion*](resources/Niklas%20Luhmann%20-%20A%20systems%20Theory%20of%20Religion.pdf) — selected discussion of social systems.
+* **Local selection:** [Norenzayan, *Big Gods*](resources/agnosticism/Big%20gods%20how%20religion%20transformed%20cooperation%20and%20conflict.pdf) — selected empirical argument to evaluate.
+* **Local selection:** [*Scientific Approaches to the Philosophy of Religion*](resources/Scientific%20Approaches%20to%20the%20Philosophy%20of%20Religion.pdf) — one method-specific chapter.
+* **External core:** Bruce Lincoln, “Theses on Method”; Ninian Smart, *Dimensions of the Sacred* — short contrasting methodological selections.
 
 ---
 
@@ -157,13 +166,15 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * What should move a believer or skeptic to update?
 
+### Applied reasoning lab
+
+Take a bounded claim and distinguish assent to a proposition, trust, hope, identity, and practical commitment. Reconstruct a reason for belief and a reason for suspension of judgment; specify what evidence or argument would count as a defeater for each.
+
 ### Core resources
 
-* Peter Forrest, “The Epistemology of Religion,” *Stanford Encyclopedia of Philosophy*.
-* John Bishop, “Faith,” *Stanford Encyclopedia of Philosophy*.
-* J. L. Schellenberg, “Reason and Religious Commitment,” *Stanford Encyclopedia of Philosophy*.
-* William K. Clifford, “The Ethics of Belief.”
-* Alvin Plantinga, *Warranted Christian Belief*.
+* **Local selection:** [Oppy, “Atheism and Agnosticism”](resources/agnosticism/Atheism%20and%20Agnosticism.pdf) — selected account of positions and degrees of commitment.
+* **Local selection:** [Gray, *Seven Types of Atheism*](resources/agnosticism/Seven%20Types%20of%20Atheism.pdf) — a selected contrasting conception rather than a definition of every nonbeliever.
+* **External core:** John Bishop, “Faith,” *Stanford Encyclopedia of Philosophy*; William K. Clifford, “The Ethics of Belief” — short readings for contested meanings of faith and evidential responsibility.
 
 ---
 
@@ -194,13 +205,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Evil, suffering, hiddenness, incoherence of divine attributes.
 
+### Applied reasoning lab
+
+Reconstruct one cosmological, ontological, design, or moral argument in numbered premises and a precise conclusion. Pair a serious defender with a serious critic; test one central premise and identify which model of God the conclusion would—and would not—support.
+
 ### Core resources
 
-* Graham Oppy, *Arguing about Gods*.
-* Richard M. Gale, *On the Nature and Existence of God*.
-* J. L. Mackie, *The Miracle of Theism*.
-* “The Problem of Evil,” *Stanford Encyclopedia of Philosophy*.
-* “Theodicies,” *Stanford Encyclopedia of Philosophy*.
+* **Local selection:** [Feser, *Five Proofs of the Existence of God*](resources/christianity/Five%20Proofs%20of%20the%20Existence%20of%20God.pdf) — a selected argument from a defender.
+* **Local selection:** [Oppy, *Arguing about Gods*](resources/arguments_for_existence/Arguing%20about%20Gods%20by%20Graham%20Oppy.pdf) — a selected critical or comparative treatment of the same argument.
+* **Local selection:** [Hume, *Dialogues Concerning Natural Religion*](resources/arguments_for_existence/Dialogues%20Concerning%20Natural%20Religion.pdf) — selected dialogue on design or inference.
+* **Optional local selection:** [Mackie, *The Miracle of Theism*](resources/arguments_for_existence/The%20Miracle%20of%20Theism%20Arguments%20for%20and%20Against%20the-Existence%20of%20God.pdf) — another local critical account; Sobel and Gale are further local reference works.
 
 ---
 
@@ -221,7 +235,7 @@ How should we think well about religion—its claims, texts, experiences, instit
 
 2. Revelation and authority
 
-   * Why testimony matters in religion more than in many other domains.
+   * What roles testimony plays in religion, history, and everyday knowledge; which forms of dependence and corroboration differ by claim.
 
 3. Miracle claims
 
@@ -229,15 +243,18 @@ How should we think well about religion—its claims, texts, experiences, instit
 
 4. Experience under interpretation
 
-   * Why no experience arrives theory-free.
+   * How experiences are interpreted through concepts and communities; do not infer that every description is therefore equally supported.
+
+### Applied reasoning lab
+
+Using a documented report, separate an alleged event, a witness’s experience, a report, a transmission chain, and a theological interpretation. Audit witness access and independence, corroboration, alternative accounts, and assumptions about prior probability; state what cannot be established.
 
 ### Core resources
 
-* “Religious Experience,” *Stanford Encyclopedia of Philosophy*.
-* “Miracles,” *Stanford Encyclopedia of Philosophy*.
-* David Hume, “Of Miracles.”
-* William James, *The Varieties of Religious Experience*.
-* C. K. Chen, “Religious Experience and the Philosophy of Perception,” *Think*.
+* **Local selection:** [Ahmed, “Hume and the Independent Witnesses”](resources/arguments_for_existence/papers/Hume_and_the_Independent_Witnesses.pdf) — focused treatment of witness independence.
+* **Local selection:** [Bonevac, “The Argument from Miracles”](resources/christianity/papers/Bonevac_Miracles.pdf) — a contrasting philosophical argument.
+* **Local selection:** [Hunter, “Spinoza on Miracles”](resources/christianity/papers/SpinozaOnMiracles.pdf) — selected conceptual counterpoint.
+* **External core:** “Religious Experience” and “Miracles,” *Stanford Encyclopedia of Philosophy* — brief background selections, not replacements for historical sources.
 
 ---
 
@@ -276,16 +293,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Ambiguity, canon, authority, and community control of meaning.
 
+### Applied reasoning lab
+
+Compare two interpretations of one contextualized passage or narrative. Record genre, audience, translation choices, community usage, and what would count against each reading. In a motif comparison, distinguish observed similarity from a proposed explanation for it.
+
 ### Core resources
 
-* “Hermeneutics,” *Stanford Encyclopedia of Philosophy*.
-* Hans-Georg Gadamer, *Truth and Method*.
-* Paul Ricoeur, *Interpretation Theory*.
-* Mircea Eliade, *Myth and Reality*.
-* Claude Lévi-Strauss, *Myth and Meaning*.
-* Bruce Lincoln, *Theorizing Myth*.
-* Stith Thompson, *Motif-Index of Folk-Literature*.
-* Georges Dumézil, *Myth and Epic*.
+* **Local selection:** [Wawrzyniak, “The Significance of Wittgenstein’s Remarks on Religious Belief”](resources/christianity/papers/TheSignificanceOfWittgensteinRemarksOnReligion.pdf) — selected approach to religious language.
+* **Local selection:** [Asad, “Thinking about Religion through Wittgenstein”](resources/christianity/papers/Thinking%20about%20religion%20through%20wittgenstein.pdf) — a contrasting interpretive perspective.
+* **External core:** Bruce Lincoln, *Theorizing Myth*; a contextualized primary narrative from the tradition studied — targeted myth-method and source-material gap.
+* **External/optional:** Hans-Georg Gadamer, *Truth and Method*; Mircea Eliade, *Myth and Reality* — optional contrasting frameworks, not a required reading stack.
 
 ---
 
@@ -316,12 +333,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * How texts become central, marginal, orthodox, or heretical.
 
+### Applied reasoning lab
+
+Compare two dated documents about a religious claim or practice. Record provenance, genre, probable textual dependence, transmission, and translation; separate what a text attests about its community from what it establishes about an earlier event.
+
 ### Core resources
 
-* *The Oxford Handbook of Biblical Studies*.
-* “Historical Criticism” and “Biblical Criticism,” *Encyclopaedia Britannica*.
-* Jack Finegan, *Handbook of Biblical Chronology*.
-* Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings*.
+* **Local selection:** [*The Oxford Handbook of Biblical Studies*](resources/christianity/The%20Oxford%20Handbook%20of%20Biblical%20Studies.pdf) — one relevant chapter on textual or historical methods.
+* **Local selection:** [*The Biblical Canon Lists from Early Christianity: Texts and Analysis*](resources/christianity/The%20Biblical%20Canon%20Lists%20from%20Early%20Christianity%20Texts%20and%20Analysis.pdf) — a selected primary-list and contextual discussion.
+* **Local selection:** [Finegan, *Handbook of Biblical Chronology*](resources/Handbook%20of%20Biblical%20Chronology%20Principles%20of%20Time%20Reckoning%20in%20the%20Ancient%20World%20and%20Problems%20of%20Chronology%20in%20the%20Bible.pdf) — consult only for an actual chronology problem.
+* **External core:** Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings* — named in the original README but not identifiable in this inventory.
 
 ---
 
@@ -347,12 +368,12 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Borrowing, adaptation, polemics, differentiation.
    * God-identification, symbolic translation, reinterpretation, hybrid cults, and selective incorporation.
-   * How gods absorb, merge with, differentiate from, or polemically replace neighboring deities.
+   * Assess evidence for particular claims that deities were identified with, differentiated from, or reinterpreted in relation to neighboring deities.
 
 3. Mythic structures and material settings
 
-   * How recurring religious forms may reflect pastoralism, agriculture, kingship, city-state life, empire, scarcity, risk, coordination problems, and lineage systems.
-   * Case patterns: shepherd imagery in the ancient Near East, civic polytheism in the Mediterranean, ancestor and ritual order in East Asia, apocalypticism under imperial domination.
+   * Investigate whether particular religious forms are connected to pastoralism, agriculture, kingship, city-state life, empire, scarcity, risk, coordination problems, or lineage systems; specify sources and alternative explanations.
+   * Possible case questions: what evidence links shepherd imagery, civic cults, ancestor rituals, or apocalyptic texts to a proposed setting? Avoid assuming that an example represents an entire region or tradition.
 
 4. Founders, movements, and institutions
 
@@ -363,15 +384,16 @@ How should we think well about religion—its claims, texts, experiences, instit
    * Development, reform, schism, retrospective identity-construction.
    * Theological development as reinterpretation of inherited divine attributes, images, and functions.
 
+### Applied reasoning lab
+
+Build a dated source sequence for one proposed borrowing, reform, or doctrinal change. Identify documented contact, independent similarities, alternatives, and transmission gaps. Treat material and political conditions as hypotheses to test, not sufficient explanations by default.
+
 ### Core resources
 
-* *The Oxford Handbook of Early Christian Studies*.
-* Bart D. Ehrman, *Jesus: Apocalyptic Prophet of the New Millennium*.
-* Jonathan Z. Smith, *Drudgery Divine*.
-* Larry Hurtado, *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*.
-* J. D. Y. Peel, “Syncretism and Religious Change.”
-* Talal Asad, *Genealogies of Religion*.
-* Bruce Lincoln, *Authority: Construction and Corrosion*.
+* **Local selection:** [Bauer, *Orthodoxy and Heresy in Earliest Christianity*](resources/walter_bauer_orthodoxy_and_heresy_in_earliest_christianity.pdf) — a selected historical argument to examine, not an undisputed account.
+* **Local selection:** [“Entangled Christianities”](resources/christianity/papers/Entangled_Christianities.pdf) — a short case of connections and variation.
+* **Local selection:** [“The Genesis of St. Augustine’s Idea of Original Sin”](resources/christianity/papers/Augustine_Original_Sin.pdf) — optional bounded example of conceptual development.
+* **External core:** J. D. Y. Peel, “Syncretism and Religious Change”; tradition-specific primary and scholarly sources — needed for comparison beyond local Christian materials.
 
 ---
 
@@ -408,14 +430,15 @@ How should we think well about religion—its claims, texts, experiences, instit
    * Avoiding “Christianity as default template.”
    * Avoiding environmental determinism and “all myths are the same” universalism.
 
+### Applied reasoning lab
+
+Compare one well-specified practice or concept in two traditions using a *source from each*. State the comparison dimension, participants’ terms, historical and translation context, possible connections, and a limit to the analogy. Do not assume Christianity is the template.
+
 ### Core resources
 
-* “Comparative Philosophy of Religion,” *Stanford Encyclopedia of Philosophy*.
-* “Religious Diversity (Pluralism),” *Stanford Encyclopedia of Philosophy*.
-* Jeanine Diller and Asa Kasher, eds., *Models of God and Alternative Ultimate Realities*.
-* Ninian Smart, *Dimensions of the Sacred*.
-* Jonathan Z. Smith, *Drudgery Divine*.
-* Bruce Lincoln, *Theorizing Myth*.
+* **Local selection:** [Diller and Kasher, eds., *Models of God and Alternative Ultimate Realities*](resources/Models%20of%20God%20and%20Alternative%20Ultimate%20Realities.pdf) — one relevant comparative chapter, not a substitute for practitioners’ texts.
+* **External core:** “Comparative Philosophy of Religion,” *Stanford Encyclopedia of Philosophy* — methodological overview.
+* **External core:** Contextualized primary passages and tradition-specific scholarship for each chosen tradition — required comparative-source packet not identifiable as a balanced set in the local inventory.
 
 ---
 
@@ -440,11 +463,11 @@ How should we think well about religion—its claims, texts, experiences, instit
 2. Historical evolution of god-concepts
 
    * How deities change through redaction, canon formation, theological reflection, polemic, institutional consolidation, and cross-cultural exchange.
-   * From local or national deity to universal God; from anthropomorphic and embodied depictions to increasingly abstract, transcendent, and metaphysical ones.
+   * Investigate particular shifts in scope, embodiment, transcendence, and abstraction, including coexistence and reversals; no single developmental sequence is assumed across traditions.
 
 3. Embodiment, anthropomorphism, and divine imagery
 
-   * Why ancient communities often depict gods in bodily, spatial, and agentive terms.
+   * Ask when, by whom, and for what purposes particular communities use bodily, spatial, or agentive divine imagery.
    * How later interpreters literalize, spiritualize, suppress, or reinterpret inherited divine imagery.
 
 4. Philosophical models of God
@@ -462,16 +485,15 @@ How should we think well about religion—its claims, texts, experiences, instit
    * Describing what a tradition says about God vs explaining how that concept emerged vs evaluating whether it is true or coherent.
    * Historical-philological, archaeological, comparative, and analytic-philosophical approaches as complementary but distinct.
 
+### Applied reasoning lab
+
+Produce two separate short analyses: (a) map a documented change in one god-concept across dated sources, noting continuity, variation, and uncertainty; (b) test the compatibility of two proposed divine attributes. Do not infer a universal trajectory from local evidence.
+
 ### Core resources
 
-* Karen Armstrong, *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*.
-* Francesca Stavrakopoulou, *God: An Anatomy*.
-* Andrei A. Buckareff and Yujin Nagasawa, eds., *Alternative Concepts of God: Essays on the Metaphysics of the Divine*.
-* Jeanine Diller and Asa Kasher, eds., *Models of God and Alternative Ultimate Realities*.
-* Mark S. Smith, *The Early History of God: Yahweh and the Other Deities in Ancient Israel*.
-* “God and Other Ultimates,” *Stanford Encyclopedia of Philosophy*.
-* “Philosophy of Religion,” *Stanford Encyclopedia of Philosophy*.
-* “Comparative Philosophy of Religion,” *Stanford Encyclopedia of Philosophy*.
+* **Local selection:** [Buckareff and Nagasawa, eds., *Alternative Concepts of God*](resources/Alternative%20concepts%20of%20God_%20essays%20on%20the%20metaphysics%20of%20the%20divine.pdf) — selected philosophical model.
+* **Local selection:** [Diller and Kasher, eds., *Models of God and Alternative Ultimate Realities*](resources/Models%20of%20God%20and%20Alternative%20Ultimate%20Realities.pdf) — selected contrasting model; use one local copy of *Alternative Concepts of God* rather than assuming the two paths are distinct works.
+* **External core:** Mark S. Smith, *The Early History of God*; a dated, contextualized source set for the chosen tradition — historical development cannot be established by a model comparison alone.
 
 ---
 
@@ -502,13 +524,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * The genetic fallacy and its legitimate neighbors.
 
+### Applied reasoning lab
+
+Audit one empirical study of religion: population, operational definitions, measures, comparison, uncertainty, and what conclusions follow. Distinguish evidence of a mechanism from generalization to all religions, and the genesis of a belief from its truth.
+
 ### Core resources
 
-* “Religion and Science,” *Stanford Encyclopedia of Philosophy*.
-* Jesper Sørensen, “Religion in Mind: A Review Article of the Cognitive Science of Religion.”
-* Harvey Whitehouse and Pieter François, “Ritual and Religion as Social Technologies of Cooperation.”
-* H. M. Carvour, “A review of the neuroscience of religion.”
-* Ara Norenzayan, *Big Gods*.
+* **Local selection:** [Norenzayan, *Big Gods*](resources/agnosticism/Big%20gods%20how%20religion%20transformed%20cooperation%20and%20conflict.pdf) — selected empirical claim and methodological discussion.
+* **Local selection:** [Atran, *In Gods We Trust*](resources/agnosticism/In%20Gods%20We%20Trust%20The%20Evolutionary%20Landscape%20of%20Religion%20%28Evolution%20and%20Cognition%29.pdf) — selected comparison or theoretical account.
+* **Local selection:** [*Scientific Approaches to the Philosophy of Religion*](resources/Scientific%20Approaches%20to%20the%20Philosophy%20of%20Religion.pdf) — one targeted methodological chapter.
+* **External core:** Jesper Sørensen, “Religion in Mind” — optional concise overview if a separate survey is needed.
 
 ---
 
@@ -539,15 +564,19 @@ How should we think well about religion—its claims, texts, experiences, instit
 
 4. Power without reductionism
 
-   * Why “it’s really just politics/power” is sometimes insightful and sometimes lazy.
+   * Test institution- and power-based explanations against specific evidence without treating them as automatic substitutes for participants’ meanings or the truth of a claim.
    * How to analyze myth as institutionally useful without assuming that usefulness settles truth.
+
+### Applied reasoning lab
+
+Document one institutional controversy: actors, dates, rules, texts, competing interpretations, and changes in authority. Separate evidence for social functions and institutional incentives from conclusions about the truth of religious claims.
 
 ### Core resources
 
-* Peter L. Berger, *The Sacred Canopy*.
-* Émile Durkheim, *The Elementary Forms of Religious Life*.
-* Talal Asad, *Genealogies of Religion*.
-* “Religion and Political Theory,” *Stanford Encyclopedia of Philosophy*.
+* **Local selection:** [Luhmann, *A Systems Theory of Religion*](resources/Niklas%20Luhmann%20-%20A%20systems%20Theory%20of%20Religion.pdf) — selected institutional framework.
+* **Local selection:** [Bauer, *Orthodoxy and Heresy in Earliest Christianity*](resources/walter_bauer_orthodoxy_and_heresy_in_earliest_christianity.pdf) — specific historically bounded case.
+* **Local selection:** [Morrison, “The Religious Defense of American Slavery Before 1830”](resources/christianity/papers/The%20religious%20justification%20of%20slavery%20before%201830.pdf) — specific historical primary/secondary-source analysis; not representative of all religious politics.
+* **External core:** Talal Asad, *Genealogies of Religion* — optional contrasting theoretical perspective.
 
 ---
 
@@ -578,12 +607,16 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Can critiques of religion themselves become dogmatic or insulated?
 
+### Applied reasoning lab
+
+Define atheism, agnosticism, secularism, nonreligion, and institutional critique without conflation. Reconstruct a particular criticism of religion and a substantial response; identify evidence requirements and avoid treating any category as one unified worldview.
+
 ### Core resources
 
-* *The Oxford Handbook of Atheism*.
-* Stephen Bullivant, *Atheism: A Very Short Introduction*.
-* “Secularism and Religion,” *Oxford Research Encyclopedia of Politics*.
-* Hans Gülalp, “Revisiting the classics on secularization theory.”
+* **Local selection:** [Oppy, “Atheism and Agnosticism”](resources/agnosticism/Atheism%20and%20Agnosticism.pdf) — short definitional and philosophical selection.
+* **Local selection:** [Gray, *Seven Types of Atheism*](resources/agnosticism/Seven%20Types%20of%20Atheism.pdf) — selected examples of variation.
+* **Local selection:** [Whitmarsh, *Battling the Gods*](resources/christianity/Battling%20the%20Gods%20Atheism%20in%20the%20Ancient%20World.pdf) — selected historical counterpoint.
+* **Optional local selection:** [*The Oxford Handbook of Atheism*](resources/agnosticism/The%20Oxford%20Handbook%20of%20Atheism.pdf) — one chapter chosen for the specific kind of nonbelief.
 
 ---
 
@@ -608,19 +641,22 @@ How should we think well about religion—its claims, texts, experiences, instit
 
 3. Competing explanations
 
-   * Miracle, legend development, visionary experience, symbolic interpretation, political-religious consolidation.
+   * Compare carefully specified event, experience, literary-development, symbolic-interpretation, and institutional accounts; distinguish what each seeks to explain and what evidence it requires.
 
 4. Meta-analysis
 
    * What this case teaches about underdetermination, priors, and argument standards.
 
+### Applied reasoning lab
+
+Build a source-and-argument dossier on a *bounded* early-Christian claim. Distinguish what texts say, what historical participants believed or experienced, later literary and doctrinal reception, and the proposed event. Compare explanations by evidential targets and record unresolved questions. This is one application case, not a template for all religions.
+
 ### Core resources
 
-* Richard C. Miller, *Resurrection and Reception in Early Christianity*.
-* *The Oxford Handbook of Early Christian Studies*.
-* Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings*.
-* N. T. Wright, *The Resurrection of the Son of God*.
-* “Miracles,” *Stanford Encyclopedia of Philosophy*.
+* **Local selection:** [Miller, *Resurrection and Reception in Early Christianity*](resources/Resurrection%20and%20Reception%20in%20Early%20Christianity%20-%20Richard%20C%20Miller.pdf) — selected interpretation of reception.
+* **Local selection:** [Alter, *The Resurrection: A Critical Examination of the Easter Story*](resources/christianity/The%20Resurrection%20A%20Critical%20Examination%20of%20the%20Easter%20Story.pdf) — selected contrasting critical treatment.
+* **Local selection:** [*The Oxford Handbook of Early Christian Studies*](resources/christianity/The%20Oxford%20Handbook%20of%20Early%20Christian%20Studies.pdf) — one contextual historical chapter.
+* **External core:** N. T. Wright, *The Resurrection of the Son of God* — originally listed; not identifiable in the supplied inventory, and optional if added.
 
 ---
 
@@ -651,62 +687,57 @@ How should we think well about religion—its claims, texts, experiences, instit
 
    * Courage, humility, charity, clarity, patience, revision-readiness.
 
+### Applied reasoning lab
+
+Write a dialogue-and-revision memo: state one believer’s, one nonbeliever’s, or another relevant participant’s view in terms they would recognize; separate evidential, methodological, and value disagreements; present a serious objection; say what would prompt revision and what remains open.
+
 ### Core resources
 
-* “Disagreement,” *Stanford Encyclopedia of Philosophy*.
-* “Religious Diversity (Pluralism),” *Stanford Encyclopedia of Philosophy*.
-* E. J. Y. Choe et al., “Intellectual humility and religion/spirituality: a scoping review.”
-* P. C. Hill et al., “Intellectual Humility in the Psychology of Religion and Spirituality.”
+* **Local selection:** [Oppy, “Atheism and Agnosticism”](resources/agnosticism/Atheism%20and%20Agnosticism.pdf) — a selected frame for accurately distinguishing positions.
+* **Local selection:** [*The Oxford Handbook of Philosophy of Religion*](resources/The%20Oxford%20Handbook%20of%20Philosophy%20of%20Religion.pdf) — a selected chapter with a serious disagreement to reconstruct.
+* **External core:** “Disagreement” and “Religious Diversity (Pluralism),” *Stanford Encyclopedia of Philosophy* — focused framing of disagreement.
+* **External/optional:** E. J. Y. Choe et al., “Intellectual humility and religion/spirituality: a scoping review” — originally named; not identifiable in the supplied inventory.
 
 ---
 
 ## Skills labs running through the whole course
 
-* Argument reconstruction: isolate thesis, hidden premises, burden of proof, modal scope, ambiguities, and defeaters.
-* Method selection: identify whether a question is primarily philosophical, historical, textual, sociological, psychological, cognitive-scientific, or comparative before trying to answer it.
-* Text-status identification: distinguish devotional text, mythic narrative, liturgy, historical source, legal code, allegory, theological reflection, and polemic.
-* Miracle/testimony audit: witness quality, independence, prior probability, corroboration, hostile sources, and alternative explanations.
-* Historical-source triage: authorship, date, provenance, genre, redaction, manuscript distance, and reception history.
-* Comparison discipline: specify which dimension is being compared—god-concept, ritual structure, salvation model, institutional form, cosmology, ethics, narrative role, or ultimate reality.
-* Comparative-method audit: when two religious narratives look similar, test competing explanations—inheritance, diffusion, syncretism, convergence, cognitive recurrence, or coincidence.
-* Myth-context analysis: identify which environmental, institutional, political, and economic features a myth may reflect, and distinguish strong evidence from speculative overreading.
-* God-concept analysis: distinguish historical deity-description, liturgical usage, philosophical model, and metaphysical claim.
-* Attribute-compatibility testing: assess whether a proposed model of God coherently combines omnipotence, omniscience, goodness, timelessness, simplicity, embodiment, agency, or relationality.
-* Divine-development mapping: trace how a concept of God changes across texts, eras, institutions, and philosophical reinterpretations.
-* Belief-update journal: track how one’s assessment changes when new evidence, arguments, or methodological distinctions are introduced.
-* Debate without caricature: write the strongest believer, skeptic, historian, and comparativist versions of a position before assessing it.
+* **Four-question worksheet:** distinguish participant meaning, historical/source evidence, proposed explanation, and assessment of a truth-claim. Note when a question lies outside the available method.
+* **Argument reconstruction:** isolate the conclusion, premises, burden of proof, modal scope, relevant alternatives, and defeaters; state strong versions of positions before critique.
+* **Method selection:** specify philosophical, historical, textual, sociological, psychological, cognitive-scientific, and comparative research questions and what evidence each requires.
+* **Text-status and testimony audit:** record genre, author, date, provenance, transmission, translation, witness access and independence, corroboration, and alternative readings; separate a text’s communal meaning from historical event claims.
+* **Comparison discipline:** state a specific comparison dimension and participants’ terms; use contextualized sources from each tradition. Similarity alone does not establish borrowing, shared ancestry, or a common cause.
+* **Myth and development tracing:** map dated sources and plausible contact; assess material, institutional, cognitive, and literary hypotheses without assuming a universal trajectory or reducing religion to one factor.
+* **God-concept analysis:** distinguish historical descriptions and lived devotional use from contemporary philosophical models; test attribute compatibility separately from claims about historical development.
+* **Empirical-method audit:** record study population, measures, alternatives, uncertainty, and limits of generalization; a causal account of a belief is not by itself a verdict on the belief’s truth.
+* **Belief-update and dialogue memo:** articulate what would change an assessment, represent differing participants’ positions fairly, and avoid false equivalence when evidence differs.
 
 ---
 
-## Possible capstone activities
+## Capstone: Critical Religious Reasoning Dossier
 
-1. **Argument map dossier: one major argument for or against God**
-   Reconstruct a major argument in its strongest form, present the strongest objections, then evaluate where the real pressure points are.
+**Required common standard.** Choose **one bounded religious claim, practice, text, institution, historical question, or concept**. Submit a dossier that includes: (1) a precise question and scope; (2) participant meanings and documented context; (3) a method-and-evidence table distinguishing historical, philosophical, empirical, textual, and comparative questions as relevant; (4) a source or argument reconstruction with accurate citations and provenance; (5) at least one serious alternative interpretation or objection and what evidence bears on it; and (6) a qualified finding and explicit unresolved questions. Where comparative claims are made, use contextualized material from **each** tradition; if such material is unavailable, narrow the question rather than inventing equivalence. Do not require students to affirm or renounce a religious belief. Unit 14 provides one **example** dossier, not a required topic for everyone.
 
-2. **Historical case file: a disputed religious origin claim**
-   Build a source dossier on a concrete claim involving early Christianity, biblical chronology, miracle tradition, canon formation, doctrinal development, or the evolution of a god-concept.
+**Manageable format:** a concise written analysis with a source table and argument or method map. A small, instructor-supplied source packet is acceptable; no independent archive access or full-handbook reading is assumed. Grade clarity of questions, source fidelity, method fit, fair reconstruction, and proportionate conclusions—not the student's religious position.
 
-3. **Method-comparison paper**
-   Take one phenomenon—conversion, ritual, prayer, resurrection belief, scriptural authority, mysticism, or divine embodiment—and analyze how philosophy, history, anthropology, psychology, and cognitive science each handle it.
+### Optional capstone pathways (all meet the common standard)
 
-4. **Comparative concept analysis**
-   Compare one concept across traditions—God, salvation, sacrifice, revelation, liberation, afterlife, sacred law, Brahman, Dao, or ultimate reality—without flattening differences.
-
-5. **Belief, evidence, and commitment essay**
-   Ask whether religious commitment can be rational under conditions of uncertainty, disagreement, and evidential asymmetry.
-
-6. **Public-facing critical thinking guide**
-   Write a guide for non-specialists: “How to evaluate religious claims without being gullible, dismissive, or confused.”
-
-7. **Comparative mythology and social context dossier**
-   Choose one recurring mythic pattern—flood, sacred kingship, shepherd-ruler, apocalypse, ancestor mediation, divine combat, law-giving mountain, dying-and-rising figure—and evaluate whether its recurrence is best explained by shared ancestry, diffusion, syncretism, cognitive salience, or similar material and institutional conditions.
-
-8. **Concept of God research dossier**
-   Choose one model of God or ultimate reality—classical theism, Yahweh in early Israelite religion, Brahman, Dao, panentheism, process theism, or ultimism—and analyze it historically, comparatively, and philosophically. Distinguish what the concept meant in its original context, how it changed over time, and what arguments are given for or against it.
+1. **Argument map:** reconstruct a major argument for or against a specified God-concept and serious objections and replies.
+2. **Historical case file:** investigate a bounded origin, reception, chronology, canon, or doctrinal-development claim.
+3. **Method-comparison paper:** show what different methods can and cannot establish about one phenomenon such as ritual or conversion.
+4. **Comparative concept analysis:** examine one defined feature across traditions using a contextualized source from each.
+5. **Belief, evidence, and commitment essay:** assess a precise claim about reasonable commitment or suspension of judgment under uncertainty.
+6. **Public-facing guide:** explain how to evaluate a specific kind of religious claim responsibly, with worked source-based examples.
+7. **Comparative mythology dossier:** test rival explanations for a well-defined motif while documenting contact, dates, and alternative explanations.
+8. **Concept of God dossier:** separate historically attested descriptions and change from the assessment of a philosophical model or its attributes.
 
 ---
 
 ## Consolidated bibliography
+
+**Availability note:** This bibliography is retained from the original outline as a list of further sources and perspectives, **not** a catalog of locally available files or a reading schedule. Use the explicitly linked **local selections** in each unit to establish what appears in the supplied metadata; unlinked titles below may be external, and some duplicate the local selections. External books and articles require acquisition or accessible excerpts. Bibliographic attribution in the PDF metadata contains extraction artifacts, so do not infer a verified author or edition from a garbled metadata field.
+
+**Comparative-source gap:** A substantive comparison involving traditions beyond the locally concentrated Christianity / God-arguments / unbelief collection requires contextualized participant texts and scholarship for **each** tradition. Those materials are not identifiable as a balanced packet in the 96-entry inventory; the instructor should curate and document them rather than substituting a philosophical overview for primary-source evidence.
 
 ### Reference and handbook anchors
 

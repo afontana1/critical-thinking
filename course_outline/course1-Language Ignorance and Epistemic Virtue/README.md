@@ -42,6 +42,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 * What does it mean to be a *good knower*?
 * What is bullshit, and why is it a distinct epistemic problem? ([Wikipedia][2])
+* What standards make us epistemically responsible when forming, revising, and communicating beliefs?
 * How do traits like arrogance, dogmatism, or closed-mindedness feed extremism?
 
 **Sub-units**
@@ -67,7 +68,14 @@ How do our *character*, *language*, and *social environment* help or hinder our 
    * Aaron James’ **Assholes: A Theory** and entitlement as a stable character trait. ([Wikipedia][6])
    * How these character structures damage epistemic environments (public discourse, classrooms, social media).
 
-5. **Actively open-minded thinking (AOT)**
+5. **Epistemic responsibility and intellectual standards**
+
+   * Distinguish intellectual character traits from the standards and practices through which those traits are expressed.
+   * Intellectual standards such as clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness.
+   * Epistemic responsibility includes checking evidence, recognizing the effects of bias, correcting error, and being appropriately responsive to counterevidence.
+   * Connect these practices back to intellectual humility, integrity, and responsibility rather than treating critical thinking as a checklist detached from character.
+
+6. **Actively open-minded thinking (AOT)**
 
    * AOT as willingness to consider alternatives, seek disconfirming evidence, and revise beliefs. ([PMC][1])
    * Empirical links between AOT and better judgment, and distinction between intelligence and rationality.
@@ -83,6 +91,8 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * Robert C. Roberts & W. Jay Wood, *Intellectual Virtues: An Essay in Regulative Epistemology*. ([Amazon][8])
 * Jason Baehr, *The Inquiring Mind*. ([Oxford University Press][9])
 * Ernest Sosa, *A Virtue Epistemology*. ([Amazon][10])
+* Linda Elder & Richard Paul, *The Thinker's Guide to Intellectual Standards*.
+* Nancy Arden McHugh & Lacey J. Davidson, “Epistemic Responsibility and Implicit Bias.”
 
 ---
 
@@ -113,11 +123,13 @@ How do our *character*, *language*, and *social environment* help or hinder our 
    * “Tax relief” vs. “public investment”, “War on drugs” vs. “public health crisis”, “Illegal alien” vs. “undocumented immigrant”
    * Metaphorical framing in political discourse and its measurable effects on reasoning and policy preferences. ([Metaphorical framing][37])
 
-3. **Euphemism, doublespeak, and pseudo-clarity**
+3. **Euphemism, doublespeak, emotive language, and pseudo-clarity**
 
    * William Lutz on “doublespeak” and how jargon, inflated language, and euphemism conceal reality. ([Wikipedia][13])
    * Connections to bullshit and propaganda.
    * Bullshit as indifference to truth; doublespeak as systematic manipulation of linguistic surface to obscure reality.
+   * Emotive and evaluatively loaded language can influence judgment by activating values and attitudes before the underlying claim has been examined.
+   * Distinguish legitimate value-laden language from language that obscures contested assumptions or attempts to win an argument through emotional loading alone.
 
 4. **Analogy, models, and conceptual exploration**
 
@@ -144,6 +156,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * William Lutz, *Doublespeak* (or essay “The World of Doublespeak”). ([Wikipedia][13])
 * Steven Pinker, *The Stuff of Thought: Language as a Window into Human Nature*. ([Wikipedia][14])
 * Walter Fisher, selections from Human Communication as Narration: Toward a Philosophy of Reason, Value, and Action (or his article on the narrative paradigm).
+* Douglas Walton & Fabrizio Macagno, “The Argumentative Uses of Emotive Language” (or Fabrizio Macagno, “Manipulating Emotions: Value-Based Reasoning and Emotive Language”).
 
 ---
 
@@ -170,6 +183,8 @@ How do our *character*, *language*, and *social environment* help or hinder our 
    * Definitions as argumentative moves: “He’s not a real expert,” “That’s not violence,” “This doesn’t count as racism.” How re-defining a term can effectively win an argument by changing what “counts” as evidence.
    * Persuasive definitions: Definitions that smuggle value judgments into apparently neutral language (e.g., “Abortion is the murder of an unborn child”; “Patriotism is unconditional love of country”). How persuasive definitions shift the emotional and moral terrain of a debate.
    * Classification and social reality: How we carve the world at its joints (or fail to): Legal categories (“felony,” “terrorist”). Medical/psychological categories (“disorder,” “addiction”). Social labels (“gang,” “cult,” “refugee,” “illegal alien”). Classifications as gatekeepers for rights, resources, and stigma.
+   * Definitions and classifications can function as *defeasible* argumentative moves: they may be reasonable given current evidence and purposes while remaining open to challenge.
+   * Ask what criteria justify placing a case under a category, which borderline cases strain the classification, and whether a redefinition clarifies a dispute or merely relocates it.
    * Value-ladenness of definitions: Many key concepts (person, harm, freedom, gender, disability, citizenship) are thick concepts: simultaneously descriptive and evaluative. How changing a definition can change what is seen as a problem, who is blamed, and what solutions are considered.
 
 3. **Equivocation and definitional fallacies**
@@ -196,6 +211,9 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * A good critical thinking / informal logic chapter on definitions (e.g., Moore & Parker, or Dowden’s online *Logical Reasoning* chapter). ([Quizlet][19])
 * Frank Jackson, selections from *From Metaphysics to Ethics: A Defence of Conceptual Analysis* or related essays. ([Amazon][20])
 * Herman Cappelen, selections from *Fixing Language: An Essay on Conceptual Engineering*. ([Notre Dame Philosophical Reviews][18])
+* Douglas Walton, “Arguing from Definition to Verbal Classification: The Case of Redefining ‘Planet’ to Exclude Pluto.”
+* Fabrizio Macagno & Douglas Walton, “Reasoning from Classifications and Definitions.”
+* Fabrizio Macagno & Douglas Walton, “Persuasive Definitions: Values, Meanings and Implicit Disagreements” (selected sections).
 
 ---
 
@@ -205,7 +223,9 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 **Guiding questions**
 
 * What is it to *believe* something, as opposed to hope, suspect, or imagine it?
+* Are all forms of ignorance alike, and when can ignorance be rational, culpable, collective, or deliberately maintained?
 * How can ignorance be actively *produced*?
+* Why do some beliefs and ideals become unusually resistant to revision?
 * How do mass movements and extremism exploit epistemic vices?
 
 **Sub-units**
@@ -215,20 +235,34 @@ How do our *character*, *language*, and *social environment* help or hinder our 
    * Belief vs. credence, knowledge, assumption.
    * Norms for holding beliefs (evidence, coherence, safety, etc.).
 
-2. **Epistemologies of ignorance & agnotology**
+2. **Varieties and structures of ignorance**
+
+   * Ignorance is not simply the absence of knowledge: distinguish ignorance from false belief, uncertainty, forgotten information, unanswered questions, and suspended judgment.
+   * Individual vs. collective ignorance; factual ignorance vs. ignorance of questions, alternatives, or relevant possibilities.
+   * Culpable and willful ignorance vs. reasonable ignorance produced by limited time, evidence, access, or cognitive resources.
+   * Ask when a person is responsible for not knowing, and what conditions would make further inquiry reasonable to expect.
+
+3. **Epistemologies of ignorance & agnotology**
 
    * Ignorance as *structured* and often politically useful; not mere absence of knowledge. ([Cambridge University Press & Assessment][21])
    * Agnotology: study of how ignorance is manufactured (e.g., climate denial, tobacco). ([Stanford University Press][22])
+   * Connect deliberately produced ignorance to the broader taxonomy above: not all ignorance is manufactured, and not all failures to know have the same explanation.
 
-3. **The psychology of the “true believer”**
+4. **The psychology of the “true believer”**
 
    * Eric Hoffer, *The True Believer: Thoughts on the Nature of Mass Movements*. ([Wikipedia][23])
    * Personality types in mass movements; self-renunciation; enemies and devils; how extremism capitalizes on epistemic needs.
 
-4. **Extremism and the extremist mindset**
+5. **Devotion, identity, and belief resilience**
+
+   * Some commitments function as more than isolated beliefs: they become organizing ideals tied to identity, belonging, meaning, or self-conception.
+   * Examine why evidence that threatens a central commitment may be processed differently from evidence about low-stakes beliefs.
+   * Use this as a bridge between ordinary belief formation and the more extreme forms of commitment examined in Hoffer and Cassam.
+
+6. **Extremism and the extremist mindset**
 
    * Cassam’s work on extremism and the “extremist mindset” as epistemically vicious. ([Routledge][24])
-   * Tie back to vice epistemology and ignorance.
+   * Tie back to vice epistemology, ignorance, devotion, and belief resilience.
 
 **Core readings**
 
@@ -236,6 +270,8 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * Robert N. Proctor & Londa Schiebinger (eds.), selections from *Agnotology: The Making and Unmaking of Ignorance*. ([Amazon][25])
 * Selected articles or chapters on epistemologies of ignorance (e.g., feminist epistemologies of ignorance in *Hypatia* or Malewski’s *Epistemologies of Ignorance in Education*). ([Cambridge University Press & Assessment][21])
 * Quassim Cassam, *Extremism: A Philosophical Analysis*. ([Routledge][24])
+* Rik Peels, selections from *Ignorance: A Philosophical Study*.
+* Paul Katsafanas, selections from *Philosophy of Devotion: The Longing for Invulnerable Ideals* (optional bridge reading).
 
 ---
 
@@ -245,6 +281,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 **Guiding questions**
 
 * What is reason for? Individual accuracy, or social persuasion and coordination?
+* What do we mean by *reasoning* and *argument* in critical thinking, as opposed to an everyday quarrel or disagreement?
 * How do heuristics and biases shape everyday reasoning?
 * How do we decide what someone means beyond what they literally say?
 * What is relevance, and how do we track it in communication and argument?
@@ -253,9 +290,12 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 
 1. **Mercier & Sperber: The enigma of reason**
 
+   * Begin with a minimal vocabulary: an *argument* in the critical-thinking sense is a claim supported by one or more reasons, not merely a quarrel; an *inference* is a transition from some representations or commitments to another.
+   * Distinguish producing reasons, evaluating reasons, explaining something, asserting something, and disagreeing with someone. These can overlap, but they are not identical activities.
    * Their thesis: reason evolved more for social argumentation than solitary truth-seeking. ([Harvard University Press][26])
    * Implications for why we’re so good at motivated reasoning but also capable of collective improvement.
    * The importance of good argumentative environments (peer criticism, norms of discourse).
+   * A very simple argument map (claim → supporting reason; objection → claim) may be used only as a visual aid for these distinctions; detailed reconstruction and evaluation are reserved for the later argumentation course.
    * Critical thinking as designing better contexts for reasoning, not just teaching rules.
 
 2. **Heuristics, biases, and dual-process theory**
@@ -267,7 +307,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 3. **Grice, Implicature, and the Cooperative Principle**
 
    * From what is said to what is meant: Distinction between literal meaning (sentence semantics) and speaker meaning (pragmatics). Conversational implicature: what a speaker implies or suggests without explicitly stating it.
-   * The cooperative principle, Gices Maxims (quantity, quality, relation, manner)
+   * The cooperative principle, Grice’s Maxims (quantity, quality, relation, manner)
    * Understanding implicature helps students see how much of argument and persuasion happens between the lines. Ties to bullshit and doublespeak, Politicians and advertisers often rely on implicature for plausible deniability (“I never said that”).
 
 4. **Relevance theory and pragmatics**
@@ -291,6 +331,7 @@ How do our *character*, *language*, and *social environment* help or hinder our 
 * Thomas Gilovich, *How We Know What Isn’t So: The Fallibility of Human Reason in Everyday Life*. ([Amazon][28])
 * Dan Sperber & Deirdre Wilson, selections from *Relevance: Communication and Cognition*. ([Monoskop][29])
 * Dan Sperber et al., “Epistemic Vigilance.” ([dan.sperber.fr][30])
+* Optional supporting handout: *Argument Maps* (brief excerpt only, to illustrate claims, reasons, and objections).
 
 ---
 
@@ -302,6 +343,8 @@ This connects your themes of ignorance & virtue with explicitly social structure
 **Guiding questions**
 
 * How much of what we “know” is based on what others tell us?
+* When is epistemic dependence on other people rational or unavoidable?
+* How should we think about deference when competent experts disagree?
 * What happens when people are not taken seriously as knowers?
 * How do group dynamics (echo chambers, polarization, trust) shape belief?
 
@@ -311,9 +354,13 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
    * Goldman on social dimensions of knowledge, social practices that promote or hinder truth. ([FAS Philosophy Rutgers][31])
 
-2. **Testimony, trust, and expertise**
+2. **Testimony, epistemic dependence, trust, and expertise**
 
-   * When is it rational to defer to experts?
+   * Much of what any individual knows depends on testimony, institutions, records, instruments, and specialists whose work the individual cannot independently reproduce.
+   * Ask when testimony can justify belief even when the hearer cannot personally verify the underlying evidence.
+   * Distinguish expertise from confidence, prestige, institutional status, popularity, and rhetorical fluency.
+   * When is it rational to defer to experts, and what should a non-expert do when apparently competent experts disagree?
+   * Emphasize the structural problem of epistemic dependence rather than treating source evaluation as a simple checklist.
    * Criteria for evaluating testimony in science, politics, and everyday life.
 
 3. **Epistemic injustice**
@@ -362,7 +409,11 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 2. **Calibration, overconfidence, and intellectual humility**
 
+   * Calibration is the relationship between confidence and accuracy: a well-calibrated thinker is neither maximally doubtful nor maximally certain, but appropriately confident given the evidence.
+   * Distinguish confidence from certainty and intellectual humility from generalized self-doubt.
    * Why people are often overconfident; how feedback, prediction exercises, and intellectual humility improve calibration.
+   * Practice assigning confidence levels to predictions or judgments, recording outcomes, and looking for systematic patterns of overconfidence or underconfidence.
+   * Connect calibration to AOT: revising confidence in response to evidence is itself a form of epistemic self-regulation.
 
 3. **Actively open-minded thinking revisited**
 
@@ -371,7 +422,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 4. **Designing your epistemic character**
 
    * Students develop a personal “epistemic virtue profile” (strengths/weaknesses).
-   * Create practice routines: e.g., “disconfirmation diary,” systematic exposure to opposing views, slow-thinking rituals for high-stakes decisions.
+   * Create practice routines: e.g., “disconfirmation diary,” systematic exposure to opposing views, confidence/prediction logs, and slow-thinking rituals for high-stakes decisions.
 
 **Core readings**
 
@@ -422,7 +473,14 @@ This connects your themes of ignorance & virtue with explicitly social structure
    * The problem of induction and scientific generalization (linking forward to Unit 9). ([Wikipedia][47])
    * Skepticism about testimony: when deference becomes gullibility vs. when doubt becomes conspiracism (linking back to Unit 6).
 
-6. **Healthy skepticism vs. unhealthy skepticism**
+6. **Responses to skepticism: living with fallible justification**
+
+   * Skeptical arguments need not force a choice between absolute certainty and total ignorance; many epistemological responses weaken the demand for certainty rather than attempting to eliminate every possible doubt.
+   * Introduce fallibilism as the view that a belief can be justified or known even though error remains possible.
+   * Briefly contrast strategies such as contextualism, common-sense/Moorean responses, and suspension of judgment. The goal is orientation, not a comprehensive survey.
+   * Ask what standards of justification are appropriate for ordinary inquiry, science, testimony, and high-stakes decisions.
+
+7. **Healthy skepticism vs. unhealthy skepticism**
 
    * **Healthy skepticism (fallibilism):** proportion belief to evidence; update; distinguish “not proven” from “false.”
    * **Unhealthy skepticism:** reflexive contrarianism; “nothing can be known”; cynicism masquerading as rigor; selective doubt used as a social weapon.
@@ -431,7 +489,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
 **Core readings**
 
-* Stanford Encyclopedia of Philosophy, “Skepticism.” ([Stanford Encyclopedia of Philosophy][40])
+* Stanford Encyclopedia of Philosophy, “Skepticism” (including contemporary responses to skeptical arguments). ([Stanford Encyclopedia of Philosophy][40])
 * Selections on Pyrrhonism and skeptical argument-forms (Aenesidemus and Agrippa). ([Wikipedia][42])
 * The Ten Modes of Aenesidemus. ([Wikipedia][43])
 * The Five Modes of Agrippa and Agrippa’s Trilemma. ([Wikipedia][44]) ([Wikipedia][45])
@@ -456,6 +514,7 @@ This connects your themes of ignorance & virtue with explicitly social structure
 
    * Scientific skepticism as disciplined doubt: demanding adequate evidence, replicable support, and plausible mechanisms. ([Wikipedia][50])
    * The aim is not “debunking everything,” but *calibrated belief*.
+   * Scientific conclusions can be well supported without being certain: revisability is compatible with knowledge and is a feature of responsible inquiry rather than a reason for blanket distrust.
 
 2. **Demarcation: science, pseudoscience, and the gray zones**
 
