@@ -34,10 +34,6 @@ How do we responsibly infer what happened in the past (and why), using incomplet
 
 **Connection to earlier courses:** Evidence and Data Literacy help assess observations and records; Causality informs competing explanations; Analytical Thinking clarifies claims and warrants; Systems Thinking highlights changing structures; Model Thinking clarifies simplification; and Scientific Reasoning highlights disciplined criticism. Historical Reasoning uses those skills to investigate a past that cannot be directly re-observed.
 
-**Running inquiry and required materials:** Use one **bounded historical question** across the units—for example, why a documented local institution changed a particular practice during a defined period. The instructor or learner must first select a *real*, traceable question with a small source packet: dated primary records of different types or perspectives, reliable provenance and source locations, enough context to read them, and at least one meaningful disagreement or gap. **The supplied Course 11 inventory identifies books and papers about history, not a primary-source packet**; the packet is a teaching-material need, not an existing repository item. Do not invent documents, quotations, provenance, or missing testimony. If a suitable packet is unavailable, practice on clearly labeled published examples and do not claim to have completed independent primary-source research.
-
-**Reading convention:** “Local selection” means the title appears in Course 11's PDF inventory; assign *selected passages*, not entire books, after checking the actual PDFs for useful chapters and accurate bibliographic details. “External/optional” items are not represented as local holdings. Reading links below reproduce relevant links from the original README; their current availability has not been independently checked.
-
 ---
 
 <a id="unit-1"></a>

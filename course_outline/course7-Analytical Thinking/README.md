@@ -43,8 +43,6 @@ How do we analyze messy problems well—by framing questions clearly, structurin
 
 Frame the question → decompose and represent the problem → identify evidence and assumptions → compare explanations or options → test sensitivity and alternatives → communicate a qualified conclusion. Earlier courses supplied the foundations in argumentation, evidence, data literacy, causality, and heuristics; this course integrates those skills into an **analytic product**. Specialist methods in policy analysis, systems thinking, model reasoning, risk analysis, and intelligence studies are introduced only as needed for that product.
 
-**Running case (illustrative, not a real dataset): persistent service delays.** Students act as analysts asked why a service is regularly late and what might improve it. Each unit revisits the *same question* through a different tool; no diagnosis is presumed in advance. In the absence of real data, use explicitly hypothetical records and do not present their conclusions as empirical findings.
-
 ---
 
 <a id="unit-1"></a>

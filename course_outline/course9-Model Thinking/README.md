@@ -8,8 +8,6 @@ This course sits **after Systems Thinking** and **builds on it**.
 
 The course is **not math-heavy**. Equations are optional compact expressions of rules, not prerequisites; students can work with diagrams, tables, and hand-worked examples.
 
-**Running case — a service backlog:** Revisit a service team whose unfinished requests accumulate when arrivals exceed completed work. Carry forward the Systems Thinking view, then make one model explicit, check it, vary it, compare alternatives, and document its limits. Students may instead carry forward their own Systems Thinking capstone; no programming or full optimization is required.
-
 **A recurring model-use test:** For every model, specify the question and intended use (explain, explore, predict, or support a decision); its target and boundaries; its assumptions and outputs; and what evidence would be needed to justify that *particular* use. Showing that a mechanism is possible inside a model does not establish that it occurs, is frequent, or will respond to an intervention the same way in the world.
 
 ## Table of Contents

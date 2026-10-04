@@ -34,10 +34,6 @@ How do systems produce patterns of behavior over time, why do interventions so o
 * Recognize how **systems engineering** applies systems thinking in disciplined, mission-oriented, socio-technical settings.
 * Integrate a systems lens into everyday reasoning and prepare for the transition from qualitative systems stories to more explicit **model thinking**.
 
-**Running case — a growing service backlog:** Revisit one hypothetical service organization throughout the course. Begin with a backlog of unfinished requests; distinguish the backlog (a stock) from arrivals and completions (flows); consider staffing, information, and response delays; compare feedback explanations; and assess a modest redesign. The case is a practice scaffold, not evidence that any particular real-world organization works this way. Students may apply the same exercises to another bounded case if it better suits their context.
-
-**Reading convention:** “Core readings” below identify selected sections from materials **listed in this course's repository inventory**. “Additional or optional readings” are suggestions **not listed in that inventory**; listing them does not mean their PDFs have been added. Cross-listed local readings remain in their original repository folders.
-
 ---
 
 <a id="unit-1"></a>

@@ -40,8 +40,6 @@ Why do human beings rely on cognitive shortcuts, when do those shortcuts work we
 
 **A course-wide diagnostic rule:** Before describing a judgment as biased, specify its benchmark (for example, probabilistic accuracy, consistency, a stated goal, or performance in the relevant environment). Separate a *plausible heuristic or source of bias* from an error actually demonstrated by evidence. A useful shortcut in one setting may mislead in another.
 
-**Reading approach:** “Core” denotes assigned **selections**, not entire books or anthologies. Readings explicitly marked *repository book* or *repository article* appear in the supplied metadata; other cited texts are external readings or possible acquisitions, not confirmed local files. Decision-analysis, risk-analysis, modeling, and systems texts are optional bridges rather than additional core curricula.
-
 ---
 
 <a id="unit-1"></a>
