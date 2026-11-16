@@ -540,6 +540,10 @@ A curated research map of religion, philosophy of religion, biblical criticism, 
 
 - [Virtue Ethics](https://en.wikipedia.org/wiki/Virtue_ethics)
 - [Ethics of Belief](https://plato.stanford.edu/entries/doxastic-voluntarism/#EthBel)
+- [The Grounds of Moral Status](https://plato.stanford.edu/entries/grounds-moral-status/)
+- [Paternalism](https://plato.stanford.edu/entries/paternalism/)
+- [Contractualism](https://plato.stanford.edu/entries/contractualism/)
+- [Autonomy in Moral and Political Philosophy](https://plato.stanford.edu/entries/autonomy-moral/)
 
 ---
 
